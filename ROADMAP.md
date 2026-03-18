@@ -81,6 +81,24 @@ What doesn't exist yet: working software.
 - [ ] Follow-up intelligence (budget trail, contractor records)
 - [ ] Accountability gap flagging
 
+**2.5 — Civic Alignment Engine** *(opt-in)*
+- [ ] User priority profile (emergent from app usage, user-editable)
+- [ ] Candidate Alignment Map: radar chart / score card visual
+- [ ] Evidence chain: voting record vs stated positions, gap flagging
+- [ ] Explicit uncertainty output ("Insufficient evidence" is valid)
+- [ ] Election-aware: activates when elections are detected in user's region
+- [ ] Works at all levels: local, regional, national
+- [ ] See: [Issue #6](https://github.com/Prism-civic/prism/issues/6)
+
+**2.6 — Source Integrity Layer**
+- [ ] Trust score engine: political funding, ownership, accuracy history
+- [ ] Funding connection detection and permanent flag
+- [ ] Re-evaluation watch period after flag
+- [ ] Open-source scoring algorithm with public challenge mechanism
+- [ ] Peer audit: country minds cross-check each other's scores
+- [ ] User-visible: score + funding chain shown alongside every source
+- [ ] See: [Issue #7](https://github.com/Prism-civic/prism/issues/7)
+
 ---
 
 ## Phase 3 — Scale
