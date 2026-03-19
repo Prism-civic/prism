@@ -52,23 +52,29 @@ This is the same dopamine loop as the website contributor wall — but on the ph
 
 The app is not dormant when idle. It is working quietly on your behalf.
 
-### Morning Brief (once per day, user-configured time)
+### Morning Brief & Default Feed (once per day, user-configured time)
+
+This is Prism's **default value layer**. Before a user understands the hive mind, the weighting engine, or the philosophy, they already get something immediately useful: a clean, intelligent stream built around their interests and their world.
 
 At the user's chosen time — default 8am — the local AI runs a background news scan:
 
 1. **Fetches curated topic feeds** from the country mind based on the user's interest profile
-2. **Filters ruthlessly** — removes duplicates, removes wire-report repetition, removes obvious clickbait signals (excessive capitalisation, emotional manipulation language, unverified claims)
-3. **Scores each item** — source reliability, claim confidence, relevance to user's priorities
-4. **Generates a 3–5 item brief** — the most substantive, relevant, honest items from the last 24 hours
-5. **Presents it cleanly** — headline, one sentence summary, source name, confidence indicator. No images designed to provoke. No "you won't believe" language. No autoplay.
+2. **Separates them into two subtle modes**:
+   - **Your Interests** — what the user explicitly asked for (science, sport, technology, Formula 1, etc.)
+   - **Your World** — local and civic developments the user may not have asked for, but should understand
+3. **Filters ruthlessly** — removes duplicates, wire-report repetition, obvious clickbait, emotional manipulation language, and weakly sourced claims
+4. **Scores each item** — source reliability, claim confidence, local relevance, and fit with the user's stated priorities
+5. **Presents a clean reading block** — typically 5 headlines at a time, tappable to open a detail thread with Prism summary, sources, and confidence indicator
+6. **Learns gently from interaction** — heart/like, opens, skips, and explicit feedback help reweight the local profile over time
 
 The brief is delivered as a quiet notification — not a banner alarm, a gentle pulse on the orb. The user opens it when ready.
 
 **What the brief is not:**
-- Not a full news feed — 3 to 5 items maximum
+- Not a manipulative infinite scroll feed
 - Not breaking news alerts — Prism is not a news ticker
 - Not personalized to maximize engagement — personalized to reflect genuine user interests
 - Not ad-supported — ever
+- Not politically pushy — civic relevance is introduced gradually and honestly
 
 ### Evening Sync (once per day, optional)
 
@@ -96,19 +102,32 @@ There is no hidden profiling. There is no behavioral surveillance. There is no a
 
 ### Layer 1 — Onboarding: The Conversation
 
-The app does not start with a form. It starts with a conversation.
+The app does not start with a form. It starts with a conversation — but a practical one.
 
-The local AI asks a small number of open questions — warmly, simply, without pressure:
+The local AI asks a small number of simple questions — warmly, clearly, without pressure:
 
-> *"What part of life feels most uncertain right now?"*
-> *"Is there something in the news you've been thinking about?"*
-> *"What matters most to you when you think about your community?"*
+- What are your main interests?
+- What area do you live in?
+- Do you want more local, national, or global coverage?
+- What text size is comfortable for you?
 
-The user answers in natural language. The local AI extracts topics, weights them by how much the user elaborated, and shows the result back to the user immediately:
+The topic picker should be broad and human, not overly political. Examples:
+- Politics
+- Environment
+- Science
+- Technology
+- Health
+- Local community
+- Sport
+- Formula 1
+- Cost of living
+- Education
 
-> *"Here's what I heard: housing affordability is your top concern, followed by healthcare waiting times, and you're uncertain about immigration policy. Does this feel right?"*
+The user can also answer in natural language if they prefer. The local AI extracts topics, weights them, and shows the result back immediately:
 
-The user corrects it if needed. This takes 3 minutes. At the end, the user has a visible interest profile that they built themselves, consciously, in their own words.
+> *"Here's what I heard: housing affordability is your top concern, followed by healthcare waiting times, and you'd like more local than global coverage. Does this feel right?"*
+
+The user corrects it if needed. This should take under 3 minutes. At the end, the user has a visible interest profile that they built themselves, consciously, in their own words.
 
 ### Layer 2 — The Priority Dashboard
 
@@ -124,11 +143,14 @@ This is the user's civic identity within the app. It is never uploaded to the ne
 
 ### Layer 3 — Explicit Feedback
 
-Every result the app returns has two simple buttons: **Useful** and **Not relevant**.
+Every result the app returns has lightweight feedback:
+- **Heart / Like** — positive signal
+- **Useful** — strong positive signal
+- **Not relevant** — negative signal
 
 That's it. No star ratings, no elaborate feedback forms. The local AI uses these signals to quietly reweight the user's interest profile over time.
 
-The user can see the effect: if they mark three housing results as useful and two immigration results as not relevant, their profile updates visibly. They are never surprised by what the app has learned about them.
+The user can see the effect: if they heart three housing results and mark two immigration results as not relevant, their profile updates visibly. They are never surprised by what the app has learned about them.
 
 ### Layer 4 — Concern History
 
@@ -304,9 +326,11 @@ When enough responses cluster around the same issue in the same area, the countr
 
 The rule is strict: **one Civic Pulse question per day, maximum.** Often zero — the question is only surfaced if a genuinely good candidate exists.
 
+In the feed, the question should appear naturally after a reading block rather than feeling like an interruption. Early versions may place it after roughly 5 headlines, but the long-term rule should be adaptive to engagement and never mechanically intrusive.
+
 No question is ever asked unless:
 - It is answerable by a local resident
-- It is relevant to the user's stated interests
+- It is relevant to the user's stated interests or local world
 - It respects the user's time (answerable in one tap)
 - The answer will actually improve the evidence base
 
@@ -346,8 +370,11 @@ One paragraph. Plain language. What it does, what it never does, how privacy wor
 **Screen 2 — Where Are You?**
 Country selection. This determines which country mind serves the user. No GPS required — user picks from a list. They can change it later.
 
-**Screen 3 — The Conversation**
-Three questions, in natural language. Generous text input. No word limits. The local AI listens.
+**Screen 3 — Interests & Reading Preferences**
+Simple topic selection plus optional natural-language input. Also asks:
+- local / national / global balance
+- comfortable text size
+- reduced motion preference (if needed)
 
 **Screen 4 — Your Profile**
 The extracted profile, shown back to the user. Editable immediately. Confirmation tap to accept.
@@ -375,6 +402,21 @@ Total onboarding: under 4 minutes. No account required. No email. No password. N
 - **Offline mode** — full read access to cached briefs and evidence packs with no network; write queue for syncing when connection returns
 
 ---
+
+## Accessibility Principles
+
+Prism must be genuinely comfortable for older users and for people who are not fluent in app culture.
+
+Non-negotiables:
+- font size preset during onboarding
+- easy in-app text resizing at any time
+- strong contrast mode
+- uncluttered layout
+- large tap targets
+- plain-language summaries
+- reduced-motion option for the living visual layer
+
+If the app is beautiful but tiring to read, we have failed.
 
 ## Platform Targets
 
