@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Prism",
+    "slug": "prism-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "prism",
+    "splash": {
+      "backgroundColor": "#0A0A0F",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "org.prism.app"
+    },
+    "android": {
+      "package": "org.prism.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0F"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
