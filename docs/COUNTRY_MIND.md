@@ -12,8 +12,10 @@ python3 -m venv .venv
 ## Run tests
 
 ```bash
-PYTHONPATH=src .venv/bin/python -m unittest discover -s tests -v
+bash scripts/test_country_mind.sh
 ```
+
+The script assumes the package has already been installed in the active interpreter with `pip install -e .`.
 
 ## Start the API
 
@@ -87,3 +89,31 @@ Serve the API against that same storage dir:
   --host 127.0.0.1 \
   --port 8000
 ```
+
+## Reproducible Docker dev path
+
+Build the local developer image:
+
+```bash
+docker build -f Dockerfile.dev -t prism-country-mind-dev .
+```
+
+Start the service with fixture-backed bootstrap and serve:
+
+```bash
+docker run --rm -p 8000:8000 prism-country-mind-dev
+```
+
+This path:
+- installs the package in a clean Python 3.12 container
+- runs fixture-backed refresh into `/app/var/local-smoke`
+- starts the API on `http://127.0.0.1:8000`
+
+Override behavior with environment variables such as `PRISM_STORAGE_DIR`, `PRISM_FIXTURE_DIR`, `PRISM_FETCHED_AT`, `PRISM_GENERATED_AT`, `PRISM_HOST`, and `PRISM_PORT`.
+
+## CI baseline
+
+Clean-checkout CI uses:
+- Python 3.12
+- `python -m pip install -e .`
+- `bash scripts/test_country_mind.sh`
