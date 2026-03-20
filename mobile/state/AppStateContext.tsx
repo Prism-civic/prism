@@ -10,6 +10,7 @@ import {
 } from 'react';
 
 import { briefRepository, createInitialBriefCache } from '@/lib/briefs';
+import { createSyncAdapter } from '@/lib/sync';
 import { buildExtractedProfile } from '@/lib/profile';
 import { getTypography, type TextSizePreset } from '@/theme';
 import type {
@@ -23,6 +24,10 @@ import type {
 } from '@/types/app';
 
 const STORAGE_KEY = 'prism.phone-app.state.v1';
+
+// Singleton adapter — swap createSyncAdapter() return value in lib/sync.ts
+// to change the upstream source without touching this file.
+const syncAdapter = createSyncAdapter();
 
 const defaultOnboarding: OnboardingDraft = {
   topicIds: ['cost', 'health'],
@@ -50,6 +55,9 @@ const defaultState: AppState = {
   privacy: defaultPrivacy,
   briefCache: createInitialBriefCache(null),
   feedbackHistory: [],
+  // Transient — reset on every app launch
+  syncPhase: 'idle',
+  syncError: null,
 };
 
 interface AppStateContextValue {
@@ -61,6 +69,7 @@ interface AppStateContextValue {
   generateProfile(): ExtractedProfile;
   updateProfile(profile: ExtractedProfile): void;
   updatePrivacy(patch: Partial<PrivacySettings>): void;
+  /** Fire-and-forget. Tracks progress via state.syncPhase and state.syncError. */
   refreshBrief(): void;
   getBriefItem(itemId: string): BriefItem | undefined;
   submitBriefFeedback(itemId: string, signal: BriefFeedbackSignal): void;
@@ -96,6 +105,9 @@ export function AppStateProvider({ children }: PropsWithChildren) {
             },
             briefCache: parsed.briefCache ?? current.briefCache,
             feedbackHistory: parsed.feedbackHistory ?? current.feedbackHistory,
+            // Always reset transient fields on hydration
+            syncPhase: 'idle',
+            syncError: null,
             hydrated: true,
           }));
           return;
@@ -132,6 +144,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       return;
     }
 
+    // syncPhase and syncError are intentionally excluded — they are transient.
     AsyncStorage.setItem(
       STORAGE_KEY,
         JSON.stringify({
@@ -205,10 +218,37 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       }));
     },
     refreshBrief() {
-      setState((current) => ({
-        ...current,
-        briefCache: briefRepository.loadLatestBrief(current.extractedProfile),
-      }));
+      // Mark in-flight immediately so UI can respond.
+      setState((current) => ({ ...current, syncPhase: 'refreshing', syncError: null }));
+
+      // Capture the current profile so the async call uses a consistent snapshot.
+      const profileSnapshot = state.extractedProfile;
+
+      syncAdapter
+        .fetchBrief(profileSnapshot)
+        .then((result) => {
+          if (result.ok && result.cache) {
+            setState((current) => ({
+              ...current,
+              briefCache: result.cache!,
+              syncPhase: 'idle',
+              syncError: null,
+            }));
+          } else {
+            setState((current) => ({
+              ...current,
+              syncPhase: 'error',
+              syncError: result.errorMessage ?? 'Sync did not complete. Cached content is shown.',
+            }));
+          }
+        })
+        .catch(() => {
+          setState((current) => ({
+            ...current,
+            syncPhase: 'error',
+            syncError: 'Could not reach the upstream source. Cached content is shown.',
+          }));
+        });
     },
     getBriefItem(itemId) {
       return state.briefCache.items.find((item) => item.id === itemId);

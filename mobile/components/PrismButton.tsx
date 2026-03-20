@@ -7,6 +7,8 @@ interface PrismButtonProps {
   onPress(): void;
   variant?: 'primary' | 'secondary';
   disabled?: boolean;
+  accessibilityLabel?: string;
+  accessibilityHint?: string;
 }
 
 export function PrismButton({
@@ -14,10 +16,15 @@ export function PrismButton({
   onPress,
   variant = 'primary',
   disabled = false,
+  accessibilityLabel,
+  accessibilityHint,
 }: PrismButtonProps) {
   return (
     <Pressable
       accessibilityRole="button"
+      accessibilityLabel={accessibilityLabel ?? label}
+      accessibilityHint={accessibilityHint}
+      accessibilityState={{ disabled }}
       disabled={disabled}
       onPress={onPress}
       style={({ pressed }) => [

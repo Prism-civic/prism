@@ -6,12 +6,15 @@ interface ChipProps {
   label: string;
   selected: boolean;
   onPress(): void;
+  accessibilityHint?: string;
 }
 
-export function Chip({ label, selected, onPress }: ChipProps) {
+export function Chip({ label, selected, onPress, accessibilityHint }: ChipProps) {
   return (
     <Pressable
       accessibilityRole="button"
+      accessibilityState={{ selected }}
+      accessibilityHint={accessibilityHint}
       onPress={onPress}
       style={[styles.chip, selected ? styles.selectedChip : null]}
     >

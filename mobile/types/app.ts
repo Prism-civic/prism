@@ -14,6 +14,16 @@ export type BriefFeedbackSignal = 'like' | 'useful' | 'not_relevant';
 export type BriefListState = 'ready' | 'empty' | 'offline' | 'disabled';
 export type BriefSyncStatus = 'idle' | 'offline' | 'ready';
 
+/**
+ * Phase of the active (or most-recent) sync operation.
+ * This is transient — it is NOT persisted to AsyncStorage.
+ *
+ * idle       — no operation in flight; cache is current or never requested
+ * refreshing — async fetch in progress
+ * error      — last fetch failed; cache may be stale
+ */
+export type SyncPhase = 'idle' | 'refreshing' | 'error';
+
 export interface TopicProfile {
   id: string;
   label: string;
@@ -99,4 +109,8 @@ export interface AppState {
   privacy: PrivacySettings;
   briefCache: BriefCache;
   feedbackHistory: BriefFeedbackEvent[];
+  /** Transient — not persisted. Tracks the in-progress or last-completed sync. */
+  syncPhase: SyncPhase;
+  /** Transient — not persisted. Human-readable message when syncPhase === 'error'. */
+  syncError: string | null;
 }
