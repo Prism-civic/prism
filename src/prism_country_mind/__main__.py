@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 
+from .errors import CountryMindError, RefreshFailedError, RegistryValidationError
 from .service import CountryMindService
 
 
@@ -26,19 +28,43 @@ def build_parser() -> argparse.ArgumentParser:
 def main() -> int:
     parser = build_parser()
     args = parser.parse_args()
-    service = CountryMindService()
 
-    if args.command == "refresh":
-        result = service.refresh(
-            topics=args.topics,
-            fetched_at=args.fetched_at,
-            generated_at=args.generated_at,
+    try:
+        service = CountryMindService()
+
+        if args.command == "refresh":
+            result = service.refresh(
+                topics=args.topics,
+                fetched_at=args.fetched_at,
+                generated_at=args.generated_at,
+            )
+            print(json.dumps(result, indent=2, sort_keys=True))
+            return 0
+
+        parser.error(f"Unknown command: {args.command}")
+        return 1
+    except RefreshFailedError as exc:
+        print(
+            json.dumps(
+                {
+                    "error": str(exc),
+                    "failures": [
+                        {"source_id": failure.source_id, "url": failure.url, "reason": failure.reason}
+                        for failure in exc.failures
+                    ],
+                },
+                indent=2,
+                sort_keys=True,
+            ),
+            file=sys.stderr,
         )
-        print(json.dumps(result, indent=2, sort_keys=True))
-        return 0
-
-    parser.error(f"Unknown command: {args.command}")
-    return 1
+        return 1
+    except RegistryValidationError as exc:
+        print(json.dumps({"error": str(exc), "details": exc.errors}, indent=2, sort_keys=True), file=sys.stderr)
+        return 1
+    except CountryMindError as exc:
+        print(json.dumps({"error": str(exc)}, indent=2, sort_keys=True), file=sys.stderr)
+        return 1
 
 
 if __name__ == "__main__":

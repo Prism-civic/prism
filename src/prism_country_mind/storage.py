@@ -13,6 +13,10 @@ def _write_json(path: Path, payload: dict) -> None:
     path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
 
+def _read_json(path: Path) -> dict:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 class SnapshotStore:
     def __init__(self, root: Path) -> None:
         self.root = root
@@ -32,6 +36,8 @@ class SnapshotStore:
         source_dir.mkdir(parents=True, exist_ok=True)
         if not body_path.exists():
             body_path.write_bytes(body)
+        elif body_path.read_bytes() != body:
+            raise ValueError(f"Snapshot body collision detected for {source.source_id}")
         snapshot = SourceSnapshot(
             schema_version="source-snapshot/v1",
             snapshot_id=snapshot_id,
@@ -43,7 +49,12 @@ class SnapshotStore:
             content_type=content_type,
             storage_path=str(body_path),
         )
-        _write_json(metadata_path, snapshot.to_dict())
+        if metadata_path.exists():
+            existing = _read_json(metadata_path)
+            if existing != snapshot.to_dict():
+                raise ValueError(f"Snapshot metadata collision detected for {source.source_id}")
+        else:
+            _write_json(metadata_path, snapshot.to_dict())
         return snapshot
 
     def list_snapshots(self, source_id: str) -> list[SourceSnapshot]:
@@ -81,7 +92,12 @@ class PackStore:
 
     def store(self, pack: EvidencePack) -> Path:
         path = self.root / pack.topic / f"{pack.pack_id}.json"
-        _write_json(path, pack.to_dict())
+        if path.exists():
+            existing = _read_json(path)
+            if existing != pack.to_dict():
+                raise ValueError(f"Pack collision detected for {pack.pack_id}")
+        else:
+            _write_json(path, pack.to_dict())
         return path
 
     def load(self, topic: str, pack_id: str) -> EvidencePack | None:
@@ -144,8 +160,13 @@ class TransparencyLogStore:
 
     def append(self, entry: TransparencyLogEntry) -> Path:
         path = self.root / f"{entry.entry_id}.json"
-        _write_json(path, entry.to_dict())
         self.root.mkdir(parents=True, exist_ok=True)
+        if path.exists():
+            existing = _read_json(path)
+            if existing != entry.to_dict():
+                raise ValueError(f"Transparency log collision detected for {entry.entry_id}")
+            return path
+        _write_json(path, entry.to_dict())
         with self.index_path.open("a", encoding="utf-8") as handle:
             handle.write(json.dumps(entry.to_dict(), sort_keys=True) + "\n")
         return path

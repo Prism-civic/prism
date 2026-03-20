@@ -49,3 +49,7 @@ PYTHONPATH=src .venv/bin/python -m prism_country_mind refresh \
   --fetched-at 2026-03-20T12:00:00Z \
   --generated-at 2026-03-20T12:05:00Z
 ```
+
+Operational notes:
+- Refresh is strict by default: if any required source fetch fails, pack generation is aborted and the CLI exits non-zero with structured error details.
+- Re-running refresh with the same snapshots and generation timestamps is idempotent: existing packs and transparency log entries are reused instead of duplicated.

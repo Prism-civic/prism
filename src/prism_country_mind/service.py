@@ -4,6 +4,7 @@ from collections.abc import Iterable
 from datetime import datetime, timezone
 
 from .config import CountryMindConfig
+from .errors import RefreshFailedError, RefreshValidationError, SourceFetchError
 from .pipeline import FetchFn, SnapshotPipeline, TopicPackBuilder
 from .registry import load_registry
 from .signing import Signer
@@ -37,6 +38,7 @@ class CountryMindService:
         return sorted({topic for source in self.registry.sources for topic in source.topics})
 
     def build_pack(self, topic: str, generated_at: str):
+        self._validate_topics([topic])
         builder = TopicPackBuilder(
             topic=topic,
             snapshot_store=self.snapshot_store,
@@ -54,6 +56,7 @@ class CountryMindService:
         fetcher: FetchFn | None = None,
     ) -> dict[str, object]:
         topic_list = sorted(set(topics or self.topic_names()))
+        self._validate_topics(topic_list)
         source_ids = {
             source.source_id
             for topic in topic_list
@@ -63,11 +66,18 @@ class CountryMindService:
         pack_time = generated_at or snapshot_time
         pipeline = SnapshotPipeline(self.snapshot_store, fetcher=fetcher)
         snapshots = []
+        failures: list[SourceFetchError] = []
 
         for source in sorted(self.registry.sources, key=lambda item: item.source_id):
             if source.source_id not in source_ids:
                 continue
-            snapshots.append(pipeline.snapshot_source(source, snapshot_time))
+            try:
+                snapshots.append(pipeline.snapshot_source(source, snapshot_time))
+            except SourceFetchError as exc:
+                failures.append(exc)
+
+        if failures:
+            raise RefreshFailedError(failures)
 
         packs = [self.build_pack(topic, pack_time) for topic in topic_list]
         return {
@@ -96,6 +106,15 @@ class CountryMindService:
             "pack_count": len(self.list_packs()),
             "transparency_log_entries": len(self.list_transparency_log()),
         }
+
+    def _validate_topics(self, topics: Iterable[str]) -> None:
+        topic_list = list(topics)
+        if not topic_list:
+            raise RefreshValidationError("At least one topic must be provided")
+        known_topics = set(self.topic_names())
+        unknown_topics = sorted(set(topic_list) - known_topics)
+        if unknown_topics:
+            raise RefreshValidationError(f"Unsupported topics requested: {', '.join(unknown_topics)}")
 
 
 def _utc_now() -> str:

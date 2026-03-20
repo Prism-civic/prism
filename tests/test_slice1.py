@@ -11,6 +11,7 @@ from prism_country_mind.service import CountryMindService
 from prism_country_mind.signing import Signer
 from prism_country_mind.storage import PackStore, SnapshotStore, TransparencyLogStore
 from prism_country_mind.config import CountryMindConfig
+from prism_country_mind.errors import RefreshFailedError, RefreshValidationError
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -141,6 +142,82 @@ class Slice1Tests(unittest.TestCase):
             self.assertTrue(nhs_pack.signature)
             self.assertTrue(col_pack.signature)
             self.assertEqual(service.health()["transparency_log_entries"], 3)
+
+    def test_refresh_is_idempotent_for_same_inputs(self) -> None:
+        fixtures = {
+            "mhclg_housing_supply": b"housing-supply-2026-03",
+            "ons_house_prices": b"house-prices-2026-03",
+            "ons_private_rent": b"private-rents-2026-03",
+            "nhs_waiting_times": b"nhs-waiting-times-2026-03",
+            "nhs_ae_attendances": b"nhs-ae-2026-03",
+            "ons_cpi": b"cpi-2026-03",
+            "ofgem_price_cap": b"price-cap-2026-q2",
+        }
+
+        def fetcher(source):
+            return fixtures[source.source_id], "text/plain"
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            config = CountryMindConfig(
+                root_dir=ROOT,
+                registry_path=REGISTRY_PATH,
+                storage_dir=Path(tmpdir) / "var",
+                signing_secret="slice4-secret",
+                signing_key_id="slice4-key",
+            )
+            service = CountryMindService(config)
+
+            first = service.refresh(
+                fetched_at="2026-03-20T12:00:00Z",
+                generated_at="2026-03-20T12:05:00Z",
+                fetcher=fetcher,
+            )
+            second = service.refresh(
+                fetched_at="2026-03-20T12:00:00Z",
+                generated_at="2026-03-20T12:05:00Z",
+                fetcher=fetcher,
+            )
+
+            self.assertEqual(first["packs_created"], second["packs_created"])
+            self.assertEqual(len(service.list_packs()), 3)
+            self.assertEqual(len(service.list_transparency_log()), 3)
+
+    def test_refresh_fails_cleanly_on_source_fetch_error(self) -> None:
+        def fetcher(source):
+            if source.source_id == "ons_house_prices":
+                raise RuntimeError("upstream timeout")
+            return b"ok", "text/plain"
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            config = CountryMindConfig(
+                root_dir=ROOT,
+                registry_path=REGISTRY_PATH,
+                storage_dir=Path(tmpdir) / "var",
+                signing_secret="slice4-secret",
+                signing_key_id="slice4-key",
+            )
+            service = CountryMindService(config)
+
+            with self.assertRaises(RefreshFailedError) as context:
+                service.refresh(topics=["housing"], fetched_at="2026-03-20T12:00:00Z", fetcher=fetcher)
+
+            self.assertEqual([failure.source_id for failure in context.exception.failures], ["ons_house_prices"])
+            self.assertEqual(service.list_packs(), [])
+            self.assertEqual(service.list_transparency_log(), [])
+
+    def test_refresh_rejects_unknown_topics(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            config = CountryMindConfig(
+                root_dir=ROOT,
+                registry_path=REGISTRY_PATH,
+                storage_dir=Path(tmpdir) / "var",
+                signing_secret="slice4-secret",
+                signing_key_id="slice4-key",
+            )
+            service = CountryMindService(config)
+
+            with self.assertRaises(RefreshValidationError):
+                service.refresh(topics=["transport"])
 
 
 if __name__ == "__main__":

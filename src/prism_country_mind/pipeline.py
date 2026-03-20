@@ -5,6 +5,7 @@ from hashlib import sha256
 import json
 from urllib.request import Request, urlopen
 
+from .errors import SourceFetchError
 from .models import EvidencePack, SourceDefinition, SourceRegistry, SourceSnapshot, TransparencyLogEntry
 from .signing import Signer
 from .storage import PackStore, SnapshotStore, TransparencyLogStore
@@ -25,12 +26,21 @@ class SnapshotPipeline:
         self.fetcher = fetcher or default_fetch
 
     def snapshot_source(self, source: SourceDefinition, fetched_at: str) -> SourceSnapshot:
-        body, content_type = self.fetcher(source)
+        try:
+            body, content_type = self.fetcher(source)
+        except SourceFetchError:
+            raise
+        except Exception as exc:
+            raise SourceFetchError(source.source_id, source.url, str(exc)) from exc
+        if not body:
+            raise SourceFetchError(source.source_id, source.url, "empty response body")
+        if not fetched_at:
+            raise ValueError("fetched_at must be provided")
         return self.snapshot_store.store(
             source=source,
             body=body,
             fetched_at=fetched_at,
-            content_type=content_type,
+            content_type=content_type or "application/octet-stream",
         )
 
 
