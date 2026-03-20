@@ -58,3 +58,32 @@ PYTHONPATH=src .venv/bin/python -m prism_country_mind refresh \
 Operational notes:
 - Refresh is strict by default: if any required source fetch fails, pack generation is aborted and the CLI exits non-zero with structured error details.
 - Re-running refresh with the same snapshots and generation timestamps is idempotent: existing packs and transparency log entries are reused instead of duplicated.
+
+## Reproducible local smoke workflow
+
+Refresh from checked-in fixtures into an isolated local storage dir:
+
+```bash
+.venv/bin/python -m prism_country_mind \
+  --registry-path data/uk/source_registry.v1.json \
+  --storage-dir var/local-smoke \
+  --signing-secret local-smoke-secret \
+  --signing-key-id local-smoke-key \
+  refresh \
+  --fixture-dir tests/fixtures/uk_sources \
+  --fetched-at 2026-03-20T12:00:00Z \
+  --generated-at 2026-03-20T12:05:00Z
+```
+
+Serve the API against that same storage dir:
+
+```bash
+.venv/bin/python -m prism_country_mind \
+  --registry-path data/uk/source_registry.v1.json \
+  --storage-dir var/local-smoke \
+  --signing-secret local-smoke-secret \
+  --signing-key-id local-smoke-key \
+  serve \
+  --host 127.0.0.1 \
+  --port 8000
+```
