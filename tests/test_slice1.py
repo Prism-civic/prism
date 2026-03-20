@@ -141,7 +141,7 @@ class Slice1Tests(unittest.TestCase):
             self.assertTrue(housing_pack.signature)
             self.assertTrue(nhs_pack.signature)
             self.assertTrue(col_pack.signature)
-            self.assertEqual(service.health()["transparency_log_entries"], 3)
+            self.assertEqual(service.health()["inventory"]["transparency_log_entries"], 3)
 
     def test_refresh_is_idempotent_for_same_inputs(self) -> None:
         fixtures = {

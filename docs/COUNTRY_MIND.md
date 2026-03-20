@@ -28,6 +28,11 @@ The app serves:
 - `GET /packs/{id}`
 - `GET /transparency-log`
 
+API notes:
+- `GET /health` now distinguishes process health from readiness via `status`, `ready`, `checks`, and `inventory`.
+- Collection endpoints return consistent envelopes with `count` plus `topics`, `packs`, or `entries`.
+- Invalid topic filters and missing packs return structured error payloads in the FastAPI `detail` field.
+
 ## Run refresh/bootstrap
 
 Fetch live registry sources, store snapshots under `var/uk_country_mind/`, and generate packs:

@@ -89,6 +89,8 @@ class CountryMindService:
         }
 
     def list_packs(self, topic: str | None = None):
+        if topic is not None:
+            self._validate_topics([topic])
         return self.pack_store.list(topic)
 
     def get_pack(self, pack_id: str):
@@ -98,13 +100,24 @@ class CountryMindService:
         return self.transparency_log_store.list_entries()
 
     def health(self) -> dict[str, object]:
+        pack_count = len(self.list_packs())
+        topics = self.topic_names()
+        ready = bool(topics) and pack_count > 0
         return {
             "status": "ok",
+            "ready": ready,
             "country_code": self.registry.country_code,
-            "registry_sources": len(self.registry.sources),
-            "topics": self.topic_names(),
-            "pack_count": len(self.list_packs()),
-            "transparency_log_entries": len(self.list_transparency_log()),
+            "checks": {
+                "registry_loaded": True,
+                "topics_available": bool(topics),
+                "packs_available": pack_count > 0,
+            },
+            "inventory": {
+                "registry_sources": len(self.registry.sources),
+                "topics": topics,
+                "pack_count": pack_count,
+                "transparency_log_entries": len(self.list_transparency_log()),
+            },
         }
 
     def _validate_topics(self, topics: Iterable[str]) -> None:
