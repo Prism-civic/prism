@@ -1,5 +1,11 @@
 __pycache__/
 .pytest_cache/
 .venv/
+.coverage
+*.egg-info/
+*.pyc
+build/
+dist/
+htmlcov/
+pip-wheel-metadata/
 var/
-

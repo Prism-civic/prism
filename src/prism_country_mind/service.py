@@ -21,7 +21,7 @@ class CountryMindService:
 
     def topics(self) -> list[dict[str, object]]:
         items: list[dict[str, object]] = []
-        for topic in sorted({topic for source in self.registry.sources for topic in source.topics}):
+        for topic in self.topic_names():
             items.append(
                 {
                     "topic": topic,
@@ -32,6 +32,9 @@ class CountryMindService:
                 }
             )
         return items
+
+    def topic_names(self) -> list[str]:
+        return sorted({topic for source in self.registry.sources for topic in source.topics})
 
     def build_pack(self, topic: str, generated_at: str):
         builder = TopicPackBuilder(
@@ -50,7 +53,7 @@ class CountryMindService:
         generated_at: str | None = None,
         fetcher: FetchFn | None = None,
     ) -> dict[str, object]:
-        topic_list = sorted(set(topics or [item["topic"] for item in self.topics()]))
+        topic_list = sorted(set(topics or self.topic_names()))
         source_ids = {
             source.source_id
             for topic in topic_list
@@ -89,7 +92,7 @@ class CountryMindService:
             "status": "ok",
             "country_code": self.registry.country_code,
             "registry_sources": len(self.registry.sources),
-            "topics": [item["topic"] for item in self.topics()],
+            "topics": self.topic_names(),
             "pack_count": len(self.list_packs()),
             "transparency_log_entries": len(self.list_transparency_log()),
         }
