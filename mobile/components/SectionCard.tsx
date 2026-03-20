@@ -1,4 +1,5 @@
-import { StyleSheet, View, type PropsWithChildren } from 'react-native';
+import type { PropsWithChildren } from 'react';
+import { StyleSheet, View } from 'react-native';
 
 import { colors } from '@/theme';
 
