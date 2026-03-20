@@ -1,0 +1,70 @@
+{
+  "schema_version": "source-registry/v1",
+  "country_code": "GB",
+  "sources": [
+    {
+      "source_id": "mhclg_housing_supply",
+      "title": "Housing supply: indicators of new supply, England",
+      "publisher": "Ministry of Housing, Communities and Local Government",
+      "url": "https://www.gov.uk/government/statistics/housing-supply-indicators-of-new-supply-england",
+      "format": "html",
+      "description": "Official housing supply statistics for England.",
+      "topics": ["housing"]
+    },
+    {
+      "source_id": "ons_house_prices",
+      "title": "UK house price index",
+      "publisher": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/latest",
+      "format": "html",
+      "description": "Official UK house price inflation bulletin.",
+      "topics": ["housing", "cost_of_living"]
+    },
+    {
+      "source_id": "ons_private_rent",
+      "title": "Private rent and house prices, UK",
+      "publisher": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentalpricesuk/latest",
+      "format": "html",
+      "description": "Official UK private rental price bulletin.",
+      "topics": ["housing", "cost_of_living"]
+    },
+    {
+      "source_id": "nhs_waiting_times",
+      "title": "Consultant-led referral to treatment waiting times",
+      "publisher": "NHS England",
+      "url": "https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/",
+      "format": "html",
+      "description": "Official NHS England referral to treatment waiting times.",
+      "topics": ["nhs"]
+    },
+    {
+      "source_id": "nhs_ae_attendances",
+      "title": "A&E attendances and emergency admissions",
+      "publisher": "NHS England",
+      "url": "https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/",
+      "format": "html",
+      "description": "Official NHS England urgent and emergency care statistics.",
+      "topics": ["nhs"]
+    },
+    {
+      "source_id": "ons_cpi",
+      "title": "Consumer price inflation, UK",
+      "publisher": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest",
+      "format": "html",
+      "description": "Official UK inflation bulletin.",
+      "topics": ["cost_of_living"]
+    },
+    {
+      "source_id": "ofgem_price_cap",
+      "title": "Energy price cap",
+      "publisher": "Ofgem",
+      "url": "https://www.ofgem.gov.uk/information-consumers/energy-advice-households/check-if-energy-price-cap-affects-you",
+      "format": "html",
+      "description": "Official energy price cap information.",
+      "topics": ["cost_of_living"]
+    }
+  ]
+}
+
