@@ -10,6 +10,9 @@ export type PulseOrbState =
 
 export type CoveragePreference = 'local' | 'national' | 'global';
 export type TopicWeight = 'low' | 'medium' | 'high';
+export type BriefFeedbackSignal = 'like' | 'useful' | 'not_relevant';
+export type BriefListState = 'ready' | 'empty' | 'offline' | 'disabled';
+export type BriefSyncStatus = 'idle' | 'offline' | 'ready';
 
 export interface TopicProfile {
   id: string;
@@ -29,6 +32,8 @@ export interface PrivacySettings {
   shareSanitizedSummaries: boolean;
   allowMorningBrief: boolean;
   allowEveningSync: boolean;
+  wifiOnlySync: boolean;
+  notificationsEnabled: boolean;
 }
 
 export interface OnboardingDraft {
@@ -39,6 +44,51 @@ export interface OnboardingDraft {
   textSize: TextSizePreset;
 }
 
+export interface EvidenceSource {
+  id: string;
+  title: string;
+  publisher: string;
+  publishedAt: string;
+}
+
+export interface ConfidenceExplanation {
+  band: 'low' | 'medium' | 'high';
+  summary: string;
+}
+
+export interface BriefItem {
+  id: string;
+  headline: string;
+  summary: string;
+  detail: string;
+  topicTags: string[];
+  localityLabel: string;
+  localityScope: CoveragePreference;
+  freshnessLabel: string;
+  publishedAt: string;
+  updatedAt: string;
+  confidence: ConfidenceExplanation;
+  sources: EvidenceSource[];
+  evidenceNote: string;
+}
+
+export interface BriefFeedbackEvent {
+  briefItemId: string;
+  itemHeadline: string;
+  topicTags: string[];
+  signal: BriefFeedbackSignal;
+  timestamp: string;
+  rationale: string;
+}
+
+export interface BriefCache {
+  items: BriefItem[];
+  generatedAt: string | null;
+  lastSyncAt: string | null;
+  isOffline: boolean;
+  mockSource: 'seeded-local';
+}
+
 export interface AppState {
   hydrated: boolean;
   reduceMotionEnabled: boolean;
@@ -47,4 +97,6 @@ export interface AppState {
   onboarding: OnboardingDraft;
   extractedProfile: ExtractedProfile | null;
   privacy: PrivacySettings;
+  briefCache: BriefCache;
+  feedbackHistory: BriefFeedbackEvent[];
 }

@@ -16,7 +16,7 @@ export default function SettingsScreen() {
       <View style={styles.header}>
         <Text style={[styles.title, typography.xl]}>Settings</Text>
         <Text style={[styles.body, typography.base]}>
-          MVP settings for country, readable text size, reduced motion awareness, and privacy controls.
+          Local preferences stay inspectable here. Nothing in this MVP sends raw onboarding text upstream.
         </Text>
       </View>
 
@@ -26,28 +26,49 @@ export default function SettingsScreen() {
         <Text style={[styles.metaLabel, typography.sm]}>Text size</Text>
         <Text style={[styles.metaValue, typography.base]}>{state.onboarding.textSize}</Text>
         <Text style={[styles.metaLabel, typography.sm]}>Reduced motion</Text>
-        <Text style={[styles.metaValue, typography.base]}>{state.reduceMotionEnabled ? 'On' : 'Off'}</Text>
+        <Text style={[styles.metaValue, typography.base]}>
+          {state.reduceMotionEnabled ? 'Following your device setting' : 'Device motion allowed'}
+        </Text>
       </SectionCard>
 
       <SectionCard>
+        <SettingToggle
+          title="Notifications"
+          description="Keep the morning brief limited to a calm daily reminder."
+          value={state.privacy.notificationsEnabled}
+          onValueChange={(notificationsEnabled) => updatePrivacy({ notificationsEnabled })}
+        />
+        <SettingToggle
+          title="Allow morning brief"
+          description="Show the cached brief in Home and Brief."
+          value={state.privacy.allowMorningBrief}
+          onValueChange={(allowMorningBrief) => updatePrivacy({ allowMorningBrief })}
+        />
+        <SettingToggle
+          title="Allow evening sync"
+          description="Prepare for future background refresh without enabling a real backend yet."
+          value={state.privacy.allowEveningSync}
+          onValueChange={(allowEveningSync) => updatePrivacy({ allowEveningSync })}
+        />
+        <SettingToggle
+          title="Wi-Fi only sync"
+          description="Keep future cache refresh conservative when sync lands."
+          value={state.privacy.wifiOnlySync}
+          onValueChange={(wifiOnlySync) => updatePrivacy({ wifiOnlySync })}
+        />
         <SettingToggle
           title="Share sanitized issue summaries"
           description="Optional and off by default."
           value={state.privacy.shareSanitizedSummaries}
           onValueChange={(shareSanitizedSummaries) => updatePrivacy({ shareSanitizedSummaries })}
         />
-        <SettingToggle
-          title="Allow morning brief"
-          description="A calm once-per-day brief, stored locally."
-          value={state.privacy.allowMorningBrief}
-          onValueChange={(allowMorningBrief) => updatePrivacy({ allowMorningBrief })}
-        />
-        <SettingToggle
-          title="Allow evening sync"
-          description="Refresh evidence packs quietly in the background."
-          value={state.privacy.allowEveningSync}
-          onValueChange={(allowEveningSync) => updatePrivacy({ allowEveningSync })}
-        />
+      </SectionCard>
+
+      <SectionCard>
+        <Text style={[styles.metaLabel, typography.sm]}>Privacy note</Text>
+        <Text style={[styles.body, typography.base]}>
+          Personalization in this MVP comes from your topic choices and explicit brief feedback only. No dwell-time scoring, no hidden profile.
+        </Text>
       </SectionCard>
     </PrismScreen>
   );

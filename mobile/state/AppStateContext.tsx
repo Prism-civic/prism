@@ -9,10 +9,13 @@ import {
   type PropsWithChildren,
 } from 'react';
 
+import { briefRepository, createInitialBriefCache } from '@/lib/briefs';
 import { buildExtractedProfile } from '@/lib/profile';
 import { getTypography, type TextSizePreset } from '@/theme';
 import type {
   AppState,
+  BriefFeedbackSignal,
+  BriefItem,
   CoveragePreference,
   ExtractedProfile,
   OnboardingDraft,
@@ -33,6 +36,8 @@ const defaultPrivacy: PrivacySettings = {
   shareSanitizedSummaries: false,
   allowMorningBrief: true,
   allowEveningSync: true,
+  wifiOnlySync: true,
+  notificationsEnabled: true,
 };
 
 const defaultState: AppState = {
@@ -43,6 +48,8 @@ const defaultState: AppState = {
   onboarding: defaultOnboarding,
   extractedProfile: null,
   privacy: defaultPrivacy,
+  briefCache: createInitialBriefCache(null),
+  feedbackHistory: [],
 };
 
 interface AppStateContextValue {
@@ -54,6 +61,9 @@ interface AppStateContextValue {
   generateProfile(): ExtractedProfile;
   updateProfile(profile: ExtractedProfile): void;
   updatePrivacy(patch: Partial<PrivacySettings>): void;
+  refreshBrief(): void;
+  getBriefItem(itemId: string): BriefItem | undefined;
+  submitBriefFeedback(itemId: string, signal: BriefFeedbackSignal): void;
   completeOnboarding(): void;
 }
 
@@ -84,6 +94,8 @@ export function AppStateProvider({ children }: PropsWithChildren) {
               ...defaultPrivacy,
               ...parsed.privacy,
             },
+            briefCache: parsed.briefCache ?? current.briefCache,
+            feedbackHistory: parsed.feedbackHistory ?? current.feedbackHistory,
             hydrated: true,
           }));
           return;
@@ -122,16 +134,20 @@ export function AppStateProvider({ children }: PropsWithChildren) {
 
     AsyncStorage.setItem(
       STORAGE_KEY,
-      JSON.stringify({
-        onboardingComplete: state.onboardingComplete,
-        selectedCountryCode: state.selectedCountryCode,
-        onboarding: state.onboarding,
-        extractedProfile: state.extractedProfile,
-        privacy: state.privacy,
-      }),
+        JSON.stringify({
+          onboardingComplete: state.onboardingComplete,
+          selectedCountryCode: state.selectedCountryCode,
+          onboarding: state.onboarding,
+          extractedProfile: state.extractedProfile,
+          privacy: state.privacy,
+          briefCache: state.briefCache,
+          feedbackHistory: state.feedbackHistory,
+        }),
     ).catch(() => undefined);
   }, [
+    state.briefCache,
     state.extractedProfile,
+    state.feedbackHistory,
     state.hydrated,
     state.onboarding,
     state.onboardingComplete,
@@ -168,6 +184,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       setState((current) => ({
         ...current,
         extractedProfile: profile,
+        briefCache: briefRepository.loadLatestBrief(profile),
       }));
       return profile;
     },
@@ -175,6 +192,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       setState((current) => ({
         ...current,
         extractedProfile: profile,
+        briefCache: briefRepository.loadLatestBrief(profile),
       }));
     },
     updatePrivacy(patch) {
@@ -186,8 +204,42 @@ export function AppStateProvider({ children }: PropsWithChildren) {
         },
       }));
     },
+    refreshBrief() {
+      setState((current) => ({
+        ...current,
+        briefCache: briefRepository.loadLatestBrief(current.extractedProfile),
+      }));
+    },
+    getBriefItem(itemId) {
+      return state.briefCache.items.find((item) => item.id === itemId);
+    },
+    submitBriefFeedback(itemId, signal) {
+      setState((current) => {
+        const item = current.briefCache.items.find((entry) => entry.id === itemId);
+
+        if (!item) {
+          return current;
+        }
+
+        const { event, profile } = briefRepository.recordFeedback(current.extractedProfile, item, signal);
+
+        return {
+          ...current,
+          extractedProfile: profile,
+          feedbackHistory: [
+            event,
+            ...current.feedbackHistory.filter((entry) => entry.briefItemId !== itemId),
+          ].slice(0, 20),
+          briefCache: briefRepository.loadLatestBrief(profile),
+        };
+      });
+    },
     completeOnboarding() {
-      setState((current) => ({ ...current, onboardingComplete: true }));
+      setState((current) => ({
+        ...current,
+        onboardingComplete: true,
+        briefCache: briefRepository.loadLatestBrief(current.extractedProfile),
+      }));
     },
   }), [state]);
 
