@@ -100,6 +100,29 @@ Participation events are **server-emitted** — the client never calls `/api/hiv
 
 ---
 
+## Globe Interaction
+
+Users can explore the full hive at any time — the zoom-to-country default is a starting point, not a cage.
+
+### Controls
+| Interaction | Behaviour |
+|---|---|
+| Scroll / pinch out | Zoom out — country nodes shrink, world comes back into view |
+| Drag / swipe | Rotate the globe — spin freely in any direction |
+| Click / tap a country cluster | Zoom in to that country |
+| Double-tap empty space | Zoom back to user's home country |
+
+### State behaviour
+- Zooming out or rotating does **not** reset participation tracking — user's node keeps pulsing wherever it is on the globe
+- When zoomed out to world view, all active nodes are visible at low opacity; user's region stays highlighted at full brightness so they can always find themselves
+- Inertia on drag — globe should feel physical, not snappy
+- On mobile: touch gestures (pinch-to-zoom, one-finger rotate); on desktop: scroll-to-zoom, click-drag to rotate
+
+### Onboarding hint
+First time the globe loads, a subtle animated arrow or glow sweep hints that it's rotatable. Disappears after first interaction. Not intrusive.
+
+---
+
 ## What This Is Not
 
 - Not a surveillance map — no tracking, no GPS, no identifiers
