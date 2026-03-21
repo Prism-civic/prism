@@ -13,6 +13,12 @@ export type TopicWeight = 'low' | 'medium' | 'high';
 export type BriefFeedbackSignal = 'like' | 'useful' | 'not_relevant';
 export type BriefListState = 'ready' | 'empty' | 'offline' | 'disabled';
 export type BriefSyncStatus = 'idle' | 'offline' | 'ready';
+export type MockSyncScenario = 'success' | 'temporary_failure' | 'stale_cache';
+export type SyncStatus =
+  | 'clear'
+  | 'showing_cached'
+  | 'retry_scheduled'
+  | 'refresh_recommended';
 
 /**
  * Phase of the active (or most-recent) sync operation.
@@ -20,9 +26,9 @@ export type BriefSyncStatus = 'idle' | 'offline' | 'ready';
  *
  * idle       — no operation in flight; cache is current or never requested
  * refreshing — async fetch in progress
- * error      — last fetch failed; cache may be stale
+ * degraded   — last fetch did not complete cleanly; cache is retained
  */
-export type SyncPhase = 'idle' | 'refreshing' | 'error';
+export type SyncPhase = 'idle' | 'refreshing' | 'degraded';
 
 export interface TopicProfile {
   id: string;
@@ -111,6 +117,12 @@ export interface AppState {
   feedbackHistory: BriefFeedbackEvent[];
   /** Transient — not persisted. Tracks the in-progress or last-completed sync. */
   syncPhase: SyncPhase;
-  /** Transient — not persisted. Human-readable message when syncPhase === 'error'. */
-  syncError: string | null;
+  /** Transient — not persisted. Adds user-facing detail beyond the coarse phase. */
+  syncStatus: SyncStatus;
+  /** Transient — not persisted. Human-readable explanation for the current sync state. */
+  syncMessage: string | null;
+  /** Transient — not persisted. Next planned retry, when one exists. */
+  nextRetryAt: string | null;
+  /** Persisted local mock mode used to exercise success and degraded states. */
+  mockSyncScenario: MockSyncScenario;
 }

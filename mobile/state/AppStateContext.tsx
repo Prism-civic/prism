@@ -1,16 +1,18 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { AccessibilityInfo } from 'react-native';
 import {
+  useCallback,
   createContext,
   useContext,
   useEffect,
   useMemo,
+  useRef,
   useState,
   type PropsWithChildren,
 } from 'react';
 
 import { briefRepository, createInitialBriefCache } from '@/lib/briefs';
-import { createSyncAdapter } from '@/lib/sync';
+import { createSyncAdapter, getMockRetryDelayMs } from '@/lib/sync';
 import { buildExtractedProfile } from '@/lib/profile';
 import { getTypography, type TextSizePreset } from '@/theme';
 import type {
@@ -19,6 +21,7 @@ import type {
   BriefItem,
   CoveragePreference,
   ExtractedProfile,
+  MockSyncScenario,
   OnboardingDraft,
   PrivacySettings,
 } from '@/types/app';
@@ -57,7 +60,10 @@ const defaultState: AppState = {
   feedbackHistory: [],
   // Transient — reset on every app launch
   syncPhase: 'idle',
-  syncError: null,
+  syncStatus: 'clear',
+  syncMessage: null,
+  nextRetryAt: null,
+  mockSyncScenario: 'success',
 };
 
 interface AppStateContextValue {
@@ -69,7 +75,8 @@ interface AppStateContextValue {
   generateProfile(): ExtractedProfile;
   updateProfile(profile: ExtractedProfile): void;
   updatePrivacy(patch: Partial<PrivacySettings>): void;
-  /** Fire-and-forget. Tracks progress via state.syncPhase and state.syncError. */
+  setMockSyncScenario(scenario: MockSyncScenario): void;
+  /** Fire-and-forget. Tracks progress via transient sync fields on state. */
   refreshBrief(): void;
   getBriefItem(itemId: string): BriefItem | undefined;
   submitBriefFeedback(itemId: string, signal: BriefFeedbackSignal): void;
@@ -80,6 +87,87 @@ const AppStateContext = createContext<AppStateContextValue | null>(null);
 
 export function AppStateProvider({ children }: PropsWithChildren) {
   const [state, setState] = useState<AppState>(defaultState);
+  const retryTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const clearPendingRetry = useCallback(() => {
+    if (retryTimeoutRef.current) {
+      clearTimeout(retryTimeoutRef.current);
+      retryTimeoutRef.current = null;
+    }
+  }, []);
+
+  const runRefresh = useCallback((
+    profileSnapshot: ExtractedProfile | null,
+    cacheSnapshot: AppState['briefCache'],
+    scenario: MockSyncScenario,
+    trigger: 'manual' | 'queued-retry',
+    allowQueuedRetry: boolean,
+  ) => {
+    syncAdapter
+      .fetchBrief({
+        profile: profileSnapshot,
+        currentCache: cacheSnapshot,
+        scenario,
+        trigger,
+      })
+      .then((result) => {
+        if (result.ok && result.cache) {
+          clearPendingRetry();
+          setState((current) => ({
+            ...current,
+            briefCache: result.cache!,
+            syncPhase: 'idle',
+            syncStatus: 'clear',
+            syncMessage: null,
+            nextRetryAt: null,
+          }));
+          return;
+        }
+
+        const shouldQueueRetry =
+          result.status === 'retry_scheduled' && allowQueuedRetry && trigger === 'manual';
+        const nextStatus = shouldQueueRetry ? 'retry_scheduled' : 'refresh_recommended';
+        const nextMessage = shouldQueueRetry
+          ? result.message ?? 'Refresh paused for now. Your saved brief is still here.'
+          : result.status === 'retry_scheduled'
+            ? 'Refresh paused for now. Your saved brief is still here. Automatic retry is off, so you can try again later.'
+            : result.message ?? 'Refresh did not complete. Your saved brief is still available, and you can try again later.';
+
+        setState((current) => ({
+          ...current,
+          briefCache: result.cache ?? current.briefCache,
+          syncPhase: 'degraded',
+          syncStatus: nextStatus,
+          syncMessage: nextMessage,
+          nextRetryAt: shouldQueueRetry ? result.retryAt ?? null : null,
+        }));
+
+        if (shouldQueueRetry) {
+          clearPendingRetry();
+          retryTimeoutRef.current = setTimeout(() => {
+            retryTimeoutRef.current = null;
+            setState((current) => ({
+              ...current,
+              syncPhase: 'refreshing',
+              syncStatus: 'showing_cached',
+              syncMessage: 'Trying again in the background. Your saved brief stays readable.',
+              nextRetryAt: null,
+            }));
+            runRefresh(profileSnapshot, result.cache ?? cacheSnapshot, scenario, 'queued-retry', false);
+          }, getMockRetryDelayMs());
+        }
+      })
+      .catch(() => {
+        clearPendingRetry();
+        setState((current) => ({
+          ...current,
+          syncPhase: 'degraded',
+          syncStatus: 'refresh_recommended',
+          syncMessage: 'Could not reach the mock source just now. Your saved brief is still available.',
+          nextRetryAt: null,
+        }));
+      });
+  }, [clearPendingRetry]);
 
   useEffect(() => {
     let mounted = true;
@@ -107,7 +195,10 @@ export function AppStateProvider({ children }: PropsWithChildren) {
             feedbackHistory: parsed.feedbackHistory ?? current.feedbackHistory,
             // Always reset transient fields on hydration
             syncPhase: 'idle',
-            syncError: null,
+            syncStatus: 'clear',
+            syncMessage: null,
+            nextRetryAt: null,
+            mockSyncScenario: parsed.mockSyncScenario ?? current.mockSyncScenario,
             hydrated: true,
           }));
           return;
@@ -135,16 +226,17 @@ export function AppStateProvider({ children }: PropsWithChildren) {
 
     return () => {
       mounted = false;
+      clearPendingRetry();
       subscription.remove();
     };
-  }, []);
+  }, [clearPendingRetry]);
 
   useEffect(() => {
     if (!state.hydrated) {
       return;
     }
 
-    // syncPhase and syncError are intentionally excluded — they are transient.
+    // Transient sync fields are intentionally excluded — they reset on launch.
     AsyncStorage.setItem(
       STORAGE_KEY,
         JSON.stringify({
@@ -155,6 +247,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
           privacy: state.privacy,
           briefCache: state.briefCache,
           feedbackHistory: state.feedbackHistory,
+          mockSyncScenario: state.mockSyncScenario,
         }),
     ).catch(() => undefined);
   }, [
@@ -162,6 +255,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
     state.extractedProfile,
     state.feedbackHistory,
     state.hydrated,
+    state.mockSyncScenario,
     state.onboarding,
     state.onboardingComplete,
     state.privacy,
@@ -193,6 +287,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       }));
     },
     generateProfile() {
+      clearPendingRetry();
       const profile = buildExtractedProfile(state.onboarding);
       setState((current) => ({
         ...current,
@@ -202,6 +297,7 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       return profile;
     },
     updateProfile(profile) {
+      clearPendingRetry();
       setState((current) => ({
         ...current,
         extractedProfile: profile,
@@ -217,38 +313,43 @@ export function AppStateProvider({ children }: PropsWithChildren) {
         },
       }));
     },
+    setMockSyncScenario(mockSyncScenario) {
+      clearPendingRetry();
+      setState((current) => ({
+        ...current,
+        mockSyncScenario,
+        syncPhase: 'idle',
+        syncStatus: 'clear',
+        syncMessage: null,
+        nextRetryAt: null,
+      }));
+    },
     refreshBrief() {
-      // Mark in-flight immediately so UI can respond.
-      setState((current) => ({ ...current, syncPhase: 'refreshing', syncError: null }));
+      clearPendingRetry();
 
-      // Capture the current profile so the async call uses a consistent snapshot.
+      const cacheSnapshot = state.briefCache;
       const profileSnapshot = state.extractedProfile;
+      const allowQueuedRetry = state.privacy.allowEveningSync;
+      const hasCachedContent = cacheSnapshot.items.length > 0;
 
-      syncAdapter
-        .fetchBrief(profileSnapshot)
-        .then((result) => {
-          if (result.ok && result.cache) {
-            setState((current) => ({
-              ...current,
-              briefCache: result.cache!,
-              syncPhase: 'idle',
-              syncError: null,
-            }));
-          } else {
-            setState((current) => ({
-              ...current,
-              syncPhase: 'error',
-              syncError: result.errorMessage ?? 'Sync did not complete. Cached content is shown.',
-            }));
-          }
-        })
-        .catch(() => {
-          setState((current) => ({
-            ...current,
-            syncPhase: 'error',
-            syncError: 'Could not reach the upstream source. Cached content is shown.',
-          }));
-        });
+      // Mark in-flight immediately so UI can respond.
+      setState((current) => ({
+        ...current,
+        syncPhase: 'refreshing',
+        syncStatus: hasCachedContent ? 'showing_cached' : 'clear',
+        syncMessage: hasCachedContent
+          ? 'Checking for a newer brief. You can keep reading what is already saved on this device.'
+          : 'Preparing your first saved brief from local mock evidence.',
+        nextRetryAt: null,
+      }));
+
+      runRefresh(
+        profileSnapshot,
+        cacheSnapshot,
+        state.mockSyncScenario,
+        'manual',
+        allowQueuedRetry,
+      );
     },
     getBriefItem(itemId) {
       return state.briefCache.items.find((item) => item.id === itemId);
@@ -275,13 +376,14 @@ export function AppStateProvider({ children }: PropsWithChildren) {
       });
     },
     completeOnboarding() {
+      clearPendingRetry();
       setState((current) => ({
         ...current,
         onboardingComplete: true,
         briefCache: briefRepository.loadLatestBrief(current.extractedProfile),
       }));
     },
-  }), [state]);
+  }), [clearPendingRetry, runRefresh, state]);
 
   return <AppStateContext.Provider value={value}>{children}</AppStateContext.Provider>;
 }

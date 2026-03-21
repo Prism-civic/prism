@@ -1,12 +1,14 @@
 import { ActivityIndicator, StyleSheet, Text, View } from 'react-native';
 
 import { colors } from '@/theme';
-import type { SyncPhase } from '@/types/app';
+import type { SyncPhase, SyncStatus } from '@/types/app';
 
 interface SyncStatusBannerProps {
   syncPhase: SyncPhase;
-  syncError: string | null;
+  syncStatus: SyncStatus;
+  syncMessage: string | null;
   lastSyncAt: string | null;
+  nextRetryAt: string | null;
 }
 
 /**
@@ -18,7 +20,13 @@ interface SyncStatusBannerProps {
  * — clear about what the user is reading (cached vs live)
  * — state is always conveyed in text, not colour alone
  */
-export function SyncStatusBanner({ syncPhase, syncError, lastSyncAt }: SyncStatusBannerProps) {
+export function SyncStatusBanner({
+  syncPhase,
+  syncStatus,
+  syncMessage,
+  lastSyncAt,
+  nextRetryAt,
+}: SyncStatusBannerProps) {
   if (syncPhase === 'idle') {
     return null;
   }
@@ -28,40 +36,68 @@ export function SyncStatusBanner({ syncPhase, syncError, lastSyncAt }: SyncStatu
       <View
         style={[styles.banner, styles.refreshingBanner]}
         accessibilityLiveRegion="polite"
-        accessibilityLabel="Refreshing brief, please wait"
+        accessibilityLabel="Refreshing brief while keeping saved content available"
       >
         <ActivityIndicator size="small" color={colors.amber} style={styles.spinner} />
-        <Text style={styles.refreshingText}>Refreshing brief…</Text>
+        <View style={styles.bodyCopy}>
+          <Text style={styles.refreshingTitle}>Refreshing your brief</Text>
+          <Text style={styles.refreshingText}>
+            {syncMessage ?? 'Checking for updates. Saved content stays available while this runs.'}
+          </Text>
+        </View>
       </View>
     );
   }
 
-  // syncPhase === 'error'
-  const cacheNote = lastSyncAt
-    ? `Last successful cache: ${formatTimestamp(lastSyncAt)}.`
-    : 'No previous cache on record.';
+  const title = syncStatus === 'retry_scheduled'
+    ? 'Using saved content for now'
+    : 'Saved brief still available';
+  const cacheNote = getCacheNote(lastSyncAt, nextRetryAt, syncStatus);
 
   return (
     <View
       style={[styles.banner, styles.errorBanner]}
       accessibilityLiveRegion="polite"
-      accessibilityLabel={`Sync unavailable. ${syncError ?? 'Cached content shown.'} ${cacheNote}`}
+      accessibilityLabel={`${title}. ${syncMessage ?? 'Saved content remains available.'} ${cacheNote}`}
     >
-      <Text style={styles.errorIcon}>!</Text>
+      <Text style={styles.errorIcon}>{syncStatus === 'retry_scheduled' ? '~' : '!'}</Text>
       <View style={styles.errorBody}>
-        <Text style={styles.errorTitle}>Sync unavailable</Text>
+        <Text style={styles.errorTitle}>{title}</Text>
         <Text style={styles.errorMessage}>
-          {syncError ?? 'Cached content is shown.'} {cacheNote}
+          {syncMessage ?? 'Saved content remains available.'} {cacheNote}
         </Text>
       </View>
     </View>
   );
 }
 
+function getCacheNote(lastSyncAt: string | null, nextRetryAt: string | null, syncStatus: SyncStatus) {
+  const lastSeen = lastSyncAt
+    ? `Last successful refresh: ${formatTimestamp(lastSyncAt)}.`
+    : 'No successful refresh is recorded yet.';
+
+  if (syncStatus === 'retry_scheduled' && nextRetryAt) {
+    return `${lastSeen} Prism will try again around ${formatTime(nextRetryAt)}.`;
+  }
+
+  if (syncStatus === 'refresh_recommended') {
+    return `${lastSeen} You can refresh again when it suits you.`;
+  }
+
+  return lastSeen;
+}
+
 function formatTimestamp(value: string) {
   return new Date(value).toLocaleString([], {
     month: 'short',
     day: 'numeric',
+    hour: 'numeric',
+    minute: '2-digit',
+  });
+}
+
+function formatTime(value: string) {
+  return new Date(value).toLocaleTimeString([], {
     hour: 'numeric',
     minute: '2-digit',
   });
@@ -83,18 +119,26 @@ const styles = StyleSheet.create({
   },
   errorBanner: {
     backgroundColor: colors.bgElevated,
-    borderColor: colors.destructive,
+    borderColor: colors.amber,
   },
   spinner: {
     flexShrink: 0,
   },
-  refreshingText: {
+  bodyCopy: {
+    flex: 1,
+    gap: 2,
+  },
+  refreshingTitle: {
     color: colors.amber,
     fontSize: 13,
-    fontWeight: '500',
+    fontWeight: '700',
+  },
+  refreshingText: {
+    color: colors.textSecondary,
+    fontSize: 12,
   },
   errorIcon: {
-    color: colors.destructive,
+    color: colors.amber,
     fontSize: 16,
     fontWeight: '700',
     flexShrink: 0,
@@ -106,7 +150,7 @@ const styles = StyleSheet.create({
     gap: 2,
   },
   errorTitle: {
-    color: colors.destructive,
+    color: colors.amber,
     fontSize: 13,
     fontWeight: '700',
   },

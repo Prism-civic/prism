@@ -1,5 +1,5 @@
 import { refreshMockBriefCache } from '@/lib/briefs';
-import type { BriefCache, ExtractedProfile } from '@/types/app';
+import type { BriefCache, ExtractedProfile, MockSyncScenario, SyncStatus } from '@/types/app';
 
 // ---------------------------------------------------------------------------
 // Sync adapter seam — Slice E
@@ -15,18 +15,27 @@ import type { BriefCache, ExtractedProfile } from '@/types/app';
 //   3. No other file needs to change.
 // ---------------------------------------------------------------------------
 
-export type SyncPhase = 'idle' | 'refreshing' | 'error';
+export type SyncPhase = 'idle' | 'refreshing' | 'degraded';
+
+export interface SyncRequest {
+  profile: ExtractedProfile | null;
+  currentCache: BriefCache;
+  scenario: MockSyncScenario;
+  trigger: 'manual' | 'queued-retry';
+}
 
 export interface SyncResult {
   ok: boolean;
   cache?: BriefCache;
+  status: SyncStatus;
   /** Human-readable message suitable for showing in the UI. */
-  errorMessage?: string;
+  message?: string | null;
+  retryAt?: string | null;
 }
 
 export interface SyncAdapter {
   /** Fetches the latest brief for the given profile. Always returns a SyncResult. */
-  fetchBrief(profile: ExtractedProfile | null): Promise<SyncResult>;
+  fetchBrief(request: SyncRequest): Promise<SyncResult>;
 }
 
 // ---------------------------------------------------------------------------
@@ -37,15 +46,55 @@ export interface SyncAdapter {
 // ---------------------------------------------------------------------------
 
 const MOCK_SYNC_DELAY_MS = 700;
+const MOCK_RETRY_DELAY_MS = 8_000;
 
 class MockSyncAdapter implements SyncAdapter {
-  async fetchBrief(profile: ExtractedProfile | null): Promise<SyncResult> {
+  async fetchBrief({ profile, currentCache, scenario, trigger }: SyncRequest): Promise<SyncResult> {
     await new Promise<void>((resolve) => setTimeout(resolve, MOCK_SYNC_DELAY_MS));
+
+    if (scenario === 'temporary_failure' && trigger === 'manual') {
+      return {
+        ok: false,
+        cache: currentCache,
+        status: 'retry_scheduled',
+        message: 'Refresh paused for now. Your saved brief is still here.',
+        retryAt: new Date(Date.now() + MOCK_RETRY_DELAY_MS).toISOString(),
+      };
+    }
+
+    if (scenario === 'stale_cache') {
+      return {
+        ok: false,
+        cache: createStaleCacheSnapshot(currentCache, profile),
+        status: 'refresh_recommended',
+        message: 'This device is still showing an older saved brief. You can keep reading and refresh when convenient.',
+        retryAt: null,
+      };
+    }
+
     return {
       ok: true,
       cache: refreshMockBriefCache(profile),
+      status: 'clear',
+      message: null,
+      retryAt: null,
     };
   }
+}
+
+function createStaleCacheSnapshot(cache: BriefCache, profile: ExtractedProfile | null): BriefCache {
+  const snapshot = cache.items.length > 0 ? cache : refreshMockBriefCache(profile);
+
+  return {
+    ...snapshot,
+    isOffline: true,
+    lastSyncAt: new Date(Date.now() - 1000 * 60 * 60 * 30).toISOString(),
+    generatedAt: new Date(Date.now() - 1000 * 60 * 60 * 26).toISOString(),
+  };
+}
+
+export function getMockRetryDelayMs() {
+  return MOCK_RETRY_DELAY_MS;
 }
 
 // ---------------------------------------------------------------------------
