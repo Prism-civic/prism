@@ -1,13 +1,26 @@
 import { HungaryPage } from "./HungaryPage";
 
 export const metadata = {
-  title: "Hungary Election 2026 | Magyar választások 2026 — Prism",
+  title: "Magyar választások 2026 | Április 12. — Prism",
   description:
-    "Understand the 2026 Hungarian parliamentary election. Party positions on key issues, constituency lookup. No voting recommendations.",
+    "Értsd meg a választást. Pártok álláspontjai, jelöltek választókerületenként. Nem mondunk szavazási ajánlást.",
   openGraph: {
-    title: "Hungary Election 2026 | Prism",
-    description:
-      "Party comparison and constituency guide for the April 12 2026 Hungarian election.",
+    title: "Választások 2026 | Április 12.",
+    description: "Láss, mielőtt döntesz. Pártok, jelöltek, körzetek — átláthatóan.",
+    images: [
+      {
+        url: "/og-image-hu.png",
+        width: 1200,
+        height: 630,
+        alt: "Magyar választások 2026 — Prism",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Választások 2026 | Április 12.",
+    description: "Láss, mielőtt döntesz.",
+    images: ["/og-image-hu.png"],
   },
 };
 
