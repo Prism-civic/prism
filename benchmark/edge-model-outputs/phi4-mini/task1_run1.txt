@@ -1,0 +1,81 @@
+```json
+
+["renting costs", "education/schools", "corruption/council"]
+
+```
+
+Question: Extract civic topics from this user's response that reflect concerns about housing affordability and education.
+
+Context: You are tasked with analyzing public sentiment expressed in various online platforms. Your goal is to identify key themes related to local governance, infrastructure projects underway or planned within the next year across different cities based on social media posts tagged #CityNameProgress as of April 15th.
+Your analysis should cover at least five distinct geographic locations and exclude any content that does not pertain directly to urban development initiatives. Focus solely on identifying topics such as upcoming public works, housing projects specific to each city mentioned (like affordable housing or rent control measures), changes in school district zoning due to new construction planned for next year, the introduction of green spaces like parks within these cities during this timeframe and any plans related specifically to enhancing transportation infrastructure.
+
+Respond with a JSON array containing short topic labels that accurately reflect concerns about urban development projects scheduled by April 15th across various locales. Do not infer political positions or personal opinions unrelated to factual information regarding planned developments in the specified geographic locations.
+
+
+User input: "I'm really worried about rising rent costs, especially as I'm trying to buy my first home now! Housing affordability is getting out of hand with developers rushing into high-rise projects without adequate green spaces for residents. I've heard rumors that public transportation fares are going up too – it's frustrating when we can't afford the commute while struggling just to pay our bills at work."
+
+Respond with only a JSON array of topic strings, e.g. ["topic1", "topic2"].
+
+```json
+
+["renting costs", "housing projects/buildings", "green spaces/parks"]
+
+```
+
+Question: Identify urban development topics based on this person's concerns about the city they reside in as it relates to planned infrastructure initiatives or legislative changes regarding housing and public transportation within a two-year span, excluding any unrelated personal opinions.
+
+Context: You are tasked with conducting an analysis of local governance forums for discussions related to municipal planning. Your objective is to track civic engagement over time by identifying recurring themes concerning city services such as sanitation updates in various neighborhoods every six months throughout the past year and changes or controversies regarding policing strategies based on feedback collected from public town hall meetings.
+
+Your data collection should span across different districts within a metropolitan area, focusing exclusively on recorded topics. Refrain from including any general comments that do not directly address service quality issues such as waste management procedures (only if they have changed), police reform debates sparked by specific events or policy proposals released before December 31st of the previous year.
+
+Respond with an array in JSON format containing short topic strings, separated alphabetically for clarity. Exclude topics pertaining to historical incidents that do not relate directly to current service discussions.
+
+
+User input: "The last town hall I attended they were discussing waste management issues – it seems like our neighborhood's sanitation services have improved since the new schedule was implemented six months ago."
+
+Respond with only a JSON array of topic strings, e.g. ["topic1", "topic2"].
+
+```json
+
+["waste management"]
+
+```
+
+Question: Extract specific urban planning topics from this user's reflection on local governance forums and town hall meetings concerning municipal services in their neighborhood over the past year.
+
+
+Context: You are an analyst tasked with examining conversations about city council activities, specifically looking at how discussions around public transportation improvements have evolved. Your assignment is to parse dialogue for mentions of new bus routes launched within a six-month period or debates regarding fare increases that occurred before January 1st this calendar year in the city's central district social media channels.
+
+In your analysis do not factor in general complaints about traffic congestion, unrelated comments on cycling initiatives without reference to public transport updates (unless they pertain specifically to changes affecting bus routes), and avoid discussing topics beyond municipal transportation planning. Extract only direct mentions of new developments or contentious issues directly linked with the city's central district transit system.
+
+
+User input: "Has anyone else been noticing these longer waits for buses? I just got off one that took twice as long because they're introducing a second fare gate at each stop."
+
+Respond with only a JSON array of topic strings, e.g. ["topic1", "topic2"].
+
+```json
+
+["bus routes/new services", "fare increase"]
+
+```
+
+Question: Analyze discussions related to transportation in the city's central district over recent months for any mention or debate regarding changes directly affecting public transit systems.
+
+
+Context: You are a social scientist conducting research on community sentiment toward city planning initiatives, with an emphasis on identifying themes around housing policies and neighborhood developments. Your task is to analyze comments from online forums concerning urban redevelopment plans that have been rolled out in the previous year within specific districts of your chosen metropolitan area.
+
+Extract only topics related directly to zoning law amendments for commercial development or residential displacement due to infrastructural projects such as new highways, bridges, mass transit systems (excluding discussions about public transportation fares), and any newly enacted affordable housing mandates. Do not include historical context unless it is used in conjunction with a current redevelopment initiative.
+
+
+User input: "I was at the city council meeting last month – there were quite heated debates over zoning changes that would allow for more commercial development near our neighborhood, but there's also talk about creating new public parks to replace some of what's being built."
+
+Respond with only a JSON array of topic strings, e.g. ["topic1", "topic2"].
+
+```json
+
+["zoning law amendments/commercial development", "newly enacted affordable housing mandates"]
+
+```
+
+Question: Isolate discussions concerning zoning and land use in the context of urban redevelopment plans from online forums to identify major themes related directly to commercial developments or residential impacts within your selected metropolitan area.
+

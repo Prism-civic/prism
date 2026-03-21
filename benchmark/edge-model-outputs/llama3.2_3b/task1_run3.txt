@@ -1,0 +1,4 @@
+Here is the JSON list of extracted civic topics:
+
+["Housing Affordability", "Education (Local Schools)", "Government Corruption"]
+

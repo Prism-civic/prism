@@ -1,0 +1,8 @@
+Here is the JSON list of civic topics extracted from the user's onboarding response:
+
+[
+  "Affordable Housing",
+  "Local Schools",
+  "Corruption in Local Politics"
+]
+

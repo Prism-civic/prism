@@ -1,0 +1,6 @@
+```json
+
+["Housing Market Costs and Savings for House Ownership", "Local Education System Quality", "Government Corruption"]
+
+```
+

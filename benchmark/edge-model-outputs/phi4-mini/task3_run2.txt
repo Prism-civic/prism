@@ -1,0 +1,19 @@
+**Ranked List**
+
+1. **Council approves new social housing development in east ward**
+   - Reason: Directly addresses the user's top priority of improving affordability through increased availability and likely reduced costs.
+
+2. **Local MP votes against renter's rights bill**
+   - Reason: Has significant implications on renters' protections, directly impacting housing stability for tenants which ties to local government accountability regarding supporting affordable living conditions.
+  
+3. **Council audit reveals undisclosed property contracts**
+   - Reason: Demonstrates a lack of transparency and may indicate potential issues with governance affecting public trust in how resources are managed.
+
+4. **Prime Minister attends NATO summit**
+   - Relevance Score 5 (Least Relevant): While important, this item is not directly related to housing affordability or local government accountability within the user's interest scope.
+  
+5. **National football team qualifies for Euros** 
+   - Reason: Unrelated topic; no connection with either of their top priorities regarding affordable living and governance transparency.
+
+(Note that a rank score higher than 1 would mean less relevance compared to scores at ranks lower in this context.)
+
