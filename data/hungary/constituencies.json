@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "election": "2026 Hungarian Parliamentary Election",
+    "date": "2026-04-12",
+    "total_oevk": 106,
+    "source": "Wikipedia / List of constituencies of Hungary",
+    "last_updated": "2026-03-21",
+    "note": "Candidates to be populated from vtr.valasztas.hu once official registration closes"
+  },
+  "counties": [
+    {
+      "name": "Budapest",
+      "name_hu": "Budapest",
+      "seats": 18,
+      "constituencies": [
+        {"id": "BP-01", "name": "Budapest 1st", "name_hu": "Budapest 1. választókerület"},
+        {"id": "BP-02", "name": "Budapest 2nd", "name_hu": "Budapest 2. választókerület"},
+        {"id": "BP-03", "name": "Budapest 3rd", "name_hu": "Budapest 3. választókerület"},
+        {"id": "BP-04", "name": "Budapest 4th", "name_hu": "Budapest 4. választókerület"},
+        {"id": "BP-05", "name": "Budapest 5th", "name_hu": "Budapest 5. választókerület"},
+        {"id": "BP-06", "name": "Budapest 6th", "name_hu": "Budapest 6. választókerület"},
+        {"id": "BP-07", "name": "Budapest 7th", "name_hu": "Budapest 7. választókerület"},
+        {"id": "BP-08", "name": "Budapest 8th", "name_hu": "Budapest 8. választókerület"},
+        {"id": "BP-09", "name": "Budapest 9th", "name_hu": "Budapest 9. választókerület"},
+        {"id": "BP-10", "name": "Budapest 10th", "name_hu": "Budapest 10. választókerület"},
+        {"id": "BP-11", "name": "Budapest 11th", "name_hu": "Budapest 11. választókerület"},
+        {"id": "BP-12", "name": "Budapest 12th", "name_hu": "Budapest 12. választókerület"},
+        {"id": "BP-13", "name": "Budapest 13th", "name_hu": "Budapest 13. választókerület"},
+        {"id": "BP-14", "name": "Budapest 14th", "name_hu": "Budapest 14. választókerület"},
+        {"id": "BP-15", "name": "Budapest 15th", "name_hu": "Budapest 15. választókerület"},
+        {"id": "BP-16", "name": "Budapest 16th", "name_hu": "Budapest 16. választókerület"},
+        {"id": "BP-17", "name": "Budapest 17th", "name_hu": "Budapest 17. választókerület"},
+        {"id": "BP-18", "name": "Budapest 18th", "name_hu": "Budapest 18. választókerület"}
+      ]
+    },
+    {
+      "name": "Bács-Kiskun",
+      "name_hu": "Bács-Kiskun megye",
+      "seats": 6,
+      "constituencies": [
+        {"id": "BK-01", "name": "Bács-Kiskun 1st", "name_hu": "Bács-Kiskun 1. választókerület"},
+        {"id": "BK-02", "name": "Bács-Kiskun 2nd", "name_hu": "Bács-Kiskun 2. választókerület"},
+        {"id": "BK-03", "name": "Bács-Kiskun 3rd", "name_hu": "Bács-Kiskun 3. választókerület"},
+        {"id": "BK-04", "name": "Bács-Kiskun 4th", "name_hu": "Bács-Kiskun 4. választókerület"},
+        {"id": "BK-05", "name": "Bács-Kiskun 5th", "name_hu": "Bács-Kiskun 5. választókerület"},
+        {"id": "BK-06", "name": "Bács-Kiskun 6th", "name_hu": "Bács-Kiskun 6. választókerület"}
+      ]
+    },
+    {
+      "name": "Baranya",
+      "name_hu": "Baranya megye",
+      "seats": 4,
+      "constituencies": [
+        {"id": "BA-01", "name": "Baranya 1st", "name_hu": "Baranya 1. választókerület"},
+        {"id": "BA-02", "name": "Baranya 2nd", "name_hu": "Baranya 2. választókerület"},
+        {"id": "BA-03", "name": "Baranya 3rd", "name_hu": "Baranya 3. választókerület"},
+        {"id": "BA-04", "name": "Baranya 4th", "name_hu": "Baranya 4. választókerület"}
+      ]
+    },
+    {
+      "name": "Békés",
+      "name_hu": "Békés megye",
+      "seats": 4,
+      "constituencies": [
+        {"id": "BE-01", "name": "Békés 1st", "name_hu": "Békés 1. választókerület"},
+        {"id": "BE-02", "name": "Békés 2nd", "name_hu": "Békés 2. választókerület"},
+        {"id": "BE-03", "name": "Békés 3rd", "name_hu": "Békés 3. választókerület"},
+        {"id": "BE-04", "name": "Békés 4th", "name_hu": "Békés 4. választókerület"}
+      ]
+    },
+    {
+      "name": "Borsod-Abaúj-Zemplén",
+      "name_hu": "Borsod-Abaúj-Zemplén megye",
+      "seats": 7,
+      "constituencies": [
+        {"id": "BAZ-01", "name": "Borsod-Abaúj-Zemplén 1st", "name_hu": "Borsod-Abaúj-Zemplén 1. választókerület"},
+        {"id": "BAZ-02", "name": "Borsod-Abaúj-Zemplén 2nd", "name_hu": "Borsod-Abaúj-Zemplén 2. választókerület"},
+        {"id": "BAZ-03", "name": "Borsod-Abaúj-Zemplén 3rd", "name_hu": "Borsod-Abaúj-Zemplén 3. választókerület"},
+        {"id": "BAZ-04", "name": "Borsod-Abaúj-Zemplén 4th", "name_hu": "Borsod-Abaúj-Zemplén 4. választókerület"},
+        {"id": "BAZ-05", "name": "Borsod-Abaúj-Zemplén 5th", "name_hu": "Borsod-Abaúj-Zemplén 5. választókerület"},
+        {"id": "BAZ-06", "name": "Borsod-Abaúj-Zemplén 6th", "name_hu": "Borsod-Abaúj-Zemplén 6. választókerület"},
+        {"id": "BAZ-07", "name": "Borsod-Abaúj-Zemplén 7th", "name_hu": "Borsod-Abaúj-Zemplén 7. választókerület"}
+      ]
+    },
+    {
+      "name": "Csongrád-Csanád",
+      "name_hu": "Csongrád-Csanád megye",
+      "seats": 4,
+      "constituencies": [
+        {"id": "CS-01", "name": "Csongrád-Csanád 1st", "name_hu": "Csongrád-Csanád 1. választókerület"},
+        {"id": "CS-02", "name": "Csongrád-Csanád 2nd", "name_hu": "Csongrád-Csanád 2. választókerület"},
+        {"id": "CS-03", "name": "Csongrád-Csanád 3rd", "name_hu": "Csongrád-Csanád 3. választókerület"},
+        {"id": "CS-04", "name": "Csongrád-Csanád 4th", "name_hu": "Csongrád-Csanád 4. választókerület"}
+      ]
+    },
+    {
+      "name": "Fejér",
+      "name_hu": "Fejér megye",
+      "seats": 5,
+      "constituencies": [
+        {"id": "FE-01", "name": "Fejér 1st", "name_hu": "Fejér 1. választókerület"},
+        {"id": "FE-02", "name": "Fejér 2nd", "name_hu": "Fejér 2. választókerület"},
+        {"id": "FE-03", "name": "Fejér 3rd", "name_hu": "Fejér 3. választókerület"},
+        {"id": "FE-04", "name": "Fejér 4th", "name_hu": "Fejér 4. választókerület"},
+        {"id": "FE-05", "name": "Fejér 5th", "name_hu": "Fejér 5. választókerület"}
+      ]
+    },
+    {
+      "name": "Győr-Moson-Sopron",
+      "name_hu": "Győr-Moson-Sopron megye",
+      "seats": 5,
+      "constituencies": [
+        {"id": "GMS-01", "name": "Győr-Moson-Sopron 1st", "name_hu": "Győr-Moson-Sopron 1. választókerület"},
+        {"id": "GMS-02", "name": "Győr-Moson-Sopron 2nd", "name_hu": "Győr-Moson-Sopron 2. választókerület"},
+        {"id": "GMS-03", "name": "Győr-Moson-Sopron 3rd", "name_hu": "Győr-Moson-Sopron 3. választókerület"},
+        {"id": "GMS-04", "name": "Győr-Moson-Sopron 4th", "name_hu": "Győr-Moson-Sopron 4. választókerület"},
+        {"id": "GMS-05", "name": "Győr-Moson-Sopron 5th", "name_hu": "Győr-Moson-Sopron 5. választókerület"}
+      ]
+    },
+    {
+      "name": "Hajdú-Bihar",
+      "name_hu": "Hajdú-Bihar megye",
+      "seats": 6,
+      "constituencies": [
+        {"id": "HB-01", "name": "Hajdú-Bihar 1st", "name_hu": "Hajdú-Bihar 1. választókerület"},
+        {"id": "HB-02", "name": "Hajdú-Bihar 2nd", "name_hu": "Hajdú-Bihar 2. választókerület"},
+        {"id": "HB-03", "name": "Hajdú-Bihar 3rd", "name_hu": "Hajdú-Bihar 3. választókerület"},
+        {"id": "HB-04", "name": "Hajdú-Bihar 4th", "name_hu": "Hajdú-Bihar 4. választókerület"},
+        {"id": "HB-05", "name": "Hajdú-Bihar 5th", "name_hu": "Hajdú-Bihar 5. választókerület"},
+        {"id": "HB-06", "name": "Hajdú-Bihar 6th", "name_hu": "Hajdú-Bihar 6. választókerület"}
+      ]
+    },
+    {
+      "name": "Heves",
+      "name_hu": "Heves megye",
+      "seats": 3,
+      "constituencies": [
+        {"id": "HE-01", "name": "Heves 1st", "name_hu": "Heves 1. választókerület"},
+        {"id": "HE-02", "name": "Heves 2nd", "name_hu": "Heves 2. választókerület"},
+        {"id": "HE-03", "name": "Heves 3rd", "name_hu": "Heves 3. választókerület"}
+      ]
+    },
+    {
+      "name": "Jász-Nagykun-Szolnok",
+      "name_hu": "Jász-Nagykun-Szolnok megye",
+      "seats": 4,
+      "constituencies": [
+        {"id": "JNS-01", "name": "Jász-Nagykun-Szolnok 1st", "name_hu": "Jász-Nagykun-Szolnok 1. választókerület"},
+        {"id": "JNS-02", "name": "Jász-Nagykun-Szolnok 2nd", "name_hu": "Jász-Nagykun-Szolnok 2. választókerület"},
+        {"id": "JNS-03", "name": "Jász-Nagykun-Szolnok 3rd", "name_hu": "Jász-Nagykun-Szolnok 3. választókerület"},
+        {"id": "JNS-04", "name": "Jász-Nagykun-Szolnok 4th", "name_hu": "Jász-Nagykun-Szolnok 4. választókerület"}
+      ]
+    },
+    {
+      "name": "Komárom-Esztergom",
+      "name_hu": "Komárom-Esztergom megye",
+      "seats": 3,
+      "constituencies": [
+        {"id": "KE-01", "name": "Komárom-Esztergom 1st", "name_hu": "Komárom-Esztergom 1. választókerület"},
+        {"id": "KE-02", "name": "Komárom-Esztergom 2nd", "name_hu": "Komárom-Esztergom 2. választókerület"},
+        {"id": "KE-03", "name": "Komárom-Esztergom 3rd", "name_hu": "Komárom-Esztergom 3. választókerület"}
+      ]
+    },
+    {
+      "name": "Nógrád",
+      "name_hu": "Nógrád megye",
+      "seats": 2,
+      "constituencies": [
+        {"id": "NO-01", "name": "Nógrád 1st", "name_hu": "Nógrád 1. választókerület"},
+        {"id": "NO-02", "name": "Nógrád 2nd", "name_hu": "Nógrád 2. választókerület"}
+      ]
+    },
+    {
+      "name": "Pest",
+      "name_hu": "Pest megye",
+      "seats": 12,
+      "constituencies": [
+        {"id": "PE-01", "name": "Pest 1st", "name_hu": "Pest 1. választókerület"},
+        {"id": "PE-02", "name": "Pest 2nd", "name_hu": "Pest 2. választókerület"},
+        {"id": "PE-03", "name": "Pest 3rd", "name_hu": "Pest 3. választókerület"},
+        {"id": "PE-04", "name": "Pest 4th", "name_hu": "Pest 4. választókerület"},
+        {"id": "PE-05", "name": "Pest 5th", "name_hu": "Pest 5. választókerület"},
+        {"id": "PE-06", "name": "Pest 6th", "name_hu": "Pest 6. választókerület"},
+        {"id": "PE-07", "name": "Pest 7th", "name_hu": "Pest 7. választókerület"},
+        {"id": "PE-08", "name": "Pest 8th", "name_hu": "Pest 8. választókerület"},
+        {"id": "PE-09", "name": "Pest 9th", "name_hu": "Pest 9. választókerület"},
+        {"id": "PE-10", "name": "Pest 10th", "name_hu": "Pest 10. választókerület"},
+        {"id": "PE-11", "name": "Pest 11th", "name_hu": "Pest 11. választókerület"},
+        {"id": "PE-12", "name": "Pest 12th", "name_hu": "Pest 12. választókerület"}
+      ]
+    },
+    {
+      "name": "Somogy",
+      "name_hu": "Somogy megye",
+      "seats": 3,
+      "constituencies": [
+        {"id": "SO-01", "name": "Somogy 1st", "name_hu": "Somogy 1. választókerület"},
+        {"id": "SO-02", "name": "Somogy 2nd", "name_hu": "Somogy 2. választókerület"},
+        {"id": "SO-03", "name": "Somogy 3rd", "name_hu": "Somogy 3. választókerület"}
+      ]
+    },
+    {
+      "name": "Szabolcs-Szatmár-Bereg",
+      "name_hu": "Szabolcs-Szatmár-Bereg megye",
+      "seats": 6,
+      "constituencies": [
+        {"id": "SZSZB-01", "name": "Szabolcs-Szatmár-Bereg 1st", "name_hu": "Szabolcs-Szatmár-Bereg 1. választókerület"},
+        {"id": "SZSZB-02", "name": "Szabolcs-Szatmár-Bereg 2nd", "name_hu": "Szabolcs-Szatmár-Bereg 2. választókerület"},
+        {"id": "SZSZB-03", "name": "Szabolcs-Szatmár-Bereg 3rd", "name_hu": "Szabolcs-Szatmár-Bereg 3. választókerület"},
+        {"id": "SZSZB-04", "name": "Szabolcs-Szatmár-Bereg 4th", "name_hu": "Szabolcs-Szatmár-Bereg 4. választókerület"},
+        {"id": "SZSZB-05", "name": "Szabolcs-Szatmár-Bereg 5th", "name_hu": "Szabolcs-Szatmár-Bereg 5. választókerület"},
+        {"id": "SZSZB-06", "name": "Szabolcs-Szatmár-Bereg 6th", "name_hu": "Szabolcs-Szatmár-Bereg 6. választókerület"}
+      ]
+    },
+    {
+      "name": "Tolna",
+      "name_hu": "Tolna megye",
+      "seats": 3,
+      "constituencies": [
+        {"id": "TO-01", "name": "Tolna 1st", "name_hu": "Tolna 1. választókerület"},
+        {"id": "TO-02", "name": "Tolna 2nd", "name_hu": "Tolna 2. választókerület"},
+        {"id": "TO-03", "name": "Tolna 3rd", "name_hu": "Tolna 3. választókerület"}
+      ]
+    },
+    {
+      "name": "Vas",
+      "name_hu": "Vas megye",
+      "seats": 3,
+      "constituencies": [
+        {"id": "VA-01", "name": "Vas 1st", "name_hu": "Vas 1. választókerület"},
+        {"id": "VA-02", "name": "Vas 2nd", "name_hu": "Vas 2. választókerület"},
+        {"id": "VA-03", "name": "Vas 3rd", "name_hu": "Vas 3. választókerület"}
+      ]
+    },
+    {
+      "name": "Veszprém",
+      "name_hu": "Veszprém megye",
+      "seats": 4,
+      "constituencies": [
+        {"id": "VE-01", "name": "Veszprém 1st", "name_hu": "Veszprém 1. választókerület"},
+        {"id": "VE-02", "name": "Veszprém 2nd", "name_hu": "Veszprém 2. választókerület"},
+        {"id": "VE-03", "name": "Veszprém 3rd", "name_hu": "Veszprém 3. választókerület"},
+        {"id": "VE-04", "name": "Veszprém 4th", "name_hu": "Veszprém 4. választókerület"}
+      ]
+    },
+    {
+      "name": "Zala",
+      "name_hu": "Zala megye",
+      "seats": 3,
+      "constituencies": [
+        {"id": "ZA-01", "name": "Zala 1st", "name_hu": "Zala 1. választókerület"},
+        {"id": "ZA-02", "name": "Zala 2nd", "name_hu": "Zala 2. választókerület"},
+        {"id": "ZA-03", "name": "Zala 3rd", "name_hu": "Zala 3. választókerület"}
+      ]
+    }
+  ]
+}

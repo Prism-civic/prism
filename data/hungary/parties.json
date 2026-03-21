@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "election": "2026 Hungarian Parliamentary Election",
+    "date": "2026-04-12",
+    "source": "Wikipedia, party websites, valasztas.hu",
+    "last_updated": "2026-03-21"
+  },
+  "parties": [
+    {
+      "id": "fidesz-kdnp",
+      "name": "Fidesz–KDNP",
+      "name_full": "Fidesz – Magyar Polgári Szövetség / Kereszténydemokrata Néppárt",
+      "name_en": "Fidesz – Hungarian Civic Alliance / Christian Democratic People's Party",
+      "leader": "Viktor Orbán",
+      "ideology": ["national conservatism", "Christian democracy", "illiberal democracy"],
+      "seats_2022": 135,
+      "colour": "#FF6600",
+      "status": "incumbent",
+      "eu_group": "Patriots for Europe",
+      "key_positions": {
+        "eu_relations": "Sovereignist; critical of EU migration policy and rule-of-law conditionality",
+        "migration": "Strongly anti-immigration; 'protect Hungary's borders and Christian identity'",
+        "economy": "Low flat tax, family subsidies (CSOK), strategic national industries",
+        "rule_of_law": "Critics cite democratic backsliding; government rejects characterisation",
+        "ukraine_russia": "Neutral stance; opposes weapons deliveries to Ukraine; maintains ties with Russia"
+      },
+      "sources": [
+        "https://www.fidesz.hu",
+        "https://en.wikipedia.org/wiki/Fidesz"
+      ]
+    },
+    {
+      "id": "tisza",
+      "name": "TISZA",
+      "name_full": "Tisztelet és Szabadság Párt",
+      "name_en": "Respect and Freedom Party",
+      "leader": "Péter Magyar",
+      "ideology": ["liberal conservatism", "pro-European", "anti-corruption"],
+      "seats_2022": 0,
+      "colour": "#0066CC",
+      "status": "challenger",
+      "eu_group": "European People's Party (observer)",
+      "key_positions": {
+        "eu_relations": "Pro-EU; seeks deeper integration and restoration of EU funds",
+        "migration": "Pragmatic; rule-based approach, no mass deportation rhetoric",
+        "economy": "Anti-corruption focus; transparent public procurement; wage growth",
+        "rule_of_law": "Restore judicial independence; free public media; anti-oligarch",
+        "ukraine_russia": "Pro-Ukraine; supports EU/NATO position"
+      },
+      "sources": [
+        "https://tiszapart.hu",
+        "https://en.wikipedia.org/wiki/Tisza_Party"
+      ]
+    },
+    {
+      "id": "mi-hazank",
+      "name": "Mi Hazánk",
+      "name_full": "Mi Hazánk Mozgalom",
+      "name_en": "Our Homeland Movement",
+      "leader": "László Toroczkai",
+      "ideology": ["far-right", "ultranationalism", "social conservatism"],
+      "seats_2022": 6,
+      "colour": "#006400",
+      "status": "minor",
+      "eu_group": "None (non-attached)",
+      "key_positions": {
+        "eu_relations": "Eurosceptic; would hold referendum on EU membership",
+        "migration": "Zero immigration; 'Hungary for Hungarians'",
+        "economy": "Economic nationalism; protectionism",
+        "rule_of_law": "Opposes 'globalist' institutions",
+        "ukraine_russia": "Pro-Russia; opposes NATO support for Ukraine"
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Our_Homeland_Movement"
+      ]
+    },
+    {
+      "id": "dk",
+      "name": "DK",
+      "name_full": "Demokratikus Koalíció",
+      "name_en": "Democratic Coalition",
+      "leader": "Klára Dobrev",
+      "ideology": ["social democracy", "pro-European", "liberal"],
+      "seats_2022": 16,
+      "colour": "#CC0000",
+      "status": "minor",
+      "eu_group": "Progressive Alliance of Socialists and Democrats",
+      "key_positions": {
+        "eu_relations": "Strongly pro-EU; restore Hungary's standing in European institutions",
+        "migration": "Humanist; follow EU asylum framework",
+        "economy": "Progressive taxation; stronger welfare state",
+        "rule_of_law": "Restore constitutional democracy; independent courts",
+        "ukraine_russia": "Pro-Ukraine; pro-sanctions on Russia"
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)"
+      ]
+    },
+    {
+      "id": "mkkp",
+      "name": "MKKP",
+      "name_full": "Magyar Kétfarkú Kutya Párt",
+      "name_en": "Hungarian Two-Tailed Dog Party",
+      "leader": "Gergely Kovács (Geri)",
+      "ideology": ["satirical", "anti-corruption", "direct democracy"],
+      "seats_2022": 0,
+      "colour": "#FF1493",
+      "status": "minor",
+      "eu_group": "None",
+      "key_positions": {
+        "eu_relations": "Pro-EU with satirical framing",
+        "migration": "Satirical; 'free beer for everyone'",
+        "economy": "Direct democracy; citizen referendums on key decisions",
+        "rule_of_law": "Anti-corruption; transparency",
+        "ukraine_russia": "Pro-Ukraine (stated position beneath satire)"
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hungarian_Two-Tailed_Dog_Party"
+      ]
+    }
+  ]
+}
