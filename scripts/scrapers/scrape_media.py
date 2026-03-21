@@ -73,8 +73,19 @@ def search_atlatszo(session, name):
 
     soup = BeautifulSoup(resp.text, 'lxml')
 
-    # Átlátszó is WordPress — standard article structure
-    for article in soup.find_all('article'):
+    # Átlátszó is WordPress — try standard article tags and also class variants
+    all_articles = soup.find_all('article')
+    if not all_articles:
+        # Fallback: look for divs that look like article cards
+        all_articles = soup.find_all('div', class_=re.compile(r'(post|article|entry|card|item)', re.I))
+
+    name_lower = name.lower()
+    name_parts = name_lower.split()
+
+    candidate_items = []  # items with confirmed name match
+    proximity_items = []  # fallback items without confirmed name match
+
+    for article in all_articles:
         title_tag = article.find(['h2', 'h3', 'h1'])
         link_tag = article.find('a', href=True)
         date_tag = article.find('time')
@@ -85,22 +96,41 @@ def search_atlatszo(session, name):
         date = date_tag.get('datetime', date_tag.get_text(strip=True))[:10] if date_tag else None
         excerpt = excerpt_tag.get_text(strip=True)[:300] if excerpt_tag else None
 
-        if title and url_art:
-            # Relevance check: name must appear in title or excerpt
-            name_lower = name.lower()
-            name_parts = name_lower.split()
-            text_check = ((title or '') + ' ' + (excerpt or '')).lower()
-            if any(part in text_check for part in name_parts if len(part) > 3):
-                items.append({
-                    'title': title,
-                    'url': url_art,
-                    'date': date,
-                    'excerpt': excerpt,
-                    'source': 'atlatszo.hu',
-                    'weight': 'high',
-                    'confidence': 'high',
-                    'tags': extract_tags(article),
-                })
+        if not title or not url_art:
+            continue
+
+        text_check = ((title or '') + ' ' + (excerpt or '')).lower()
+        name_matched = any(part in text_check for part in name_parts if len(part) > 3)
+
+        if name_matched:
+            candidate_items.append({
+                'title': title,
+                'url': url_art,
+                'date': date,
+                'excerpt': excerpt,
+                'source': 'atlatszo.hu',
+                'weight': 'high',
+                'confidence': 'high',
+                'tags': extract_tags(article),
+            })
+        else:
+            proximity_items.append({
+                'title': title,
+                'url': url_art,
+                'date': date,
+                'excerpt': excerpt,
+                'source': 'atlatszo.hu',
+                'weight': 'high',
+                'confidence': 'low',
+                'tags': extract_tags(article),
+                'note': 'name match not confirmed — proximity result',
+            })
+
+    if candidate_items:
+        items.extend(candidate_items)
+    else:
+        # No name-matched results — save up to 3 proximity results so we have something to work with
+        items.extend(proximity_items[:3])
 
     return items
 

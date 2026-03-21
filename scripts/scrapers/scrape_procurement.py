@@ -26,62 +26,73 @@ from common import (make_session, load_candidates, out_path, load_existing,
 
 RATE_LIMIT = 5.0
 
-PROCUREMENT_SOURCES = [
-    {
-        'key': 'ekr',
-        'name': 'EKR — Elektronikus Közbeszerzési Rendszer',
-        'search_url': 'https://ekr.gov.hu/portal/hu/search/results?query={query}',
-        'base': 'https://ekr.gov.hu',
-        'weight': 'high',
-    },
-    {
-        'key': 'kozbeszerzesi_hatosag',
-        'name': 'Közbeszerzési Hatóság',
-        'search_url': 'https://www.kozbeszerzesi.hu/search?q={query}',
-        'base': 'https://www.kozbeszerzesi.hu',
-        'weight': 'high',
-    },
-]
 
-
-def search_ekr(session, name):
-    """Search EKR procurement database."""
+def _parse_procurement_results(soup, name, source_domain, base_url):
+    """Parse procurement search results from a BeautifulSoup object."""
     items = []
-    url = f'https://ekr.gov.hu/portal/hu/search/results?query={quote_plus(name)}'
-
-    try:
-        resp = session.get(url, timeout=30)
-        resp.raise_for_status()
-    except Exception as e:
-        log.warning(f'EKR search failed for {name}: {e}')
-        return items
-
-    soup = BeautifulSoup(resp.text, 'lxml')
     name_lower = name.lower()
     name_parts = [p for p in name_lower.split() if len(p) > 3]
 
-    for result in soup.find_all(['div', 'tr', 'article'], class_=re.compile(r'(result|row|item|tender)', re.I)):
+    # Try article and div.result elements
+    for result in soup.find_all(['article', 'div'], class_=re.compile(r'(result|notice|item|tender|record)', re.I)):
         text = result.get_text(separator=' ', strip=True)
         link = result.find('a', href=True)
-
         if len(text) < 20:
             continue
-
         text_lower = text.lower()
         if any(part in text_lower for part in name_parts):
             href = link['href'] if link else None
             if href and not href.startswith('http'):
-                href = 'https://ekr.gov.hu' + href
-
+                href = base_url + href
             items.append({
                 'type': 'procurement_record',
                 'text': text[:300],
                 'url': href,
-                'source': 'ekr.gov.hu',
+                'source': source_domain,
                 'confidence': 'high',
                 'weight': 'high',
-                'note': 'Public procurement record — direct public money connection'
+                'note': 'Public procurement record — direct public money connection',
             })
+
+    return items
+
+
+def search_ekr(session, name):
+    """Search procurement databases for candidate connections.
+
+    Primary: kozbeszerzesi.hu (Procurement Authority — server-side rendered)
+    Fallback: nettop.gov.hu (national transparency portal)
+    Note: ekr.gov.hu is JS-rendered and returns empty results server-side.
+    """
+    items = []
+
+    # Primary — kozbeszerzesi.hu
+    try:
+        url = f'https://www.kozbeszerzesi.hu/search?q={quote_plus(name)}'
+        resp = session.get(url, timeout=30)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.text, 'lxml')
+            found = _parse_procurement_results(soup, name, 'kozbeszerzesi.hu', 'https://www.kozbeszerzesi.hu')
+            items.extend(found)
+            if found:
+                log.debug(f'kozbeszerzesi.hu: {len(found)} results for {name}')
+    except Exception as e:
+        log.debug(f'kozbeszerzesi.hu search failed for {name}: {e}')
+
+    # Fallback — TED (Tenders Electronic Daily) EU procurement database
+    # Covers Hungary and is publicly searchable server-side
+    if not items:
+        try:
+            url = f'https://ted.europa.eu/en/search/result?q={quote_plus(name)}&scope=WINNER'
+            resp = session.get(url, timeout=30)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, 'lxml')
+                found = _parse_procurement_results(soup, name, 'ted.europa.eu', 'https://ted.europa.eu')
+                items.extend(found)
+                if found:
+                    log.debug(f'TED: {len(found)} results for {name}')
+        except Exception as e:
+            log.debug(f'TED search failed for {name}: {e}')
 
     return items
 
@@ -117,7 +128,7 @@ def run(limit=None, party_filter=None, skip_existing=True):
         try:
             items = search_ekr(session, search_name)
 
-            record = make_intel_record(kpn_id, name, 'ekr.gov.hu', items)
+            record = make_intel_record(kpn_id, name, 'kozbeszerzesi.hu', items)
             record['party'] = cand.get('party')
             record['constituency'] = cand.get('constituency_name_en')
             save_intel(out, record)

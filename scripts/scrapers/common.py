@@ -20,9 +20,10 @@ INTEL_BASE = Path(__file__).parent.parent.parent / 'data' / 'hungary' / 'intelli
 CANDIDATES_JSON = Path(__file__).parent.parent.parent / 'data' / 'hungary' / 'candidates.json'
 
 HEADERS = {
-    'User-Agent': 'Prism-CivicIntelligence/0.1 (https://github.com/Prism-civic/prism; research/public-data)',
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
     'Accept-Language': 'hu-HU,hu;q=0.9,en;q=0.8',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
 }
 
 def make_session(rate_limit_s=2.0):

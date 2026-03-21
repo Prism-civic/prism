@@ -24,77 +24,79 @@ sys.path.insert(0, str(Path(__file__).parent))
 from common import (make_session, load_candidates, out_path, load_existing,
                     save_intel, make_intel_record, name_to_search, log)
 
-BASE_URL = 'https://www.e-cegjegyzek.hu'
-SEARCH_URL = 'https://www.e-cegjegyzek.hu/?cegkereses'
 RATE_LIMIT = 5.0
 
+COMPANY_KEYWORDS = ['kft', 'zrt', 'bt', 'rt', 'nyrt', 'alapítvány', 'egyesület', 'szövetkezet']
 
-def search_business_registry(session, name):
-    """Search for person as company director/officer."""
+
+def _search_ceginfo(session, name):
+    """Search céginfo.hu for companies bearing the candidate's surname.
+
+    Uses the POST /cegkereso/rapid endpoint (server-side rendered, no JS required).
+    Searches by surname to find companies the candidate may be associated with.
+    Note: this is a company-name search, not a person-as-director search —
+    full director lookup requires login. Match confidence is therefore 'low'.
+    """
     items = []
-    # e-cegjegyzek uses POST form or GET params
-    # Try GET with name param
-    search_url = f'{BASE_URL}/?cegkereses&cegnev={quote_plus(name)}'
+    # Use surname only (first token in Hungarian surname-first format)
+    parts = name.strip().split()
+    surname = parts[0] if parts else name
 
     try:
-        resp = session.get(search_url, timeout=30)
-        resp.raise_for_status()
+        resp = session.post(
+            'https://ceginfo.hu/cegkereso/rapid',
+            data={'rapid': surname, 'honeypot': ''},
+            headers={'Referer': 'https://www.ceginfo.hu/', 'Content-Type': 'application/x-www-form-urlencoded'},
+            timeout=30,
+            allow_redirects=True,
+        )
+        if resp.status_code not in (200, 301, 302):
+            return items
     except Exception as e:
-        log.warning(f'Business registry search failed for {name}: {e}')
+        log.debug(f'Céginfo search failed for {name}: {e}')
         return items
 
     soup = BeautifulSoup(resp.text, 'lxml')
+    # Results come as h2/h3 headings with company names
+    for heading in soup.find_all(['h2', 'h3']):
+        text = heading.get_text(strip=True)
+        text_lower = text.lower()
+        if not text or len(text) < 5 or len(text) > 200:
+            continue
+        if not any(kw in text_lower for kw in COMPANY_KEYWORDS):
+            continue
+        # Find nearest link
+        link = heading.find('a', href=True) or heading.find_next('a', href=True)
+        href = link['href'] if link else None
+        if href and not href.startswith('http'):
+            href = 'https://ceginfo.hu' + href
+        items.append({
+            'type': 'company_name_match',
+            'text': text,
+            'url': href,
+            'source': 'ceginfo.hu',
+            'confidence': 'low',
+            'weight': 'medium',
+            'note': f'Company name contains surname "{surname}" — manual verification required to confirm directorship',
+        })
+    return items
 
-    # Look for company results
-    for row in soup.find_all(['tr', 'li', 'div'], class_=re.compile(r'(ceg|company|result|row)', re.I)):
-        text = row.get_text(separator=' ', strip=True)
-        link = row.find('a', href=True)
 
-        if len(text) > 10 and len(text) < 300:
-            company_url = None
-            if link:
-                href = link['href']
-                company_url = href if href.startswith('http') else BASE_URL + href
+def search_business_registry(session, name):
+    """Search for company connections via céginfo.hu.
 
-            items.append({
-                'type': 'company_directorship',
-                'text': text[:200],
-                'url': company_url,
-                'source': 'e-cegjegyzek.hu',
-                'confidence': 'medium',
-                'weight': 'medium',
-                'note': 'Requires manual verification — registry search result'
-            })
-
-    # Also search for the person directly (not company name)
-    # e-cegjegyzek has a "személy keresés" (person search) option
-    person_url = f'{BASE_URL}/?szemelykereses&nev={quote_plus(name)}'
+    e-cegjegyzek.hu is a JS SPA and returns no server-side data.
+    opten.hu requires login for search results.
+    céginfo.hu allows surname-based company search via POST (no login needed).
+    """
+    items = []
     try:
-        resp2 = session.get(person_url, timeout=30)
-        if resp2.status_code == 200:
-            soup2 = BeautifulSoup(resp2.text, 'lxml')
-            for row in soup2.find_all(['tr', 'li', 'div'], class_=re.compile(r'(szemely|person|result|row)', re.I)):
-                text = row.get_text(separator=' ', strip=True)
-                if len(text) > 10 and len(text) < 300:
-                    # Check if this looks like a real result (has company reference)
-                    if any(kw in text.lower() for kw in ['kft', 'zrt', 'bt', 'rt', 'nyrt', 'alapítvány', 'egyesület']):
-                        link = row.find('a', href=True)
-                        company_url = None
-                        if link:
-                            href = link['href']
-                            company_url = href if href.startswith('http') else BASE_URL + href
-                        items.append({
-                            'type': 'person_company_link',
-                            'text': text[:200],
-                            'url': company_url,
-                            'source': 'e-cegjegyzek.hu',
-                            'confidence': 'high',
-                            'weight': 'medium',
-                            'note': 'Direct person-company link from registry'
-                        })
+        ceginfo_items = _search_ceginfo(session, name)
+        items.extend(ceginfo_items)
+        if ceginfo_items:
+            log.debug(f'Céginfo found {len(ceginfo_items)} results for {name}')
     except Exception as e:
-        log.debug(f'Person search fallback failed: {e}')
-
+        log.debug(f'Business registry source failed for {name}: {e}')
     return items
 
 
