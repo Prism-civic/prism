@@ -14,11 +14,34 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Prism",
+    default: "Prism — Civic Intelligence for Everyone",
     template: "%s | Prism",
   },
   description:
-    "Prism is a civic intelligence network built to stay transparent, open, and owned by no one.",
+    "Free, open-source civic intelligence. Understand politics and policy without bias, tracking, or hidden persuasion.",
+  openGraph: {
+    type: "website",
+    url: "https://prism-civic.vercel.app",
+    title: "Prism — Civic Intelligence for Everyone",
+    description:
+      "Free, open-source civic intelligence. Understand politics and policy without bias, tracking, or hidden persuasion.",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Prism — Civic Intelligence for Everyone",
+      },
+    ],
+    siteName: "Prism",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Prism — Civic Intelligence for Everyone",
+    description:
+      "Free, open-source civic intelligence. Understand politics and policy without bias, tracking, or hidden persuasion.",
+    images: ["/og-image.png"],
+  },
 };
 
 export default function RootLayout({

@@ -39,6 +39,24 @@ Expected live payload shape:
 }
 ```
 
+### Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Prism-civic/prism)
+
+**Manual deploy:**
+
+```bash
+npm install && npm run build && vercel --prod
+```
+
+**Environment variables:**
+
+| Variable | Required | Description |
+|---|---|---|
+| `PRISM_STATS_ENDPOINT` | No | URL of a live stats JSON endpoint. If omitted the site uses the bundled mock snapshot. |
+
+---
+
 ### Principles kept in Phase 1
 
 - No cookies
