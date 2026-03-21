@@ -64,6 +64,17 @@ Layer D — Delivery
   methodology pages, and public dashboards.
 ```
 
+## UK Country Mind Dev Status
+
+The repo currently includes a pre-alpha UK Country Mind backend under [`src/prism_country_mind`](/home/barabonc/.openclaw/workspace/projects/prism/src/prism_country_mind).
+
+Current local capabilities include:
+- deterministic refresh and signed evidence-pack generation from the UK source registry
+- read APIs for health, topics, packs, pack explainers, and transparency-log access
+- read-only CLI commands for listing packs, showing a pack, and filtering transparency-log entries
+
+Developer runbook: [`docs/COUNTRY_MIND.md`](/home/barabonc/.openclaw/workspace/projects/prism/docs/COUNTRY_MIND.md)
+
 ---
 
 ## Country Chapter Model

@@ -28,12 +28,17 @@ The app serves:
 - `GET /topics`
 - `GET /packs`
 - `GET /packs/{id}`
+- `GET /packs/{id}/explain`
+- `GET /explain?topic=<topic>`
 - `GET /transparency-log`
 
 API notes:
 - `GET /health` now distinguishes process health from readiness via `status`, `ready`, `checks`, and `inventory`.
-- Collection endpoints return consistent envelopes with `count` plus `topics`, `packs`, or `entries`.
-- Invalid topic filters and missing packs return structured error payloads in the FastAPI `detail` field.
+- Collection endpoints return consistent envelopes with `count`, applied `filters` where relevant, plus `topics`, `packs`, or `entries`.
+- `GET /packs` supports explicit filtering via `topic`, `generated_after`, `generated_before`, `limit`, and `newest_first`.
+- `GET /transparency-log` supports deterministic filtering via `subject_id` and `entry_type`.
+- Explain responses are deterministic views derived from stored evidence-pack fields, snapshots, and transparency log references. They do not use LLM generation or hidden scoring.
+- Invalid topic filters, invalid pack filters, and missing packs return structured error payloads in the FastAPI `detail` field.
 
 ## Run refresh/bootstrap
 
@@ -60,6 +65,43 @@ PYTHONPATH=src .venv/bin/python -m prism_country_mind refresh \
 Operational notes:
 - Refresh is strict by default: if any required source fetch fails, pack generation is aborted and the CLI exits non-zero with structured error details.
 - Re-running refresh with the same snapshots and generation timestamps is idempotent: existing packs and transparency log entries are reused instead of duplicated.
+
+## Read-only CLI commands
+
+List packs from storage:
+
+```bash
+PYTHONPATH=src .venv/bin/python -m prism_country_mind list-packs
+```
+
+Filter packs by topic and generation window:
+
+```bash
+PYTHONPATH=src .venv/bin/python -m prism_country_mind list-packs \
+  --topic housing \
+  --generated-after 2026-03-20T00:00:00Z \
+  --limit 5
+```
+
+Show a single pack:
+
+```bash
+PYTHONPATH=src .venv/bin/python -m prism_country_mind show-pack <pack_id>
+```
+
+Inspect transparency log entries:
+
+```bash
+PYTHONPATH=src .venv/bin/python -m prism_country_mind list-transparency-log \
+  --subject-id <pack_id> \
+  --entry-type evidence-pack
+```
+
+CLI notes:
+- Read-only commands emit stable JSON envelopes so scripts can parse them directly.
+- `list-packs` returns `packs`, `count`, and `filters`.
+- `show-pack` returns a single `pack` envelope.
+- `list-transparency-log` returns `entries`, `count`, and `filters`.
 
 ## Reproducible local smoke workflow
 
@@ -117,3 +159,5 @@ Clean-checkout CI uses:
 - Python 3.12
 - `python -m pip install -e .`
 - `bash scripts/test_country_mind.sh`
+
+The test script falls back to `python3` automatically when `python` is not present on `PATH`.
