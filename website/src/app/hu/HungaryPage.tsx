@@ -371,6 +371,7 @@ export function HungaryPage() {
         candidate={selectedCandidate}
         onClose={closeDrawer}
         lang={lang}
+        userProfile={userProfile}
       />
 
       {/* Footer */}

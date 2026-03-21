@@ -2,6 +2,9 @@
 
 import { useEffect, useState, useCallback } from "react";
 import { EvidenceCard } from "./EvidenceCard";
+import { AlignmentRadar } from "./AlignmentRadar";
+import type { TraitScores } from "./AlignmentRadar";
+import partyPositions from "../data/hu-party-positions.json";
 
 /**
  * CandidateDrawer — slides up from the bottom when a candidate is selected.
@@ -67,6 +70,7 @@ type Props = {
   candidate: Candidate | null;
   onClose: () => void;
   lang: "hu" | "en";
+  userProfile?: TraitScores | null;
 };
 
 const strings = {
@@ -100,7 +104,7 @@ const strings = {
   },
 };
 
-export function CandidateDrawer({ candidate, onClose, lang }: Props) {
+export function CandidateDrawer({ candidate, onClose, lang, userProfile }: Props) {
   const [intel, setIntel] = useState<IntelResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -201,6 +205,22 @@ export function CandidateDrawer({ candidate, onClose, lang }: Props) {
             </button>
           </div>
 
+          {userProfile && candidate.party_id && (partyPositions.parties as Record<string, TraitScores>)[candidate.party_id] && (
+            <div className="mt-3 flex items-center gap-4">
+              <AlignmentRadar
+                userScores={userProfile}
+                partyScores={(partyPositions.parties as Record<string, TraitScores>)[candidate.party_id]!}
+                size={120}
+                lang={lang}
+                className="shrink-0"
+              />
+              <p className="text-xs text-muted/70 leading-relaxed">
+                {lang === "hu"
+                  ? "Az igazodási radar a te véleményed és a párt álláspontja közötti egyezést mutatja."
+                  : "The alignment radar shows how closely your views match this party's positions."}
+              </p>
+            </div>
+          )}
           <a
             href={`https://vtr.valasztas.hu/ogy2026/jelolo-szervezetek/jeloltek/${candidate.nvi_id}`}
             target="_blank"
