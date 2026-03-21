@@ -1,9 +1,10 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import partiesData from "../../data/hungary/parties.json";
 import candidatesData from "../../data/hungary/candidates.json";
+import { CandidateDrawer } from "../../components/CandidateDrawer";
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -59,6 +60,8 @@ const strings = {
     ballot_prefix: "Szavazólap sorszám",
     registered_label: "Bejegyezve",
     no_candidates: "Nincs aktív jelölt",
+    view_record: "Nyilvános adatok megtekintése",
+    view_record_icon: "›",
     sources_label: "Forrás",
     sources: "NVI (vtr.valasztas.hu), parlament.hu, párthonlapok",
     disclaimer:
@@ -88,6 +91,8 @@ const strings = {
     ballot_prefix: "Ballot no.",
     registered_label: "Registered",
     no_candidates: "No active candidates",
+    view_record: "View public record",
+    view_record_icon: "›",
     sources_label: "Sources",
     sources: "NVI (vtr.valasztas.hu), parliament.hu, party websites",
     disclaimer:
@@ -135,6 +140,8 @@ function partyBadgeStyle(partyId: string | null) {
 export function HungaryPage() {
   const [lang, setLang] = useState<Lang>("hu");
   const [selectedCounty, setSelectedCounty] = useState<string>("");
+  const [selectedCandidate, setSelectedCandidate] = useState<Candidate | null>(null);
+  const closeDrawer = useCallback(() => setSelectedCandidate(null), []);
 
   useEffect(() => {
     try {
@@ -142,6 +149,12 @@ export function HungaryPage() {
       if (saved === "en" || saved === "hu") setLang(saved);
     } catch { /* ignore */ }
   }, []);
+
+  // Suppress body scroll when drawer is open
+  useEffect(() => {
+    document.body.style.overflow = selectedCandidate ? "hidden" : "";
+    return () => { document.body.style.overflow = ""; };
+  }, [selectedCandidate]);
 
   function toggleLang() {
     const next: Lang = lang === "hu" ? "en" : "hu";
@@ -294,8 +307,13 @@ export function HungaryPage() {
                     {con.candidates.map((cand) => (
                       <li
                         key={cand.nvi_id}
-                        className="flex items-center gap-3 rounded-xl border border-line/40 bg-panel/60 px-3 py-2.5"
+                        className="flex items-center gap-3 rounded-xl border border-line/40 bg-panel/60 px-3 py-2.5 cursor-pointer hover:border-line/70 hover:bg-panel/80 transition group"
                         style={partyBadgeStyle(cand.party_id)}
+                        onClick={() => setSelectedCandidate(cand)}
+                        role="button"
+                        tabIndex={0}
+                        onKeyDown={(e) => e.key === "Enter" && setSelectedCandidate(cand)}
+                        aria-label={`${cand.name} — ${t.view_record}`}
                       >
                         {/* Ballot number */}
                         <span className="shrink-0 w-6 h-6 rounded-full bg-white/5 border border-line/40 flex items-center justify-center text-xs font-bold text-muted">
@@ -310,16 +328,10 @@ export function HungaryPage() {
                           <p className="text-xs text-muted">{cand.party}</p>
                         </div>
 
-                        {/* NVI source link */}
-                        <a
-                          href={`https://vtr.valasztas.hu/ogy2026/jelolo-szervezetek/jeloltek/${cand.nvi_id}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="shrink-0 text-xs text-muted/50 hover:text-muted transition"
-                          aria-label="Official NVI record"
-                        >
-                          ↗
-                        </a>
+                        {/* View record cue */}
+                        <span className="shrink-0 text-xs text-muted/40 group-hover:text-muted/70 transition">
+                          {t.view_record_icon}
+                        </span>
                       </li>
                     ))}
                   </ul>
@@ -329,6 +341,13 @@ export function HungaryPage() {
           </div>
         )}
       </section>
+
+      {/* Candidate Drawer */}
+      <CandidateDrawer
+        candidate={selectedCandidate}
+        onClose={closeDrawer}
+        lang={lang}
+      />
 
       {/* Footer */}
       <footer className="mb-4 rounded-[1.75rem] border border-line/80 bg-panel/70 px-5 py-5 text-xs text-muted backdrop-blur space-y-2">
