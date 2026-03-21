@@ -64,6 +64,12 @@ export default async function Home() {
           <a className="rounded-full px-3 py-2 hover:bg-white/5 hover:text-foreground" href="#contribute">
             Contribute
           </a>
+          <a
+            className="rounded-full border border-white/10 px-3 py-2 text-xs font-medium hover:bg-white/5 hover:text-foreground hover:border-white/20 transition"
+            href="/hu"
+          >
+            🇭🇺 Hungary 2026
+          </a>
         </nav>
       </header>
 
