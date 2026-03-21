@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     "Free, open-source civic intelligence. Understand politics and policy without bias, tracking, or hidden persuasion.",
   openGraph: {
     type: "website",
-    url: "https://prism-civic.vercel.app",
+    url: "https://prism-sooty-chi.vercel.app",
     title: "Prism — Civic Intelligence for Everyone",
     description:
       "Free, open-source civic intelligence. Understand politics and policy without bias, tracking, or hidden persuasion.",
