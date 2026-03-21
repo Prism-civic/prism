@@ -215,9 +215,9 @@ Prism grows by word of mouth and community contribution. If you believe in the m
 
 ## Founding Documents
 
-- `docs/blueprint.md` — Original product and infrastructure blueprint (March 2026)
-- `docs/expansion-strategy.md` — Strategic expansion, localization, and growth strategy
-- `docs/node-protocol.md` — Deep node protocol, identity, reputation, and global rollout
+The original steering briefs from March 2026 are preserved as historical reference in [`docs/archive/founding-briefs/`](docs/archive/founding-briefs/).
+
+They are not the current source of truth. Current authoritative documentation lives in the markdown files in `docs/` and root files such as `ROADMAP.md`, `DECISIONS.md`, and `CONTRIBUTING.md`.
 
 ---
 
