@@ -34,6 +34,24 @@ def build_parser() -> argparse.ArgumentParser:
     serve = subparsers.add_parser("serve", help="Start the FastAPI service")
     serve.add_argument("--host", default="127.0.0.1", help="Host interface to bind")
     serve.add_argument("--port", type=int, default=8000, help="Port to bind")
+
+    list_packs = subparsers.add_parser("list-packs", help="List stored packs")
+    list_packs.add_argument("--topic", choices=["housing", "nhs", "cost_of_living"], help="Filter by topic")
+    list_packs.add_argument("--generated-after", help="Only include packs generated at or after this timestamp")
+    list_packs.add_argument("--generated-before", help="Only include packs generated at or before this timestamp")
+    list_packs.add_argument("--limit", type=int, help="Maximum number of packs to return")
+    list_packs.add_argument(
+        "--oldest-first",
+        action="store_true",
+        help="Return oldest packs first instead of newest first",
+    )
+
+    show_pack = subparsers.add_parser("show-pack", help="Show a single stored pack")
+    show_pack.add_argument("pack_id", help="Pack identifier")
+
+    list_log = subparsers.add_parser("list-transparency-log", help="List transparency log entries")
+    list_log.add_argument("--subject-id", help="Filter by subject identifier")
+    list_log.add_argument("--entry-type", help="Filter by transparency entry type")
     return parser
 
 
@@ -60,6 +78,41 @@ def main(argv: list[str] | None = None) -> int:
             uvicorn.run(create_app(service), host=args.host, port=args.port)
             return 0
 
+        if args.command == "list-packs":
+            result = service.query_packs(
+                topic=args.topic,
+                generated_after=args.generated_after,
+                generated_before=args.generated_before,
+                limit=args.limit,
+                newest_first=not args.oldest_first,
+            )
+            output_json(
+                {
+                    "packs": [pack.to_dict() for pack in result["packs"]],
+                    "count": len(result["packs"]),
+                    "filters": result["filters"],
+                }
+            )
+            return 0
+
+        if args.command == "show-pack":
+            pack = service.get_pack(args.pack_id)
+            if pack is None:
+                raise CountryMindError(f"Pack not found: {args.pack_id}")
+            output_json({"pack": pack.to_dict()})
+            return 0
+
+        if args.command == "list-transparency-log":
+            result = service.query_transparency_log(subject_id=args.subject_id, entry_type=args.entry_type)
+            output_json(
+                {
+                    "entries": [entry.to_dict() for entry in result["entries"]],
+                    "count": len(result["entries"]),
+                    "filters": result["filters"],
+                }
+            )
+            return 0
+
         parser.error(f"Unknown command: {args.command}")
         return 1
     except RefreshFailedError as exc:
@@ -84,6 +137,11 @@ def main(argv: list[str] | None = None) -> int:
     except CountryMindError as exc:
         print(json.dumps({"error": str(exc)}, indent=2, sort_keys=True), file=sys.stderr)
         return 1
+
+
+def output_json(payload: dict[str, object]) -> None:
+    print(json.dumps(payload, indent=2, sort_keys=True))
+
 
 def build_config(args: argparse.Namespace) -> CountryMindConfig:
     config = CountryMindConfig()

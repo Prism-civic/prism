@@ -144,7 +144,7 @@ class PackStore:
                         evidence=tuple(payload["evidence"]),
                     )
                 )
-        return packs
+        return sorted(packs, key=lambda item: (item.generated_at, item.pack_id))
 
     def get(self, pack_id: str) -> EvidencePack | None:
         for pack in self.list():
@@ -171,12 +171,20 @@ class TransparencyLogStore:
             handle.write(json.dumps(entry.to_dict(), sort_keys=True) + "\n")
         return path
 
-    def list_entries(self) -> list[TransparencyLogEntry]:
+    def list_entries(
+        self,
+        subject_id: str | None = None,
+        entry_type: str | None = None,
+    ) -> list[TransparencyLogEntry]:
         if not self.root.exists():
             return []
         entries: list[TransparencyLogEntry] = []
         for path in sorted(self.root.glob("*.json")):
             payload = json.loads(path.read_text(encoding="utf-8"))
+            if subject_id is not None and payload["subject_id"] != subject_id:
+                continue
+            if entry_type is not None and payload["entry_type"] != entry_type:
+                continue
             entries.append(
                 TransparencyLogEntry(
                     schema_version=payload["schema_version"],
