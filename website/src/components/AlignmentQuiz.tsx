@@ -28,7 +28,7 @@ const QUESTIONS: Record<Trait, { hu: string; en: string }> = {
     en: "Hungary should support Ukraine's EU and NATO accession.",
   },
   kornyezet: {
-    hu: 'A környezetvédelem és a klímavédelem kiemelt politikai prioritás kell, hogy legyen.',
+    hu: 'A környezetvédelem kiemelt politikai prioritás kell, hogy legyen.',
     en: 'Environmental protection and climate action are among the most important political priorities.',
   },
 };
