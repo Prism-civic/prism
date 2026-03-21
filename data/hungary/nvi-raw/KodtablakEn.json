@@ -1,0 +1,1889 @@
+{
+  "PvOnHeader" : {
+    "generated" : "2026-03-21T17:00:00.07464578+01:00",
+    "val_dat" : "2026-04-12T00:00:00+02:00",
+    "vl_id" : 467,
+    "nvv_id" : 542
+  },
+  "list" : [ {
+    "tabla" : "ALLAPOT",
+    "kod" : "0",
+    "megnev" : "Registration submitted"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "1",
+    "megnev" : "Registered (final)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "11",
+    "megnev" : "Nominating organization deleted"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "12",
+    "megnev" : "Received recommendation forms"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "13",
+    "megnev" : "Nomination sheets not submitted by the deadline"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "14",
+    "megnev" : "Nomination sheets submitted by the deadline"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "15",
+    "megnev" : "Does not wish to participate"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "16",
+    "megnev" : "Requested nomination sheet"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "17",
+    "megnev" : "Request for nomination sheet rejected"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "18",
+    "megnev" : "List deleted from the register (not final)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "19",
+    "megnev" : "List deleted from the register"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "2",
+    "megnev" : "Registration refused (not final)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "20",
+    "megnev" : "Cancellation under appeal"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "21",
+    "megnev" : "Under appeal"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "22",
+    "megnev" : "Dropped"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "23",
+    "megnev" : "Announced again"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "24",
+    "megnev" : "Registration rejected (not final)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "25",
+    "megnev" : "Registration rejected"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "26",
+    "megnev" : "Does not nominate a list"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "27",
+    "megnev" : "Dropped out (Withdrawn)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "28",
+    "megnev" : "Candidate dropped out (Deleted from the register)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "29",
+    "megnev" : "Technically deleted"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "3",
+    "megnev" : "Deleted from the register"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "33",
+    "megnev" : "Removed"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "333",
+    "megnev" : "Deleted"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "34",
+    "megnev" : "Request withdrawn"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "4",
+    "megnev" : "Registration refused"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "5",
+    "megnev" : "Registered (not final)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "6",
+    "megnev" : "Deleted from the register (not final)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "7",
+    "megnev" : "Candidate dropped out (Resigned)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "8",
+    "megnev" : "Candidate dropped (Deceased)"
+  }, {
+    "tabla" : "ALLAPOT",
+    "kod" : "9",
+    "megnev" : "Candidate dropped out (Lost eligibility)"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "0",
+    "megnev" : "Not cancelled"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "1",
+    "megnev" : "Withdrawn by the Election Commission"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "2",
+    "megnev" : "Lack of required number of candidates"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "3",
+    "megnev" : "No registered voter on the electoral roll"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "4",
+    "megnev" : "Announcement annulled"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "5",
+    "megnev" : "Cancelled due to state of danger"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "6",
+    "megnev" : "Cancelled due to legal changes"
+  }, {
+    "tabla" : "ELMOK",
+    "kod" : "99",
+    "megnev" : "Election rejected"
+  }, {
+    "tabla" : "ERALLAPOT",
+    "kod" : "I",
+    "megnev" : "Final"
+  }, {
+    "tabla" : "ERALLAPOT",
+    "kod" : "J",
+    "megnev" : "Under legal remedy"
+  }, {
+    "tabla" : "ERALLAPOT",
+    "kod" : "N",
+    "megnev" : "Not final"
+  }, {
+    "tabla" : "ERJEL",
+    "kod" : "0",
+    "megnev" : "Not evaluated"
+  }, {
+    "tabla" : "ERJEL",
+    "kod" : "1",
+    "megnev" : "Election successful"
+  }, {
+    "tabla" : "ERJEL",
+    "kod" : "2",
+    "megnev" : "Election unsuccessful"
+  }, {
+    "tabla" : "ERJELNSZ",
+    "kod" : "0",
+    "megnev" : "Not rated / No election was held"
+  }, {
+    "tabla" : "ERJELNSZ",
+    "kod" : "2",
+    "megnev" : "Invalid"
+  }, {
+    "tabla" : "ERJELNSZ",
+    "kod" : "4",
+    "megnev" : "Valid but ineffective"
+  }, {
+    "tabla" : "ERJELNSZ",
+    "kod" : "5",
+    "megnev" : "Valid and resulting"
+  }, {
+    "tabla" : "ERTCIMJEL",
+    "kod" : "E",
+    "megnev" : "Requests the notification by email"
+  }, {
+    "tabla" : "ERTCIMJEL",
+    "kod" : "F",
+    "megnev" : "Requests the notification by fax"
+  }, {
+    "tabla" : "ERTCIMJEL",
+    "kod" : "H",
+    "megnev" : "Incorrectly provided notification address"
+  }, {
+    "tabla" : "ERTCIMJEL",
+    "kod" : "K",
+    "megnev" : "Countries prohibiting dual citizenship"
+  }, {
+    "tabla" : "ERTCIMJEL",
+    "kod" : "N",
+    "megnev" : "No notification address provided"
+  }, {
+    "tabla" : "ERTCIMJEL",
+    "kod" : "P",
+    "megnev" : "Postal address"
+  }, {
+    "tabla" : "HATICSOPPO",
+    "kod" : "1",
+    "megnev" : "Voter"
+  }, {
+    "tabla" : "HATICSOPPO",
+    "kod" : "2",
+    "megnev" : "Candidate"
+  }, {
+    "tabla" : "HATICSOPPO",
+    "kod" : "3",
+    "megnev" : "Voter and Candidate"
+  }, {
+    "tabla" : "IN",
+    "kod" : "I",
+    "megnev" : "Yes"
+  }, {
+    "tabla" : "IN",
+    "kod" : "N",
+    "megnev" : "No"
+  }, {
+    "tabla" : "ITIP",
+    "kod" : "1",
+    "megnev" : "Entire municipality"
+  }, {
+    "tabla" : "ITIP",
+    "kod" : "2",
+    "megnev" : "Entire public area"
+  }, {
+    "tabla" : "ITIP",
+    "kod" : "3",
+    "megnev" : "Even house numbers"
+  }, {
+    "tabla" : "ITIP",
+    "kod" : "4",
+    "megnev" : "Odd house numbers"
+  }, {
+    "tabla" : "ITIP",
+    "kod" : "5",
+    "megnev" : "Consecutive house numbers"
+  }, {
+    "tabla" : "JELIDO",
+    "kod" : "1",
+    "megnev" : "7 AM"
+  }, {
+    "tabla" : "JELIDO",
+    "kod" : "2",
+    "megnev" : "9 AM"
+  }, {
+    "tabla" : "JELIDO",
+    "kod" : "3",
+    "megnev" : "11 AM"
+  }, {
+    "tabla" : "JELIDO",
+    "kod" : "4",
+    "megnev" : "1 PM"
+  }, {
+    "tabla" : "JELIDO",
+    "kod" : "5",
+    "megnev" : "3 PM"
+  }, {
+    "tabla" : "JELIDO",
+    "kod" : "6",
+    "megnev" : "5:30 PM"
+  }, {
+    "tabla" : "JKVALL",
+    "kod" : "0",
+    "megnev" : "Not recorded, not received"
+  }, {
+    "tabla" : "JKVALL",
+    "kod" : "1",
+    "megnev" : "Deleted, withdrawn"
+  }, {
+    "tabla" : "JKVALL",
+    "kod" : "2",
+    "megnev" : "Incorrect"
+  }, {
+    "tabla" : "JKVALL",
+    "kod" : "3",
+    "megnev" : "Correct"
+  }, {
+    "tabla" : "JKVALL",
+    "kod" : "5",
+    "megnev" : "Destroyed"
+  }, {
+    "tabla" : "LAKTIP",
+    "kod" : "1",
+    "megnev" : "Municipality with 10,000 or fewer inhabitants"
+  }, {
+    "tabla" : "LAKTIP",
+    "kod" : "2",
+    "megnev" : "Municipality with more than 10,000 inhabitants"
+  }, {
+    "tabla" : "LISTATIP",
+    "kod" : "K",
+    "megnev" : "Joint list"
+  }, {
+    "tabla" : "LISTATIP",
+    "kod" : "O",
+    "megnev" : "Independent list"
+  }, {
+    "tabla" : "LISTIP",
+    "kod" : "K",
+    "megnev" : "Joint list"
+  }, {
+    "tabla" : "LISTIP",
+    "kod" : "N",
+    "megnev" : "National minority list"
+  }, {
+    "tabla" : "LISTIP",
+    "kod" : "O",
+    "megnev" : "Independent list"
+  }, {
+    "tabla" : "MANDT",
+    "kod" : "1",
+    "megnev" : "Individual constituency representative"
+  }, {
+    "tabla" : "MANDT",
+    "kod" : "2",
+    "megnev" : "National party list representative"
+  }, {
+    "tabla" : "MANDT",
+    "kod" : "3",
+    "megnev" : "National minority representative"
+  }, {
+    "tabla" : "MANDT",
+    "kod" : "4",
+    "megnev" : "National minority spokesperson"
+  }, {
+    "tabla" : "MDTIP",
+    "kod" : "10",
+    "megnev" : "Member of the Capital Assembly"
+  }, {
+    "tabla" : "MDTIP",
+    "kod" : "6",
+    "megnev" : "Mayor"
+  }, {
+    "tabla" : "MDTIP",
+    "kod" : "7",
+    "megnev" : "Member of the Municipal Council"
+  }, {
+    "tabla" : "MDTIP",
+    "kod" : "8",
+    "megnev" : "Member of the County Assembly"
+  }, {
+    "tabla" : "MDTIP",
+    "kod" : "9",
+    "megnev" : "Lord Mayor"
+  }, {
+    "tabla" : "NEMZELMOK",
+    "kod" : "0",
+    "megnev" : "Not cancelled"
+  }, {
+    "tabla" : "NEMZELMOK",
+    "kod" : "1",
+    "megnev" : "Withdrawn by the Election Commission"
+  }, {
+    "tabla" : "NEMZELMOK",
+    "kod" : "2",
+    "megnev" : "Few candidates"
+  }, {
+    "tabla" : "NEMZELMOK",
+    "kod" : "3",
+    "megnev" : "No registered voter on the electoral roll"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "1",
+    "megnev" : "Bulgarian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "10",
+    "megnev" : "Serbian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "11",
+    "megnev" : "Slovak"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "12",
+    "megnev" : "Slovenian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "13",
+    "megnev" : "Ukrainian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "2",
+    "megnev" : "Greek"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "3",
+    "megnev" : "Croatian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "4",
+    "megnev" : "Polish"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "5",
+    "megnev" : "German"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "6",
+    "megnev" : "Armenian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "7",
+    "megnev" : "Roma"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "8",
+    "megnev" : "Romanian"
+  }, {
+    "tabla" : "NEMZETISEG",
+    "kod" : "9",
+    "megnev" : "Rusyn"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "0",
+    "megnev" : "National minority council candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "1",
+    "megnev" : "Mayor candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "2",
+    "megnev" : "Lord mayor candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "3",
+    "megnev" : "Individual list candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "4",
+    "megnev" : "Individual constituency candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "5",
+    "megnev" : "Municipal compensation list candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "6",
+    "megnev" : "County list candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "7",
+    "megnev" : "Capital compensation list candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "8",
+    "megnev" : "Municipal national minority council candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "9",
+    "megnev" : "Regional national minority council candidate"
+  }, {
+    "tabla" : "ONKJELTIPE",
+    "kod" : "F",
+    "megnev" : "capital city list candidate"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "0",
+    "megnev" : "National minority list"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "5",
+    "megnev" : "Municipal compensation list"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "6",
+    "megnev" : "County assembly list"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "7",
+    "megnev" : "Capital city compensation list"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "9",
+    "megnev" : "Regional minority list"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "F",
+    "megnev" : "Capital city list"
+  }, {
+    "tabla" : "ONKLISTIP",
+    "kod" : "K",
+    "megnev" : "Minority municipal compensation list (generated)"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "000",
+    "megnev" : "Stateless (until 22.11.2001)"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "110",
+    "megnev" : "Abkhazia (Russia)"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ABW",
+    "megnev" : "Aruba"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AFG",
+    "megnev" : "Afghanistan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AGO",
+    "megnev" : "Angola"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AIA",
+    "megnev" : "Anguilla"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ALA",
+    "megnev" : "Aland Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ALB",
+    "megnev" : "Albania"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AND",
+    "megnev" : "Andorra"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ANT",
+    "megnev" : "Netherlands Antilles"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ARE",
+    "megnev" : "United Arab Emirates"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ARG",
+    "megnev" : "Argentina"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ARM",
+    "megnev" : "Armenia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ASC",
+    "megnev" : "Ascension Island"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ASM",
+    "megnev" : "American Samoa"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ATF",
+    "megnev" : "French Southern and Antarctic Lands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ATG",
+    "megnev" : "Antigua and Barbuda"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AUS",
+    "megnev" : "Australia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AUT",
+    "megnev" : "Austria"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "AZE",
+    "megnev" : "Azerbaijan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BDI",
+    "megnev" : "Burundi"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BEL",
+    "megnev" : "Belgium"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BEN",
+    "megnev" : "Benin"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BES",
+    "megnev" : "Bonaire, Saint Eustatius and Saba"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BFA",
+    "megnev" : "Burkina Faso"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BGD",
+    "megnev" : "Bangladesh"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BGR",
+    "megnev" : "Bulgaria"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BHR",
+    "megnev" : "Bahrain"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BHS",
+    "megnev" : "Bahamas"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BIH",
+    "megnev" : "Bosnia and Herzegovina"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BLM",
+    "megnev" : "Saint-Barthélemy (France)"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BLR",
+    "megnev" : "Belarus"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BLZ",
+    "megnev" : "Belize"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BMU",
+    "megnev" : "Bermuda"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BOL",
+    "megnev" : "Bolivia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BRA",
+    "megnev" : "Brazil"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BRB",
+    "megnev" : "Barbados"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BRN",
+    "megnev" : "Brunei"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BTN",
+    "megnev" : "Bhutan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "BWA",
+    "megnev" : "Botswana"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CAF",
+    "megnev" : "Central African Republic"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CAN",
+    "megnev" : "Canada"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CCK",
+    "megnev" : "Cocos (Keeling) Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CHE",
+    "megnev" : "Switzerland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CHL",
+    "megnev" : "Chile"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CHN",
+    "megnev" : "China"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CIV",
+    "megnev" : "Ivory Coast"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CMR",
+    "megnev" : "Cameroon"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "COD",
+    "megnev" : "Democratic Republic of the Congo"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "COG",
+    "megnev" : "Congo"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "COK",
+    "megnev" : "Cook Islands (New Zealand)"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "COL",
+    "megnev" : "Colombia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "COM",
+    "megnev" : "Comoros"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CPV",
+    "megnev" : "Cape Verde"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CRI",
+    "megnev" : "Costa Rica"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CUB",
+    "megnev" : "Cuba"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CUW",
+    "megnev" : "Curaçao"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CXR",
+    "megnev" : "Christmas Island"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CYM",
+    "megnev" : "Cayman Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CYP",
+    "megnev" : "Cyprus"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "CZE",
+    "megnev" : "Czech Republic"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "DEU",
+    "megnev" : "Germany"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "DJI",
+    "megnev" : "Djibouti"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "DMA",
+    "megnev" : "Commonwealth of Dominica"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "DNK",
+    "megnev" : "Denmark"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "DOM",
+    "megnev" : "Dominican Republic"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "DZA",
+    "megnev" : "Algeria"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ECU",
+    "megnev" : "Ecuador"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "EGY",
+    "megnev" : "Egypt"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ERI",
+    "megnev" : "Eritrea"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ESP",
+    "megnev" : "Spain"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "EST",
+    "megnev" : "Estonia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ETH",
+    "megnev" : "Ethiopia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "FIN",
+    "megnev" : "Finland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "FJI",
+    "megnev" : "Republic of Fiji"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "FLK",
+    "megnev" : "Falkland Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "FRA",
+    "megnev" : "France"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "FRO",
+    "megnev" : "Faroe Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "FSM",
+    "megnev" : "Federated States of Micronesia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GAB",
+    "megnev" : "Gabon"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GBR",
+    "megnev" : "United Kingdom of Great Britain and Northern Ireland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GEO",
+    "megnev" : "Georgia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GGY",
+    "megnev" : "Guernsey"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GHA",
+    "megnev" : "Ghana"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GIB",
+    "megnev" : "Gibraltar"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GIN",
+    "megnev" : "Guinea"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GLP",
+    "megnev" : "Guadeloupe"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GMB",
+    "megnev" : "Gambia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GNB",
+    "megnev" : "Guinea-Bissau"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GNQ",
+    "megnev" : "Equatorial Guinea"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GRC",
+    "megnev" : "Greece"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GRD",
+    "megnev" : "Grenada"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GRL",
+    "megnev" : "Greenland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GTM",
+    "megnev" : "Guatemala"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GUF",
+    "megnev" : "French Guiana"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GUM",
+    "megnev" : "Guam"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "GUY",
+    "megnev" : "Guyana"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "HKG",
+    "megnev" : "Hong Kong"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "HND",
+    "megnev" : "Honduras"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "HRV",
+    "megnev" : "Croatia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "HTI",
+    "megnev" : "Haiti"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "HUN",
+    "megnev" : "Hungary"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IDN",
+    "megnev" : "Indonesia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IMN",
+    "megnev" : "Isle of Man"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IND",
+    "megnev" : "India"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IOT",
+    "megnev" : "British Indian Ocean Territory"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IRL",
+    "megnev" : "Ireland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IRN",
+    "megnev" : "Iran"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "IRQ",
+    "megnev" : "Iraq"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ISL",
+    "megnev" : "Iceland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ISM",
+    "megnev" : "Unknown"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ISR",
+    "megnev" : "Israel"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ITA",
+    "megnev" : "Italy"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "JAM",
+    "megnev" : "Jamaica"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "JEY",
+    "megnev" : "Jersey"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "JOR",
+    "megnev" : "Jordan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "JPN",
+    "megnev" : "Japan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KAZ",
+    "megnev" : "Kazakhstan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KEN",
+    "megnev" : "Kenya"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KGZ",
+    "megnev" : "Kyrgyzstan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KHM",
+    "megnev" : "Cambodia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KIR",
+    "megnev" : "Kiribati"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KNA",
+    "megnev" : "Saint Kitts and Nevis"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KOR",
+    "megnev" : "Republic of Korea"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "KWT",
+    "megnev" : "Kuwait"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LAO",
+    "megnev" : "Laos"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LBN",
+    "megnev" : "Lebanon"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LBR",
+    "megnev" : "Liberia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LBY",
+    "megnev" : "Libya"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LCA",
+    "megnev" : "Saint Lucia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LIE",
+    "megnev" : "Liechtenstein"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LKA",
+    "megnev" : "Sri Lanka"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LSO",
+    "megnev" : "Lesotho"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LTU",
+    "megnev" : "Lithuania"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LUX",
+    "megnev" : "Luxembourg"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "LVA",
+    "megnev" : "Latvia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MAC",
+    "megnev" : "Macau"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MAF",
+    "megnev" : "Saint-Barthélemy"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MAR",
+    "megnev" : "Morocco"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MCO",
+    "megnev" : "Monaco"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MDA",
+    "megnev" : "Moldova"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MDG",
+    "megnev" : "Madagascar"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MDV",
+    "megnev" : "Maldives"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MEX",
+    "megnev" : "Mexico"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MHL",
+    "megnev" : "Marshall Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MKD",
+    "megnev" : "North Macedonia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MLI",
+    "megnev" : "Mali"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MLT",
+    "megnev" : "Malta"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MMR",
+    "megnev" : "Myanmar"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MNE",
+    "megnev" : "Montenegro"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MNG",
+    "megnev" : "Mongolia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MNP",
+    "megnev" : "Northern Mariana Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MOZ",
+    "megnev" : "Mozambique"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MRT",
+    "megnev" : "Mauritania"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MSR",
+    "megnev" : "Montserrat"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MTQ",
+    "megnev" : "Martinique"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MUS",
+    "megnev" : "Mauritius"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MWI",
+    "megnev" : "Malawi"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MYS",
+    "megnev" : "Malaysia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "MYT",
+    "megnev" : "Mayotte"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NAM",
+    "megnev" : "Namibia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NCL",
+    "megnev" : "New Caledonia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NER",
+    "megnev" : "Niger"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NFK",
+    "megnev" : "Norfolk Island"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NGA",
+    "megnev" : "Nigeria"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NIC",
+    "megnev" : "Nicaragua"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NIU",
+    "megnev" : "Niue"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NLD",
+    "megnev" : "Netherlands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NOR",
+    "megnev" : "Norway"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NPL",
+    "megnev" : "Nepal"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NRU",
+    "megnev" : "Nauru"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "NZL",
+    "megnev" : "New Zealand"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "OMN",
+    "megnev" : "Oman"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PAK",
+    "megnev" : "Pakistan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PAN",
+    "megnev" : "Panama"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PCN",
+    "megnev" : "Pitcairn Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PER",
+    "megnev" : "Peru"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PHL",
+    "megnev" : "Philippines"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PLW",
+    "megnev" : "Palau"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PNG",
+    "megnev" : "Papua New Guinea"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "POL",
+    "megnev" : "Poland"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PRI",
+    "megnev" : "Puerto Rico"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PRK",
+    "megnev" : "Democratic People's Republic of Korea"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PRT",
+    "megnev" : "Portugal"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PRY",
+    "megnev" : "Paraguay"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PSE",
+    "megnev" : "Palestine"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "PYF",
+    "megnev" : "French Polynesia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "QAT",
+    "megnev" : "Qatar"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "REU",
+    "megnev" : "Réunion"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ROU",
+    "megnev" : "Romania"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "RUS",
+    "megnev" : "Russia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "RWA",
+    "megnev" : "Rwanda"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SAU",
+    "megnev" : "Saudi Arabia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SDN",
+    "megnev" : "Sudan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SEN",
+    "megnev" : "Senegal"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SGP",
+    "megnev" : "Singapore"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SHN",
+    "megnev" : "Saint Helena"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SJM",
+    "megnev" : "Svalbard and Jan Mayen"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SLB",
+    "megnev" : "Solomon Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SLE",
+    "megnev" : "Sierra Leone"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SLV",
+    "megnev" : "El Salvador"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SMR",
+    "megnev" : "San Marino"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SOM",
+    "megnev" : "Somalia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SPM",
+    "megnev" : "Saint-Pierre and Miquelon"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SRB",
+    "megnev" : "Serbia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SSD",
+    "megnev" : "South Sudan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "STP",
+    "megnev" : "Sao Tomé and Príncipe"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SUR",
+    "megnev" : "Suriname"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SVK",
+    "megnev" : "Slovakia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SVN",
+    "megnev" : "Slovenia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SWE",
+    "megnev" : "Sweden"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SWZ",
+    "megnev" : "Eswatini"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SXM",
+    "megnev" : "Sint Maarten"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SYC",
+    "megnev" : "Seychelles"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "SYR",
+    "megnev" : "Syria"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TAA",
+    "megnev" : "Tristan da Cunha"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TCA",
+    "megnev" : "Turks and Caicos Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TCD",
+    "megnev" : "Chad"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TGO",
+    "megnev" : "Togo"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "THA",
+    "megnev" : "Thailand"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TJK",
+    "megnev" : "Tajikistan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TKL",
+    "megnev" : "Tokelau"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TKM",
+    "megnev" : "Turkmenistan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TLS",
+    "megnev" : "East Timor"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TON",
+    "megnev" : "Tonga"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TTO",
+    "megnev" : "Trinidad and Tobago"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TUN",
+    "megnev" : "Tunisia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TUR",
+    "megnev" : "Turkey"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TUV",
+    "megnev" : "Tuvalu"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TWN",
+    "megnev" : "Taiwan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "TZA",
+    "megnev" : "Tanzania"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "UGA",
+    "megnev" : "Uganda"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "UKR",
+    "megnev" : "Ukraine"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "UMI",
+    "megnev" : "Wake Island"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "URY",
+    "megnev" : "Uruguay"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "USA",
+    "megnev" : "United States of America"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "UZB",
+    "megnev" : "Uzbekistan"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VAT",
+    "megnev" : "Vatican"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VCT",
+    "megnev" : "Saint Vincent and the Grenadines"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VEN",
+    "megnev" : "Venezuela"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VGB",
+    "megnev" : "British Virgin Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VIR",
+    "megnev" : "U.S. Virgin Islands"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VNM",
+    "megnev" : "Vietnam"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "VUT",
+    "megnev" : "Vanuatu"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "WLF",
+    "megnev" : "Wallis and Futuna"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "WSM",
+    "megnev" : "Samoa"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "XKX",
+    "megnev" : "Kosovo"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "XXX",
+    "megnev" : "Unknown"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "YEM",
+    "megnev" : "Yemen"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ZAF",
+    "megnev" : "South Africa"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ZMB",
+    "megnev" : "Zambia"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ZWE",
+    "megnev" : "Zimbabwe"
+  }, {
+    "tabla" : "ORSZAG",
+    "kod" : "ZZZ",
+    "megnev" : "Stateless (after 22.11.2001)"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "0",
+    "megnev" : "Municipality/Part of municipality (same NSMC)"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "1",
+    "megnev" : "Aggregated for NSMC"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "2",
+    "megnev" : "For the municipality"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "4",
+    "megnev" : "For the county"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "5",
+    "megnev" : "For the country"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "6",
+    "megnev" : "Municipality/Part of municipality (same local government NSMC)"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "7",
+    "megnev" : "Aggregated for NSMC at local government elections"
+  }, {
+    "tabla" : "OSZINT",
+    "kod" : "K",
+    "megnev" : "To the question"
+  }, {
+    "tabla" : "SZAVLA",
+    "kod" : "0",
+    "megnev" : "Not on the ballot"
+  }, {
+    "tabla" : "SZAVLA",
+    "kod" : "1",
+    "megnev" : "On the ballot"
+  }, {
+    "tabla" : "SZAVLA",
+    "kod" : "2",
+    "megnev" : "On the ballot, but invalid"
+  }, {
+    "tabla" : "SZINT",
+    "kod" : "1",
+    "megnev" : "Polling station commission"
+  }, {
+    "tabla" : "SZINT",
+    "kod" : "2",
+    "megnev" : "Local Election Office"
+  }, {
+    "tabla" : "SZINT",
+    "kod" : "3",
+    "megnev" : "National Single Member Election Office"
+  }, {
+    "tabla" : "SZINT",
+    "kod" : "4",
+    "megnev" : "Territorial Election Office"
+  }, {
+    "tabla" : "SZINT",
+    "kod" : "5",
+    "megnev" : "National Election Office"
+  }, {
+    "tabla" : "SZINT",
+    "kod" : "6",
+    "megnev" : "Foreign Representation Election Office"
+  }, {
+    "tabla" : "SZTIPO",
+    "kod" : "1",
+    "megnev" : "Party, other association"
+  }, {
+    "tabla" : "SZTIPO",
+    "kod" : "2",
+    "megnev" : "National minority organization"
+  }, {
+    "tabla" : "SZTIPO",
+    "kod" : "3",
+    "megnev" : "Independent candidate"
+  }, {
+    "tabla" : "TELTIP",
+    "kod" : "1",
+    "megnev" : "District of the capital"
+  }, {
+    "tabla" : "TELTIP",
+    "kod" : "2",
+    "megnev" : "City with county rights"
+  }, {
+    "tabla" : "TELTIP",
+    "kod" : "3",
+    "megnev" : "City"
+  }, {
+    "tabla" : "TELTIP",
+    "kod" : "4",
+    "megnev" : "Municipality"
+  }, {
+    "tabla" : "TELTIP",
+    "kod" : "5",
+    "megnev" : "Diplomatic Representation"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "0",
+    "megnev" : "National Minority Self-Government Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "1",
+    "megnev" : "Mayor Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "2",
+    "megnev" : "Lord Mayor Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "3",
+    "megnev" : "Individual List Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "4",
+    "megnev" : "Individual Constituency Representative Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "5",
+    "megnev" : "Municipal Compensation List Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "6",
+    "megnev" : "County Assembly Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "7",
+    "megnev" : "Capital Compensation List Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "8",
+    "megnev" : "Municipal National Minority Representative Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "9",
+    "megnev" : "Territorial National Minority Self-Government Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "E",
+    "megnev" : "European Parliament Elections"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "F",
+    "megnev" : "Capital Assembly Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "H",
+    "megnev" : "Municipal Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "J",
+    "megnev" : "Individual Representative Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "L",
+    "megnev" : "List Representative Election"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "M",
+    "megnev" : "Territorial Level Local Referendum"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "O",
+    "megnev" : "National Referendum"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "P",
+    "megnev" : "Parliamentary Elections"
+  }, {
+    "tabla" : "VALALTIP",
+    "kod" : "T",
+    "megnev" : "Local Referendum"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "1",
+    "megnev" : "Parliamentary Election"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "2",
+    "megnev" : "EU Parliamentary"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "3",
+    "megnev" : "Municipal Election"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "4",
+    "megnev" : "National Referendum"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "5",
+    "megnev" : "National Minority Self-Government Election"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "6",
+    "megnev" : "Parliamentary by-election"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "7",
+    "megnev" : " Municipal by-election"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "8",
+    "megnev" : "National Minority Self-Government by-election"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "9",
+    "megnev" : "Local Referendum"
+  }, {
+    "tabla" : "VALTIP",
+    "kod" : "A",
+    "megnev" : "To be set for the current election"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "1",
+    "megnev" : "Vacant representative mandate"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "10",
+    "megnev" : "Dissolution"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "11",
+    "megnev" : "Conflict of interest"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "12",
+    "megnev" : "Tie vote"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "13",
+    "megnev" : "Conditions required for the election of the representative no longer exist"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "14",
+    "megnev" : "The representative did not participate in the body’s work for one year"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "15",
+    "megnev" : "The number of representatives has fallen below the minimum required for the functioning of the representative body or assembly"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "16",
+    "megnev" : "Repeated unlawful activity or omission"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "2",
+    "megnev" : "Unsuccessful election"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "3",
+    "megnev" : "Death"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "4",
+    "megnev" : "Election not held due to lack of candidates"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "5",
+    "megnev" : "Resignation"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "6",
+    "megnev" : "Fewer individual list candidates than available representative seats"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "7",
+    "megnev" : "Establishment of unworthiness"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "8",
+    "megnev" : "The local government was not formed"
+  }, {
+    "tabla" : "VAL_OK",
+    "kod" : "9",
+    "megnev" : "Dissolution"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "0",
+    "megnev" : "National Minority Self-Government Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "1",
+    "megnev" : "Mayor Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "2",
+    "megnev" : "Lord Mayor Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "3",
+    "megnev" : "Election of local government representatives"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "4",
+    "megnev" : "Election of local government representative"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "5",
+    "megnev" : "Municipal Compensation List Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "6",
+    "megnev" : "County Assembly Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "7",
+    "megnev" : "Capital Compensation List Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "8",
+    "megnev" : "Municipal National Minority Representative Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "9",
+    "megnev" : "Territorial National Minority Representative Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "E",
+    "megnev" : "European Parliament Elections"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "F",
+    "megnev" : "Capital Assembly Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "H",
+    "megnev" : "Municipal Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "J",
+    "megnev" : "Individual Representative Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "L",
+    "megnev" : "List Representative Election"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "M",
+    "megnev" : "Territorial Level Local Referendum"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "O",
+    "megnev" : "National Referendum"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "P",
+    "megnev" : "Parliamentary Elections"
+  }, {
+    "tabla" : "VLT_VTR",
+    "kod" : "T",
+    "megnev" : "Local Referendum"
+  } ]
+}

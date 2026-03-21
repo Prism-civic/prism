@@ -1,0 +1,497 @@
+{
+  "PvOnHeader" : {
+    "generated" : "2026-03-21T17:00:00.07464578+01:00",
+    "val_dat" : "2026-04-12T00:00:00+02:00",
+    "vl_id" : 467,
+    "nvv_id" : 542
+  },
+  "list" : [ {
+    "szkod" : 0,
+    "nev" : "Független jelölt",
+    "r_nev" : "Független",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 0 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-01-13T00:00:00+01:00"
+  }, {
+    "szkod" : 1001,
+    "nev" : "Demokratikus Koalíció",
+    "r_nev" : "DK",
+    "nemzetisegi" : "N",
+    "emblema" : 29561,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3591 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1002,
+    "nev" : "Mi Hazánk Mozgalom",
+    "r_nev" : "Mi Hazánk",
+    "nemzetisegi" : "N",
+    "emblema" : 29560,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3592 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1003,
+    "nev" : "SZABAD ORSZÁG MOZGALOM",
+    "r_nev" : "SZOM",
+    "nemzetisegi" : "N",
+    "emblema" : 29562,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3593 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1004,
+    "nev" : "FIDESZ - Magyar Polgári Szövetség",
+    "r_nev" : "FIDESZ",
+    "nemzetisegi" : "N",
+    "emblema" : 29563,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3594, 3644 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-10T11:46:00+01:00"
+  }, {
+    "szkod" : 1005,
+    "nev" : "Kereszténydemokrata Néppárt",
+    "r_nev" : "KDNP",
+    "nemzetisegi" : "N",
+    "emblema" : 29564,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3595, 3644 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1006,
+    "nev" : "Tea Párt Közösség",
+    "r_nev" : "Tea P.K.",
+    "nemzetisegi" : "N",
+    "emblema" : 29565,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3596 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1007,
+    "nev" : "Jobbik Magyarországért Mozgalom",
+    "r_nev" : "Jobbik",
+    "nemzetisegi" : "N",
+    "emblema" : 29566,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3597 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1008,
+    "nev" : "Magyar Munkáspárt",
+    "r_nev" : "Munkáspárt",
+    "nemzetisegi" : "N",
+    "emblema" : 29567,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3598, 3626 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1009,
+    "nev" : "Országos Horvát Önkormányzat",
+    "r_nev" : "OHÖ",
+    "nemz_nev" : "Hrvatska državna samouprava",
+    "nemzetisegi" : "I",
+    "emblema" : 29569,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3599 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1010,
+    "nev" : "Tisztelet és Szabadság Párt",
+    "r_nev" : "TISZA",
+    "nemzetisegi" : "N",
+    "emblema" : 29568,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3600 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1011,
+    "nev" : "Otthon Védelme Ingatlan Párt",
+    "r_nev" : "OVIP",
+    "nemzetisegi" : "N",
+    "emblema" : 29571,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3601 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1012,
+    "nev" : "Országos Ruszin Önkormányzat",
+    "r_nev" : "ORÖ",
+    "nemz_nev" : "Вседержавноє Русинськоє Самосправованя\n",
+    "nemzetisegi" : "I",
+    "emblema" : 29572,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3602 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1013,
+    "nev" : "Szociáldemokraták Pártja",
+    "r_nev" : "Szocdemek",
+    "nemzetisegi" : "N",
+    "emblema" : 29574,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3603 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1014,
+    "nev" : "Összefogás a Civilekért Párt",
+    "r_nev" : "OCP",
+    "nemzetisegi" : "N",
+    "emblema" : 29575,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3604 ],
+    "allapot" : "4",
+    "allapot_valt" : "2026-02-27T17:22:00+01:00"
+  }, {
+    "szkod" : 1015,
+    "nev" : "Országos Ukrán Nemzetiségi Önkormányzat",
+    "r_nev" : "Országos Ukrán",
+    "nemz_nev" : "Державне Самоврядування Української Національності Угорщини",
+    "nemzetisegi" : "I",
+    "emblema" : 29576,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3605 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1016,
+    "nev" : "Országos Lengyel Önkormányzat",
+    "r_nev" : "OLÖ",
+    "nemz_nev" : "Ogólnokrajowy Samorząd Polski na Węgrzech",
+    "nemzetisegi" : "I",
+    "emblema" : 29578,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3606 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1017,
+    "nev" : "Magyarországi Romák Országos Önkormányzata",
+    "r_nev" : "Magyarországi Romák Országos",
+    "nemzetisegi" : "I",
+    "emblema" : 29581,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3607 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1018,
+    "nev" : "Magyarországi Németek Országos Önkormányzata",
+    "r_nev" : "MNOÖ",
+    "nemz_nev" : "LANDESSELBSTVERWALTUNG DER UNGARNDEUTSCHEN",
+    "nemzetisegi" : "I",
+    "emblema" : 29582,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3608 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1019,
+    "nev" : "A SZOLIDARITÁS PÁRTJA",
+    "r_nev" : "A SZOLIDARITÁS PÁRTJA",
+    "nemzetisegi" : "N",
+    "emblema" : 29586,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3609, 3626 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1020,
+    "nev" : "Normális Élet Pártja",
+    "r_nev" : "NÉP",
+    "nemzetisegi" : "N",
+    "emblema" : 29587,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3610 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1021,
+    "nev" : "Hallassuk a Hangunkat Szövetségesei Párt",
+    "r_nev" : "HHSZ",
+    "nemzetisegi" : "N",
+    "emblema" : 29588,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3611 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1022,
+    "nev" : "Magyar Szocialista Párt",
+    "r_nev" : "MSZP",
+    "nemzetisegi" : "N",
+    "emblema" : 29589,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3612 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1023,
+    "nev" : "Vállalkozók Szövetsége a Reformokért",
+    "r_nev" : "Vállalkozók Szövetsége",
+    "nemzetisegi" : "N",
+    "emblema" : 29593,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3613 ],
+    "allapot" : "4",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1024,
+    "nev" : "Nemzetegyesítő Mozgalom a Szentkorona Országaiért",
+    "r_nev" : "NEEM",
+    "nemzetisegi" : "N",
+    "emblema" : 29762,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3614 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-16T16:00:00+01:00"
+  }, {
+    "szkod" : 1025,
+    "nev" : "Magyar Kétfarkú Kutya Párt",
+    "r_nev" : "MKKP",
+    "nemzetisegi" : "N",
+    "emblema" : 29598,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3616 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1026,
+    "nev" : "Országos Szlovák Önkormányzat",
+    "r_nev" : "OSZÖ",
+    "nemz_nev" : "CELOŠTÁTNA SLOVENSKÁ SAMOSPRÁVA ",
+    "nemzetisegi" : "I",
+    "emblema" : 29600,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3618 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1027,
+    "nev" : "Országos Örmény Önkormányzat",
+    "r_nev" : "OÖÖ",
+    "nemz_nev" : "\n\nՀՈՒՆԳԱՐԻԱՅԻ ՀԱՅ ԻՆՔՆԱՎԱՐՈՒԹՅՈՒՆ\n",
+    "nemzetisegi" : "I",
+    "jelolo_csoportok" : [ 3619 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1028,
+    "nev" : "Magyarországi Románok Országos Önkormányzata",
+    "r_nev" : "MROÖ",
+    "nemz_nev" : "AUTOGUVERNAREA PE ȚARĂ A ROMÂNILOR DIN UNGARIA\n",
+    "nemzetisegi" : "I",
+    "jelolo_csoportok" : [ 3620 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-08T16:40:00+01:00"
+  }, {
+    "szkod" : 1029,
+    "nev" : "Merj Magyarország Párt",
+    "r_nev" : "MERJ!",
+    "nemzetisegi" : "N",
+    "emblema" : 29641,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3621 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-10T16:45:00+01:00"
+  }, {
+    "szkod" : 1030,
+    "nev" : "A Magyar Vállalkozók és Munkaadók Pártja",
+    "r_nev" : "A Magyar Vállalkozók és",
+    "nemzetisegi" : "N",
+    "emblema" : 29606,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3622 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:16:00+01:00"
+  }, {
+    "szkod" : 1031,
+    "nev" : "Országos Szlovén Önkormányzat",
+    "r_nev" : "Országos Szlovén",
+    "nemzetisegi" : "I",
+    "emblema" : 29607,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3623 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:16:00+01:00"
+  }, {
+    "szkod" : 1032,
+    "nev" : "Valódi Párt",
+    "r_nev" : "Valódi Párt",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 3627 ],
+    "allapot" : "4",
+    "allapot_valt" : "2026-02-13T16:17:00+01:00"
+  }, {
+    "szkod" : 1033,
+    "nev" : "Minden Idők és Barátság Pártja",
+    "r_nev" : "MI",
+    "nemzetisegi" : "N",
+    "emblema" : 29623,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3628 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:18:00+01:00"
+  }, {
+    "szkod" : 1034,
+    "nev" : "DUNA Párt",
+    "r_nev" : "DUNA Párt",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 3629 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:18:00+01:00"
+  }, {
+    "szkod" : 1035,
+    "nev" : "LMP- Magyarország Zöld Pártja",
+    "r_nev" : "LMP – Zöldek",
+    "nemzetisegi" : "N",
+    "emblema" : 29626,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3630 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:19:00+01:00"
+  }, {
+    "szkod" : 1036,
+    "nev" : "Bolgár Országos Önkormányzat",
+    "r_nev" : "Bolgár Országos Önkormányzat",
+    "nemz_nev" : "Българско републиканско самоуправление",
+    "nemzetisegi" : "I",
+    "emblema" : 29628,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3631 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:19:00+01:00"
+  }, {
+    "szkod" : 1037,
+    "nev" : "Magyarországi Görögök Országos Önkormányzata",
+    "r_nev" : "MGOÖ",
+    "nemz_nev" : "ΑΥΤΟΔΙΟΙΚΗΣΗ ΕΛΛΗΝΩΝ ΟΥΓΓΑΡΙΑΣ",
+    "nemzetisegi" : "I",
+    "emblema" : 29635,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3633 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-13T16:20:00+01:00"
+  }, {
+    "szkod" : 1038,
+    "nev" : "Országos Republikánusok és Demokraták Szövetsége Párt",
+    "r_nev" : "ORDSZ",
+    "nemzetisegi" : "N",
+    "emblema" : 29642,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3634 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-16T16:00:00+01:00"
+  }, {
+    "szkod" : 1039,
+    "nev" : "IRÁNY a Jövő Párt",
+    "r_nev" : "IRÁNY Párt",
+    "nemzetisegi" : "N",
+    "emblema" : 29663,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3636 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-16T16:00:00+01:00"
+  }, {
+    "szkod" : 1040,
+    "nev" : "Magyar Igazság és Élet Pártja",
+    "r_nev" : "Magyar Igazság és Élet Pártja",
+    "nemzetisegi" : "N",
+    "emblema" : 29665,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3637 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-16T16:00:00+01:00"
+  }, {
+    "szkod" : 1041,
+    "nev" : "Tisztességes Fizetést Mindenkinek Pártja",
+    "r_nev" : "TFMP",
+    "nemzetisegi" : "N",
+    "emblema" : 29671,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3638 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-16T16:00:00+01:00"
+  }, {
+    "szkod" : 1042,
+    "nev" : "Középen Állók Pártja",
+    "r_nev" : "Középpárt",
+    "nemzetisegi" : "N",
+    "emblema" : 29822,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3642 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-20T16:05:00+01:00"
+  }, {
+    "szkod" : 1043,
+    "nev" : "Magyar Szuverén Emberek Szövetsége Párt",
+    "r_nev" : "Szuverének Szövetsége",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 3643 ],
+    "allapot" : "4",
+    "allapot_valt" : "2026-02-20T16:05:00+01:00"
+  }, {
+    "szkod" : 1044,
+    "nev" : "Körkeresztesek Pártja",
+    "r_nev" : "Körkeresztesek Pártja",
+    "nemzetisegi" : "N",
+    "emblema" : 29855,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3645 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-20T16:05:00+01:00"
+  }, {
+    "szkod" : 1045,
+    "nev" : "Magyarországi Egyesült Emberiség",
+    "r_nev" : "EgyE",
+    "nemzetisegi" : "N",
+    "emblema" : 29864,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3646 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-23T16:00:00+01:00"
+  }, {
+    "szkod" : 1046,
+    "nev" : "Magyar Horgász Vadász Párt",
+    "r_nev" : "MHVP",
+    "nemzetisegi" : "N",
+    "emblema" : 30405,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3648 ],
+    "allapot" : "1",
+    "allapot_valt" : "2026-02-28T17:19:00+01:00"
+  }, {
+    "szkod" : 1047,
+    "nev" : "Független Kisgazda-, Földmunkás- és Polgári Párt",
+    "r_nev" : "FKgP",
+    "nemzetisegi" : "N",
+    "emblema" : 30491,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3653 ],
+    "allapot" : "4",
+    "allapot_valt" : "2026-03-12T12:27:00+01:00"
+  }, {
+    "szkod" : 1048,
+    "nev" : "Demokrata Párt",
+    "r_nev" : "Demokrata Párt",
+    "nemzetisegi" : "N",
+    "emblema" : 30532,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 3655 ],
+    "allapot" : "4",
+    "allapot_valt" : "2026-03-10T17:53:00+01:00"
+  } ]
+}

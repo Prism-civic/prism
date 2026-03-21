@@ -1,0 +1,1917 @@
+{
+  "PvOnHeader" : {
+    "generated" : "2026-03-21T17:00:00.07464578+01:00",
+    "val_dat" : "2026-04-12T00:00:00+02:00",
+    "vl_id" : 467,
+    "nvv_id" : 542
+  },
+  "list" : [ {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "01",
+    "evk_nev" : "Budapest főváros, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 01. no. constituency",
+    "szekhely" : "Budapest 05. kerület",
+    "szekhely_en" : "Budapest 5th district",
+    "oevk_jeloltre_szavhat" : 73981,
+    "letszam" : {
+      "indulo" : 74492,
+      "honos" : 72437,
+      "atjel" : 3919,
+      "atjelInnen" : 1544,
+      "kuvi" : 1925,
+      "osszesen" : 76356
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "02",
+    "evk_nev" : "Budapest főváros, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 02. no. constituency",
+    "szekhely" : "Budapest 08. kerület",
+    "szekhely_en" : "Budapest 8th district",
+    "oevk_jeloltre_szavhat" : 76489,
+    "letszam" : {
+      "indulo" : 76932,
+      "honos" : 74664,
+      "atjel" : 6232,
+      "atjelInnen" : 1825,
+      "kuvi" : 1569,
+      "osszesen" : 80896
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "03",
+    "evk_nev" : "Budapest főváros, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 03. no. constituency",
+    "szekhely" : "Budapest 12. kerület",
+    "szekhely_en" : "Budapest 12th district",
+    "oevk_jeloltre_szavhat" : 78466,
+    "letszam" : {
+      "indulo" : 78809,
+      "honos" : 77360,
+      "atjel" : 7436,
+      "atjelInnen" : 1106,
+      "kuvi" : 1933,
+      "osszesen" : 84796
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "04",
+    "evk_nev" : "Budapest főváros, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 04. no. constituency",
+    "szekhely" : "Budapest 02. kerület",
+    "szekhely_en" : "Budapest 2nd district",
+    "oevk_jeloltre_szavhat" : 80374,
+    "letszam" : {
+      "indulo" : 80575,
+      "honos" : 79337,
+      "atjel" : 2296,
+      "atjelInnen" : 1037,
+      "kuvi" : 2261,
+      "osszesen" : 81633
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "05",
+    "evk_nev" : "Budapest főváros, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 05. no. constituency",
+    "szekhely" : "Budapest 06. kerület",
+    "szekhely_en" : "Budapest 6th district",
+    "oevk_jeloltre_szavhat" : 76999,
+    "letszam" : {
+      "indulo" : 77405,
+      "honos" : 75234,
+      "atjel" : 1488,
+      "atjelInnen" : 1765,
+      "kuvi" : 1538,
+      "osszesen" : 76722
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "06",
+    "evk_nev" : "Budapest főváros, 06. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 06. no. constituency",
+    "szekhely" : "Budapest 14. kerület",
+    "szekhely_en" : "Budapest 14th district",
+    "oevk_jeloltre_szavhat" : 78346,
+    "letszam" : {
+      "indulo" : 78613,
+      "honos" : 76778,
+      "atjel" : 4658,
+      "atjelInnen" : 1568,
+      "kuvi" : 1548,
+      "osszesen" : 81436
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "07",
+    "evk_nev" : "Budapest főváros, 07. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 07. no. constituency",
+    "szekhely" : "Budapest 10. kerület",
+    "szekhely_en" : "Budapest 10th district",
+    "oevk_jeloltre_szavhat" : 75447,
+    "letszam" : {
+      "indulo" : 75822,
+      "honos" : 74106,
+      "atjel" : 2830,
+      "atjelInnen" : 1341,
+      "kuvi" : 978,
+      "osszesen" : 76936
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "08",
+    "evk_nev" : "Budapest főváros, 08. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 08. no. constituency",
+    "szekhely" : "Budapest 19. kerület",
+    "szekhely_en" : "Budapest 19th district",
+    "oevk_jeloltre_szavhat" : 79294,
+    "letszam" : {
+      "indulo" : 79613,
+      "honos" : 78191,
+      "atjel" : 3107,
+      "atjelInnen" : 1103,
+      "kuvi" : 891,
+      "osszesen" : 81298
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "09",
+    "evk_nev" : "Budapest főváros, 09. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 09. no. constituency",
+    "szekhely" : "Budapest 21. kerület",
+    "szekhely_en" : "Budapest 21st district",
+    "oevk_jeloltre_szavhat" : 75165,
+    "letszam" : {
+      "indulo" : 75438,
+      "honos" : 74143,
+      "atjel" : 2881,
+      "atjelInnen" : 1022,
+      "kuvi" : 714,
+      "osszesen" : 77024
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "10",
+    "evk_nev" : "Budapest főváros, 10. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 10. no. constituency",
+    "szekhely" : "Budapest 22. kerület",
+    "szekhely_en" : "Budapest 22nd district",
+    "oevk_jeloltre_szavhat" : 77129,
+    "letszam" : {
+      "indulo" : 76990,
+      "honos" : 76038,
+      "atjel" : 1121,
+      "atjelInnen" : 1091,
+      "kuvi" : 1144,
+      "osszesen" : 77159
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "11",
+    "evk_nev" : "Budapest főváros, 11. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 11. no. constituency",
+    "szekhely" : "Budapest 03. kerület",
+    "szekhely_en" : "Budapest 3rd district",
+    "oevk_jeloltre_szavhat" : 79558,
+    "letszam" : {
+      "indulo" : 79892,
+      "honos" : 78299,
+      "atjel" : 3242,
+      "atjelInnen" : 1259,
+      "kuvi" : 1169,
+      "osszesen" : 81541
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "12",
+    "evk_nev" : "Budapest főváros, 12. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 12. no. constituency",
+    "szekhely" : "Budapest 13. kerület",
+    "szekhely_en" : "Budapest 13th district",
+    "oevk_jeloltre_szavhat" : 78785,
+    "letszam" : {
+      "indulo" : 79032,
+      "honos" : 77486,
+      "atjel" : 8032,
+      "atjelInnen" : 1299,
+      "kuvi" : 1031,
+      "osszesen" : 85518
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "13",
+    "evk_nev" : "Budapest főváros, 13. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 13. no. constituency",
+    "szekhely" : "Budapest 15. kerület",
+    "szekhely_en" : "Budapest 15th district",
+    "oevk_jeloltre_szavhat" : 76618,
+    "letszam" : {
+      "indulo" : 76995,
+      "honos" : 75570,
+      "atjel" : 1795,
+      "atjelInnen" : 1048,
+      "kuvi" : 810,
+      "osszesen" : 77365
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "14",
+    "evk_nev" : "Budapest főváros, 14. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 14. no. constituency",
+    "szekhely" : "Budapest 16. kerület",
+    "szekhely_en" : "Budapest 16th district",
+    "oevk_jeloltre_szavhat" : 77377,
+    "letszam" : {
+      "indulo" : 77663,
+      "honos" : 76511,
+      "atjel" : 1425,
+      "atjelInnen" : 866,
+      "kuvi" : 936,
+      "osszesen" : 77936
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "15",
+    "evk_nev" : "Budapest főváros, 15. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 15. no. constituency",
+    "szekhely" : "Budapest 17. kerület",
+    "szekhely_en" : "Budapest 17th district",
+    "oevk_jeloltre_szavhat" : 79365,
+    "letszam" : {
+      "indulo" : 79615,
+      "honos" : 78517,
+      "atjel" : 1301,
+      "atjelInnen" : 848,
+      "kuvi" : 807,
+      "osszesen" : 79818
+    }
+  }, {
+    "maz" : "01",
+    "maz_nev" : "Budapest főváros",
+    "maz_nev_en" : "Budapest capital",
+    "evk" : "16",
+    "evk_nev" : "Budapest főváros, 16. számú egyéni választókerület",
+    "evk_nev_en" : "Budapest capital, 16. no. constituency",
+    "szekhely" : "Budapest 23. kerület",
+    "szekhely_en" : "Budapest 23rd district",
+    "oevk_jeloltre_szavhat" : 83545,
+    "letszam" : {
+      "indulo" : 83867,
+      "honos" : 82576,
+      "atjel" : 392,
+      "atjelInnen" : 969,
+      "kuvi" : 840,
+      "osszesen" : 82968
+    }
+  }, {
+    "maz" : "02",
+    "maz_nev" : "Baranya vármegye",
+    "maz_nev_en" : "Baranya county",
+    "evk" : "01",
+    "evk_nev" : "Baranya vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Baranya county, 01. no. constituency",
+    "szekhely" : "Pécs",
+    "szekhely_en" : "Pécs",
+    "oevk_jeloltre_szavhat" : 70832,
+    "letszam" : {
+      "indulo" : 71170,
+      "honos" : 69377,
+      "atjel" : 2360,
+      "atjelInnen" : 1455,
+      "kuvi" : 820,
+      "osszesen" : 71737
+    }
+  }, {
+    "maz" : "02",
+    "maz_nev" : "Baranya vármegye",
+    "maz_nev_en" : "Baranya county",
+    "evk" : "02",
+    "evk_nev" : "Baranya vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Baranya county, 02. no. constituency",
+    "szekhely" : "Pécs",
+    "szekhely_en" : "Pécs",
+    "oevk_jeloltre_szavhat" : 75015,
+    "letszam" : {
+      "indulo" : 75388,
+      "honos" : 73672,
+      "atjel" : 296,
+      "atjelInnen" : 1343,
+      "kuvi" : 672,
+      "osszesen" : 73968
+    }
+  }, {
+    "maz" : "02",
+    "maz_nev" : "Baranya vármegye",
+    "maz_nev_en" : "Baranya county",
+    "evk" : "03",
+    "evk_nev" : "Baranya vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Baranya county, 03. no. constituency",
+    "szekhely" : "Mohács",
+    "szekhely_en" : "Mohács",
+    "oevk_jeloltre_szavhat" : 68737,
+    "letszam" : {
+      "indulo" : 68995,
+      "honos" : 67752,
+      "atjel" : 504,
+      "atjelInnen" : 985,
+      "kuvi" : 371,
+      "osszesen" : 68256
+    }
+  }, {
+    "maz" : "02",
+    "maz_nev" : "Baranya vármegye",
+    "maz_nev_en" : "Baranya county",
+    "evk" : "04",
+    "evk_nev" : "Baranya vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Baranya county, 04. no. constituency",
+    "szekhely" : "Szigetvár",
+    "szekhely_en" : "Szigetvár",
+    "oevk_jeloltre_szavhat" : 73846,
+    "letszam" : {
+      "indulo" : 74056,
+      "honos" : 72761,
+      "atjel" : 522,
+      "atjelInnen" : 1085,
+      "kuvi" : 313,
+      "osszesen" : 73283
+    }
+  }, {
+    "maz" : "03",
+    "maz_nev" : "Bács-Kiskun vármegye",
+    "maz_nev_en" : "Bács-Kiskun county",
+    "evk" : "01",
+    "evk_nev" : "Bács-Kiskun vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Bács-Kiskun county, 01. no. constituency",
+    "szekhely" : "Kecskemét",
+    "szekhely_en" : "Kecskemét",
+    "oevk_jeloltre_szavhat" : 67952,
+    "letszam" : {
+      "indulo" : 68116,
+      "honos" : 67024,
+      "atjel" : 253,
+      "atjelInnen" : 928,
+      "kuvi" : 382,
+      "osszesen" : 67277
+    }
+  }, {
+    "maz" : "03",
+    "maz_nev" : "Bács-Kiskun vármegye",
+    "maz_nev_en" : "Bács-Kiskun county",
+    "evk" : "02",
+    "evk_nev" : "Bács-Kiskun vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Bács-Kiskun county, 02. no. constituency",
+    "szekhely" : "Kecskemét",
+    "szekhely_en" : "Kecskemét",
+    "oevk_jeloltre_szavhat" : 71549,
+    "letszam" : {
+      "indulo" : 71744,
+      "honos" : 70485,
+      "atjel" : 1483,
+      "atjelInnen" : 1064,
+      "kuvi" : 521,
+      "osszesen" : 71968
+    }
+  }, {
+    "maz" : "03",
+    "maz_nev" : "Bács-Kiskun vármegye",
+    "maz_nev_en" : "Bács-Kiskun county",
+    "evk" : "03",
+    "evk_nev" : "Bács-Kiskun vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Bács-Kiskun county, 03. no. constituency",
+    "szekhely" : "Kalocsa",
+    "szekhely_en" : "Kalocsa",
+    "oevk_jeloltre_szavhat" : 63299,
+    "letszam" : {
+      "indulo" : 63523,
+      "honos" : 62189,
+      "atjel" : 561,
+      "atjelInnen" : 1110,
+      "kuvi" : 327,
+      "osszesen" : 62750
+    }
+  }, {
+    "maz" : "03",
+    "maz_nev" : "Bács-Kiskun vármegye",
+    "maz_nev_en" : "Bács-Kiskun county",
+    "evk" : "04",
+    "evk_nev" : "Bács-Kiskun vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Bács-Kiskun county, 04. no. constituency",
+    "szekhely" : "Kiskunfélegyháza",
+    "szekhely_en" : "Kiskunfélegyháza",
+    "oevk_jeloltre_szavhat" : 70100,
+    "letszam" : {
+      "indulo" : 70354,
+      "honos" : 69227,
+      "atjel" : 412,
+      "atjelInnen" : 873,
+      "kuvi" : 327,
+      "osszesen" : 69639
+    }
+  }, {
+    "maz" : "03",
+    "maz_nev" : "Bács-Kiskun vármegye",
+    "maz_nev_en" : "Bács-Kiskun county",
+    "evk" : "05",
+    "evk_nev" : "Bács-Kiskun vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Bács-Kiskun county, 05. no. constituency",
+    "szekhely" : "Kiskunhalas",
+    "szekhely_en" : "Kiskunhalas",
+    "oevk_jeloltre_szavhat" : 65645,
+    "letszam" : {
+      "indulo" : 65960,
+      "honos" : 64459,
+      "atjel" : 460,
+      "atjelInnen" : 1186,
+      "kuvi" : 391,
+      "osszesen" : 64919
+    }
+  }, {
+    "maz" : "03",
+    "maz_nev" : "Bács-Kiskun vármegye",
+    "maz_nev_en" : "Bács-Kiskun county",
+    "evk" : "06",
+    "evk_nev" : "Bács-Kiskun vármegye, 06. számú egyéni választókerület",
+    "evk_nev_en" : "Bács-Kiskun county, 06. no. constituency",
+    "szekhely" : "Baja",
+    "szekhely_en" : "Baja",
+    "oevk_jeloltre_szavhat" : 62191,
+    "letszam" : {
+      "indulo" : 62413,
+      "honos" : 60991,
+      "atjel" : 467,
+      "atjelInnen" : 1200,
+      "kuvi" : 385,
+      "osszesen" : 61458
+    }
+  }, {
+    "maz" : "04",
+    "maz_nev" : "Békés vármegye",
+    "maz_nev_en" : "Békés county",
+    "evk" : "01",
+    "evk_nev" : "Békés vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Békés county, 01. no. constituency",
+    "szekhely" : "Békéscsaba",
+    "szekhely_en" : "Békéscsaba",
+    "oevk_jeloltre_szavhat" : 66104,
+    "letszam" : {
+      "indulo" : 66341,
+      "honos" : 64517,
+      "atjel" : 663,
+      "atjelInnen" : 1587,
+      "kuvi" : 462,
+      "osszesen" : 65180
+    }
+  }, {
+    "maz" : "04",
+    "maz_nev" : "Békés vármegye",
+    "maz_nev_en" : "Békés county",
+    "evk" : "02",
+    "evk_nev" : "Békés vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Békés county, 02. no. constituency",
+    "szekhely" : "Békés",
+    "szekhely_en" : "Békés",
+    "oevk_jeloltre_szavhat" : 66488,
+    "letszam" : {
+      "indulo" : 66737,
+      "honos" : 65167,
+      "atjel" : 332,
+      "atjelInnen" : 1321,
+      "kuvi" : 391,
+      "osszesen" : 65499
+    }
+  }, {
+    "maz" : "04",
+    "maz_nev" : "Békés vármegye",
+    "maz_nev_en" : "Békés county",
+    "evk" : "03",
+    "evk_nev" : "Békés vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Békés county, 03. no. constituency",
+    "szekhely" : "Gyula",
+    "szekhely_en" : "Gyula",
+    "oevk_jeloltre_szavhat" : 65312,
+    "letszam" : {
+      "indulo" : 65626,
+      "honos" : 63912,
+      "atjel" : 506,
+      "atjelInnen" : 1400,
+      "kuvi" : 348,
+      "osszesen" : 64418
+    }
+  }, {
+    "maz" : "04",
+    "maz_nev" : "Békés vármegye",
+    "maz_nev_en" : "Békés county",
+    "evk" : "04",
+    "evk_nev" : "Békés vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Békés county, 04. no. constituency",
+    "szekhely" : "Orosháza",
+    "szekhely_en" : "Orosháza",
+    "oevk_jeloltre_szavhat" : 68217,
+    "letszam" : {
+      "indulo" : 68573,
+      "honos" : 66727,
+      "atjel" : 318,
+      "atjelInnen" : 1490,
+      "kuvi" : 418,
+      "osszesen" : 67045
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "01",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+    "szekhely" : "Miskolc",
+    "szekhely_en" : "Miskolc",
+    "oevk_jeloltre_szavhat" : 69225,
+    "letszam" : {
+      "indulo" : 69596,
+      "honos" : 67967,
+      "atjel" : 194,
+      "atjelInnen" : 1258,
+      "kuvi" : 511,
+      "osszesen" : 68161
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "02",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 02. no. constituency",
+    "szekhely" : "Miskolc",
+    "szekhely_en" : "Miskolc",
+    "oevk_jeloltre_szavhat" : 68334,
+    "letszam" : {
+      "indulo" : 68632,
+      "honos" : 66955,
+      "atjel" : 1201,
+      "atjelInnen" : 1379,
+      "kuvi" : 561,
+      "osszesen" : 68156
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "03",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 03. no. constituency",
+    "szekhely" : "Ózd",
+    "szekhely_en" : "Ózd",
+    "oevk_jeloltre_szavhat" : 67697,
+    "letszam" : {
+      "indulo" : 68060,
+      "honos" : 66454,
+      "atjel" : 288,
+      "atjelInnen" : 1243,
+      "kuvi" : 206,
+      "osszesen" : 66742
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "04",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 04. no. constituency",
+    "szekhely" : "Kazincbarcika",
+    "szekhely_en" : "Kazincbarcika",
+    "oevk_jeloltre_szavhat" : 71403,
+    "letszam" : {
+      "indulo" : 71778,
+      "honos" : 70212,
+      "atjel" : 295,
+      "atjelInnen" : 1191,
+      "kuvi" : 312,
+      "osszesen" : 70507
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "05",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 05. no. constituency",
+    "szekhely" : "Sátoraljaújhely",
+    "szekhely_en" : "Sátoraljaújhely",
+    "oevk_jeloltre_szavhat" : 70116,
+    "letszam" : {
+      "indulo" : 70421,
+      "honos" : 68380,
+      "atjel" : 424,
+      "atjelInnen" : 1736,
+      "kuvi" : 296,
+      "osszesen" : 68804
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "06",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 06. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 06. no. constituency",
+    "szekhely" : "Tiszaújváros",
+    "szekhely_en" : "Tiszaújváros",
+    "oevk_jeloltre_szavhat" : 73673,
+    "letszam" : {
+      "indulo" : 74010,
+      "honos" : 72317,
+      "atjel" : 361,
+      "atjelInnen" : 1356,
+      "kuvi" : 342,
+      "osszesen" : 72678
+    }
+  }, {
+    "maz" : "05",
+    "maz_nev" : "Borsod-Abaúj-Zemplén vármegye",
+    "maz_nev_en" : "Borsod-Abaúj-Zemplén county",
+    "evk" : "07",
+    "evk_nev" : "Borsod-Abaúj-Zemplén vármegye, 07. számú egyéni választókerület",
+    "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 07. no. constituency",
+    "szekhely" : "Mezőkövesd",
+    "szekhely_en" : "Mezőkövesd",
+    "oevk_jeloltre_szavhat" : 74279,
+    "letszam" : {
+      "indulo" : 74526,
+      "honos" : 73088,
+      "atjel" : 546,
+      "atjelInnen" : 1191,
+      "kuvi" : 361,
+      "osszesen" : 73634
+    }
+  }, {
+    "maz" : "06",
+    "maz_nev" : "Csongrád-Csanád vármegye",
+    "maz_nev_en" : "Csongrád-Csanád county",
+    "evk" : "01",
+    "evk_nev" : "Csongrád-Csanád vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Csongrád-Csanád county, 01. no. constituency",
+    "szekhely" : "Szeged",
+    "szekhely_en" : "Szeged",
+    "oevk_jeloltre_szavhat" : 82053,
+    "letszam" : {
+      "indulo" : 82389,
+      "honos" : 80544,
+      "atjel" : 0,
+      "atjelInnen" : 1509,
+      "kuvi" : 1044,
+      "osszesen" : 80544
+    }
+  }, {
+    "maz" : "06",
+    "maz_nev" : "Csongrád-Csanád vármegye",
+    "maz_nev_en" : "Csongrád-Csanád county",
+    "evk" : "02",
+    "evk_nev" : "Csongrád-Csanád vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Csongrád-Csanád county, 02. no. constituency",
+    "szekhely" : "Szeged",
+    "szekhely_en" : "Szeged",
+    "oevk_jeloltre_szavhat" : 80163,
+    "letszam" : {
+      "indulo" : 80379,
+      "honos" : 78980,
+      "atjel" : 3229,
+      "atjelInnen" : 1183,
+      "kuvi" : 748,
+      "osszesen" : 82209
+    }
+  }, {
+    "maz" : "06",
+    "maz_nev" : "Csongrád-Csanád vármegye",
+    "maz_nev_en" : "Csongrád-Csanád county",
+    "evk" : "03",
+    "evk_nev" : "Csongrád-Csanád vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Csongrád-Csanád county, 03. no. constituency",
+    "szekhely" : "Szentes",
+    "szekhely_en" : "Szentes",
+    "oevk_jeloltre_szavhat" : 77828,
+    "letszam" : {
+      "indulo" : 78125,
+      "honos" : 76660,
+      "atjel" : 523,
+      "atjelInnen" : 1168,
+      "kuvi" : 400,
+      "osszesen" : 77183
+    }
+  }, {
+    "maz" : "06",
+    "maz_nev" : "Csongrád-Csanád vármegye",
+    "maz_nev_en" : "Csongrád-Csanád county",
+    "evk" : "04",
+    "evk_nev" : "Csongrád-Csanád vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Csongrád-Csanád county, 04. no. constituency",
+    "szekhely" : "Hódmezővásárhely",
+    "szekhely_en" : "Hódmezővásárhely",
+    "oevk_jeloltre_szavhat" : 76423,
+    "letszam" : {
+      "indulo" : 76771,
+      "honos" : 75370,
+      "atjel" : 551,
+      "atjelInnen" : 1053,
+      "kuvi" : 384,
+      "osszesen" : 75921
+    }
+  }, {
+    "maz" : "07",
+    "maz_nev" : "Fejér vármegye",
+    "maz_nev_en" : "Fejér county",
+    "evk" : "01",
+    "evk_nev" : "Fejér vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Fejér county, 01. no. constituency",
+    "szekhely" : "Székesfehérvár",
+    "szekhely_en" : "Székesfehérvár",
+    "oevk_jeloltre_szavhat" : 69997,
+    "letszam" : {
+      "indulo" : 70188,
+      "honos" : 69095,
+      "atjel" : 1766,
+      "atjelInnen" : 902,
+      "kuvi" : 619,
+      "osszesen" : 70861
+    }
+  }, {
+    "maz" : "07",
+    "maz_nev" : "Fejér vármegye",
+    "maz_nev_en" : "Fejér county",
+    "evk" : "02",
+    "evk_nev" : "Fejér vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Fejér county, 02. no. constituency",
+    "szekhely" : "Székesfehérvár",
+    "szekhely_en" : "Székesfehérvár",
+    "oevk_jeloltre_szavhat" : 66269,
+    "letszam" : {
+      "indulo" : 66457,
+      "honos" : 65241,
+      "atjel" : 434,
+      "atjelInnen" : 1028,
+      "kuvi" : 450,
+      "osszesen" : 65675
+    }
+  }, {
+    "maz" : "07",
+    "maz_nev" : "Fejér vármegye",
+    "maz_nev_en" : "Fejér county",
+    "evk" : "03",
+    "evk_nev" : "Fejér vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Fejér county, 03. no. constituency",
+    "szekhely" : "Bicske",
+    "szekhely_en" : "Bicske",
+    "oevk_jeloltre_szavhat" : 69239,
+    "letszam" : {
+      "indulo" : 69164,
+      "honos" : 68190,
+      "atjel" : 1370,
+      "atjelInnen" : 1049,
+      "kuvi" : 519,
+      "osszesen" : 69560
+    }
+  }, {
+    "maz" : "07",
+    "maz_nev" : "Fejér vármegye",
+    "maz_nev_en" : "Fejér county",
+    "evk" : "04",
+    "evk_nev" : "Fejér vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Fejér county, 04. no. constituency",
+    "szekhely" : "Dunaújváros",
+    "szekhely_en" : "Dunaújváros",
+    "oevk_jeloltre_szavhat" : 66820,
+    "letszam" : {
+      "indulo" : 67025,
+      "honos" : 65765,
+      "atjel" : 938,
+      "atjelInnen" : 1055,
+      "kuvi" : 393,
+      "osszesen" : 66703
+    }
+  }, {
+    "maz" : "07",
+    "maz_nev" : "Fejér vármegye",
+    "maz_nev_en" : "Fejér county",
+    "evk" : "05",
+    "evk_nev" : "Fejér vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Fejér county, 05. no. constituency",
+    "szekhely" : "Sárbogárd",
+    "szekhely_en" : "Sárbogárd",
+    "oevk_jeloltre_szavhat" : 65517,
+    "letszam" : {
+      "indulo" : 65739,
+      "honos" : 64580,
+      "atjel" : 329,
+      "atjelInnen" : 937,
+      "kuvi" : 231,
+      "osszesen" : 64909
+    }
+  }, {
+    "maz" : "08",
+    "maz_nev" : "Győr-Moson-Sopron vármegye",
+    "maz_nev_en" : "Győr-Moson-Sopron county",
+    "evk" : "01",
+    "evk_nev" : "Győr-Moson-Sopron vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Győr-Moson-Sopron county, 01. no. constituency",
+    "szekhely" : "Győr",
+    "szekhely_en" : "Győr",
+    "oevk_jeloltre_szavhat" : 65740,
+    "letszam" : {
+      "indulo" : 65953,
+      "honos" : 64771,
+      "atjel" : 2690,
+      "atjelInnen" : 969,
+      "kuvi" : 532,
+      "osszesen" : 67461
+    }
+  }, {
+    "maz" : "08",
+    "maz_nev" : "Győr-Moson-Sopron vármegye",
+    "maz_nev_en" : "Győr-Moson-Sopron county",
+    "evk" : "02",
+    "evk_nev" : "Győr-Moson-Sopron vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Győr-Moson-Sopron county, 02. no. constituency",
+    "szekhely" : "Győr",
+    "szekhely_en" : "Győr",
+    "oevk_jeloltre_szavhat" : 73282,
+    "letszam" : {
+      "indulo" : 73402,
+      "honos" : 72374,
+      "atjel" : 433,
+      "atjelInnen" : 908,
+      "kuvi" : 410,
+      "osszesen" : 72807
+    }
+  }, {
+    "maz" : "08",
+    "maz_nev" : "Győr-Moson-Sopron vármegye",
+    "maz_nev_en" : "Győr-Moson-Sopron county",
+    "evk" : "03",
+    "evk_nev" : "Győr-Moson-Sopron vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Győr-Moson-Sopron county, 03. no. constituency",
+    "szekhely" : "Csorna",
+    "szekhely_en" : "Csorna",
+    "oevk_jeloltre_szavhat" : 66647,
+    "letszam" : {
+      "indulo" : 66792,
+      "honos" : 65881,
+      "atjel" : 549,
+      "atjelInnen" : 766,
+      "kuvi" : 218,
+      "osszesen" : 66430
+    }
+  }, {
+    "maz" : "08",
+    "maz_nev" : "Győr-Moson-Sopron vármegye",
+    "maz_nev_en" : "Győr-Moson-Sopron county",
+    "evk" : "04",
+    "evk_nev" : "Győr-Moson-Sopron vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Győr-Moson-Sopron county, 04. no. constituency",
+    "szekhely" : "Sopron",
+    "szekhely_en" : "Sopron",
+    "oevk_jeloltre_szavhat" : 75177,
+    "letszam" : {
+      "indulo" : 75318,
+      "honos" : 74003,
+      "atjel" : 2183,
+      "atjelInnen" : 1174,
+      "kuvi" : 353,
+      "osszesen" : 76186
+    }
+  }, {
+    "maz" : "08",
+    "maz_nev" : "Győr-Moson-Sopron vármegye",
+    "maz_nev_en" : "Győr-Moson-Sopron county",
+    "evk" : "05",
+    "evk_nev" : "Győr-Moson-Sopron vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Győr-Moson-Sopron county, 05. no. constituency",
+    "szekhely" : "Mosonmagyaróvár",
+    "szekhely_en" : "Mosonmagyaróvár",
+    "oevk_jeloltre_szavhat" : 78565,
+    "letszam" : {
+      "indulo" : 78656,
+      "honos" : 77664,
+      "atjel" : 1178,
+      "atjelInnen" : 901,
+      "kuvi" : 351,
+      "osszesen" : 78842
+    }
+  }, {
+    "maz" : "09",
+    "maz_nev" : "Hajdú-Bihar vármegye",
+    "maz_nev_en" : "Hajdú-Bihar county",
+    "evk" : "01",
+    "evk_nev" : "Hajdú-Bihar vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Hajdú-Bihar county, 01. no. constituency",
+    "szekhely" : "Debrecen",
+    "szekhely_en" : "Debrecen",
+    "oevk_jeloltre_szavhat" : 65236,
+    "letszam" : {
+      "indulo" : 65542,
+      "honos" : 63887,
+      "atjel" : 0,
+      "atjelInnen" : 1349,
+      "kuvi" : 712,
+      "osszesen" : 63887
+    }
+  }, {
+    "maz" : "09",
+    "maz_nev" : "Hajdú-Bihar vármegye",
+    "maz_nev_en" : "Hajdú-Bihar county",
+    "evk" : "02",
+    "evk_nev" : "Hajdú-Bihar vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Hajdú-Bihar county, 02. no. constituency",
+    "szekhely" : "Debrecen",
+    "szekhely_en" : "Debrecen",
+    "oevk_jeloltre_szavhat" : 69555,
+    "letszam" : {
+      "indulo" : 69866,
+      "honos" : 68224,
+      "atjel" : 2388,
+      "atjelInnen" : 1331,
+      "kuvi" : 592,
+      "osszesen" : 70612
+    }
+  }, {
+    "maz" : "09",
+    "maz_nev" : "Hajdú-Bihar vármegye",
+    "maz_nev_en" : "Hajdú-Bihar county",
+    "evk" : "03",
+    "evk_nev" : "Hajdú-Bihar vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Hajdú-Bihar county, 03. no. constituency",
+    "szekhely" : "Debrecen",
+    "szekhely_en" : "Debrecen",
+    "oevk_jeloltre_szavhat" : 78048,
+    "letszam" : {
+      "indulo" : 78275,
+      "honos" : 76942,
+      "atjel" : 273,
+      "atjelInnen" : 1106,
+      "kuvi" : 364,
+      "osszesen" : 77215
+    }
+  }, {
+    "maz" : "09",
+    "maz_nev" : "Hajdú-Bihar vármegye",
+    "maz_nev_en" : "Hajdú-Bihar county",
+    "evk" : "04",
+    "evk_nev" : "Hajdú-Bihar vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Hajdú-Bihar county, 04. no. constituency",
+    "szekhely" : "Berettyóújfalu",
+    "szekhely_en" : "Berettyóújfalu",
+    "oevk_jeloltre_szavhat" : 67159,
+    "letszam" : {
+      "indulo" : 67376,
+      "honos" : 66081,
+      "atjel" : 468,
+      "atjelInnen" : 1078,
+      "kuvi" : 243,
+      "osszesen" : 66549
+    }
+  }, {
+    "maz" : "09",
+    "maz_nev" : "Hajdú-Bihar vármegye",
+    "maz_nev_en" : "Hajdú-Bihar county",
+    "evk" : "05",
+    "evk_nev" : "Hajdú-Bihar vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Hajdú-Bihar county, 05. no. constituency",
+    "szekhely" : "Hajdúszoboszló",
+    "szekhely_en" : "Hajdúszoboszló",
+    "oevk_jeloltre_szavhat" : 68365,
+    "letszam" : {
+      "indulo" : 68535,
+      "honos" : 67259,
+      "atjel" : 397,
+      "atjelInnen" : 1106,
+      "kuvi" : 332,
+      "osszesen" : 67656
+    }
+  }, {
+    "maz" : "09",
+    "maz_nev" : "Hajdú-Bihar vármegye",
+    "maz_nev_en" : "Hajdú-Bihar county",
+    "evk" : "06",
+    "evk_nev" : "Hajdú-Bihar vármegye, 06. számú egyéni választókerület",
+    "evk_nev_en" : "Hajdú-Bihar county, 06. no. constituency",
+    "szekhely" : "Hajdúböszörmény",
+    "szekhely_en" : "Hajdúböszörmény",
+    "oevk_jeloltre_szavhat" : 68157,
+    "letszam" : {
+      "indulo" : 68382,
+      "honos" : 67250,
+      "atjel" : 314,
+      "atjelInnen" : 907,
+      "kuvi" : 293,
+      "osszesen" : 67564
+    }
+  }, {
+    "maz" : "10",
+    "maz_nev" : "Heves vármegye",
+    "maz_nev_en" : "Heves county",
+    "evk" : "01",
+    "evk_nev" : "Heves vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Heves county, 01. no. constituency",
+    "szekhely" : "Eger",
+    "szekhely_en" : "Eger",
+    "oevk_jeloltre_szavhat" : 79121,
+    "letszam" : {
+      "indulo" : 79459,
+      "honos" : 77521,
+      "atjel" : 946,
+      "atjelInnen" : 1600,
+      "kuvi" : 582,
+      "osszesen" : 78467
+    }
+  }, {
+    "maz" : "10",
+    "maz_nev" : "Heves vármegye",
+    "maz_nev_en" : "Heves county",
+    "evk" : "02",
+    "evk_nev" : "Heves vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Heves county, 02. no. constituency",
+    "szekhely" : "Gyöngyös",
+    "szekhely_en" : "Gyöngyös",
+    "oevk_jeloltre_szavhat" : 74109,
+    "letszam" : {
+      "indulo" : 74453,
+      "honos" : 72751,
+      "atjel" : 815,
+      "atjelInnen" : 1358,
+      "kuvi" : 368,
+      "osszesen" : 73566
+    }
+  }, {
+    "maz" : "10",
+    "maz_nev" : "Heves vármegye",
+    "maz_nev_en" : "Heves county",
+    "evk" : "03",
+    "evk_nev" : "Heves vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Heves county, 03. no. constituency",
+    "szekhely" : "Hatvan",
+    "szekhely_en" : "Hatvan",
+    "oevk_jeloltre_szavhat" : 78431,
+    "letszam" : {
+      "indulo" : 78700,
+      "honos" : 77243,
+      "atjel" : 548,
+      "atjelInnen" : 1188,
+      "kuvi" : 269,
+      "osszesen" : 77791
+    }
+  }, {
+    "maz" : "11",
+    "maz_nev" : "Jász-Nagykun-Szolnok vármegye",
+    "maz_nev_en" : "Jász-Nagykun-Szolnok county",
+    "evk" : "01",
+    "evk_nev" : "Jász-Nagykun-Szolnok vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Jász-Nagykun-Szolnok county, 01. no. constituency",
+    "szekhely" : "Szolnok",
+    "szekhely_en" : "Szolnok",
+    "oevk_jeloltre_szavhat" : 74868,
+    "letszam" : {
+      "indulo" : 75224,
+      "honos" : 73450,
+      "atjel" : 874,
+      "atjelInnen" : 1418,
+      "kuvi" : 539,
+      "osszesen" : 74324
+    }
+  }, {
+    "maz" : "11",
+    "maz_nev" : "Jász-Nagykun-Szolnok vármegye",
+    "maz_nev_en" : "Jász-Nagykun-Szolnok county",
+    "evk" : "02",
+    "evk_nev" : "Jász-Nagykun-Szolnok vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Jász-Nagykun-Szolnok county, 02. no. constituency",
+    "szekhely" : "Jászberény",
+    "szekhely_en" : "Jászberény",
+    "oevk_jeloltre_szavhat" : 69603,
+    "letszam" : {
+      "indulo" : 69900,
+      "honos" : 68627,
+      "atjel" : 451,
+      "atjelInnen" : 976,
+      "kuvi" : 284,
+      "osszesen" : 69078
+    }
+  }, {
+    "maz" : "11",
+    "maz_nev" : "Jász-Nagykun-Szolnok vármegye",
+    "maz_nev_en" : "Jász-Nagykun-Szolnok county",
+    "evk" : "03",
+    "evk_nev" : "Jász-Nagykun-Szolnok vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Jász-Nagykun-Szolnok county, 03. no. constituency",
+    "szekhely" : "Karcag",
+    "szekhely_en" : "Karcag",
+    "oevk_jeloltre_szavhat" : 72278,
+    "letszam" : {
+      "indulo" : 72669,
+      "honos" : 70700,
+      "atjel" : 351,
+      "atjelInnen" : 1578,
+      "kuvi" : 275,
+      "osszesen" : 71051
+    }
+  }, {
+    "maz" : "11",
+    "maz_nev" : "Jász-Nagykun-Szolnok vármegye",
+    "maz_nev_en" : "Jász-Nagykun-Szolnok county",
+    "evk" : "04",
+    "evk_nev" : "Jász-Nagykun-Szolnok vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Jász-Nagykun-Szolnok county, 04. no. constituency",
+    "szekhely" : "Törökszentmiklós",
+    "szekhely_en" : "Törökszentmiklós",
+    "oevk_jeloltre_szavhat" : 71507,
+    "letszam" : {
+      "indulo" : 71845,
+      "honos" : 70211,
+      "atjel" : 348,
+      "atjelInnen" : 1296,
+      "kuvi" : 296,
+      "osszesen" : 70559
+    }
+  }, {
+    "maz" : "12",
+    "maz_nev" : "Komárom-Esztergom vármegye",
+    "maz_nev_en" : "Komárom-Esztergom county",
+    "evk" : "01",
+    "evk_nev" : "Komárom-Esztergom vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Komárom-Esztergom county, 01. no. constituency",
+    "szekhely" : "Tatabánya",
+    "szekhely_en" : "Tatabánya",
+    "oevk_jeloltre_szavhat" : 77471,
+    "letszam" : {
+      "indulo" : 77768,
+      "honos" : 76495,
+      "atjel" : 938,
+      "atjelInnen" : 976,
+      "kuvi" : 503,
+      "osszesen" : 77433
+    }
+  }, {
+    "maz" : "12",
+    "maz_nev" : "Komárom-Esztergom vármegye",
+    "maz_nev_en" : "Komárom-Esztergom county",
+    "evk" : "02",
+    "evk_nev" : "Komárom-Esztergom vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Komárom-Esztergom county, 02. no. constituency",
+    "szekhely" : "Esztergom",
+    "szekhely_en" : "Esztergom",
+    "oevk_jeloltre_szavhat" : 80883,
+    "letszam" : {
+      "indulo" : 81081,
+      "honos" : 79832,
+      "atjel" : 1174,
+      "atjelInnen" : 1051,
+      "kuvi" : 498,
+      "osszesen" : 81006
+    }
+  }, {
+    "maz" : "12",
+    "maz_nev" : "Komárom-Esztergom vármegye",
+    "maz_nev_en" : "Komárom-Esztergom county",
+    "evk" : "03",
+    "evk_nev" : "Komárom-Esztergom vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Komárom-Esztergom county, 03. no. constituency",
+    "szekhely" : "Komárom",
+    "szekhely_en" : "Komárom",
+    "oevk_jeloltre_szavhat" : 81127,
+    "letszam" : {
+      "indulo" : 81322,
+      "honos" : 80114,
+      "atjel" : 883,
+      "atjelInnen" : 1013,
+      "kuvi" : 358,
+      "osszesen" : 80997
+    }
+  }, {
+    "maz" : "13",
+    "maz_nev" : "Nógrád vármegye",
+    "maz_nev_en" : "Nógrád county",
+    "evk" : "01",
+    "evk_nev" : "Nógrád vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Nógrád county, 01. no. constituency",
+    "szekhely" : "Salgótarján",
+    "szekhely_en" : "Salgótarján",
+    "oevk_jeloltre_szavhat" : 71898,
+    "letszam" : {
+      "indulo" : 72213,
+      "honos" : 70509,
+      "atjel" : 509,
+      "atjelInnen" : 1389,
+      "kuvi" : 330,
+      "osszesen" : 71018
+    }
+  }, {
+    "maz" : "13",
+    "maz_nev" : "Nógrád vármegye",
+    "maz_nev_en" : "Nógrád county",
+    "evk" : "02",
+    "evk_nev" : "Nógrád vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Nógrád county, 02. no. constituency",
+    "szekhely" : "Balassagyarmat",
+    "szekhely_en" : "Balassagyarmat",
+    "oevk_jeloltre_szavhat" : 77121,
+    "letszam" : {
+      "indulo" : 77399,
+      "honos" : 75716,
+      "atjel" : 713,
+      "atjelInnen" : 1405,
+      "kuvi" : 335,
+      "osszesen" : 76429
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "01",
+    "evk_nev" : "Pest vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 01. no. constituency",
+    "szekhely" : "Érd",
+    "szekhely_en" : "Érd",
+    "oevk_jeloltre_szavhat" : 79721,
+    "letszam" : {
+      "indulo" : 79841,
+      "honos" : 78699,
+      "atjel" : 1344,
+      "atjelInnen" : 1022,
+      "kuvi" : 681,
+      "osszesen" : 80043
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "02",
+    "evk_nev" : "Pest vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 02. no. constituency",
+    "szekhely" : "Budaörs",
+    "szekhely_en" : "Budaörs",
+    "oevk_jeloltre_szavhat" : 77904,
+    "letszam" : {
+      "indulo" : 77977,
+      "honos" : 76985,
+      "atjel" : 1989,
+      "atjelInnen" : 919,
+      "kuvi" : 1216,
+      "osszesen" : 78974
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "03",
+    "evk_nev" : "Pest vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 03. no. constituency",
+    "szekhely" : "Pilisvörösvár",
+    "szekhely_en" : "Pilisvörösvár",
+    "oevk_jeloltre_szavhat" : 81984,
+    "letszam" : {
+      "indulo" : 82007,
+      "honos" : 81021,
+      "atjel" : 1711,
+      "atjelInnen" : 963,
+      "kuvi" : 1105,
+      "osszesen" : 82732
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "04",
+    "evk_nev" : "Pest vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 04. no. constituency",
+    "szekhely" : "Szentendre",
+    "szekhely_en" : "Szentendre",
+    "oevk_jeloltre_szavhat" : 76349,
+    "letszam" : {
+      "indulo" : 76425,
+      "honos" : 75196,
+      "atjel" : 1651,
+      "atjelInnen" : 1153,
+      "kuvi" : 929,
+      "osszesen" : 76847
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "05",
+    "evk_nev" : "Pest vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 05. no. constituency",
+    "szekhely" : "Dunakeszi",
+    "szekhely_en" : "Dunakeszi",
+    "oevk_jeloltre_szavhat" : 76007,
+    "letszam" : {
+      "indulo" : 76087,
+      "honos" : 75137,
+      "atjel" : 1502,
+      "atjelInnen" : 870,
+      "kuvi" : 868,
+      "osszesen" : 76639
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "06",
+    "evk_nev" : "Pest vármegye, 06. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 06. no. constituency",
+    "szekhely" : "Gödöllő",
+    "szekhely_en" : "Gödöllő",
+    "oevk_jeloltre_szavhat" : 76910,
+    "letszam" : {
+      "indulo" : 76853,
+      "honos" : 75898,
+      "atjel" : 1645,
+      "atjelInnen" : 1012,
+      "kuvi" : 791,
+      "osszesen" : 77543
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "07",
+    "evk_nev" : "Pest vármegye, 07. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 07. no. constituency",
+    "szekhely" : "Pécel",
+    "szekhely_en" : "Pécel",
+    "oevk_jeloltre_szavhat" : 76380,
+    "letszam" : {
+      "indulo" : 76456,
+      "honos" : 75360,
+      "atjel" : 1060,
+      "atjelInnen" : 1020,
+      "kuvi" : 442,
+      "osszesen" : 76420
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "08",
+    "evk_nev" : "Pest vármegye, 08. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 08. no. constituency",
+    "szekhely" : "Vecsés",
+    "szekhely_en" : "Vecsés",
+    "oevk_jeloltre_szavhat" : 70474,
+    "letszam" : {
+      "indulo" : 70498,
+      "honos" : 69692,
+      "atjel" : 1198,
+      "atjelInnen" : 782,
+      "kuvi" : 503,
+      "osszesen" : 70890
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "09",
+    "evk_nev" : "Pest vármegye, 09. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 09. no. constituency",
+    "szekhely" : "Ráckeve",
+    "szekhely_en" : "Ráckeve",
+    "oevk_jeloltre_szavhat" : 76112,
+    "letszam" : {
+      "indulo" : 76184,
+      "honos" : 75055,
+      "atjel" : 1120,
+      "atjelInnen" : 1057,
+      "kuvi" : 409,
+      "osszesen" : 76175
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "10",
+    "evk_nev" : "Pest vármegye, 10. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 10. no. constituency",
+    "szekhely" : "Szigetszentmiklós",
+    "szekhely_en" : "Szigetszentmiklós",
+    "oevk_jeloltre_szavhat" : 74509,
+    "letszam" : {
+      "indulo" : 74661,
+      "honos" : 73499,
+      "atjel" : 1270,
+      "atjelInnen" : 1010,
+      "kuvi" : 647,
+      "osszesen" : 74769
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "11",
+    "evk_nev" : "Pest vármegye, 11. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 11. no. constituency",
+    "szekhely" : "Vác",
+    "szekhely_en" : "Vác",
+    "oevk_jeloltre_szavhat" : 74891,
+    "letszam" : {
+      "indulo" : 75009,
+      "honos" : 73832,
+      "atjel" : 1242,
+      "atjelInnen" : 1059,
+      "kuvi" : 479,
+      "osszesen" : 75074
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "12",
+    "evk_nev" : "Pest vármegye, 12. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 12. no. constituency",
+    "szekhely" : "Monor",
+    "szekhely_en" : "Monor",
+    "oevk_jeloltre_szavhat" : 73971,
+    "letszam" : {
+      "indulo" : 74072,
+      "honos" : 72832,
+      "atjel" : 631,
+      "atjelInnen" : 1139,
+      "kuvi" : 268,
+      "osszesen" : 73463
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "13",
+    "evk_nev" : "Pest vármegye, 13. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 13. no. constituency",
+    "szekhely" : "Dabas",
+    "szekhely_en" : "Dabas",
+    "oevk_jeloltre_szavhat" : 70131,
+    "letszam" : {
+      "indulo" : 70257,
+      "honos" : 69259,
+      "atjel" : 829,
+      "atjelInnen" : 872,
+      "kuvi" : 282,
+      "osszesen" : 70088
+    }
+  }, {
+    "maz" : "14",
+    "maz_nev" : "Pest vármegye",
+    "maz_nev_en" : "Pest county",
+    "evk" : "14",
+    "evk_nev" : "Pest vármegye, 14. számú egyéni választókerület",
+    "evk_nev_en" : "Pest county, 14. no. constituency",
+    "szekhely" : "Cegléd",
+    "szekhely_en" : "Cegléd",
+    "oevk_jeloltre_szavhat" : 73546,
+    "letszam" : {
+      "indulo" : 73780,
+      "honos" : 72617,
+      "atjel" : 511,
+      "atjelInnen" : 929,
+      "kuvi" : 319,
+      "osszesen" : 73128
+    }
+  }, {
+    "maz" : "15",
+    "maz_nev" : "Somogy vármegye",
+    "maz_nev_en" : "Somogy county",
+    "evk" : "01",
+    "evk_nev" : "Somogy vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Somogy county, 01. no. constituency",
+    "szekhely" : "Kaposvár",
+    "szekhely_en" : "Kaposvár",
+    "oevk_jeloltre_szavhat" : 59178,
+    "letszam" : {
+      "indulo" : 59440,
+      "honos" : 57969,
+      "atjel" : 593,
+      "atjelInnen" : 1209,
+      "kuvi" : 411,
+      "osszesen" : 58562
+    }
+  }, {
+    "maz" : "15",
+    "maz_nev" : "Somogy vármegye",
+    "maz_nev_en" : "Somogy county",
+    "evk" : "02",
+    "evk_nev" : "Somogy vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Somogy county, 02. no. constituency",
+    "szekhely" : "Barcs",
+    "szekhely_en" : "Barcs",
+    "oevk_jeloltre_szavhat" : 57089,
+    "letszam" : {
+      "indulo" : 57392,
+      "honos" : 55979,
+      "atjel" : 311,
+      "atjelInnen" : 1110,
+      "kuvi" : 228,
+      "osszesen" : 56290
+    }
+  }, {
+    "maz" : "15",
+    "maz_nev" : "Somogy vármegye",
+    "maz_nev_en" : "Somogy county",
+    "evk" : "03",
+    "evk_nev" : "Somogy vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Somogy county, 03. no. constituency",
+    "szekhely" : "Marcali",
+    "szekhely_en" : "Marcali",
+    "oevk_jeloltre_szavhat" : 61016,
+    "letszam" : {
+      "indulo" : 61187,
+      "honos" : 59496,
+      "atjel" : 787,
+      "atjelInnen" : 1520,
+      "kuvi" : 340,
+      "osszesen" : 60283
+    }
+  }, {
+    "maz" : "15",
+    "maz_nev" : "Somogy vármegye",
+    "maz_nev_en" : "Somogy county",
+    "evk" : "04",
+    "evk_nev" : "Somogy vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Somogy county, 04. no. constituency",
+    "szekhely" : "Siófok",
+    "szekhely_en" : "Siófok",
+    "oevk_jeloltre_szavhat" : 63523,
+    "letszam" : {
+      "indulo" : 63685,
+      "honos" : 61849,
+      "atjel" : 1225,
+      "atjelInnen" : 1674,
+      "kuvi" : 430,
+      "osszesen" : 63074
+    }
+  }, {
+    "maz" : "16",
+    "maz_nev" : "Szabolcs-Szatmár-Bereg vármegye",
+    "maz_nev_en" : "Szabolcs-Szatmár-Bereg county",
+    "evk" : "01",
+    "evk_nev" : "Szabolcs-Szatmár-Bereg vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 01. no. constituency",
+    "szekhely" : "Nyíregyháza",
+    "szekhely_en" : "Nyíregyháza",
+    "oevk_jeloltre_szavhat" : 71882,
+    "letszam" : {
+      "indulo" : 72137,
+      "honos" : 70204,
+      "atjel" : 1081,
+      "atjelInnen" : 1678,
+      "kuvi" : 587,
+      "osszesen" : 71285
+    }
+  }, {
+    "maz" : "16",
+    "maz_nev" : "Szabolcs-Szatmár-Bereg vármegye",
+    "maz_nev_en" : "Szabolcs-Szatmár-Bereg county",
+    "evk" : "02",
+    "evk_nev" : "Szabolcs-Szatmár-Bereg vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
+    "szekhely" : "Nyíregyháza",
+    "szekhely_en" : "Nyíregyháza",
+    "oevk_jeloltre_szavhat" : 70992,
+    "letszam" : {
+      "indulo" : 71234,
+      "honos" : 69747,
+      "atjel" : 206,
+      "atjelInnen" : 1245,
+      "kuvi" : 293,
+      "osszesen" : 69953
+    }
+  }, {
+    "maz" : "16",
+    "maz_nev" : "Szabolcs-Szatmár-Bereg vármegye",
+    "maz_nev_en" : "Szabolcs-Szatmár-Bereg county",
+    "evk" : "03",
+    "evk_nev" : "Szabolcs-Szatmár-Bereg vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 03. no. constituency",
+    "szekhely" : "Kisvárda",
+    "szekhely_en" : "Kisvárda",
+    "oevk_jeloltre_szavhat" : 75703,
+    "letszam" : {
+      "indulo" : 76007,
+      "honos" : 74181,
+      "atjel" : 230,
+      "atjelInnen" : 1522,
+      "kuvi" : 251,
+      "osszesen" : 74411
+    }
+  }, {
+    "maz" : "16",
+    "maz_nev" : "Szabolcs-Szatmár-Bereg vármegye",
+    "maz_nev_en" : "Szabolcs-Szatmár-Bereg county",
+    "evk" : "04",
+    "evk_nev" : "Szabolcs-Szatmár-Bereg vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
+    "szekhely" : "Vásárosnamény",
+    "szekhely_en" : "Vásárosnamény",
+    "oevk_jeloltre_szavhat" : 70082,
+    "letszam" : {
+      "indulo" : 70449,
+      "honos" : 68427,
+      "atjel" : 226,
+      "atjelInnen" : 1655,
+      "kuvi" : 251,
+      "osszesen" : 68653
+    }
+  }, {
+    "maz" : "16",
+    "maz_nev" : "Szabolcs-Szatmár-Bereg vármegye",
+    "maz_nev_en" : "Szabolcs-Szatmár-Bereg county",
+    "evk" : "05",
+    "evk_nev" : "Szabolcs-Szatmár-Bereg vármegye, 05. számú egyéni választókerület",
+    "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 05. no. constituency",
+    "szekhely" : "Mátészalka",
+    "szekhely_en" : "Mátészalka",
+    "oevk_jeloltre_szavhat" : 70967,
+    "letszam" : {
+      "indulo" : 71273,
+      "honos" : 69614,
+      "atjel" : 279,
+      "atjelInnen" : 1353,
+      "kuvi" : 223,
+      "osszesen" : 69893
+    }
+  }, {
+    "maz" : "16",
+    "maz_nev" : "Szabolcs-Szatmár-Bereg vármegye",
+    "maz_nev_en" : "Szabolcs-Szatmár-Bereg county",
+    "evk" : "06",
+    "evk_nev" : "Szabolcs-Szatmár-Bereg vármegye, 06. számú egyéni választókerület",
+    "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
+    "szekhely" : "Nyírbátor",
+    "szekhely_en" : "Nyírbátor",
+    "oevk_jeloltre_szavhat" : 70467,
+    "letszam" : {
+      "indulo" : 70764,
+      "honos" : 69346,
+      "atjel" : 251,
+      "atjelInnen" : 1121,
+      "kuvi" : 239,
+      "osszesen" : 69597
+    }
+  }, {
+    "maz" : "17",
+    "maz_nev" : "Tolna vármegye",
+    "maz_nev_en" : "Tolna county",
+    "evk" : "01",
+    "evk_nev" : "Tolna vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Tolna county, 01. no. constituency",
+    "szekhely" : "Szekszárd",
+    "szekhely_en" : "Szekszárd",
+    "oevk_jeloltre_szavhat" : 57157,
+    "letszam" : {
+      "indulo" : 57420,
+      "honos" : 56239,
+      "atjel" : 421,
+      "atjelInnen" : 918,
+      "kuvi" : 341,
+      "osszesen" : 56660
+    }
+  }, {
+    "maz" : "17",
+    "maz_nev" : "Tolna vármegye",
+    "maz_nev_en" : "Tolna county",
+    "evk" : "02",
+    "evk_nev" : "Tolna vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Tolna county, 02. no. constituency",
+    "szekhely" : "Dombóvár",
+    "szekhely_en" : "Dombóvár",
+    "oevk_jeloltre_szavhat" : 56353,
+    "letszam" : {
+      "indulo" : 56625,
+      "honos" : 55445,
+      "atjel" : 324,
+      "atjelInnen" : 908,
+      "kuvi" : 296,
+      "osszesen" : 55769
+    }
+  }, {
+    "maz" : "17",
+    "maz_nev" : "Tolna vármegye",
+    "maz_nev_en" : "Tolna county",
+    "evk" : "03",
+    "evk_nev" : "Tolna vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Tolna county, 03. no. constituency",
+    "szekhely" : "Paks",
+    "szekhely_en" : "Paks",
+    "oevk_jeloltre_szavhat" : 56822,
+    "letszam" : {
+      "indulo" : 57108,
+      "honos" : 55913,
+      "atjel" : 444,
+      "atjelInnen" : 909,
+      "kuvi" : 248,
+      "osszesen" : 56357
+    }
+  }, {
+    "maz" : "18",
+    "maz_nev" : "Vas vármegye",
+    "maz_nev_en" : "Vas county",
+    "evk" : "01",
+    "evk_nev" : "Vas vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Vas county, 01. no. constituency",
+    "szekhely" : "Szombathely",
+    "szekhely_en" : "Szombathely",
+    "oevk_jeloltre_szavhat" : 67215,
+    "letszam" : {
+      "indulo" : 67477,
+      "honos" : 66157,
+      "atjel" : 1053,
+      "atjelInnen" : 1058,
+      "kuvi" : 411,
+      "osszesen" : 67210
+    }
+  }, {
+    "maz" : "18",
+    "maz_nev" : "Vas vármegye",
+    "maz_nev_en" : "Vas county",
+    "evk" : "02",
+    "evk_nev" : "Vas vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Vas county, 02. no. constituency",
+    "szekhely" : "Sárvár",
+    "szekhely_en" : "Sárvár",
+    "oevk_jeloltre_szavhat" : 66924,
+    "letszam" : {
+      "indulo" : 67121,
+      "honos" : 65894,
+      "atjel" : 741,
+      "atjelInnen" : 1030,
+      "kuvi" : 257,
+      "osszesen" : 66635
+    }
+  }, {
+    "maz" : "18",
+    "maz_nev" : "Vas vármegye",
+    "maz_nev_en" : "Vas county",
+    "evk" : "03",
+    "evk_nev" : "Vas vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Vas county, 03. no. constituency",
+    "szekhely" : "Körmend",
+    "szekhely_en" : "Körmend",
+    "oevk_jeloltre_szavhat" : 65011,
+    "letszam" : {
+      "indulo" : 65148,
+      "honos" : 63994,
+      "atjel" : 706,
+      "atjelInnen" : 1017,
+      "kuvi" : 196,
+      "osszesen" : 64700
+    }
+  }, {
+    "maz" : "19",
+    "maz_nev" : "Veszprém vármegye",
+    "maz_nev_en" : "Veszprém county",
+    "evk" : "01",
+    "evk_nev" : "Veszprém vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Veszprém county, 01. no. constituency",
+    "szekhely" : "Veszprém",
+    "szekhely_en" : "Veszprém",
+    "oevk_jeloltre_szavhat" : 68966,
+    "letszam" : {
+      "indulo" : 69205,
+      "honos" : 67827,
+      "atjel" : 1344,
+      "atjelInnen" : 1139,
+      "kuvi" : 512,
+      "osszesen" : 69171
+    }
+  }, {
+    "maz" : "19",
+    "maz_nev" : "Veszprém vármegye",
+    "maz_nev_en" : "Veszprém county",
+    "evk" : "02",
+    "evk_nev" : "Veszprém vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Veszprém county, 02. no. constituency",
+    "szekhely" : "Balatonfüred",
+    "szekhely_en" : "Balatonfüred",
+    "oevk_jeloltre_szavhat" : 73622,
+    "letszam" : {
+      "indulo" : 73705,
+      "honos" : 71869,
+      "atjel" : 1566,
+      "atjelInnen" : 1753,
+      "kuvi" : 670,
+      "osszesen" : 73435
+    }
+  }, {
+    "maz" : "19",
+    "maz_nev" : "Veszprém vármegye",
+    "maz_nev_en" : "Veszprém county",
+    "evk" : "03",
+    "evk_nev" : "Veszprém vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Veszprém county, 03. no. constituency",
+    "szekhely" : "Tapolca",
+    "szekhely_en" : "Tapolca",
+    "oevk_jeloltre_szavhat" : 65427,
+    "letszam" : {
+      "indulo" : 65605,
+      "honos" : 64033,
+      "atjel" : 784,
+      "atjelInnen" : 1394,
+      "kuvi" : 354,
+      "osszesen" : 64817
+    }
+  }, {
+    "maz" : "19",
+    "maz_nev" : "Veszprém vármegye",
+    "maz_nev_en" : "Veszprém county",
+    "evk" : "04",
+    "evk_nev" : "Veszprém vármegye, 04. számú egyéni választókerület",
+    "evk_nev_en" : "Veszprém county, 04. no. constituency",
+    "szekhely" : "Pápa",
+    "szekhely_en" : "Pápa",
+    "oevk_jeloltre_szavhat" : 66598,
+    "letszam" : {
+      "indulo" : 66795,
+      "honos" : 65559,
+      "atjel" : 562,
+      "atjelInnen" : 1039,
+      "kuvi" : 289,
+      "osszesen" : 66121
+    }
+  }, {
+    "maz" : "20",
+    "maz_nev" : "Zala vármegye",
+    "maz_nev_en" : "Zala county",
+    "evk" : "01",
+    "evk_nev" : "Zala vármegye, 01. számú egyéni választókerület",
+    "evk_nev_en" : "Zala county, 01. no. constituency",
+    "szekhely" : "Zalaegerszeg",
+    "szekhely_en" : "Zalaegerszeg",
+    "oevk_jeloltre_szavhat" : 72933,
+    "letszam" : {
+      "indulo" : 73293,
+      "honos" : 71393,
+      "atjel" : 600,
+      "atjelInnen" : 1540,
+      "kuvi" : 398,
+      "osszesen" : 71993
+    }
+  }, {
+    "maz" : "20",
+    "maz_nev" : "Zala vármegye",
+    "maz_nev_en" : "Zala county",
+    "evk" : "02",
+    "evk_nev" : "Zala vármegye, 02. számú egyéni választókerület",
+    "evk_nev_en" : "Zala county, 02. no. constituency",
+    "szekhely" : "Keszthely",
+    "szekhely_en" : "Keszthely",
+    "oevk_jeloltre_szavhat" : 72938,
+    "letszam" : {
+      "indulo" : 73146,
+      "honos" : 71334,
+      "atjel" : 1082,
+      "atjelInnen" : 1604,
+      "kuvi" : 437,
+      "osszesen" : 72416
+    }
+  }, {
+    "maz" : "20",
+    "maz_nev" : "Zala vármegye",
+    "maz_nev_en" : "Zala county",
+    "evk" : "03",
+    "evk_nev" : "Zala vármegye, 03. számú egyéni választókerület",
+    "evk_nev_en" : "Zala county, 03. no. constituency",
+    "szekhely" : "Nagykanizsa",
+    "szekhely_en" : "Nagykanizsa",
+    "oevk_jeloltre_szavhat" : 69500,
+    "letszam" : {
+      "indulo" : 69798,
+      "honos" : 68150,
+      "atjel" : 669,
+      "atjelInnen" : 1350,
+      "kuvi" : 341,
+      "osszesen" : 68819
+    }
+  } ]
+}
