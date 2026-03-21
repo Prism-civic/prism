@@ -1,0 +1,29 @@
+{
+  "hu": {
+    "hero": {
+      "title": "Magyar választások 2026",
+      "subtitle": "Április 12. — Megérteni a választást, nem megmondani a szavazatot.",
+      "days_badge": "{days} nappal a választás előtt"
+    },
+    "party_comparison": {
+      "title": "Pártok összehasonlítása",
+      "subtitle": "A főbb pártok álláspontjai kulcskérdésekben. Minden forrásból.",
+      "issues": {
+        "eu_relations": "EU kapcsolatok",
+        "migration": "Migráció",
+        "economy": "Gazdaság",
+        "rule_of_law": "Jogállamiság",
+        "ukraine_russia": "Ukrajna/Oroszország"
+      }
+    },
+    "constituency": {
+      "title": "Választókerületek",
+      "select_county": "Válassz megyét...",
+      "candidates_soon": "Jelöltek hamarosan"
+    },
+    "footer": {
+      "sources": "Forrás: NVI (vtr.valasztas.hu), parlament.hu, párthonlapok",
+      "disclaimer": "Minden pártálláspontot nyilvánosan elérhető manifesztumokból vettük. Nincs szerkesztői álláspont. Nincs szavazási ajánlás."
+    }
+  }
+}

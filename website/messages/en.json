@@ -1,0 +1,29 @@
+{
+  "en": {
+    "hero": {
+      "title": "Hungary Election 2026",
+      "subtitle": "12 April — Understand the election, not be told how to vote.",
+      "days_badge": "{days} days to the election"
+    },
+    "party_comparison": {
+      "title": "Party Comparison",
+      "subtitle": "Main party positions on key issues. All sourced.",
+      "issues": {
+        "eu_relations": "EU Relations",
+        "migration": "Migration",
+        "economy": "Economy",
+        "rule_of_law": "Rule of Law",
+        "ukraine_russia": "Ukraine/Russia"
+      }
+    },
+    "constituency": {
+      "title": "Constituencies",
+      "select_county": "Select a county...",
+      "candidates_soon": "Candidates coming soon"
+    },
+    "footer": {
+      "sources": "Sources: NVI (vtr.valasztas.hu), parliament.hu, party websites",
+      "disclaimer": "All party positions are based on publicly stated manifesto positions. No editorial stance. No voting recommendations."
+    }
+  }
+}
