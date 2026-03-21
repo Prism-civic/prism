@@ -60,41 +60,15 @@ def _parse_procurement_results(soup, name, source_domain, base_url):
 def search_ekr(session, name):
     """Search procurement databases for candidate connections.
 
-    Primary: kozbeszerzesi.hu (Procurement Authority — server-side rendered)
-    Fallback: nettop.gov.hu (national transparency portal)
-    Note: ekr.gov.hu is JS-rendered and returns empty results server-side.
+    NOTE: All major Hungarian procurement databases (EKR, kozbeszerzesi.hu)
+    and EU TED are JS-rendered and cannot be reliably scraped server-side.
+    This function is a stub that returns empty — procurement data will be
+    collected via manual review or a headless browser in a future phase.
     """
-    items = []
-
-    # Primary — kozbeszerzesi.hu
-    try:
-        url = f'https://www.kozbeszerzesi.hu/search?q={quote_plus(name)}'
-        resp = session.get(url, timeout=30)
-        if resp.status_code == 200:
-            soup = BeautifulSoup(resp.text, 'lxml')
-            found = _parse_procurement_results(soup, name, 'kozbeszerzesi.hu', 'https://www.kozbeszerzesi.hu')
-            items.extend(found)
-            if found:
-                log.debug(f'kozbeszerzesi.hu: {len(found)} results for {name}')
-    except Exception as e:
-        log.debug(f'kozbeszerzesi.hu search failed for {name}: {e}')
-
-    # Fallback — TED (Tenders Electronic Daily) EU procurement database
-    # Covers Hungary and is publicly searchable server-side
-    if not items:
-        try:
-            url = f'https://ted.europa.eu/en/search/result?q={quote_plus(name)}&scope=WINNER'
-            resp = session.get(url, timeout=30)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                found = _parse_procurement_results(soup, name, 'ted.europa.eu', 'https://ted.europa.eu')
-                items.extend(found)
-                if found:
-                    log.debug(f'TED: {len(found)} results for {name}')
-        except Exception as e:
-            log.debug(f'TED search failed for {name}: {e}')
-
-    return items
+    # Placeholder — returns empty list gracefully
+    # Future: integrate a headless browser or official API when available
+    log.debug(f'Procurement scraper stub — skipping {name} (JS-rendered sources unavailable)')
+    return []
 
 
 def run(limit=None, party_filter=None, skip_existing=True):

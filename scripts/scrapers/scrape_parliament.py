@@ -39,7 +39,7 @@ def fetch_active_mp_list(session):
     # Links follow pattern: /egy-kepviselo-adatai?...p_azon=XXX
     for link in soup.find_all('a', href=True):
         href = link['href']
-        if 'kepviselo' in href and 'p_azon' in href:
+        if 'p_azon' in href:
             azon_match = re.search(r'p_azon=([a-zA-Z0-9]+)', href)
             if azon_match:
                 azon = azon_match.group(1)
