@@ -122,6 +122,61 @@ def score_candidate(candidate, intel):
         src_type = config.get('type', 'other')
 
         for item in items:
+            # ── Confidence filter ───────────────────────────────────────────
+            # Átlátszó (and other sources) match on partial name tokens.
+            # A result is only HIGH confidence if the candidate's surname
+            # appears in the title or excerpt. Otherwise downgrade to LOW
+            # and skip from evidence display entirely (don't show FPs).
+            if src_type == 'press':
+                title_text = (item.get('title') or '') + ' ' + (item.get('excerpt') or '')
+                # Strip titles (Dr., etc) and get name tokens
+                name_clean = profile['name'].replace('DR. ', '').replace('DR.', '').strip()
+                name_parts = name_clean.split()
+                surname = name_parts[0].lower() if name_parts else ''
+                # Also build the concatenated form (BalogZoltán style)
+                concat_name = ''.join(name_parts).lower()
+                title_lower = title_text.lower().replace(' ', '')
+
+                # Surnames that require multi-token match (too common or also common words)
+                AMBIGUOUS_SURNAMES = {
+                    # Common word / geographic
+                    'cseh', 'erdélyi', 'fehér', 'fekete', 'magyar', 'farkas',
+                    'pap', 'rózsa', 'major', 'király', 'boros',
+                    # Very common surnames (high collision risk)
+                    'kovács', 'kiss', 'nagy', 'tóth', 'horváth', 'varga',
+                    'molnár', 'szabo', 'szabó', 'balogh', 'lukács', 'simon',
+                    # Oligarch / celebrity collision risk
+                    'mészáros', 'orbán', 'lázár', 'kósa',
+                }
+                is_ambiguous = surname in AMBIGUOUS_SURNAMES
+
+                # Multi-token name match: any two significant name parts both present
+                multi_match = any(
+                    name_parts[i].lower() in title_text.lower() and
+                    name_parts[j].lower() in title_text.lower()
+                    for i in range(len(name_parts))
+                    for j in range(len(name_parts))
+                    if i != j and len(name_parts[i]) > 3 and len(name_parts[j]) > 3
+                )
+                concat_match = bool(concat_name and len(concat_name) > 7 and concat_name in title_lower)
+                surname_alone = bool(surname and len(surname) > 3 and surname in title_text.lower())
+
+                # For concat_match: verify it's not just a substring of a longer name
+                # e.g. "zoltán" matching inside "kiszellyZoltán" for candidate "TANÁCS ZOLTÁN"
+                # We require the SURNAME to appear in the concat form, not just given name
+                if concat_match:
+                    # Check that surname (not just given name) is part of the concat match
+                    surname_in_concat = surname in title_lower
+                    if not surname_in_concat and is_ambiguous:
+                        concat_match = False
+
+                if concat_match or multi_match:
+                    pass  # confirmed — both tokens or surname+given found together
+                elif surname_alone and not is_ambiguous:
+                    pass  # acceptable for distinctive surnames only
+                else:
+                    continue  # skip
+
             total_items += 1
             evidence_entry = {
                 'source': source_name,
@@ -146,7 +201,7 @@ def score_candidate(candidate, intel):
                         'source': 'atlatszo.hu',
                         'title': item.get('title', ''),
                         'url': item.get('url', ''),
-                        'severity': 'medium',  # flagged — not convicted
+                        'severity': 'medium',
                     })
 
             elif src_type == 'track_record':
