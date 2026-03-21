@@ -14,7 +14,7 @@ export default function PrioritiesScreen() {
       <View style={styles.header}>
         <Text style={[styles.title, typography.xl]}>My Priorities</Text>
         <Text style={[styles.body, typography.base]}>
-          Prism only uses visible topic weights and explicit feedback from this device.
+          Prism uses visible topic weights and explicit feedback from this device only.
         </Text>
       </View>
 
@@ -33,7 +33,9 @@ export default function PrioritiesScreen() {
             ))}
           </>
         ) : (
-          <Text style={[styles.body, typography.base]}>Finish onboarding to see your extracted profile here.</Text>
+          <Text style={[styles.body, typography.base]}>
+            Finish onboarding to see the profile Prism is using for your saved brief.
+          </Text>
         )}
       </SectionCard>
 
@@ -51,7 +53,7 @@ export default function PrioritiesScreen() {
           ))
         ) : (
           <Text style={[styles.body, typography.base]}>
-            No feedback yet. Useful, like, and not relevant signals will stay visible here.
+            No feedback yet. When you mark an item useful, liked, or not relevant, the reason will stay visible here.
           </Text>
         )}
       </SectionCard>

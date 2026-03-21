@@ -30,7 +30,7 @@ export default function HomeScreen() {
     ? 'idle'
     : isRefreshing
       ? 'syncing'
-      : state.syncPhase === 'error'
+      : state.syncPhase === 'degraded'
         ? 'degraded'
         : listState === 'empty'
           ? 'processing'
@@ -48,7 +48,7 @@ export default function HomeScreen() {
           Home
         </Text>
         <Text style={[styles.body, typography.base]}>
-          A calm status surface for your brief, local cache, and inspectable priorities.
+          A calm place to check what is saved on this device, what still needs refreshing, and what can wait.
         </Text>
       </View>
 
@@ -60,38 +60,42 @@ export default function HomeScreen() {
       {state.syncPhase !== 'idle' ? (
         <SyncStatusBanner
           syncPhase={state.syncPhase}
-          syncError={state.syncError}
+          syncStatus={state.syncStatus}
+          syncMessage={state.syncMessage}
           lastSyncAt={state.briefCache.lastSyncAt}
+          nextRetryAt={state.nextRetryAt}
         />
       ) : null}
 
       <SectionCard>
         <Text style={[styles.cardTitle, typography.md]}>Today&apos;s brief</Text>
-        <Text style={[styles.body, typography.base]}>{getBriefMessage(listState)}</Text>
+        <Text style={[styles.body, typography.base]}>
+          {getBriefMessage(listState, state.onboardingComplete)}
+        </Text>
         {state.briefCache.lastSyncAt ? (
           <Text style={[styles.meta, typography.sm]}>
             {isRefreshing
-              ? 'Checking for updates…'
-              : `Cache last updated: ${formatTimestamp(state.briefCache.lastSyncAt)}`}
+              ? 'Checking whether anything has materially changed.'
+              : `Saved brief refreshed ${formatTimestamp(state.briefCache.lastSyncAt)}.`}
           </Text>
         ) : (
-          <Text style={[styles.meta, typography.sm]}>No cache update yet</Text>
+          <Text style={[styles.meta, typography.sm]}>No saved refresh yet.</Text>
         )}
         <View style={styles.buttonRow}>
           <PrismButton
             label="Open brief"
             onPress={() => router.push('/(tabs)/brief')}
             disabled={listState === 'empty' || listState === 'disabled'}
-            accessibilityLabel="Open morning brief"
-            accessibilityHint="Shows your ranked local brief items"
+            accessibilityLabel="Open saved brief"
+            accessibilityHint="Shows the current ranked brief items stored on this device"
           />
           <PrismButton
-            label={isRefreshing ? 'Refreshing…' : 'Refresh local cache'}
+            label={isRefreshing ? 'Refreshing…' : 'Refresh saved brief'}
             onPress={refreshBrief}
             variant="secondary"
             disabled={isRefreshing}
-            accessibilityLabel={isRefreshing ? 'Refreshing brief, please wait' : 'Refresh local cache'}
-            accessibilityHint={isRefreshing ? undefined : 'Fetches a fresh ranked brief from the local cache'}
+            accessibilityLabel={isRefreshing ? 'Refreshing brief, please wait' : 'Refresh saved brief'}
+            accessibilityHint={isRefreshing ? undefined : 'Checks the local mock sync source for a newer saved brief'}
           />
         </View>
       </SectionCard>
@@ -100,8 +104,8 @@ export default function HomeScreen() {
         <Text style={[styles.cardTitle, typography.md]}>Offline availability</Text>
         <Text style={[styles.body, typography.base]}>
           {state.briefCache.isOffline
-            ? 'You are reading a fully local cached brief. Detail pages, confidence notes, and source lists remain available without a connection.'
-            : 'Cached detail is available locally if the connection drops later.'}
+            ? 'You are reading saved content from this device. Detail pages, confidence notes, and source lists remain available without a connection.'
+            : 'If the connection drops later, the current saved brief remains readable on device.'}
         </Text>
       </SectionCard>
 
@@ -116,27 +120,36 @@ export default function HomeScreen() {
         <Text style={[styles.body, typography.base]}>
           Priorities: {profile ? profile.topics.map((topic) => topic.label).join(', ') : 'No profile yet'}
         </Text>
+        {!state.onboardingComplete ? (
+          <Text style={[styles.meta, typography.sm]}>
+            Finish onboarding to turn these preferences into a more relevant saved brief.
+          </Text>
+        ) : null}
       </SectionCard>
     </PrismScreen>
   );
 }
 
-function getBriefMessage(listState: ReturnType<typeof getBriefListState>) {
+function getBriefMessage(
+  listState: ReturnType<typeof getBriefListState>,
+  onboardingComplete: boolean,
+) {
   if (listState === 'disabled') {
-    return 'Morning brief is off. Cached evidence stays on device until you turn it back on.';
+    return 'Morning brief is off. Anything already saved stays on this device until you turn it back on.';
   }
 
   if (listState === 'empty') {
-    return 'Preparing your first brief from local mock evidence. Nothing is fetched from a live backend yet.';
+    return onboardingComplete
+      ? 'No saved brief yet. Refresh when ready and Prism will assemble one from local mock evidence.'
+      : 'Finish onboarding first, then Prism can build your first saved brief from local mock evidence.';
   }
 
   if (listState === 'offline') {
-    return 'The latest brief is cached on device and ready to read offline.';
+    return 'Your current brief is saved on device and ready to read offline.';
   }
 
-  return 'Your latest local brief is ready with cached evidence detail.';
+  return 'Your latest saved brief is ready, with evidence detail kept readable on device.';
 }
-
 
 function formatTimestamp(value: string) {
   return new Date(value).toLocaleString([], {

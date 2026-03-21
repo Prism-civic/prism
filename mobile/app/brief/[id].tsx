@@ -20,7 +20,7 @@ export default function BriefDetailScreen() {
         <SectionCard>
           <Text style={[styles.title, typography.xl]}>Evidence unavailable</Text>
           <Text style={[styles.body, typography.base]}>
-            This cached item is missing. Return to the brief list and open another card.
+            This saved item is no longer available in the local brief. Return to the list and open another card.
           </Text>
           <PrismButton label="Back to brief" onPress={() => router.replace('/(tabs)/brief')} />
         </SectionCard>
@@ -40,10 +40,10 @@ export default function BriefDetailScreen() {
       <SectionCard>
         <Text style={[styles.sectionTitle, typography.md]}>Why this is in your brief</Text>
         <Text style={[styles.body, typography.base]}>
-          Tagged for {item.topicTags.join(', ')} with {item.confidence.band} confidence and {item.localityLabel.toLowerCase()} relevance.
+          Prism kept this item because it matches {item.topicTags.join(', ')}, with {item.confidence.band} confidence and {item.localityLabel.toLowerCase()} relevance.
         </Text>
         <Text style={[styles.meta, typography.sm]}>
-          Updated {formatTimestamp(item.updatedAt)}. {state.briefCache.isOffline ? 'Reading from local cache.' : 'Latest sync available.'}
+          Updated {formatTimestamp(item.updatedAt)}. {state.briefCache.isOffline ? 'Reading from saved local content.' : 'Current saved refresh available.'}
         </Text>
       </SectionCard>
 
@@ -72,7 +72,7 @@ export default function BriefDetailScreen() {
           <Chip label="Not relevant" selected={activeSignal === 'not_relevant'} onPress={() => submitBriefFeedback(item.id, 'not_relevant')} />
         </View>
         <Text style={[styles.meta, typography.sm]}>
-          This only updates local topic weighting, with visible reasons in My Priorities.
+          This only updates local topic weighting on this device, with visible reasons in My Priorities.
         </Text>
       </SectionCard>
     </PrismScreen>

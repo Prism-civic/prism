@@ -62,15 +62,17 @@ export default function BriefScreen() {
           Morning Brief
         </Text>
         <Text style={[styles.body, typography.base]}>
-          Three to five ranked items, stored locally and readable without a connection.
+          Three to five ranked items, saved locally and readable even when sync is delayed.
         </Text>
       </View>
 
       {state.syncPhase !== 'idle' ? (
         <SyncStatusBanner
           syncPhase={state.syncPhase}
-          syncError={state.syncError}
+          syncStatus={state.syncStatus}
+          syncMessage={state.syncMessage}
           lastSyncAt={state.briefCache.lastSyncAt}
+          nextRetryAt={state.nextRetryAt}
         />
       ) : null}
 
@@ -78,7 +80,7 @@ export default function BriefScreen() {
         <SectionCard>
           <Text style={[styles.cardTitle, typography.md]}>Brief paused</Text>
           <Text style={[styles.body, typography.base]}>
-            Morning brief is turned off in Settings. Cached evidence stays on device until you turn it back on.
+            Morning brief is turned off in Settings. Anything already saved stays on this device until you turn it back on.
           </Text>
         </SectionCard>
       ) : null}
@@ -87,21 +89,23 @@ export default function BriefScreen() {
         <SectionCard>
           <Text style={[styles.cardTitle, typography.md]}>No brief yet</Text>
           <Text style={[styles.body, typography.base]}>
-            Finish onboarding and Prism will assemble a local first brief from cached mock evidence packs.
+            {state.onboardingComplete
+              ? 'There is no saved brief yet. Use refresh to assemble one from local mock evidence packs.'
+              : 'Finish onboarding first, then Prism can assemble a first saved brief from local mock evidence packs.'}
           </Text>
         </SectionCard>
       ) : null}
 
       {listState === 'offline' ? (
         <SectionCard>
-          <Text style={[styles.cardTitle, typography.md]}>Offline · Cached content</Text>
+          <Text style={[styles.cardTitle, typography.md]}>Saved on this device</Text>
           <Text style={[styles.body, typography.base]}>
-            You&apos;re reading the latest cached brief. Evidence detail stays available and sync can wait.
+            You&apos;re reading the latest saved brief. Evidence detail stays available here, so refresh can wait until it is convenient.
           </Text>
           <Text style={[styles.meta, typography.sm]}>
             {state.briefCache.lastSyncAt
-              ? `Cache updated: ${formatTimestamp(state.briefCache.lastSyncAt)}`
-              : 'Cache has not yet been updated'}
+              ? `Last refresh: ${formatTimestamp(state.briefCache.lastSyncAt)}`
+              : 'No successful refresh yet'}
           </Text>
         </SectionCard>
       ) : null}
