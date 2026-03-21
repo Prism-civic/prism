@@ -216,7 +216,7 @@ export function CandidateDrawer({ candidate, onClose, lang, userProfile }: Props
               />
               <p className="text-xs text-muted/70 leading-relaxed">
                 {lang === "hu"
-                  ? "Az igazodási radar a te véleményed és a párt álláspontja közötti egyezést mutatja."
+                  ? "Az igazodási radar azt mutatja, mennyire egyezik a véleményed a párt álláspontjával."
                   : "The alignment radar shows how closely your views match this party's positions."}
               </p>
             </div>

@@ -12,11 +12,11 @@ const QUESTIONS: Record<Trait, { hu: string; en: string }> = {
     en: "It is in Hungary's interest to be an active, committed member of the European Union.",
   },
   migracio: {
-    hu: 'Magyarországnak be kell fogadnia az EU által javasolt menekültkvótákat.',
+    hu: 'Magyarországnak el kell fogadnia az EU által javasolt menekültkvótákat.',
     en: 'Hungary should accept the EU-proposed refugee quotas.',
   },
   gazdasag: {
-    hu: 'Az állam feladata, hogy erős szociális hálót biztosítson és csökkentse a gazdasági egyenlőtlenségeket.',
+    hu: 'Az államnak biztosítania kell az erős szociális hálót és csökkentenie kell a gazdasági egyenlőtlenségeket.',
     en: 'The state should provide a strong social safety net and reduce economic inequality.',
   },
   jogallamisag: {
@@ -28,13 +28,13 @@ const QUESTIONS: Record<Trait, { hu: string; en: string }> = {
     en: "Hungary should support Ukraine's EU and NATO accession.",
   },
   kornyezet: {
-    hu: 'A környezetvédelem és a klímacselekvés a legfontosabb politikai prioritások közé tartozik.',
+    hu: 'A környezetvédelem és a klímavédelem kiemelt politikai prioritás kell, hogy legyen.',
     en: 'Environmental protection and climate action are among the most important political priorities.',
   },
 };
 
 const SCALE_LABELS = {
-  hu: ['Egyáltalán nem értek egyet', 'Teljesen egyetértek'],
+  hu: ['Egyáltalán nem értek egyet', 'Teljes mértékben egyetértek'],
   en: ['Strongly disagree', 'Strongly agree'],
 };
 
