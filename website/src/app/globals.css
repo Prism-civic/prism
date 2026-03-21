@@ -1,0 +1,169 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0e1a;
+  --background-soft: #12192a;
+  --panel: rgba(11, 17, 30, 0.78);
+  --panel-strong: rgba(13, 21, 35, 0.92);
+  --foreground: #f0f4ff;
+  --muted: #9ca9c3;
+  --line: rgba(148, 163, 184, 0.18);
+  --amber: #f59e0b;
+  --ice: #e0f2fe;
+  --healthy: #22c55e;
+  --stressed: #f59e0b;
+  --degraded: #ef4444;
+  --offline: #374151;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-panel: var(--panel);
+  --color-panel-strong: var(--panel-strong);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-amber: var(--amber);
+  --color-ice: var(--ice);
+  --color-healthy: var(--healthy);
+  --color-stressed: var(--stressed);
+  --color-degraded: var(--degraded);
+  --color-offline: var(--offline);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), sans-serif;
+  background-image:
+    radial-gradient(circle at top, rgba(224, 242, 254, 0.12), transparent 34%),
+    radial-gradient(circle at 20% 20%, rgba(245, 158, 11, 0.12), transparent 22%),
+    linear-gradient(180deg, #0a0e1a 0%, #08111f 40%, #070d18 100%);
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+::selection {
+  background: rgba(224, 242, 254, 0.22);
+}
+
+.network-shell::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at center, rgba(224, 242, 254, 0.08), transparent 44%),
+    radial-gradient(circle at 50% 70%, rgba(245, 158, 11, 0.12), transparent 30%);
+  filter: blur(10px);
+  pointer-events: none;
+}
+
+.network-shell::after {
+  content: "";
+  position: absolute;
+  inset: 12% 18%;
+  border: 1px solid rgba(224, 242, 254, 0.1);
+  border-radius: 999px;
+  box-shadow: 0 0 80px rgba(224, 242, 254, 0.08);
+  animation: drift 14s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.network-node {
+  transform-origin: center;
+  animation: pulse 5.5s ease-in-out infinite;
+}
+
+.network-node.world {
+  animation-duration: 7.5s;
+}
+
+.network-node.country {
+  animation-duration: 6.5s;
+}
+
+.network-beam {
+  stroke-dasharray: 12 16;
+  animation: stream 7s linear infinite;
+}
+
+.network-orbit {
+  animation: drift 16s ease-in-out infinite;
+  transform-origin: center;
+}
+
+.network-grid {
+  background-image:
+    linear-gradient(rgba(148, 163, 184, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.08) 1px, transparent 1px);
+  background-size: 40px 40px;
+  mask-image: radial-gradient(circle at center, black 38%, transparent 78%);
+}
+
+.section-card {
+  background: linear-gradient(180deg, rgba(14, 21, 36, 0.96), rgba(10, 15, 27, 0.82));
+  border: 1px solid rgba(148, 163, 184, 0.15);
+  box-shadow: 0 22px 60px rgba(0, 0, 0, 0.26);
+}
+
+.eyebrow {
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(0.96);
+    opacity: 0.74;
+  }
+
+  50% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+}
+
+@keyframes stream {
+  from {
+    stroke-dashoffset: 0;
+  }
+
+  to {
+    stroke-dashoffset: -180;
+  }
+}
+
+@keyframes drift {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+
+  50% {
+    transform: translateY(-10px) scale(1.02);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .network-shell::after,
+  .network-node,
+  .network-beam,
+  .network-orbit {
+    animation: none;
+  }
+}
