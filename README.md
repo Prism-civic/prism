@@ -77,6 +77,28 @@ Developer runbook: [`docs/COUNTRY_MIND.md`](/home/barabonc/.openclaw/workspace/p
 
 ---
 
+## Website Phase 1
+
+The repo now includes a standalone website app under [`website`](/home/barabonc/.openclaw/workspace/projects/prism/website).
+
+- Stack: Next.js 15 App Router + Tailwind CSS
+- Current scope: public homepage, living-network visual placeholder, stats bar, how-it-works explainer, contribution links
+- Privacy posture: no cookies, no analytics, no tracking code
+
+Run locally:
+
+```bash
+cd website
+npm install
+npm run dev
+```
+
+Stats data defaults to a bundled mock snapshot. Set `PRISM_STATS_ENDPOINT` to point the site at a future heartbeat/node API. If the live endpoint fails, the site falls back to mock data and labels that state clearly.
+
+Website-specific notes: [`website/README.md`](/home/barabonc/.openclaw/workspace/projects/prism/website/README.md)
+
+---
+
 ## Country Chapter Model
 
 Prism is **internationally governed but locally operated.**
