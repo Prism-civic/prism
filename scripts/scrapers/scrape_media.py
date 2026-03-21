@@ -136,54 +136,46 @@ def search_atlatszo(session, name):
 
 
 def search_telex(session, name):
-    """Search Telex.hu for candidate mentions via tag pages (JS-safe)."""
+    """Search Telex.hu via their search endpoint."""
     items = []
     name_lower = name.lower()
     name_parts = [p for p in name_lower.split() if len(p) > 3]
 
-    # Try tag page first (more reliable than JS search)
-    # Telex tags are URL-slugified
-    for slug_variant in [
-        name_lower.replace(' ', '-'),
-        name_lower.split()[0] + '-' + name_lower.split()[-1] if ' ' in name_lower else name_lower,
-    ]:
-        tag_url = f'https://telex.hu/cimke/{slug_variant}'
-        
-        try:
-            resp = session.get(tag_url, timeout=30)
-            if resp.status_code == 404:
-                continue
-            resp.raise_for_status()
-        except Exception:
-            continue
+    url = f'https://telex.hu/legfrissebb?q={quote_plus(name)}'
+    try:
+        resp = session.get(url, timeout=30)
+        if resp.status_code != 200:
+            return items
+    except Exception as e:
+        log.warning(f'Telex search failed for {name}: {e}')
+        return items
 
-        soup = BeautifulSoup(resp.text, 'lxml')
-        
-        # Look for article links in the page
-        for link in soup.find_all('a', href=re.compile(r'telex\.hu/[\w-]+/\d{4}')):
-            title = link.get_text(strip=True)
-            href = link['href']
-            
-            if title and len(title) > 10:
-                text_check = title.lower()
-                # Check if any significant part of the name is in the title
-                if any(part in text_check for part in name_parts):
-                    items.append({
-                        'title': title,
-                        'url': href,
-                        'date': None,
-                        'excerpt': None,
-                        'source': 'telex.hu',
-                        'weight': 'medium',
-                        'confidence': 'medium',
-                        'tags': ['from-tag-page'],
-                    })
-        
-        if items:
-            break  # Found results, don't try other variants
+    soup = BeautifulSoup(resp.text, 'lxml')
+
+    cards = soup.find_all('a', href=re.compile(r'telex\.hu/.+/\d{4}'))
+    if not cards:
+        cards = soup.find_all('a', href=re.compile(r'/[a-z]+/\d{4}/\d{2}/\d{2}/'))
+
+    for card in cards:
+        title = card.get_text(strip=True)
+        href = card.get('href', '')
+        if not href.startswith('http'):
+            href = 'https://telex.hu' + href
+        if not title or len(title) < 10:
+            continue
+        if any(part in title.lower() for part in name_parts):
+            items.append({
+                'title': title,
+                'url': href,
+                'date': None,
+                'excerpt': None,
+                'source': 'telex.hu',
+                'weight': 'medium',
+                'confidence': 'medium',
+                'tags': [],
+            })
 
     return items
-
 
 def search_444(session, name):
     """Search 444.hu for candidate mentions."""

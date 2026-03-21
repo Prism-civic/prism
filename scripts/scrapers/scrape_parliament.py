@@ -40,7 +40,9 @@ def fetch_active_mp_list(session):
     for link in soup.find_all('a', href=True):
         href = link['href']
         if 'p_azon' in href:
-            azon_match = re.search(r'p_azon=([a-zA-Z0-9]+)', href)
+            from urllib.parse import unquote
+            href_decoded = unquote(href)
+            azon_match = re.search(r'p_azon=([a-zA-Z0-9]+)', href_decoded)
             if azon_match:
                 azon = azon_match.group(1)
                 name = link.get_text(strip=True).upper()
