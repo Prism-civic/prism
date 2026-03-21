@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-21",
+  "parties": {
+    "fidesz-kdnp": { "eu": 2, "migracio": 1, "gazdasag": 3, "jogallamisag": 1, "ukrajna": 1, "kornyezet": 2 },
+    "tisza":       { "eu": 4, "migracio": 2, "gazdasag": 3, "jogallamisag": 4, "ukrajna": 3, "kornyezet": 3 },
+    "mi-hazank":   { "eu": 1, "migracio": 1, "gazdasag": 2, "jogallamisag": 2, "ukrajna": 1, "kornyezet": 2 },
+    "dk":          { "eu": 5, "migracio": 3, "gazdasag": 4, "jogallamisag": 5, "ukrajna": 5, "kornyezet": 4 },
+    "mkkp":        { "eu": 4, "migracio": 3, "gazdasag": 4, "jogallamisag": 5, "ukrajna": 4, "kornyezet": 5 }
+  },
+  "traitLabels": {
+    "eu":          { "hu": "EU", "en": "EU" },
+    "migracio":    { "hu": "Migráció", "en": "Migration" },
+    "gazdasag":    { "hu": "Gazdaság", "en": "Economy" },
+    "jogallamisag":{ "hu": "Jogállamiság", "en": "Rule of Law" },
+    "ukrajna":     { "hu": "Ukrajna", "en": "Ukraine" },
+    "kornyezet":   { "hu": "Környezet", "en": "Environment" }
+  }
+}

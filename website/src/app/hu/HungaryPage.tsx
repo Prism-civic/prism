@@ -5,6 +5,10 @@ import Link from "next/link";
 import partiesData from "../../data/hungary/parties.json";
 import candidatesData from "../../data/hungary/candidates.json";
 import { CandidateDrawer } from "../../components/CandidateDrawer";
+import { AlignmentQuiz, loadUserProfile } from "../../components/AlignmentQuiz";
+import { AlignmentRadar } from "../../components/AlignmentRadar";
+import type { TraitScores } from "../../components/AlignmentRadar";
+import partyPositions from "../../data/hu-party-positions.json";
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -141,6 +145,8 @@ export function HungaryPage() {
   const [lang, setLang] = useState<Lang>("hu");
   const [selectedCounty, setSelectedCounty] = useState<string>("");
   const [selectedCandidate, setSelectedCandidate] = useState<Candidate | null>(null);
+  const [showQuiz, setShowQuiz] = useState(false);
+  const [userProfile, setUserProfile] = useState<TraitScores | null>(null);
   const closeDrawer = useCallback(() => setSelectedCandidate(null), []);
 
   useEffect(() => {
@@ -155,6 +161,16 @@ export function HungaryPage() {
     document.body.style.overflow = selectedCandidate ? "hidden" : "";
     return () => { document.body.style.overflow = ""; };
   }, [selectedCandidate]);
+
+  useEffect(() => {
+    const profile = loadUserProfile();
+    if (profile) {
+      setUserProfile(profile);
+    } else {
+      const t = setTimeout(() => setShowQuiz(true), 1200);
+      return () => clearTimeout(t);
+    }
+  }, []);
 
   function toggleLang() {
     const next: Lang = lang === "hu" ? "en" : "hu";
@@ -186,6 +202,14 @@ export function HungaryPage() {
     : [];
 
   return (
+    <>
+      {showQuiz && (
+        <AlignmentQuiz
+          lang={lang}
+          onComplete={(scores) => { setUserProfile(scores); setShowQuiz(false); }}
+          onSkip={() => setShowQuiz(false)}
+        />
+      )}
     <main className="mx-auto flex w-full max-w-7xl flex-1 flex-col gap-10 px-4 py-6 sm:px-6 lg:px-8">
       {/* Header */}
       <header className="flex items-center justify-between rounded-full border border-line/80 bg-panel-strong/90 px-4 py-3 backdrop-blur sm:px-6">
@@ -373,5 +397,6 @@ export function HungaryPage() {
         </div>
       </footer>
     </main>
+  </>
   );
 }
