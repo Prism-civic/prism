@@ -2,17 +2,17 @@
   "kpn_id": 6975013,
   "candidate_name": "MIHÁLFFY BÉLA",
   "source": "parlament.hu",
-  "scraped_at": "2026-03-21T20:01:29.995963+00:00",
+  "scraped_at": "2026-03-22T16:56:48.069813+00:00",
   "item_count": 1,
   "items": [
     {
       "type": "parliament_profile",
       "parliament_id": "m072",
       "match_score": 1.0,
-      "url": "https://www.parlament.hu/web/guest/aktiv-kepviseloi-nevsor?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=RGBmzp8p&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dm072%26p_stilus%3D%26p_head%3D",
+      "url": "https://www.parlament.hu/web/guest/aktiv-kepviseloi-nevsor?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=dCc69oEo&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dm072%26p_stilus%3D%26p_head%3D",
       "data": {
         "parliament_id": "m072",
-        "profile_url": "https://www.parlament.hu/web/guest/aktiv-kepviseloi-nevsor?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=RGBmzp8p&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dm072%26p_stilus%3D%26p_head%3D",
+        "profile_url": "https://www.parlament.hu/web/guest/aktiv-kepviseloi-nevsor?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=dCc69oEo&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dm072%26p_stilus%3D%26p_head%3D",
         "raw_fields": {}
       },
       "confidence": "high"
