@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T14:20:00Z",
+    "generated_at": "2026-03-22T14:35:08.490816+00:00",
     "model": "claude-sonnet-4-6",
     "observer": "BaraBonc-P52 (HU pilot observer)",
-    "total_summaries": 24
+    "total_summaries": 27
   },
   "summaries": [
     {
@@ -226,6 +226,45 @@
       "summary_hu": "Ez a Politico Europe-elemzés azt kérdezi, hogy az EU példátlan nyilvános szembenállása nem az Orbán érdekeit szolgálta-e. A cikk két értelmezés között feszül: szükséges tisztázás volt-e, vagy épp kampánystratégiájába játszott. Az EU-nak esetleg nincs jó opciója.",
       "word_count": 225,
       "fetch_failed": false
+    },
+    {
+      "url": "https://www.rferl.org/a/ukraine-eu-hungary-slovakia-loan-druzhba/33711395.html",
+      "title": "EU Vows To Get $90 Billion Loan To Kyiv Despite Hungary's Opposition",
+      "source_name": "Radio Free Europe / RFE-RL",
+      "source_domain": "rferl.org",
+      "summary_en": "European Commission President von der Leyen pledged \"one way or another\" delivery of the $90bn EU loan to Ukraine after the March 20 Brussels summit where Orbán maintained his veto. EU Council President Costa called Hungary's resistance \"unacceptable\"; German Chancellor Merz called it an unprecedented act of serious disloyalty. Slovakia's Fico also withheld support. Orbán conditions his veto on Russian oil deliveries resuming through the Druzhba pipeline via Ukraine. 25 of 27 EU members signed a joint statement expecting disbursement by early April. Experts say individual member guarantees could theoretically bypass the requirement for unanimity.",
+      "summary_hu": "Von der Leyen elnök az EU-csúcs után megígérte: az EU megtalálja a módját a 90 milliárd eurós ukrajna hitel folyósítására. Costa elfogadhatatlannak, Merz példátlanul hűtlennek nevezte Orbán vétóját. Orbán a Druzsba-csővezeték orosz olajszállításának helyreállításáig fenntartja vétóját. 25 tagállam nyilatkozatban várja az april eleji folyósítást.",
+      "word_count": 270,
+      "fetch_failed": false,
+      "generated_at": "2026-03-22T14:35:08.490789+00:00",
+      "model_used": "atlas-handcrafted",
+      "url_hash": "rferl_33711395"
+    },
+    {
+      "url": "https://www.politico.eu/article/viktor-orban-hungary-lure-eu-into-a-trap/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "title": "Did Orbán lure the EU into a trap?",
+      "source_name": "Politico Europe",
+      "source_domain": "politico.eu",
+      "summary_en": "Politico analysis asks whether EU leaders' unprecedented public confrontation of Orbán at the March 2026 summit inadvertently boosted his electoral chances. Some critics worry leaders \"ganged up\" on Orbán, playing into his domestic narrative of Hungary vs a hostile Brussels. The question: was the public rebuke necessary clarity on EU values, or a strategic gift to a PM who thrives on anti-establishment optics ahead of the April 12 election?",
+      "summary_hu": "A Politico elemzése azt kérdezi: az EU-csúcson az Orbánnal szembeni nyilvános szembenállás véletlenül megerősítette-e az ő kampányát? Egyes kritikusok szerint a \"kutyapárti\" bánásmód épp a Brüsszel elleni narratívájához adott tápot az április 12-i választások előtt.",
+      "word_count": 190,
+      "fetch_failed": false,
+      "generated_at": "2026-03-22T14:35:08.490799+00:00",
+      "model_used": "atlas-handcrafted",
+      "url_hash": "politico_eu_trap"
+    },
+    {
+      "url": "https://www.euractiv.com/news/tusk-claims-no-surprise-over-alleged-hungarian-leaks-to-moscow/",
+      "title": "Tusk claims no surprise over alleged Hungarian leaks to Moscow",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "summary_en": "Polish PM Donald Tusk stated he was unsurprised by allegations that Hungary leaked sensitive NATO/EU information to Moscow. The allegations, if proven, would mark the most serious intelligence breach in EU recent history. Tusk cited Hungary's long-standing close relationship with the Kremlin as context. The claims emerged as Hungary heads into the April 12 election, adding to the fraught bilateral dynamic and raising fresh questions about Budapest's fitness as an EU/NATO member in terms of information security.",
+      "summary_hu": "Tusk lengyel miniszterelnök nem lepődött meg azon, hogy Magyarország állítólag NATO/EU titkos információkat szivárogtatott Moszkvának. A vádak, ha bebizonyosodnak, az eddigi legsúlyosabb hírszerzési incidenst jelentenék az EU-ban. Az eset az április 12-i választások előtt tette fel a kérdést: alkalmas-e Budapest az EU/NATO tagságra?",
+      "word_count": 210,
+      "fetch_failed": false,
+      "generated_at": "2026-03-22T14:35:08.490802+00:00",
+      "model_used": "atlas-handcrafted",
+      "url_hash": "euractiv_tusk_leaks"
     }
   ]
 }

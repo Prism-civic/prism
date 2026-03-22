@@ -47,10 +47,21 @@ SOURCES = {
         'weight': 'high',
         'language': 'en',
         'country': 'US',
-        'rss_url': 'https://www.rferl.org/api/z-ymqxpe_ume',
-        'rss_fallback': 'https://www.rferl.org/z/631',  # Hungary section
+        'rss_url': 'https://www.rferl.org/api/',           # main EN top-stories feed (working 2026-03)
+        'rss_fallback': 'https://www.szabadeuropa.hu/api/zppymql-vomx-tpe_jtmr',  # HU Aktuális section
         'search_url': 'https://www.rferl.org/search/?q={query}&c=Hungary',
         'topic_tags': ['democracy', 'rule_of_law', 'elections'],
+        'rate_limit': 3.0,
+    },
+    'szabadeuropa': {
+        'name': 'Szabad Európa',
+        'domain': 'szabadeuropa.hu',
+        'weight': 'high',
+        'language': 'hu',
+        'country': 'HU',
+        'rss_url': 'https://www.szabadeuropa.hu/api/zipymtl-vomx-tpemjtmt',   # Napirenden (top stories)
+        'rss_fallback': 'https://www.szabadeuropa.hu/api/zppymql-vomx-tpe_jtmr',  # Aktuális
+        'topic_tags': ['elections', 'rule_of_law', 'politics'],
         'rate_limit': 3.0,
     },
     'reuters': {
