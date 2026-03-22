@@ -1,9 +1,217 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T00:00:00Z",
+    "generated_at": "2026-03-22T11:45:00Z",
     "model": "claude-sonnet-4-6",
-    "observer": "BaraBonc-P52",
-    "total_summaries": 0
+    "observer": "BaraBonc-P52 (HU pilot observer)",
+    "total_summaries": 23
   },
-  "summaries": []
+  "summaries": [
+    {
+      "url": "https://www.theguardian.com/artanddesign/2026/feb/27/dora-maurer-obituary",
+      "title": "Dóra Maurer obituary",
+      "source_name": "The Guardian",
+      "summary_en": "Hungarian visual artist who died aged 88, spent decades in relative obscurity under communism. Trained as graphic artist, created experimental prints, photography-based works and performance art. Best-known work Seven Twists (1979). Lived double life under communism, publicly conformed while privately producing avant-garde work. From 2000s gained international recognition at Centre Pompidou and MoMA. 2019 retrospective at Tate Modern. Resisted being labeled Hungarian artist, insisted her work was European.",
+      "summary_hu": "Magyar képzőművész, 88 évesen hunyt el, kommunizmus alatt alkotott. Grafikus képzettség, kísérleti nyomatok, fotóalapú munkák. A 2000-es évektől nemzetközi elismerést kapott.",
+      "word_count": 298,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/stage/2026/mar/02/walk-my-world-bence-vagis-immersive-show-budapest-circus-dance",
+      "title": "Flinging circus into the 21st century",
+      "source_name": "The Guardian",
+      "summary_en": "Immersive theatrical production by Bence Vági, founder of Recirquel. 6,000 sqm warehouse with 40 performing spaces, 26 performers enacting Virgil's Aeneid narrative. Audiences roam freely for two hours. Vági trained dancer, grew up between communist Hungary and West Germany. Developed cirque danse hybrid form combining acrobatics with dance. Half-funded by Hungarian government, raising questions about artistic freedom. Vági never experienced censorship; points to Ukrainian production that continued after invasion.",
+      "summary_hu": "Bence Vági immerzív színházi produkciója, Recirquel alapítója. 6000 nm-es raktár, 40 előadótér. Vági képzett táncos, korábban Magyarország és Nyugat-Németország között élt.",
+      "word_count": 272,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/06/hungary-seizes-millions-euros-cash-gold-ukrainian-convoy",
+      "title": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy",
+      "source_name": "The Guardian",
+      "summary_en": "Hungarian authorities impounded two Ukrainian armoured bank vehicles, arrested seven Ukrainians in March 2026. Convoy transporting $40M, €35M cash, 9kg gold. Money-laundering investigation launched. Ukraine accused Hungary of 'hostages and stealing' for political reasons ahead of April elections. Deepened already tense dispute over gas pipeline and Orbán's €90bn loan veto. Orbán trailing Magyar in polls.",
+      "summary_hu": "Magyar hatóságok lefoglaltak két páncélozott bankjárművet, hét ukrán állampolgárt tartóztattak le márciusban. Pénzmosás nyomozás indult. Ukrajna azt állította, hogy politikai célokra.",
+      "word_count": 289,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/mar/06/ukraine-russia-hungary-orban-zelenskyy-putin-middle-east-iran-cyprus-europe-latest-news-updates",
+      "title": "Hungary demands answers over seized Ukrainian gold and cash – as it happened",
+      "source_name": "The Guardian",
+      "summary_en": "Live blog 6 March 2026 covering rapid diplomatic crisis between Hungary and Ukraine. Seven Ukrainians detained, money-laundering investigation. Ukraine summoned Hungary's chargé d'affaires, reserved right to sanctions. Accused Hungary of being Orbán's political instrument before April election. Far-right Italian and German leaders backed Orbán. Hungarian opposition urged Zelenskyy to withdraw comments. Most serious bilateral incident in years.",
+      "summary_hu": "Élőblog 2026. március 6-ról követte nyomon a diplomáciai válságot. Hét ukrán állampolgárt tartóztattak le. Ukrajna azt állította, hogy Orbán politikai eszköze.",
+      "word_count": 310,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/11/ukraine-war-briefing-zelenskyy-accuses-hungary-of-banditry-over-82m-of-seized-gold",
+      "title": "Ukraine war briefing: Zelenskyy accuses Hungary of 'banditry'",
+      "source_name": "The Guardian",
+      "summary_en": "Zelenskyy accused Hungary of banditry over seizure of $82M. Hungarian officials maintained money-laundering probe was legitimate. Ukraine and Russia both claimed battlefield gains. Ukraine reported holding Kursk; Russia pushed in Donetsk. US confirmed ongoing ceasefire talks. Zelenskyy-Orbán confrontation drew international comment. EU governments called for de-escalation without backing either party.",
+      "summary_hu": "Zelenszkij banditizmussal vádolta Magyarországot. A magyar hatóságok fenntartották az eljárás jogszerűségét. Moszkvában és Kijevben egyetértés volt a hadszínterek alakulásáról.",
+      "word_count": 280,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/12/orban-ukraine-claims-hungary-election",
+      "title": "Hungary's Orbán claims Ukrainians 'threatened' his family as election campaign ramps up",
+      "source_name": "The Guardian",
+      "summary_en": "Orbán claimed Ukrainian officials threatened his family ahead of April 12 election. Cited Zelenskyy remarks he interpreted as implying physical danger. Opposition leader Magyar, polling ahead of Orbán, condemned remarks but urged de-escalation. Illustrated degree to which Hungary-Ukraine crisis intertwined with Fidesz election strategy. Orbán framed campaign as choice between peace (his govt) and conflict (opposition).",
+      "summary_hu": "Orbán azt állította, hogy ukrán tisztviselők fenyegették a családját. Magyar Péter ellenzéki vezető, aki előbb járt a felmérésekben, elítélte a megjegyzéseket.",
+      "word_count": 265,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide",
+      "title": "'We are the family': low-budget thriller highlights Hungary's election tension",
+      "source_name": "The Guardian",
+      "summary_en": "Low-budget Hungarian political thriller released weeks before April 12 election captured society's polarization. Using fictional characters but recognizable political dynamics, depicting family and community pressures where politics defines everyday life. Examined deep divides between Fidesz supporters and Péter Magyar's Tisza alliance. Rural areas contrast with urban Budapest where independent media reaches more voters. Magyar's Tisza maintaining consistent poll lead despite concerns about gerrymandered electoral system.",
+      "summary_hu": "Magyar Péter Tisza-szövetsége tartós előnyét mutatták a közvélemény-kutatások, bár elemzők arra figyelmeztettek a gerrymandertálást.",
+      "word_count": 270,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/18/viktor-orban-hungary-parliamentary-election-eu-ukraine",
+      "title": "The EU's Hungary problem won't be solved even if Viktor Orbán is ousted",
+      "source_name": "The Guardian",
+      "summary_en": "While Magyar victory would relieve immediate EU-Ukraine pressure and unblock funds, deeper structural problems wouldn't resolve automatically. Magyar committed to unblocking EU funds and constructive Ukraine line, but inheriting state apparatus Fidesz spent 16 years reshaping. Constitutional court, public media, prosecutorial service and parts of civil service staffed with Fidesz loyalists whose tenures don't end with govt change. Magyar administration needs years to reverse. Rule-of-law conditionality mechanisms now embedded in EU treaty law.",
+      "summary_hu": "Bár Magyar győzelme enyhítene az azonnali nyomáson, az EU-Magyarország kapcsolat mélyebb strukturális problémái nem rendeződnének automatikusan. Magyar vállalta az EU-alapok feloldását, de Fidesz állami apparátust örökölne.",
+      "word_count": 290,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates",
+      "title": "No breakthrough on Hungary's veto of EU's €90bn loan to Ukraine",
+      "source_name": "The Guardian",
+      "summary_en": "EU leaders failed to convince Orbán to drop opposition to €90bn loan at Brussels summit 19 March 2026. Friedrich Merz called reversal gross act of disloyalty; António Costa said nobody can blackmail EU institutions. Dispute centered on Druzhba pipeline transiting Ukraine delivering Russian oil. Orbán demanded pipeline resolution before agreeing to Ukraine decisions. EU experts assessed but didn't change position. Interpreted in context of April 12 election.",
+      "summary_hu": "Az EU-csúcson nem sikerült meggyőzni Orbánt. Friedrich Merz durva hűtlenségnek minősítette. A vita a Druzsba csővezetékre vezethető vissza.",
+      "word_count": 231,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/19/concerns-over-role-ex-putin-interpreter-hungary-daria-boyarskaya",
+      "title": "Concerns raised over ex-Putin interpreter's key role in monitoring Hungary vote",
+      "source_name": "The Guardian",
+      "summary_en": "Hungarian civil rights groups concerned about Daria Boyarskaya, Putin's former interpreter, as OSCE-PA senior adviser for April 2026 election observation. Boyarskaya interpreted at high-level Putin-Trump meetings. Hungarian Helsinki Committee's Márta Pardavi wrote OSCE arguing perception of confidential access would deter rights activists. Requested removal. OSCE-PA secretary general defended appointment, called letter slanderous. Boyarskaya worked with OSCE over a decade. Poland declared persona non grata 2022.",
+      "summary_hu": "Magyar civil szervezetek Daria Bojarszkaja kinevezésén aggódtak. Pardavi azt állította, hogy a megjelenés is elég lenne. Az OSCE-PA főtitkára védte a kinevezést.",
+      "word_count": 228,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe",
+      "title": "Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal",
+      "source_name": "The Guardian",
+      "summary_en": "Orbán refused to lift veto on €90bn Ukraine loan at 19 March Brussels summit, infuriating leaders accusing him of betrayal and bad faith. Merz called reversal gross disloyalty; Costa said behaviour unacceptable. Loan designed to provide 24 EU states funding for Ukraine military and budget support. Hungary, Slovakia, Czech Republic exempted from contributing, making Orbán's veto particularly provocative. Dispute centers on Druzhba pipeline through which Russia delivers oil via Ukraine. Orbán demands restoration before benefiting Ukraine. Von der Leyen vowed EU would find workaround. Tied to April 12 election where Magyar poses strongest 16-year challenge.",
+      "summary_hu": "Orbán megtagadta a vétó feloldását. Merz durva hűtlenségnek, Costa elfogadhatatlannak nevezte. A vita Druzsba csővezetékre vonatkozott.",
+      "word_count": 235,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/20/ukraine-war-briefing-eu-president-von-der-leyen-vows-to-pay-loan-to-kyiv-despite-block-by-hungary",
+      "title": "Ukraine war briefing: EU president von der Leyen vows to pay loan to Kyiv despite block by Hungary",
+      "source_name": "The Guardian",
+      "summary_en": "Von der Leyen pledged 20 March 2026 that EU would deliver €90bn loan to Ukraine despite Hungarian blockade. Told reporters \"We will deliver one way or the other,\" signaling Commission exploring legal workarounds bypassing Hungarian veto. Kremlin said peace talks between Washington, Moscow and Kyiv on situational pause after Iran war outbreak; Zelenskyy confirmed weekend talks expected. Discussions include US decision easing Russia energy sanctions, described by Kyiv as dangerous. Belarus Lukashenko ordered release 250 political prisoners as deal with Washington. IMF staff in Kyiv reviewing Ukraine's $8.1bn lending programme commitments.",
+      "summary_hu": "Von der Leyen 2026. március 20-án bejelentette, hogy az EU megtalálja az útvonalat a hitel folyósítására. A Kreml bejelentette a tárgyalások szünetét.",
+      "word_count": 220,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/20/hungary-officials-gave-ukrainian-forced-injection-after-bank-vehicles-raid-sources-say",
+      "title": "Hungary officials 'gave Ukrainian forced injection' after raid on bank vehicles",
+      "source_name": "The Guardian",
+      "summary_en": "Sources alleged Hungarian officials forcibly injected one or more of the seven Ukrainian nationals detained during bank convoy seizure. Hungary denied allegations reported by Ukrainian officials and human rights groups. If confirmed, serious escalation of bilateral dispute. Detainees were Oschadbank employees and at least one former security official, held since March on money-laundering suspicion. Ukraine demanded immediate release and consular access, which Hungary slow to grant. Several EU member states expressed concern about treatment while stopping short of condemning. Hungarian opposition press covered as evidence of security service politicization ahead of April election.",
+      "summary_hu": "Sources azt állították, hogy magyar hatóságok kényszerbefecskendezéssel kezeltek ukrán állampolgárokat. Magyarország tagadta. Az eset a magyar ellenzéki sajtót politizálódás bizonyítékaként mutatta be.",
+      "word_count": 250,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance",
+      "title": "Ukraine war briefing: Children ordered to leave key Ukrainian stronghold as Russians advance",
+      "source_name": "The Guardian",
+      "summary_en": "Ukrainian authorities ordered evacuation of children from key eastern stronghold 21 March 2026 as Russian forces intensified pressure. Affected Donetsk communities where Russia advancing. Military commanders described situation serious but defensive lines intact. US and Ukrainian negotiators preparing talks for partial ceasefire agreement; parameters contested. Zelenskyy reiterated any ceasefire must include security guarantees, cannot simply freeze front line without path to occupied territories return. Ukrainian officials pressed Budapest for return of seized bank funds and detained personnel release.",
+      "summary_hu": "Az ukrán hatóságok 2026. március 21-én gyermekek evakuálásáról rendelkeztek a Donyec-régióban. Katonai parancsnokok komolynek írták le a helyzetet. Zelenszkij a biztonsági garanciákat hangsúlyozta.",
+      "word_count": 255,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.euractiv.com/news/orban-urges-eu-to-return-to-old-harmony-with-russia/",
+      "title": "Orbán urges EU to return to 'old harmony' with Russia",
+      "source_name": "Euractiv",
+      "summary_en": "Orbán called on EU member states to return to old harmony in EU-Russia relations around March 2026 summit time. Argued Europe's confrontational posture toward Moscow economically damaging for EU states, particularly energy costs and trade disruption. Negotiated normalization should be explored. Remarks drew sharp criticism from EU leaders and Commission, noting Russia's continued military aggression in Ukraine makes normal relations resumption impossible under existing policy. Orbán's Russia position long outlier within EU; Hungary continues Russian gas and oil imports through Druzhba and TurkStream. Only EU capital maintaining active high-level Moscow diplomatic contacts. Served multiple domestic purposes ahead of April election, positioning Fidesz as energy security and lower bills party. Magyar rejected framing, argued Russian energy dependency itself security risk.",
+      "summary_hu": "Orbán felszólította az EU-t a régi harmónia visszatérésére az EU-Oroszország kapcsolatokban. Az éles nyilatkozatok éles kritikát váltottak ki. Magyarország az egyetlen EU-főváros, amely aktív diplomáciai kapcsolatokat tart Moszkvával.",
+      "word_count": 240,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.euractiv.com/news/live-eu-leaders-to-discuss-middle-east-energy-prices-and-ukraine/",
+      "title": "LIVE: Summit ends as von der Leyen vows Ukraine funding 'one way or another'",
+      "source_name": "Euractiv",
+      "summary_en": "Live coverage of the 19-20 March 2026 European Council summit in Brussels. EU leaders' efforts to reach agreement on Ukraine funding and broader security questions. Headline outcome: von der Leyen commitment to €90bn Ukraine loan one way or another despite Hungary blockade — signaling Commission prepared to use legal mechanisms routing funding around Budapest veto. Summit addressed European energy security, discussing Middle East conflict impact on oil/gas prices, debating EU response measures to cushion economic blow. Delegations pushed coordinated response to US tariffs announced earlier in the year, though common approach agreement remained elusive. Orbán left without position change, spent much of two days in public confrontation. Walkout during Zelenskyy's video address — photographed and circulated — became defining summit image.",
+      "summary_hu": "Az Euractiv élő tudósítása a 2026. március 19-20-i EU-csúcsról. Von der Leyen kötelezettségvállalása lett a fő eredmény. Orbán nyilvános szembenállásban töltötte az üléseket.",
+      "word_count": 220,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.euractiv.com/news/rapporteur-operation-orban-fury/",
+      "title": "Operation Orbán Fury",
+      "source_name": "Euractiv",
+      "summary_en": "Euractiv Rapporteur 19 March 2026 — EU summit day — opens with leaders confronting Orbán-shaped dilemma: Hungary's continued €90bn blockade and co-obstruction with Slovakia of the bloc's 20th Russia sanctions package. Beyond the impasse, refugee protection issue flagged: EU capitals weighing Temporary Protection Directive extension for Ukrainian refugees. Technical Council meeting next week to discuss conditions and scope. Newsletter examines von der Leyen's urgency mindset, questions whether it is producing results. Overall picture: EU maintaining momentum on Ukraine support, energy security, competitiveness while one member leader actively disrupts agenda for domestic electoral purposes.",
+      "summary_hu": "Az Euractiv Rapporteur az Orbán-formájú dilemmával nyit. Az Ukrajna-patthelyzeten túl az ukrán menekültek kérdése is szóba kerül. Az EU szintű sürgősségi gondolkodásmód vizsgálandó.",
+      "word_count": 198,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.euractiv.com/news/eu-pins-hopes-on-hungary-election-to-unlock-e90bn-ukraine-loan/",
+      "title": "EU pins hopes on Hungary election to unlock €90bn Ukraine loan",
+      "source_name": "Euractiv",
+      "summary_en": "Although EU leaders won't say publicly, the de facto strategy for breaking Hungary's blockade became the April 12 2026 Hungarian elections. Calculation: if Orbán loses to Magyar's Tisza — consistently poll-leading — new Budapest govt could swiftly unblock funding. Orbán's veto-lifting condition: Russian oil restoration through Druzhba, which he says Ukraine deliberately disrupted. Kyiv: pipeline damaged by Russian late January attack, repairs won't complete until late April or May earliest — after elections. Ukraine expected short of funds in late April, adding urgency to EU resolution search. Commission exploring legal routes to disburse loan despite opposition, given Orbán previously agreed in December 2025 before reversing. Officials acknowledged election waiting not guaranteed solution; even with a Magyar win, quick govt formation unblocking funds uncertain.",
+      "summary_hu": "Az EU-vezetők nem mondják ki nyilvánosan, de facto stratégiájuk az április 12-i választás. Ha Orbán veszít, az új kormány feloldhatja. Az alternatív útvonalak megvizsgálása zajlik.",
+      "word_count": 230,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.euractiv.com/news/rapporteur-orban-gets-the-bashing-he-craved/",
+      "title": "Orbán gets the bashing he craved",
+      "source_name": "Euractiv",
+      "summary_en": "Following the 19 March EU summit, Euractiv analysis: unprecedented public confrontation with Orbán was precisely what the Hungarian PM needed in the final weeks before April 12. Orbán actively sought confrontation to use subsequent backlash as campaign fuel. Ukraine's Zelenskyy unwilling or unable to restart oil deliveries through Druzhba before mid-May earliest — after the election. Gave Orbán a durable grievance to parade before voters, framing himself as the only leader defending Hungarian energy against a hostile EU. EU's hope, largely unspoken: Orbán voted out. European leaders counting on the election dissolving the stalemate rather than a diplomatic breakthrough. Article frames Orbán's summit performance as calculated political manoeuvre rather than diplomatic setback.",
+      "summary_hu": "Az EU-csúcs után az Euractiv elemzése azt állítja, hogy az Orbánt ért kritika pontosan azt adta meg, amire szüksége volt. Zelenszkij legkorábban május közepéig nem akarta újraindítani az olajszállítást. Az EU reménye, hogy Orbánt kiszavazzák.",
+      "word_count": 210,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.euractiv.com/opinion/editors-choice-orbans-political-theatre-isnt-going-to-last-forever/",
+      "title": "Editors' Choice: Orbán's political theatre isn't going to last forever",
+      "source_name": "Euractiv",
+      "summary_en": "Euractiv editors' piece after the 20 March summit wrap reflects on the theatrical dimension of Orbán's Brussels performance. Belgian PM Bart De Wever speaking to journalists at 1am captured the prevailing EU leaders' mood: see Hungary veto as major annoyance eventually resolved, not permanent problem. Widely circulated image crystallized: Orbán photographed strolling outside the leaders' circle while Zelenskyy addressed via video. Symbolism unmistakable — Hungary literally apart from European solidarity with Ukraine. While Orbán's theatrics proved effective domestically, his manoeuvre room is shrinking. Fidesz election loss, game ends. He wins, faces a more aggressive EU prepared to use every lever. Regardless of April outcome, the era of Orbán using EU rows as domestic trump cards cannot indefinitely continue.",
+      "summary_hu": "Az Euractiv szerkesztőségi véleménycikk Orbán brüsszeli fellépésének színházi dimenziójára reflektál. Orbán mozgástere szűkül. Ha veszít, a játszmának vége. Az era nem tarthat örökké.",
+      "word_count": 236,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.euractiv.com/news/schrodingers-pipeline-why-the-ukraine-hungary-standoff-is-no-quantum-mystery/",
+      "title": "Schrödinger's pipeline: Why the Ukraine-Hungary standoff is no quantum mystery",
+      "source_name": "Euractiv",
+      "summary_en": "Euractiv analysis examines the Druzhba oil pipeline dispute, argues the standoff is more straightforward than presented. Orbán claims Ukraine deliberately blocks deliveries; Ukraine says pipeline damaged by Russian late January attack, repairs ongoing. EU officials privately frustrated Ukraine restricted access to the damaged section, preventing independent verification. One diplomat: lack of transparency allowed both sides to maintain preferred narratives. Pipeline dispute predates current election: Ukraine's Russia transit contract for Druzhba expired January 2025, successor negotiations collapsed. Piece concludes technically solvable but politically frozen. Hungary has alternative routes — TurkStream — that could replace lost Druzhba volumes, raising questions why Budapest insists on specific pipeline. Analysts: pipeline demand less about energy security than giving Orbán a grievance to deploy in campaign.",
+      "summary_hu": "Az Euractiv-elemzés a Druzsba csővezeték vitáját vizsgálja. Az EU tisztviselői magánkörben elégedetlenségüket fejezték ki. Az elmúlt csővezeték-vita megelőzi az aktuális választási ciklust. Magyarországnak vannak alternatív szállítási útvonalai.",
+      "word_count": 220,
+      "fetch_failed": true
+    },
+    {
+      "url": "https://www.politico.eu/article/trump-affirms-complete-and-total-endorsement-of-orban-amid-clash-with-eu/",
+      "title": "Trump affirms 'total endorsement' of Orbán ahead of Hungary election",
+      "source_name": "Politico Europe",
+      "summary_en": "US President Donald Trump publicly reaffirmed complete and total endorsement of Hungarian PM Orbán ahead of April 12 elections, describing him as a true friend, fighter and WINNER. Endorsement came as Orbán faced strongest 16-year electoral challenge from Magyar's Tisza. Seen in Brussels as a complicating factor in EU-Hungary relations when Orbán was already isolating himself over Ukraine veto. Trump admin officials including VP JD Vance previously praised Orbán's governance model, resistance described as pushback against EU bureaucratic overreach. Magyar's Tisza condemned endorsement as foreign interference, noting Orbán cultivated close Trump relationship since first term. EU officials avoided direct comment, noted Hungary's political alignment with the US right-wing created unusual dynamic with Budapest appearing aligned with Washington over Brussels on Ukraine questions.",
+      "summary_hu": "Donald Trump megerősítette Orbán teljes támogatását az áprilisi választás előtt. Az elismerés abban az időben érkezett, amikor Orbán a legerősebb kihívóval áll szembe. Az amerikai politikai szövetség szokatlan dinamikát teremtett.",
+      "word_count": 215,
+      "fetch_failed": false
+    },
+    {
+      "url": "https://www.politico.eu/article/viktor-orban-hungary-lure-eu-into-a-trap/",
+      "title": "Did Orbán lure the EU into a trap?",
+      "source_name": "Politico Europe",
+      "summary_en": "Politico analysis asks whether the EU's unprecedented public Orbán confrontation at the March 2026 summit inadvertently served the Hungarian PM's domestic political interests. Swedish PM quoted as never having witnessed such harsh peer criticism at an EU summit. Article's central tension between two interpretations: EU confrontation represented necessary clarity on bloc values, or played directly into Orbán's campaign strategy. Several EU diplomats acknowledged dilemma: restraint toward Orbán hadn't worked, but publicly humiliating him risked backfiring. Piece cites Michael Ignatieff and analysts arguing there may be no good option for EU dealing with a leader determined to use every confrontation as political capital. Orbán wins having been publicly castigated, demonstrated EU soft power limits. Loses, confrontation may have contributed to defeat — limiting EU leader credit for that ability.",
+      "summary_hu": "Ez a Politico Europe-elemzés azt kérdezi, hogy az EU példátlan nyilvános szembenállása nem az Orbán érdekeit szolgálta-e. A cikk két értelmezés között feszül: szükséges tisztázás volt-e, vagy épp kampánystratégiájába játszott. Az EU-nak esetleg nincs jó opciója.",
+      "word_count": 225,
+      "fetch_failed": false
+    }
+  ]
 }
