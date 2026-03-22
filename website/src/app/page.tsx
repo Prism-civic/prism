@@ -1,6 +1,7 @@
 import { HiveGlobeClient } from "@/components/HiveGlobeClient";
 import { NewsFeed } from "@/components/NewsFeed";
 import { StatsBar } from "@/components/stats-bar";
+import { ContributionMap } from "@/components/ContributionMap";
 import { getPublicNetworkStats } from "@/lib/network-stats";
 
 const contributionLinks = [
@@ -32,16 +33,16 @@ const howItWorks = [
     body: "A small AI model runs entirely on your device. It re-ranks your news feed and answers civic questions using your preference profile — stored only on your phone. No server ever sees what you read, where you live, or what you care about. This is an architectural guarantee, not a privacy policy.",
   },
   {
-    title: "Country Mind",
-    body: "A community-run server processes national sources: parliament records, manifestos, voting histories, independent press. It generates signed evidence packs and sends them to your phone. Multiple redundant nodes per country — if one goes down, others absorb it.",
+    title: "Observer Nodes",
+    body: "Anyone can run an observer node — a Raspberry Pi, a laptop, a spare VPS. Each observer scrapes local and international sources, analyses them, and feeds the results to phones in their area. The network has no HQ. No single node can be pressured or silenced to take down the whole thing.",
   },
   {
-    title: "Local Node",
-    body: "Anyone can run a local node — a Raspberry Pi or spare laptop in their town. It scrapes genuinely hyperlocal sources: council planning portals, parish minutes, local crime data. This intelligence flows up to the country mind and down to every user in that area. No application. No approval. Just plug in and contribute.",
+    title: "Civic Intelligence",
+    body: "Observers cross-reference candidates against business registries, procurement records, parliamentary votes, and investigative press — simultaneously, at scale. They detect narrative coordination, maintain civic memory, and generate evidence-based summaries. No verdicts. No recommendations. Just the public record, synthesised.",
   },
   {
-    title: "World Mind",
-    body: "A frontier-class reasoning layer synthesises cross-country intelligence: international law, foreign policy comparisons, geopolitical context. Multiple nodes on multiple continents. When a country mind asks what the world thinks about a local issue, the world mind answers — from all perspectives, with sources.",
+    title: "Hive Mind",
+    body: "Cross-border patterns emerge from observer overlap — no central 'world mind' server required. When multiple observers cover the same region, transnational flows, coordinated narratives, and corruption topology become visible. The intelligence grows as the network grows.",
   },
 ];
 
@@ -139,7 +140,7 @@ export default async function Home() {
             Private by architecture.
           </h2>
           <p className="mt-4 max-w-lg text-base leading-8 text-muted">
-            Four layers. Each with a specific job. Your phone personalises your feed locally — no server ever sees your preferences. The country mind processes national evidence. Local nodes cover what national scrapers miss. The world mind synthesises the rest.
+            A peer network of observer nodes — no headquarters, no central authority. Your phone personalises your feed locally using a small on-device model. Observers scrape, analyse, and generate intelligence. Patterns emerge from the network. No single node can be silenced to take it all down.
           </p>
           <a
             href="https://github.com/Prism-civic/prism/blob/main/docs/LOCAL_INTELLIGENCE.md"
@@ -162,6 +163,8 @@ export default async function Home() {
           ))}
         </div>
       </section>
+
+      <ContributionMap lang="en" />
 
       <section
         id="contribute"

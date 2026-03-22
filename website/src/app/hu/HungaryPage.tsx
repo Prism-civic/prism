@@ -8,6 +8,7 @@ import { CandidateDrawer } from "../../components/CandidateDrawer";
 import { AlignmentQuiz, loadUserProfile } from "../../components/AlignmentQuiz";
 import { AlignmentRadar } from "../../components/AlignmentRadar";
 import { NewsFeed } from "../../components/NewsFeed";
+import { ContributionMap } from "../../components/ContributionMap";
 import type { TraitScores } from "../../components/AlignmentRadar";
 import partyPositions from "../../data/hu-party-positions.json";
 
@@ -379,6 +380,8 @@ export function HungaryPage() {
         lang={lang}
         userProfile={userProfile}
       />
+
+      <ContributionMap lang={lang as "en" | "hu"} />
 
       {/* Footer */}
       <footer className="mb-4 rounded-[1.75rem] border border-line/80 bg-panel/70 px-5 py-5 text-xs text-muted backdrop-blur space-y-2">
