@@ -1,4 +1,5 @@
 import { HiveGlobeClient } from "@/components/HiveGlobeClient";
+import { NewsFeed } from "@/components/NewsFeed";
 import { StatsBar } from "@/components/stats-bar";
 import { getPublicNetworkStats } from "@/lib/network-stats";
 
@@ -118,6 +119,11 @@ export default async function Home() {
       </section>
 
       <StatsBar initialSnapshot={initialStats} />
+
+      {/* Live news feed — demonstrates real Prism output before any interaction */}
+      <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
+        <NewsFeed lang="en" />
+      </section>
 
       <section
         id="how-it-works"

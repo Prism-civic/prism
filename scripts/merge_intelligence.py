@@ -50,6 +50,16 @@ SOURCE_WEIGHTS = {
     'parlament.hu':      {'weight': 'high',    'score_impact': 0,   'type': 'track_record'},
     'e-cegjegyzek.hu':   {'weight': 'medium',  'score_impact': 0,   'type': 'business'},
     'ekr.gov.hu':        {'weight': 'high',    'score_impact': 0,   'type': 'procurement'},
+    # Foreign sources — linked to candidates but not scored (evidence only)
+    'rferl.org':         {'weight': 'high',    'score_impact': 0,   'type': 'foreign_press'},
+    'reuters.com':       {'weight': 'high',    'score_impact': 0,   'type': 'foreign_press'},
+    'politico.eu':       {'weight': 'high',    'score_impact': 0,   'type': 'foreign_press'},
+    'dw.com':            {'weight': 'medium',  'score_impact': 0,   'type': 'foreign_press'},
+    'euractiv.com':      {'weight': 'medium',  'score_impact': 0,   'type': 'foreign_press'},
+    'theguardian.com':   {'weight': 'medium',  'score_impact': 0,   'type': 'foreign_press'},
+    # Social signals — sentiment only, never scored
+    'reddit.com':        {'weight': 'low',     'score_impact': 0,   'type': 'social_sentiment'},
+    'twitter.com':       {'weight': 'low',     'score_impact': 0,   'type': 'social_sentiment'},
 }
 
 SOURCE_DIR_MAP = {
@@ -60,6 +70,13 @@ SOURCE_DIR_MAP = {
     'media/hvg':            'hvg.hu',
     'business':             'e-cegjegyzek.hu',
     'procurement':          'ekr.gov.hu',
+    # Foreign — linked to candidates where name matched
+    'foreign/rferl':        'rferl.org',
+    'foreign/reuters':      'reuters.com',
+    'foreign/politico_eu':  'politico.eu',
+    'foreign/dw_hu':        'dw.com',
+    'foreign/euractiv':     'euractiv.com',
+    'foreign/guardian':     'theguardian.com',
 }
 
 

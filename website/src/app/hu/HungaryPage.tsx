@@ -7,6 +7,7 @@ import candidatesData from "../../data/hungary/candidates.json";
 import { CandidateDrawer } from "../../components/CandidateDrawer";
 import { AlignmentQuiz, loadUserProfile } from "../../components/AlignmentQuiz";
 import { AlignmentRadar } from "../../components/AlignmentRadar";
+import { NewsFeed } from "../../components/NewsFeed";
 import type { TraitScores } from "../../components/AlignmentRadar";
 import partyPositions from "../../data/hu-party-positions.json";
 
@@ -280,6 +281,11 @@ export function HungaryPage() {
             </tbody>
           </table>
         </div>
+      </section>
+
+      {/* News Feed */}
+      <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
+        <NewsFeed lang={lang as 'en' | 'hu'} />
       </section>
 
       {/* Constituency + Candidate Lookup */}
