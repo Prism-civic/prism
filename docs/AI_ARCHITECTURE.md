@@ -18,27 +18,54 @@ The architecture is **Retrieval-Augmented Generation (RAG)** at every tier. The 
 
 ---
 
-## Three-Tier Intelligence Architecture
+## Observer Network Model (D-020)
+
+Prism is not a pyramid. It is a network of observers.
+
+Each observer node:
+- Scrapes local data + international feeds
+- Analyses and curates evidence in its local context
+- Feeds results to its local sensors (phones, websites, API)
+- Peers with other observers for cross-border patterns
+
+The hive mind is the **emergent consensus of all observers**. There is no HQ, no central editorial authority, no single point of control or failure.
+
+### Why This Matters
+
+A hierarchy means a bottleneck. A bottleneck can be pressured, captured, or shut down. A decentralized network of peers cannot be silenced from a single point. This is by design.
+
+Each observer chooses their own AI model — Claude, Llama, Gemini, or whatever works best in their jurisdiction and infrastructure. **Model diversity reduces monoculture bias.** Quality standards are advised (analytical strength, conversational skill), but never mandated. This keeps the network open to volunteers with different resources.
+
+---
+
+## Three-Tier Reasoning Capability Spectrum
+
+The tiers are not a hierarchy — they are a spectrum of reasoning capability and evidence scope. Each observer runs a complete stack from Tier 1 to Tier 3 for their region. Tier 3 only exists at the edges where multiple observers meet.
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│  TIER 3 — WORLD MIND                                  │
-│  Frontier-class reasoning                             │
-│  Cross-country synthesis, geopolitical analysis,      │
-│  international law interpretation                     │
-│  Multiple redundant nodes, multi-provider routing     │
+│  TIER 3 — WORLD PATTERNS (Peer Consensus)            │
+│  Strongest available model                            │
+│  Cross-country analysis: transnational flows,         │
+│  corruption topology, narrative coordination,         │
+│  geopolitical context, international law             │
+│  Emerges from observer overlap, not computed          │
+│  at a central "world mind" server                     │
 ├──────────────────────────────────────────────────────┤
-│  TIER 2 — COUNTRY MIND                                │
-│  Mid-tier reasoning                                   │
-│  National evidence processing, alignment scoring,     │
-│  local explainer generation, claim extraction         │
-│  Multiple nodes per country, peer-assisted            │
+│  TIER 2 — LOCAL INTELLIGENCE (Observer Core)         │
+│  Strong analytical model                              │
+│  National/regional: candidate analysis,               │
+│  policy alignment scoring, narrative detection,       │
+│  civic memory (statements vs votes), evidence         │
+│  weighting, evidence-pack generation                  │
+│  Runs on observer machine (laptop, Pi, VPS)           │
 ├──────────────────────────────────────────────────────┤
-│  TIER 1 — PHONE (LOCAL)                               │
-│  Edge model                                           │
-│  Intent extraction, concern structuring,              │
-│  evidence pack summarisation, basic Q&A               │
-│  Fully offline capable, private by design             │
+│  TIER 1 — PHONE/WEBSITE (Edge)                        │
+│  Small efficient model                                │
+│  Retrieval-only: answer questions from cached         │
+│  packs, personalize feed with on-device preference,   │
+│  intent parsing for upstream escalation               │
+│  Offline capable, zero network for local Q&A          │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -331,6 +358,35 @@ This check runs at the **application layer**, not inside the model. It cannot be
 | Scale (50 countries, 50,000 users) | 50,000 | ~€5,000–15,000 (aggressive caching) |
 
 Aggressive caching, especially for common policy queries, keeps costs far below naive per-query pricing. The goal is one inference serves thousands of users on the same topic.
+
+---
+
+## Purpose: Why AI, Not a News Aggregator
+
+Prism's AI is not summarising headlines. It is doing something no aggregator can.
+
+### Edge tier (phone)
+- Processes user values locally — no behavioural data leaves the device
+- Maps personal priorities against verified political records
+- Contributes anonymised, aggregated signals upstream (ground truth the scrapers can't see)
+
+### Observer tier (laptop / Pi / VPS)
+- Cross-references 600+ candidates simultaneously against business registries, procurement records, parliamentary votes, and investigative press
+- Detects narrative coordination: when multiple outlets run the same framing within 48 hours
+- Maintains civic memory: politician statements vs. voting records over time
+- Weights evidence by source credibility, corroboration, and recency — never issues verdicts
+- Generates intelligence briefs: distils all available data about each candidate into 3–5 factual sentences for voters
+
+### World tier (peer consensus)
+- Detects transnational patterns invisible to any single observer
+- Maps corruption topology across jurisdictions
+- Maintains and publishes the open-source scoring models all observers run on
+
+### The through-line
+
+> Surface what's verifiable, show the evidence, respect the user's right to conclude.
+
+The AI holds more of the public record in memory than any human can, and connects dots across jurisdictions, time, and data sources that would otherwise be invisible. It never tells anyone what to think. It makes it harder to be deceived.
 
 ---
 
