@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8046661,
+  "candidate_name": "DR. HANKÓ BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:52.100007+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Állami szervezet kapta a legtöbb pénzt a Patrióták által kifogásolt uniós pályázatokon",
+      "url": "https://atlatszo.hu/kozpenz/2025/08/12/allami-szervezet-kapta-a-legtobb-penzt-a-patriotak-altal-kifogasolt-unios-palyazatokon/",
+      "date": "perc",
+      "excerpt": "A Tempus Közalapítvány 291 millió eurót kapott az Erasmusra, Deutsch Tamás szerint viszont Brüsszel „egy szűk baloldali elit érdekeit képviselő” szervezeteket pénzel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Elégedettek az Erasmusból kizárt egyetemek a Pannónia Ösztöndíjprogrammal",
+      "url": "https://atlatszo.hu/oktatas/2025/07/04/elegedettek-az-erasmusbol-kizart-egyetemek-a-pannonia-osztondijprogrammal/",
+      "date": "perc",
+      "excerpt": "Adatvizualizációval mutatjuk be, hogyan teljesít az Erasmust kiváltani hivatott, hazai finanszírozású Pannónia Program a modellváltó egyetemeken.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Egy hét alatt szabdalták újra szét a legnagyobb magyar kutatóhálózatot",
+      "url": "https://atlatszo.hu/oktatas/2025/06/26/egy-het-alatt-szabdaltak-ujra-szet-a-legnagyobb-magyar-kutatohalozatot/",
+      "date": "perc",
+      "excerpt": "A kutatók tiltakozása ellenére az Eötvös Loránd Tudományegyetem veheti át a HUN-REN Magyar Kutatási Hálózat négy kutatóközpontját.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 06. no. constituency",
+  "search_name_used": "Hankó Balázs"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 647645,
+  "candidate_name": "DR. LUKÁCS LÁSZLÓ GYÖRGY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:14:09.980932+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Nem ismeri el hivatalos oltásként a kínai és orosz vakcinákat Lengyelország",
+      "url": "https://atlatszo.hu/vilagterkep/2021/02/24/nem-ismeri-el-hivatalos-oltaskent-a-kinai-es-orosz-vakcinakat-lengyelorszag/",
+      "date": "perc",
+      "excerpt": "Megváltoztak az utazási feltételek Lengyelországba: 48 órás negatív teszten kívül, kedd éjféltől az Európai Unió által elismert vakcinákkal beoltottak is...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Minden médiát a hatalomnak! – Az egyszólamúsodó városi sajtó Szolnok megyében",
+      "url": "https://atlatszo.hu/kozpenz/2018/03/06/minden-mediat-a-hatalomnak-az-egyszolamusodo-varosi-sajto-szolnok-megyeben/",
+      "date": "perc",
+      "excerpt": "Az utóbbi évtizedben folyamatosan szűkül a lokális nyilvánosság, egyre kevésbé lehet objektív, hiteles információkhoz jutni a helyi sajtóból. Minden...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kipereltük és közzétesszük az országgyűlési választás egyéni képviselőjelöltjeinek elszámolásait",
+      "url": "https://atlatszo.hu/kozpenz/2015/07/15/kipereltuk-es-kozzetesszuk-az-orszaggyulesi-valasztas-egyeni-kepviselojeloltjeinek-elszamolasait/",
+      "date": "perc",
+      "excerpt": "A tavalyi országgyűlési választáson minden egyéni képviselőjelölt egymillió forint költségvetési támogatást kapott a kampányához, amelyről elszámolást kellett benyújtania a Magyar...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Jász-Nagykun-Szolnok county, 03. no. constituency",
+  "search_name_used": "Lukács László György"
+}

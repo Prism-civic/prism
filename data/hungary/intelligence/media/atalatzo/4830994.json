@@ -1,0 +1,42 @@
+{
+  "kpn_id": 4830994,
+  "candidate_name": "BÁNYAI GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:28.105081+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "KubatovGábortíz éve a Fradi élén: a listavezető",
+      "url": "https://atlatszo.hu/kozpenz/2021/02/22/kubatov-gabor-tiz-eve-a-fradi-elen-a-listavezeto/",
+      "date": "perc",
+      "excerpt": "Becsatornázott állami milliárdok, önkormányzati százmilliók, több 10 milliárdos sportlétesítmények vagyonkezelői joga – így finanszírozta az állam a Ferencvárosi Torna Clubot...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Welsz Tamás, KovácsGáborés egy rosszhírű lett bank is üzletelt a Lavecóval",
+      "url": "https://atlatszo.hu/kozpenz/2017/05/17/welsz-tamas-kovacs-gabor-es-egy-rosszhiru-lett-bank-is-uzletelt-a-lavecoval/",
+      "date": "perc",
+      "excerpt": "Tombor András, a „Habony hitelezőjeként” emlegetett üzletember nyakig merült az offshore-ba – nem csak most, de a jelek szerint...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Kis Oligarchatározó: SzélesGábor",
+      "url": "https://atlatszo.hu/kozpenz/2012/08/01/kis-oligarchatarozo-szeles-gabor/",
+      "date": "perc",
+      "excerpt": "Mi lenne, ha autó lenne? Természetesen Ikarus busz. Ezzel talán mindent el is mondtunk a legnagyobb retrooligarcháról, a magyar oligarchák...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Bács-Kiskun county, 05. no. constituency",
+  "search_name_used": "Bányai Gábor"
+}

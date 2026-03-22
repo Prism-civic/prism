@@ -1,0 +1,191 @@
+{
+  "kpn_id": 7497153,
+  "candidate_name": "FAZEKAS CSILLA",
+  "source": "e-cegjegyzek.hu",
+  "scraped_at": "2026-03-21T19:57:55.283156+00:00",
+  "item_count": 20,
+  "items": [
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Intertrans és Spedition Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-pek-szolgaltato-es-kereskedelmi-kft-1309101833.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FAZEKAS PÉK Szolgáltató és Kereskedelmi Kft.2004",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-kereskedelmi-es-szolgaltato-kft-0809019146.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FAZEKAS Kereskedelmi és Szolgáltató Kft.2009",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-lv-trafik-kereskedelmi-es-szolgaltato-bt-1906509371.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FAZEKAS LV TRAFIK Kereskedelmi és Szolgáltató Bt.2013",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-tartosito-es-kereskedelmi-kft-1309086576.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FAZEKAS Tartósító és Kereskedelmi Kft.2000",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-cukrasz-kereskedelmi-es-szolgaltato-kft-1209011537.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Cukrász Kereskedelmi és Szolgáltató Kft.2020",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-csalad-kft-1309172018.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Család Kft.2014",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-szallitasi-kft-0109075970.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FAZEKAS Szállítási Kft.1991",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-agrar-kft-1609013866.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FAZEKAS-AGRÁR Kft.2011",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-generalkivitelezes-kft-0509032865.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Generálkivitelezés Kft.2020",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-trans-kft-0609020073.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Trans Kft.2010",
+      "url": "https://ceginfo.hu//ceg-adatlap/hdk-fazekas-kft-0909028715.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "HDK-Fazekas Kft.2017",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-security-guard-kft-0309134564.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Security Guard Kft.2021",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-es-tarsa-gazdasagi-szolgaltato-bt-0506003190.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas és Társa Gazdasági Szolgáltató Bt.1993",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-es-forgo-kft-0109186983.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas és Forgó Kft.2013",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekasne-szallashely-szolgaltato-kft-0509014147.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekasné Szálláshely-Szolgáltató Kft.2007",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-pro-faipari-kft-felszamolas-alatt-0309134094.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas-Pro Faipari Kft. \"felszámolás alatt\"2020",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekasne-es-tarsa-ipari-festo-es-felueletkezelo-bt-1606009730.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekasné és Társa Ipari-festő és Felületkezelő Bt.2005",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekaszugi-vizhasznositasi-nonprofit-kft-0409001213.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekaszugi Vízhasznosítási Nonprofit Kft.1990",
+      "url": "https://ceginfo.hu//ceg-adatlap/fazekas-klimatechnika-kft-0709029880.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fazekas Klímatechnika Kft.2019",
+      "url": "https://ceginfo.hu/ceglista/cegek/1",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fazekas\" — manual verification required to confirm directorship"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 01. no. constituency"
+}

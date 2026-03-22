@@ -1,0 +1,23 @@
+{
+  "kpn_id": 9637893,
+  "candidate_name": "VICZÁN PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:01:50.038418+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„Aláírást akart gyűjteni nekünk a Fidesz” – feljelentést tesz a Kutya Párt a föld alól szerzett ívek miatt",
+      "url": "https://atlatszo.hu/kozugy/2022/03/04/alairast-akart-gyujteni-nekunk-a-fidesz-feljelentest-tesz-a-kutyapart-a-fold-alol-szerzett-ivek-miatt/",
+      "date": "perc",
+      "excerpt": "Összesen 5 000 gyanús aláírást semmisített meg a Magyar Kétfarkú Kutya Párt (MKKP). A párt azt állítja, hogy több száz...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Jász-Nagykun-Szolnok county, 01. no. constituency",
+  "search_name_used": "Viczán Péter"
+}

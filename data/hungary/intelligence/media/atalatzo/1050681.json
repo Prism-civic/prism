@@ -1,0 +1,23 @@
+{
+  "kpn_id": 1050681,
+  "candidate_name": "KOVÁCS PETRA JUDIT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:34:44.150064+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Már 191 tanár bojkottálja a portfóliót",
+      "url": "https://atlatszo.hu/oktatas/2014/02/26/mar_191_tanar_bojkottalja_a_portfoliot/",
+      "date": "perc",
+      "excerpt": "Elsőként az Átlátszó Oktatás számolt be a Hívatlanul csoporthoz kötődő kezdeményezésről, melynek keretében a közoktatásban dolgozó tanárok által elkészítendő portfólió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Hajdú-Bihar county, 04. no. constituency",
+  "search_name_used": "Kovács Petra Judit"
+}

@@ -1,0 +1,34 @@
+{
+  "kpn_id": 4125776,
+  "candidate_name": "BÓDIS KRISZTA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:29:28.089435+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A Szabad Európa, a WMN, a HVG és a Telex munkatársai kapták idén a Szegénységről Méltósággal Sajtódíjat",
+      "url": "https://atlatszo.hu/kult/2024/06/04/a-szabad-europa-a-wmn-a-hvg-es-a-telex-munkatarsai-kaptak-iden-a-szegenysegrol-meltosaggal-sajtodijat/",
+      "date": "perc",
+      "excerpt": "Idén nyolcadik alkalommal osztották ki a Szegénységről Méltósággal Sajtódíjat, két fődíjat, és két különdíjat osztott ki a zsűri.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Veszélyben a pécsi jogi kar?",
+      "url": "https://atlatszo.hu/oktatas/2013/11/05/veszelyben_a_pecsi_jogi_kar/",
+      "date": "perc",
+      "excerpt": "Nyílt levélben tiltakoznak jogászok, a Pécsi Tudományegyetem volt és jelenlegi tanárai, illetve egy sor további értelmiségi a tervezett tömeges elbocsátások...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 02. no. constituency",
+  "search_name_used": "Bódis Kriszta"
+}

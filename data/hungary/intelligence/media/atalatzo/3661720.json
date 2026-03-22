@@ -1,0 +1,23 @@
+{
+  "kpn_id": 3661720,
+  "candidate_name": "GRÉCZI ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:48:49.986398+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Bemutatjuk Polt Péter új lakótársait a balatonfüredi luxustársasházban",
+      "url": "https://atlatszo.hu/kozpenz/2016/07/18/bemutatjuk-polt-peter-uj-lakotarsait-a-balatonfuredi-luxustarsashazban/",
+      "date": "perc",
+      "excerpt": "Milliárdos üzletemberekkel, köztük jászsági menőkkel vagy a Közgépnek dolgozó vállalkozóval pihenheti ki magát a Balaton-parton, az Orbán Viktor által...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 03. no. constituency",
+  "search_name_used": "Gréczi Zsolt"
+}

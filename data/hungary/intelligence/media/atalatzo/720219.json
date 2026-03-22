@@ -1,0 +1,34 @@
+{
+  "kpn_id": 720219,
+  "candidate_name": "NARDAI PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:48:17.966128+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Üstökös az olajiparban: sikkasztással vádolják a Mol-holdudvar üdvöskéjét",
+      "url": "https://atlatszo.hu/kozpenz/2014/06/13/ustokos-az-olajiparban-sikkasztassal-vadoljak-a-mol-holdudvar-udvoskejet/",
+      "date": "perc",
+      "excerpt": "Gyűlnek a kapcsolatok a nagy magyar olajvállalatok és a kétes gazdasági háttérvilág között: akik 2009 óta között figyelemmel kísérték a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Orosz hátterű cégháló az INA korrupciós ügye körül",
+      "url": "https://atlatszo.hu/kozpenz/2013/12/12/ceghalo-az-ina-korrupcios-ugye-korul/",
+      "date": "perc",
+      "excerpt": "A Mol orosz hátterű üzleti partnere egy bonyolult céghálón keresztül kapcsolódik a horvát INA korrupciós ügyében érintett ciprusi offshore cégekhez....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Veszprém county, 04. no. constituency",
+  "search_name_used": "Nardai Péter"
+}

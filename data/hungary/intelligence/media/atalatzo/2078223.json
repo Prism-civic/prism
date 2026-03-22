@@ -1,0 +1,52 @@
+{
+  "kpn_id": 2078223,
+  "candidate_name": "PARÉ ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:47:29.950315+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "4 milliárdért újítják fel a „kockát” Mészárosék és PaárAttilacégei Győrben",
+      "url": "https://atlatszo.hu/orszagszerte/2021/12/10/4-milliardert-ujitjak-fel-a-kockat-meszarosek-es-paar-attila-cegei-gyorben/",
+      "date": "perc",
+      "excerpt": "A tervezettnél 600 millió forinttal drágábban végzi el a NER-es cégekből álló konzorcium a Győri Kekszgyár volt raktárépületének a felújítását....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A NER új üstökösének tartott BalázsAttilacége a Josh Cartu-féle magánrepülőgép új tulajdonosa",
+      "url": "https://atlatszo.hu/kozpenz/2021/01/28/a-ner-uj-ustokosenek-tartott-balazs-attila-cege-a-josh-cartu-fele-maganrepulogep-uj-tulajdonosa/",
+      "date": "perc",
+      "excerpt": "A Közlekedési Hatóság légijárműlajstrom-nyilvántartásában már a BAYER CONSTRUCT Zrt. neve szerepel a korábban Josh Cartu, hazánkban élő, kanadai születésű milliárdos által...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Transparency-Soma Díjjal jutalmazták az Orbán magánrepülőgépezéséről szóló cikkünket",
+      "url": "https://atlatszo.hu/kozugy/2019/01/12/transparency-soma-dijjal-jutalmaztak-az-orban-maganrepulogepezeserol-szolo-cikkunket/",
+      "date": "perc",
+      "excerpt": "Az Átlátszó nagy botrányt kavart magánrepülőgépes-luxusjachtos tényfeltáró cikkének szerzői: Erdélyi Katalin, Németh Dániel és BátorfyAttilanyerték a 2018 legjobb...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Aktív törésvonal a Paksi Atomerőmű alatt: AszódiAttilaállamtitkár szerint nincs itt semmi látnivaló",
+      "url": "https://atlatszo.hu/kozpenz/2017/07/12/aktiv-toresvonal-a-paksi-atomeromu-alatt-aszodi-attila-allamtitkar-szerint-nincs-itt-semmi-latnivalo/",
+      "date": "perc",
+      "excerpt": "„Hónapokkal ezelőtt végigtárgyalt és lezárt ügyet próbál meg szenzációs újdonságnak beállítani az atlatszo.hu – alaptalanul – a paksi telephely...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
+  "search_name_used": "Paré Attila"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4035733,
+  "candidate_name": "FEJES TIBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:07:49.992181+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Miből lesz a cserebogár? Így festett a hatvanpusztai birtok öt és tíz évvel ezelőtt",
+      "url": "https://atlatszo.hu/impakt/2025/08/12/mibol-lesz-a-cserebogar-igy-festett-a-hatvanpusztai-birtok-ot-es-tiz-evvel-ezelott/",
+      "date": "perc",
+      "excerpt": "Az Átlátszón 2012 óta követjük az egykori főhercegi majorság sorsát, mutatjuk a kezdeteket, és a csodálatos átalakulást.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A kaposvári közgyűlésben két listás hely egyelőre betöltetlen az ellenzéki pártok vitái miatt",
+      "url": "https://atlatszo.hu/2019/11/07/a-kaposvari-kozgyulesben-ket-listas-hely-egyelore-betoltetlen-az-ellenzeki-partok-vitai-miatt/",
+      "date": "perc",
+      "excerpt": "Kaposváron az ellenzéki fellépésre a résztvevők szerinti „teljes összefogás” korántsem volt egyértelműen igaz, és a pártok közti együttműködés sem volt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Akadozva, de alakul az ellenzék összefogása a vidéki városokban az önkormányzati választásokra",
+      "url": "https://atlatszo.hu/kozpenz/2019/07/04/akadozva-de-alakul-az-ellenzek-osszefogasa-a-videki-varosokban-az-onkormanyzati-valasztasokra/",
+      "date": "perc",
+      "excerpt": "Szombathely, Pécs visszahódítható, Szeged megtartható az ellenzék számára, amely azonban továbbra sem tud (akar?) mit kezdeni a debreceniek elkötelezett fidesz-imádatával....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Békés county, 03. no. constituency",
+  "search_name_used": "Fejes Tibor"
+}

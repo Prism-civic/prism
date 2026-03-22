@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5388981,
+  "candidate_name": "CSÖBÖR KATALIN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:52.083743+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Strabag pont úgy építette meg az M30-ast, ahogy az állam megrendelte, és jóváhagyta",
+      "url": "https://atlatszo.hu/kozadat/2025/12/09/a-strabag-pont-ugy-epitette-meg-az-m30-ast-ahogy-az-allam-megrendelte-es-jovahagyta/",
+      "date": "perc",
+      "excerpt": "Az osztrák cégtől megkaptuk az autópálya-építés papírjait, amiket most közzéteszünk. Az iratok szerint tervezéskor sem a Strabag, sem az állam nem találta kockázatosnak a később megsüllyedt szakaszt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Titkolja a kormány a beszakadt M30-as iratait, pedig elvileg ellenőriztek mindent",
+      "url": "https://atlatszo.hu/orszagszerte/2025/03/03/titkolja-a-kormany-a-beszakadt-m30-as-iratait-pedig-elvileg-ellenoriztek-mindent/",
+      "date": "perc",
+      "excerpt": "Lázár Jánossal az élen a Fidesz a kivitelező Strabagra mutogat, pedig az állam részéről valaki átvette a később megsüllyedt autópálya-szakaszt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Megint Fidesz-közeli szervezetek nyerték a legnagyobb összegeket a kormány civil-támogató programján",
+      "url": "https://atlatszo.hu/kozpenz/2022/05/05/megint-fidesz-kozeli-szervezetek-nyertek-a-legnagyobb-osszegeket-a-kormany-civil-tamogato-programjan/",
+      "date": "perc",
+      "excerpt": "Újabb, fideszes politikusokhoz köthető egyesületek gazdagodtak a kormány civil támogatási programjából. A Városi Civil Alap keretében másodszor osztanak támogatásokat, a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+  "search_name_used": "Csöbör Katalin"
+}

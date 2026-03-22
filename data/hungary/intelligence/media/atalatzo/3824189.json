@@ -1,0 +1,23 @@
+{
+  "kpn_id": 3824189,
+  "candidate_name": "V.NÉMETH ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:28:44.091067+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A vasi falvakban nem menő a pártlogó: fideszes és szoci helyi funkcik is függetlenként indulnak",
+      "url": "https://atlatszo.hu/2019/09/18/__trashed-30/",
+      "date": "perc",
+      "excerpt": "Ha a vasi kistelepülések főutcáin sétálsz, szinte sehol sem látod nyomát annak, hogy kevesebb mint egy hónap múlva, október 13-án...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Vas county, 03. no. constituency",
+  "search_name_used": "V.németh Zsolt"
+}

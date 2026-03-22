@@ -1,0 +1,23 @@
+{
+  "kpn_id": 6520766,
+  "candidate_name": "GYAPJAS SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:08:33.977252+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Lázár János édesapja, nagybátyja, unokatestvére a földárverések nyertesei között Csongrádban – itt a legújabb Ángyán-jelentés",
+      "url": "https://atlatszo.hu/orszagszerte/2018/06/26/lazar-janos-edesapja-nagybatyja-unokatestvere-a-foldarveresek-nyertesei-kozott-csongradban-itt-a-legujabb-angyan-jelentes/",
+      "date": "perc",
+      "excerpt": "Lázár János édesapja, nagybátyja, unokatestvére és annak felesége: a család így együtt több mint 500 hektárt, a megyében dobra vert...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Borsod-Abaúj-Zemplén county, 02. no. constituency",
+  "search_name_used": "Gyapjas Sándor"
+}

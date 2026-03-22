@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8016099,
+  "candidate_name": "GONDA ESZTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:00:49.964088+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Halálos baleset történt Orbán Viktor unokaöccsének kavicsbányájában, a bányafelügyelet is vizsgálódik",
+      "url": "https://atlatszo.hu/orszagszerte/2024/06/26/halalos-baleset-tortent-orban-viktor-unokaoccsenek-kavicsbanyajaban-a-banyafelugyelet-is-vizsgalodik/",
+      "date": "perc",
+      "excerpt": "Az esetet a rendőrség is vizsgálja. A tulajdonosok cikkünk megjelenéséig nem reagáltak a megkeresésünkre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kiütötte a biztosítékot a kötelező oltás ötlete, de az orvosok beleállnának",
+      "url": "https://atlatszo.hu/kozpenz/2021/05/13/kiutotte-a-biztositekot-a-kotelezo-oltas-otlete-de-az-orvosok-beleallnanak/",
+      "date": "perc",
+      "excerpt": "Azt mondja, sejtette, hogy első számú közellenséggé válik, de ekkora méretű gyűlölethullámra azért nem számított, amikor bedobta a köztudatba a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Százával verték le a fecskefészkeket egy szolnoki önkormányzati beruházás helyszínén",
+      "url": "https://atlatszo.hu/2019/07/10/szazaval-vertek-le-a-fecskefeszkeket-egy-szolnoki-onkormanyzati-beruhazas-helyszinen/",
+      "date": "perc",
+      "excerpt": "Közpénzből újítottak fel közingatlant Szolnokon, a munkák legkevesebb 80, más számítások szerint 300 molnárfecske-család pusztulásával, de legalábbis elüldözésével jártak. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Győr-Moson-Sopron county, 01. no. constituency",
+  "search_name_used": "Gonda Eszter"
+}

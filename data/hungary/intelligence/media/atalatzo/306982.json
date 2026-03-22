@@ -1,0 +1,102 @@
+{
+  "kpn_id": 306982,
+  "candidate_name": "NAGY ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:39:32.103098+00:00",
+  "item_count": 9,
+  "items": [
+    {
+      "title": "„Magyarország egy adatvizualizációsnagyhatalom” – BátorfyAttilaa The Data Journalism Podcast-ban",
+      "url": "https://atlatszo.hu/impakt/2023/12/06/magyarorszag-egy-adatvizualizacios-nagyhatalom-batorfy-attila-a-the-data-journalism-podcast-ban/",
+      "date": "perc",
+      "excerpt": "Munkásságának kezdeteiről, a koronavírus-járvány feldolgozásáról és a kedvenc könyveiről is kérdezték Bátorfy Attilát a beszélgetés során.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "„Sokkalnagyobb a baj, mint gondolnánk” – szakértők a magyar médiarendszerről",
+      "url": "https://atlatszo.hu/kozugy/2025/11/26/sokkal-nagyobb-a-baj-mint-gondolnank-szakertok-a-magyar-mediarendszerrol/",
+      "date": "perc",
+      "excerpt": "A mai magyar médiarendszerről tartottak konferenciát november 25-én a CEU épületében. Helyszíni beszámoló.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Novák Katalinnak havi 800 ezret hoz az adómentesség, Jászai Gellértnagykövet lett",
+      "url": "https://atlatszo.hu/mutyimondo/2025/03/07/novak-katalinnak-havi-800-ezret-hoz-az-adomentesseg-jaszai-gellert-nagykovet-lett/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "“Már tíz évvel ezelőtt is ideje lett volna egy ilyen kézikönyvnek” – beszélgetés Bátorfy Attilával az Átlátszó podcastben",
+      "url": "https://atlatszo.hu/mutyimondo/2024/11/29/mar-tiz-evvel-ezelott-is-ideje-lett-volna-egy-ilyen-kezikonyvnek-beszelgetes-batorfy-attilaval-az-atlatszo-podcastben/",
+      "date": "perc",
+      "excerpt": "Legújabb podcastunkban BátorfyAttilaadatvizualizációs szakemberrel beszélgetett Szabó Krisztián.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "NagyFeró és Győzike után Dzsudzsák Balázzsal erősítenek a közérzetjavító termékeket áruló cégek",
+      "url": "https://atlatszo.hu/kozugy/2024/07/10/nagy-fero-es-gyozike-utan-dzsudzsak-balazzsal-erositenek-a-kozerzetjavito-termekeket-arulo-cegek/",
+      "date": "perc",
+      "excerpt": "Leadták pénzügyi beszámolójukat a közérzetjavítással foglalkozó cégek, az Alternativeshop megújult honlapján pedig több új reklámarc is szerepel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Nagyobb lehet a szegedi BYD-üzem, mint hitték; Pécsett is megtámadták a választás eredményét",
+      "url": "https://atlatszo.hu/mutyimondo/2024/06/16/nagyobb-lehet-a-szegedi-byd-uzem-mint-hittek-pecsett-is-megtamadtak-a-valasztas-eredmenyet/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Győzikével ésNagyFeróval hirdeti magát a pulzáló mágnesterápiával házaló cég",
+      "url": "https://atlatszo.hu/kozugy/2024/01/23/gyozikevel-es-nagy-feroval-hirdeti-magat-a-pulzalo-magnesterapiaval-hazalo-ceg/",
+      "date": "perc",
+      "excerpt": "Az állapotfelmérést, valamint közérzetjavító és wellness termékeket kínáló cégek hátterében korábban feltűnt a motivációs trénernek állt Bódi Bence is.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Különcök,nagykövetek és narrátorok – ilyenek anagyinformáció-dizájnerek Alberto Cairo szerint",
+      "url": "https://atlatszo.hu/kult/2023/12/14/kuloncok-nagykovetek-es-narratorok-ilyenek-a-nagy-informaciodizajnerek-alberto-cairo-szerint/",
+      "date": "perc",
+      "excerpt": "BátorfyAttila, az ATLO projekt vezetője egy most megjelent könyv fejezetében beszél munkásságáról és a magyar adatábrázolás múltjáról és jelenéről.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Lefejezték anagyatádi lap szerkesztőségét, tao-pénzek miatt folyik eljárás Szegeden",
+      "url": "https://atlatszo.hu/orszagszerte/2023/07/23/lefejeztek-a-nagyatadi-lap-szerkesztoseget-tao-penzek-miatt-folyik-eljaras-szegeden/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Budapest capital, 01. no. constituency",
+  "search_name_used": "Nagy Attila"
+}

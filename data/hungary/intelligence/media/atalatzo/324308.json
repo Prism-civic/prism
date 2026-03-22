@@ -1,0 +1,32 @@
+{
+  "kpn_id": 324308,
+  "candidate_name": "ROST ANDREA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:08.109894+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Brüsszel ismeretlen, sötét oldala – cselédek, kényszerprostituáltak és magányos feleségek",
+      "url": "https://atlatszo.hu/kult/2021/05/24/brusszel-ismeretlen-sotet-oldala-cseledek-kenyszerprostitualtak-es-maganyos-felesegek/",
+      "date": "perc",
+      "excerpt": "Durica Katarina új regénye három, Brüsszelben élő nő sorsát mutatja be, akik nagyon különböző módon kerültek oda. Megismerhetünk egy gazdag...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Délvidéki csaták: veszíthet-e Botka, újrázhat-e Márki-Zay?",
+      "url": "https://atlatszo.hu/orszagszerte/2023/11/08/delvideki-csatak-veszithet-e-botka-ujrazhat-e-marki-zay/",
+      "date": "perc",
+      "excerpt": "Két ellenzéki vezetésű nagyvárostvizsgálunk az önkormányzati választási sorozatunkban. Szegeden és Hódmezővásárhelyen is újrázhat a polgármester.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Jász-Nagykun-Szolnok county, 01. no. constituency",
+  "search_name_used": "Rost Andrea"
+}

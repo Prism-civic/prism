@@ -1,0 +1,23 @@
+{
+  "kpn_id": 5912563,
+  "candidate_name": "HALMAI RICHÁRD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:48:46.141086+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Aláírás-mátrix: rengeteg kamu ajánlást jelentettek, már 80 büntetőeljárás indult",
+      "url": "https://atlatszo.hu/kozugy/2026/03/20/alairas-matrix-rengeteg-kamu-ajanlast-jelentettek-mar-80-buntetoeljaras-indult/",
+      "date": "perc",
+      "excerpt": "Több mint húsz emberrel beszéltünk, akiknek olyan jelöltek ajánlóívein szerepel az aláírásuk, akikről még csak nem is hallottak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 02. no. constituency",
+  "search_name_used": "Halmai Richárd"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3869748,
+  "candidate_name": "MÓRING JÓZSEF ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:27:44.100520+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Egy évvel a falomlás után kezdik tervezni a balatonlellei mentőállomás új épületét",
+      "url": "https://atlatszo.hu/orszagszerte/2026/02/24/egy-evvel-a-falomlas-utan-kezdik-tervezni-a-balatonlellei-mentoallomas-uj-epuletet/",
+      "date": "perc",
+      "excerpt": "Nettó 58 millió forintból, 2026 közepére kell elkészülniük a terveknek. Utána indulhat a kivitelező keresése, ha lesz pénz a beruházásra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Milliárdok hiányoznak a mentőállomások fejlesztéséhez, elakadtak a beruházások",
+      "url": "https://atlatszo.hu/orszagszerte/2025/02/13/milliardok-hianyoznak-a-mentoallomasok-fejlesztesehez-elakadtak-a-beruhazasok/",
+      "date": "perc",
+      "excerpt": "A beruházások jelentős részét a helyreállítási alapból tervezték megvalósítani, de mivel az uniós forrásokat befagyasztották, úgy látszik, nincs pénz a munkálatokra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nem működik a repülőgépalkatrész-gyár, félmilliárdot követel vissza az állam",
+      "url": "https://atlatszo.hu/orszagszerte/2023/11/16/nem-mukodik-a-repulogepalkatresz-gyar-felmilliardot-kovetel-vissza-az-allam/",
+      "date": "perc",
+      "excerpt": "Már tíz éve működnie kellene a somogyvári gyárnak, de még be sem fejezték. A beruházó cég képviselője szerint mindez az állami szervek hibája.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Somogy county, 03. no. constituency",
+  "search_name_used": "Móring József Attila"
+}

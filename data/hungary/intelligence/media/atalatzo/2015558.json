@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2015558,
+  "candidate_name": "HERCZEG ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:08.087198+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Gombamódra szaporodnak az ingatlanok, cégek és folyóiratok Demeter Szilárd körül",
+      "url": "https://atlatszo.hu/kozpenz/2021/11/02/gombamodra-szaporodnak-az-ingatlanok-cegek-es-folyoiratok-demeter-szilard-korul/",
+      "date": "perc",
+      "excerpt": "Nemrég írtunk arról, hogy a magyar kormány 2021-ben a magyar nyelvű folyóiratok támogatási rendszerének átalakítására 1,8 milliárd forintot szán a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Havi 300 ezer forint közpénzért bérelnek budapesti lakást képviselőknek, akik 30-40 kilométerre laknak a fővárostól",
+      "url": "https://atlatszo.hu/kozugy/2018/10/01/havi-300-ezer-forint-kozpenzert-berelnek-budapesti-lakast-kepviseloknek-akik-30-40-kilometerre-laknak-a-fovarostol/",
+      "date": "perc",
+      "excerpt": "Nemcsak a képviselők fizetését emelte meg 750 ezer forintról majdnem 1 millió forintra a parlament, a budapesti albérletre elkölthető keret...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az Orbán-rendszer legfontosabb pillére – Polt Péter legfőbb ügyész pályaíve",
+      "url": "https://atlatszo.hu/kozpenz/2016/06/27/az-orban-rendszer-legfontosabb-pillere-polt-peter-legfobb-ugyesz-palyaive/",
+      "date": "perc",
+      "excerpt": "Áder kádere – nagyjából ebben egyezett segítőink emlékezete, amikor Polt Péter legfőbb ügyész portréjának megrajzolásához kértünk segítséget. A kaméleonok ügyességével...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Jász-Nagykun-Szolnok county, 04. no. constituency",
+  "search_name_used": "Herczeg Zsolt"
+}

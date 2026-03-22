@@ -1,0 +1,42 @@
+{
+  "kpn_id": 7331426,
+  "candidate_name": "TÁLLAI ANDRÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:20.092760+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Füttykoncert a polgármesterre, beintésTállaimellől, balhézó ultrák: így adták át a DVTK-stadiont",
+      "url": "https://atlatszo.hu/2018/05/07/futtykoncert-a-polgarmesterre-beintes-tallai-mellol-balhezo-ultrak-igy-adtak-at-a-dvtk-stadiont/",
+      "date": "perc",
+      "excerpt": "Botrányosra sikeredett szombaton a miskolci új futball-aréna átadása, a drukkerek kifütyülték a polgármestert. A késedelem miatt kötbér járna, de...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A vizsgálat lezárult, HorváthAndrásártatlan",
+      "url": "https://atlatszo.hu/kozugy/2017/05/22/a-vizsgalat-lezarult-horvath-andras-artatlan/",
+      "date": "perc",
+      "excerpt": "Három és fél évvel az eljárás megindítása után a Fővárosi Főügyészség megszüntette a nyomozást HorváthAndrásellen. Visszanézve nagyon...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Kicsit megszaladt: 70 millióval lesz drágábbTállaifociklubjának sportszállója",
+      "url": "https://atlatszo.hu/kozugy/2016/07/06/kicsit-megszaladt-70-millioval-lesz-dragabb-tallai-fociklubjanak-sportszalloja/",
+      "date": "perc",
+      "excerpt": "A végéhez közeledik a mezőkövesdi sportszálló kivitelezése, és most jelent meg, hogy a 42 szobásra tervezett hotel egyik szárnya még...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 07. no. constituency",
+  "search_name_used": "Tállai András"
+}

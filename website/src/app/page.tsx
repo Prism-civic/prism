@@ -1,4 +1,4 @@
-import { NetworkVisual } from "@/components/network-visual";
+import { HiveGlobeClient } from "@/components/HiveGlobeClient";
 import { StatsBar } from "@/components/stats-bar";
 import { getPublicNetworkStats } from "@/lib/network-stats";
 
@@ -107,10 +107,10 @@ export default async function Home() {
           </div>
 
           <div className="space-y-4">
-            <NetworkVisual />
+            <HiveGlobeClient mockMode={true} />
             <noscript>
               <p className="rounded-3xl border border-white/10 bg-black/25 px-4 py-3 text-sm text-muted">
-                JavaScript is off. The visualization remains decorative and the homepage content is fully available in text.
+                JavaScript is off. The globe visualization requires a modern browser with WebGL support. All page content is fully available in text.
               </p>
             </noscript>
           </div>

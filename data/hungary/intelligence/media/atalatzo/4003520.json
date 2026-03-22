@@ -1,0 +1,42 @@
+{
+  "kpn_id": 4003520,
+  "candidate_name": "SZABADI ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:36.123322+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "EU-s pénzből divatoztak a nógrádi polgármesternők, KocsisIstvánbörtönbe vonult",
+      "url": "https://atlatszo.hu/mutyimondo/2020/03/14/eu-s-penzbol-divatoztak-a-nogradi-polgarmesternok-kocsis-istvan-bortonbe-vonult/",
+      "date": "perc",
+      "excerpt": "Hvg.hu: Összefogtak és stílusszakértőt fogadtak a nógrádi polgármesternők Varsányban megalakult a Nógrádi Polgármester Asszonyok Közössége, hogy rendszeres találkozókon beszéljenek meg témákat,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Tokajon is nyomul a NER – Bodnár Zsuzsa volt a Flaszter vendége",
+      "url": "https://atlatszo.hu/impakt/2025/04/14/tokajon-is-nyomul-a-ner-bodnar-zsuzsa-volt-a-flaszter-vendege/",
+      "date": "perc",
+      "excerpt": "Kollégánk a Magyar Hang közéleti vitaműsorában DévényiIstvánés Bethlen Tamás újságírókkal vitatta meg a hét közéleti eseményeit.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Cinikus ürügyekkel zárták gettókba a vidéki zsidókat, hogy ellophassák mindenüket",
+      "url": "https://atlatszo.hu/kult/2025/03/28/cinikus-urugyekkel-zartak-gettokba-a-videki-zsidokat-hogy-ellophassak-mindenuket/",
+      "date": "perc",
+      "excerpt": "VégsőIstvánkötete azt összegzi, miért és hogyan kerültek 1944-ben a vidéki zsidók előbb gyűjtőhelyekre és gettókba, majd onnan munka- és megsemmisítő táborokba.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Bács-Kiskun county, 05. no. constituency",
+  "search_name_used": "Szabadi István"
+}

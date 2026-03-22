@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2925273,
+  "candidate_name": "DR. VINNAI GYŐZŐ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:28:00.092438+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Havi 300 ezer forint közpénzért bérelnek budapesti lakást képviselőknek, akik 30-40 kilométerre laknak a fővárostól",
+      "url": "https://atlatszo.hu/kozugy/2018/10/01/havi-300-ezer-forint-kozpenzert-berelnek-budapesti-lakast-kepviseloknek-akik-30-40-kilometerre-laknak-a-fovarostol/",
+      "date": "perc",
+      "excerpt": "Nemcsak a képviselők fizetését emelte meg 750 ezer forintról majdnem 1 millió forintra a parlament, a budapesti albérletre elkölthető keret...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Perek tucatjait indították lejáratott ellenzéki pártvezetők a fideszes propagandagépezet sajtótermékei ellen",
+      "url": "https://atlatszo.hu/kozpenz/2018/06/12/perek-tucatjait-inditottak-lejaratott-ellenzeki-partvezetok-a-fideszes-propagandagepezet-sajtotermekei-ellen/",
+      "date": "perc",
+      "excerpt": "Három politikus, (volt) pártelnökök, akikben szinte semmi közös nincsen. Különböző világokat képviselnek, eltérő eszközökkel, más-más stílusban. Abban mégis hasonlítanak, hogy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Uniós fejlesztési forrásokból romhalmaz – a rakamazi turisztikai projektek",
+      "url": "https://atlatszo.hu/kozpenz/2016/11/23/unios-fejlesztesi-forrasokbol-romhalmaz-a-rakamazi-turisztikai-projektek/",
+      "date": "perc",
+      "excerpt": "Bedöglött projektek szegélyezik az utat, ami a hírhedtté vált rakamazi Teknősház és vízi tanösvény teljes kudarcához vezetett. Az elfüstölt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
+  "search_name_used": "Vinnai Győző"
+}

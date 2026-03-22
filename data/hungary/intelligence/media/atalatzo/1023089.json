@@ -1,0 +1,52 @@
+{
+  "kpn_id": 1023089,
+  "candidate_name": "VARGA ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:52:29.986338+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Nyerő páros: Novák Katalin tündöklése és bukása BalogZoltánmellett",
+      "url": "https://atlatszo.hu/kozugy/2024/02/16/nyero-paros-novak-katalin-tundoklese-es-bukasa-balog-zoltan-mellett/",
+      "date": "perc",
+      "excerpt": "A bukott köztársasági elnök politikai karrierje 2014-ben indult be, amikor Balog családügyi államtitkárrá nevezte ki, s azóta is remek kapcsolatban voltak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "VargaMihály volt szobatársának cége közel 10 milliárdért építhet termálfürdőt és szállodát",
+      "url": "https://atlatszo.hu/2021/05/06/varga-mihaly-volt-szobatarsanak-cege-kozel-10-milliardert-epithet-termalfurdot-es-szallodat/",
+      "date": "perc",
+      "excerpt": "A szállodában 72 szoba kap helyet, a hotel mellett épül egy termálfürdő beltéri és kültéri medencékkel, balneológiai (gyógyfürdő kúra) és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Proxyk hiénaszerepben – megindult az erdő SpéderZoltánellen",
+      "url": "https://atlatszo.hu/kozpenz/2016/06/13/proxyk-hienaszerepben-megindult-az-erdo-speder-zoltan-ellen/",
+      "date": "perc",
+      "excerpt": "Nem a múlt heti házkutatás-sorozat volt az utolsó hatósági cselekmény az FHB Bank körül – nem kockáztat nagyot, aki...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Pasa parki lakásáról kérdeztük Vargát: a miniszter pontosította a vagyonnyilatkozatát",
+      "url": "https://atlatszo.hu/kozpenz/2015/03/10/pasa-parki-lakasarol-kerdeztuk-vargat-a-miniszter-pontositotta-a-vagyonnyilatkozatat/",
+      "date": "perc",
+      "excerpt": "VargaMihályék akkora családi összefogással vásárolták a Pasa parki családi lakást, hogy ki se tudjuk bogozni. A miniszter azért pontosította...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Hajdú-Bihar county, 01. no. constituency",
+  "search_name_used": "Varga Zoltán"
+}

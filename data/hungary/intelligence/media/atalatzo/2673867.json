@@ -1,0 +1,23 @@
+{
+  "kpn_id": 2673867,
+  "candidate_name": "LOVKÓ CSABA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:39:28.107820+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "400 milliót adott rá az állam, mégsem sikerül befejezni a hévízi orosz templomot",
+      "url": "https://atlatszo.hu/orszagszerte/2025/06/26/400-milliot-adott-ra-az-allam-megsem-sikerul-befejezni-a-hevizi-orosz-templomot/",
+      "date": "perc",
+      "excerpt": "A templomot 2021-ben kezdték építeni közpénzből, mert a fürdővárosban annyira sok volt az oroszajkú, ortodox vallású. A beruházás azonban elakadt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Zala county, 03. no. constituency",
+  "search_name_used": "Lovkó Csaba"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 3019334,
+  "candidate_name": "ZSIGÓ RÓBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:32.089391+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "1,8 milliárdot kért vissza a kormány Bajától, a kampányban ígért uszodáról hallgatnak",
+      "url": "https://atlatszo.hu/orszagszerte/2018/10/18/18-milliardot-kert-vissza-kormany-bajatol-a-kampanyban-igert-uszodarol-hallgatnak/",
+      "date": "perc",
+      "excerpt": "„Fake news”-nak nevezte FercsákRóbert(Fidesz), Baja polgármestere azt a hírt, miszerint az állam visszakéri a fel nem használt uniós...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Bács-Kiskun county, 06. no. constituency",
+  "search_name_used": "Zsigó Róbert"
+}

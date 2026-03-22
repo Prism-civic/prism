@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2394831,
+  "candidate_name": "KŐSZEGI MIHÁLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:07:13.979356+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A kormányközeli WHB bonthatja le a Magyar Rádió épületeit a Palotanegyedben",
+      "url": "https://atlatszo.hu/kozpenz/2024/07/16/a-kormanykozeli-whb-bonthatja-le-a-magyar-radio-epuleteit-a-palotanegyedben/",
+      "date": "perc",
+      "excerpt": "Paár Attila cége Mészáros Lőrinc ZÁÉV-jénél is olcsóbb tudott lenni. A helyiek továbbra sem örülnek a beruházásnak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Még állatoknak is több szobrot állítottunk Budapesten, mint ahány rendesen felöltözött nőnek | Heti Mutyimondó",
+      "url": "https://atlatszo.hu/mutyimondo/2018/07/12/meg-allatoknak-is-tobb-szobrot-allitottunk-budapesten-mint-ahany-nem-meztelen-nonek-heti-mutyimondo/",
+      "date": "perc",
+      "excerpt": "Még állatoknak is több szobrot állítottunk Budapesten, mint ahány nem meztelen nőnek Bronzplafon – az üvegplafon mintájára ez a kifejezés...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Profilváltás: egy építőipari cég szervezte több képviselőjelölt kampányát a Dunántúlon",
+      "url": "https://atlatszo.hu/kozugy/2015/07/23/profilvaltas-egy-epitoipari-ceg-szervezte-tobb-kepviselojelolt-kampanyat-a-dunantulon/",
+      "date": "perc",
+      "excerpt": "Bár a fő tevékenysége az építőipar, mégis több politikus a Lion Construction Kft.-t bízta meg 2014. őszi önkormányzati kampánya megszervezésével...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Bács-Kiskun county, 03. no. constituency",
+  "search_name_used": "Kőszegi Mihály"
+}

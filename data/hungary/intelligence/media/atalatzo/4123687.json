@@ -1,0 +1,32 @@
+{
+  "kpn_id": 4123687,
+  "candidate_name": "SZABÓ GÉZA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:09:46.077671+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Terner Gézát körözik a négyes metró beruházás korrupciós ügyeivel összefüggésben",
+      "url": "https://atlatszo.hu/kozugy/2017/02/10/terner-gezat-korozik-a-negyes-metro-beruhazas-korrupcios-ugyeivel-osszefuggesben/",
+      "date": "perc",
+      "excerpt": "Nem a korábban nevesített projektigazgató, hanem a Strabag-ügyben az osztrák sajtó által is emlegetett TernerGézaszökött külföldre, hogy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Elbukta Kalocsát a fideszes jelölt, hiába robogott a Zeneexpressz",
+      "url": "https://atlatszo.hu/orszagszerte/2024/07/08/elbukta-kalocsat-a-fideszes-jelolt-hiaba-robogott-a-zeneexpressz/",
+      "date": "perc",
+      "excerpt": "Hiába kampányoltak mellette a nagyágyúk, hiába ígérte meg a paksi milliárdok egy részét Kalocsának, FilvigGézanem tudott újrázni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Borsod-Abaúj-Zemplén county, 06. no. constituency",
+  "search_name_used": "Szabó Géza"
+}

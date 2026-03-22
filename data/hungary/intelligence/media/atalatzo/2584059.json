@@ -1,0 +1,32 @@
+{
+  "kpn_id": 2584059,
+  "candidate_name": "MIKLÓS ÁRPÁD FERENC",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:08.131778+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "„A holdudvar maga volt a párt” – liberális véleményformálók az SZDSZ-ről és a kritikus értelmiségről",
+      "url": "https://atlatszo.hu/kult/2022/11/27/a-holdudvar-maga-volt-a-part-liberalis-velemenyformalok-az-szdsz-rol-es-a-kritikus-ertelmisegrol/",
+      "date": "perc",
+      "excerpt": "Szitás Katalin Értelmiség és politika című interjúkötetében megszólalnak az 1990-es évek liberálisai, például Magyar Bálint, Pető Iván, KőszegFerenc.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Nem árulja el a közpénzből gazdálkodó szervező, mennyit költött a helyszínre a Tranzit fesztivál",
+      "url": "https://atlatszo.hu/kozpenz/2022/09/20/nem-arulja-el-a-kozpenzbol-gazdalkodo-szervezo-mennyit-koltott-a-helyszinre-a-tranzit-fesztival/",
+      "date": "perc",
+      "excerpt": "A Tranzit fesztivált egy több milliárd forint közpénzzel kitömött alapítvány rendezi, s ebből fizethették a bérleti díjat HabonyÁrpádunokatestvéreinek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+  "search_name_used": "Miklós Árpád Ferenc"
+}

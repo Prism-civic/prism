@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1574322,
+  "candidate_name": "VIDÓ ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:00.125080+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Covid-19: így hálózták be a mutyigyanús ügyek a kormány járványkezelését",
+      "url": "https://atlatszo.hu/kozpenz/2025/01/27/covid-19-igy-haloztak-be-a-mutyigyanus-ugyek-a-kormany-jarvanykezeleset/",
+      "date": "perc",
+      "excerpt": "Öt évvel a koronavírus járvány kitörése után \"Így győztük le a Covid-járványt\" címmel tett közzé videót Orbán Viktor. A kisfilmből kimaradtak részletek, amiket most segítünk pótolni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Alternatív valóság: a Kossuth Rádió adásába nem fért be a rekordgyenge forint",
+      "url": "https://atlatszo.hu/kozugy/2022/07/12/alternativ-valosag-a-kossuth-radio-adasaba-nem-fert-be-a-rekordgyenge-forint/",
+      "date": "perc",
+      "excerpt": "Egy nap híreit hallgattuk vissza akkor, amikor történelmi mélypontot ért el a forint.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ez volt az év adatokban, ez volt az évünk az adatokkal",
+      "url": "https://atlatszo.hu/adat/2021/12/30/ez-volt-az-ev-adatokban-ez-volt-az-evunk-az-adatokkal/",
+      "date": "perc",
+      "excerpt": "Nehéz évet zárunk, de ezt már tavaly is elmondhattuk. Nem csupán a járvánnyal, de a járványkezelés gazdasági és egyéb hatásaival...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Békés county, 03. no. constituency",
+  "search_name_used": "Vidó Attila"
+}

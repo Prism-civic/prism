@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4560877,
+  "candidate_name": "PÁL ÉVA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:05:38.281716+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Egészpályás bevásárlás Felcsúton",
+      "url": "https://atlatszo.hu/kozpenz/2012/07/31/talpalatnyi-fold-vii-egesz-palyas-bevasarlas-felcsuton/",
+      "date": "perc",
+      "excerpt": "Felcsúti „Aranycsapat” Labdarúgó Stadion – ez a neve annak a több milliárd forintos, részben adókedvezményből megvalósuló stadionberuházásnak, amelyet  a miniszterelnök...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Talpalatnyi föld III.: Lévai Anikó tulajdonostársa nyerte a legtöbbet Felcsúton",
+      "url": "https://atlatszo.hu/kozpenz/2012/05/18/talpalatnyi-fold-iii-levai-tulajdonostarsa-nyerte-a-legtobbet/",
+      "date": "perc",
+      "excerpt": "Orbán Viktor feleségének földtulajdonostársa családtagjaival együtt 377 hektár földet nyert el a Nemzeti Földalap Kezelőpályázatán földbérletre. A bicskei szántót...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Állami szervezet kapta a legtöbb pénzt a Patrióták által kifogásolt unióspályázatokon",
+      "url": "https://atlatszo.hu/kozpenz/2025/08/12/allami-szervezet-kapta-a-legtobb-penzt-a-patriotak-altal-kifogasolt-unios-palyazatokon/",
+      "date": "perc",
+      "excerpt": "A Tempus Közalapítvány 291 millió eurót kapott az Erasmusra, Deutsch Tamás szerint viszont Brüsszel „egy szűk baloldali elit érdekeit képviselő” szervezeteket pénzel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Budapest capital, 09. no. constituency",
+  "search_name_used": "Pál Éva"
+}

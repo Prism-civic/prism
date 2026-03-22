@@ -1,0 +1,32 @@
+{
+  "kpn_id": 3736011,
+  "candidate_name": "F. KOVÁCS SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:04.096374+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Egy legendás bűnöző életrajza, amiben PintérSándorszinte szent",
+      "url": "https://atlatszo.hu/kult/2023/06/29/egy-legendas-bunozo-eletrajza-amiben-pinter-sandor-szinte-szent/",
+      "date": "perc",
+      "excerpt": "Dezső András könyve Portik Tamásról szól, de az akkor rendőrfőnökként dolgozó jelenlegi belügyminiszter is szerepel benne. Méghozzá pozitív hősként.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Az Integritás Hatósághozfordult a Sámándob tervezője: a karcagi újjáépítést milliárdos lopásnak tartja",
+      "url": "https://atlatszo.hu/orszagszerte/2023/06/29/az-integritas-hatosaghoz-fordult-a-samandob-tervezoje-a-karcagi-ujjaepitest-milliardos-lopasnak-tartja/",
+      "date": "perc",
+      "excerpt": "A pavilonfőtervezője, SárkánySándorbejelentése szerint az elkövetőkfelelősségre vonása politikai alapon elmaradt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Jász-Nagykun-Szolnok county, 03. no. constituency",
+  "search_name_used": "F. Kovács Sándor"
+}

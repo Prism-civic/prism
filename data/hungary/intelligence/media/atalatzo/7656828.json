@@ -1,0 +1,42 @@
+{
+  "kpn_id": 7656828,
+  "candidate_name": "KIRÁLY NÓRA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:34.255733+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Milliárdos állami támogatásból fejlesztheti sportlétesítményétKirályGábor Szombathelyen",
+      "url": "https://atlatszo.hu/2020/07/28/milliardos-allami-tamogatasbol-fejlesztheti-sportletesitmenyet-kiraly-gabor-szombathelyen/",
+      "date": "perc",
+      "excerpt": "Még tavaly ősszel derült ki, hogy a kormány a 2019-es költségvetésből 426 millió, míg az ideiből 4 milliárd 78 millió forintot...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Heti Mutyimondó: a norvégkirályés a lebukott nyugdíjas",
+      "url": "https://atlatszo.hu/mutyimondo/2014/05/12/heti-mutyimondo-a-norveg-kiraly-es-a-lebukott-nyugdijas/",
+      "date": "perc",
+      "excerpt": "A norvégkirálycsak hagyjon bennünket egyedül lopni, de ki csente el a tavalyi Orbán-esküvő egyik VIP-vendégének telefonját, vajon tényleg...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Lázár a norvégkirályellen",
+      "url": "https://atlatszo.hu/mutyimondo/2014/05/10/lazar-a-norveg-kiraly-ellen/",
+      "date": "perc",
+      "excerpt": "A norvégok csak ne adjanak ingyen pénzt! Avagy nem leszünk norvég gyarmat. Egy nap alatt bukott 40 milliárdot Magyarországnak Lázár...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 09. no. constituency",
+  "search_name_used": "Király Nóra"
+}

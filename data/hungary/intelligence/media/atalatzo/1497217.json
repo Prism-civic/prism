@@ -1,0 +1,42 @@
+{
+  "kpn_id": 1497217,
+  "candidate_name": "SZOLNOKI GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:59:30.049998+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Százával verték le a fecskefészkeket egyszolnokiönkormányzati beruházás helyszínén",
+      "url": "https://atlatszo.hu/2019/07/10/szazaval-vertek-le-a-fecskefeszkeket-egy-szolnoki-onkormanyzati-beruhazas-helyszinen/",
+      "date": "perc",
+      "excerpt": "Közpénzből újítottak fel közingatlant Szolnokon, a munkák legkevesebb 80, más számítások szerint 300 molnárfecske-család pusztulásával, de legalábbis elüldözésével jártak. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "StaudtGáborés az áfacsaló alezredesek – videóinterjú a koronatanúval",
+      "url": "https://atlatszo.hu/kozpenz/2018/12/21/staudt-gabor-es-az-afacsalo-alezredesek-videointerju-a-koronatanuval/",
+      "date": "perc",
+      "excerpt": "Több mint egy éve írtunk először arról a bűnszervezetről, amelyet rovott múltú nemesfémkereskedők és egykori rendőr főtisztek hoztak létre 2012 tájékán,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Négy turulszobrot rendelhet a HM a kormány kedvenc szobrászától 89,8 millióért",
+      "url": "https://atlatszo.hu/kozpenz/2025/02/24/negy-turulszobrot-rendelhet-a-hm-a-kormany-kedvenc-szobraszatol-898-millioert/",
+      "date": "perc",
+      "excerpt": "Az ezüstszínű, rozsdamentes acélból készülő, közel ötméteres alkotások különböző laktanyákba kerülnek majd. Csak SzőkeGáborMiklós cégét kérték fel ajánlattételre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+  "search_name_used": "Szolnoki Gábor"
+}

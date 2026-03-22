@@ -1,0 +1,72 @@
+{
+  "kpn_id": 2296528,
+  "candidate_name": "DÓSA FERENC",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:16:14.031069+00:00",
+  "item_count": 6,
+  "items": [
+    {
+      "title": "Az utazó pápa – interaktív térképre tettükFerencpápa magyarországi látogatását és a pápalátogatások hagyományát",
+      "url": "https://atlatszo.hu/adat/2023/04/28/az-utazo-papa-interaktiv-terkepre-tettuk-ferenc-papa-magyarorszagi-latogatasat-es-a-papalatogatasok-hagyomanyat/",
+      "date": "perc",
+      "excerpt": "Ez leszFerencpápa negyvenegyedik Olaszországon kívüli útja, és a második alkalom, hogy hazánkat látogatja meg.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Heti dezinfó – A nyugati médiacenzúrától az időutazó Soros-konferenciáig",
+      "url": "https://atlatszo.hu/vilagterkep/2021/08/27/heti-dezinfo-a-nyugati-mediacenzurajatol-az-idoutazo-soros-konferenciaig/",
+      "date": "perc",
+      "excerpt": "Az oroszbarát médiumok ezúttal is gondoskodtak arról, hogy ne maradjunk álhírek nélkül. Mostanában a fő témát Afganisztán és Ukrajna jelenti,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "KőszegFerenc: Miért nem küldöm vissza a legújabb nemzeti konzultáció kérdőívét?",
+      "url": "https://atlatszo.hu/kozugy/2020/07/22/koszeg-ferenc-miert-nem-kuldom-vissza-a-legujabb-nemzeti-konzultacio-kerdoivet/",
+      "date": "perc",
+      "excerpt": "Először is azért nem, mert meg se kaptam. Az idősebbik lányom meg a fiam, akik több mint tíz éve Amerikában...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "KőszegFerenc: Egy elkallódott és megkerült történelmi dokumentum",
+      "url": "https://atlatszo.hu/kozugy/2019/06/11/koszeg-ferenc-egy-elkallodott-es-megkerult-tortenelmi-dokumentum/",
+      "date": "perc",
+      "excerpt": "Pártunk és kormányunk másfél évig tartó ünnepség-sorozattal emlékezik meg a rendszerváltás (rendszerváltozás, rendszerváltoztatás) harmincadik évfordulójáról. Gondosan ügyel azonban arra, hogy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "KőszegFerenc: A beteg egészségügy",
+      "url": "https://atlatszo.hu/kozpenz/2017/02/07/koszeg-ferenc-a-beteg-egeszsegugy/",
+      "date": "perc",
+      "excerpt": "A magyar egészségügy nem ketté, hanem sok-sok darabra szakadt. Legalul ott van az a 15 százalék, akik egyáltalán nem...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Heti Mutyimondó: Ráhel cipellője,Ferencaranyköpése és a síkapuk",
+      "url": "https://atlatszo.hu/kozugy/2013/10/21/heti_mutyimondo_rahel_cipelloje_ferenc_aranykopese_es_a_sikapuk/",
+      "date": "perc",
+      "excerpt": "Ál-pártfinanszírozási vita Gyurcsány és a Fidesz között, a magyar startup modell alapja a jó házasság, a zuglói birodalom visszavág és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Somogy county, 02. no. constituency",
+  "search_name_used": "Dósa Ferenc"
+}

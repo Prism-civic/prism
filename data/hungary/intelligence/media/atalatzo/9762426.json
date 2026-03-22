@@ -1,0 +1,34 @@
+{
+  "kpn_id": 9762426,
+  "candidate_name": "KOVÁCS HUNOR KRISZTIÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:16.100723+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Az ország legfideszesebb települései: ahol a kormánypárt minden szavazatot bezsebelt 2022-ben",
+      "url": "https://atlatszo.hu/adat/2026/02/18/az-orszag-legfideszesebb-telepulesei-ahol-a-kormanypart-minden-szavazatot-bezsebelt-2022-ben/",
+      "date": "perc",
+      "excerpt": "A 2022-es országgyűlési választáson észak-magyarországi aprófalvakban nyert a legnagyobb arányban a Fidesz–KDNP, volt, ahol az összes szavazatot megszerezte.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Novák Katalin „ingyen” repült Brazíliába, Áder János pedig 125 ezerért Bulgáriába",
+      "url": "https://atlatszo.hu/kozpenz/2023/02/16/novak-katalin-ingyen-repult-braziliaba-ader-janos-pedig-125-ezerert-bulgariaba/",
+      "date": "perc",
+      "excerpt": "Nem csak Orbán Viktor és Szijjártó Péter, hanem a köztársasági elnök(ök) katonai repülős útjairól is irreális számokat közölt a honvédelmi tárca.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Jász-Nagykun-Szolnok county, 03. no. constituency",
+  "search_name_used": "Kovács Hunor Krisztián"
+}

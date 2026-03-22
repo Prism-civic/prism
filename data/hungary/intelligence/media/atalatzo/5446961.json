@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5446961,
+  "candidate_name": "KISS LÍVIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:33.961933+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "„A Biblia újra a palotában!” – Bolíviában jobboldali ultrák akarják „megbékíteni” az országot",
+      "url": "https://atlatszo.hu/vilagterkep/2019/11/21/a-biblia-ujra-a-palotaban-boliviaban-jobboldali-ultrak-akarjak-megbekiteni-az-orszagot/",
+      "date": "perc",
+      "excerpt": "Elsőként az USA és Donald Trump, majd fenntartásokkal Oroszország, és végül az Európai Unió is elismerte a múlt szerdán puccsszerű...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A vasi falvakban nem menő a pártlogó: fideszes és szoci helyi funkcik is függetlenként indulnak",
+      "url": "https://atlatszo.hu/2019/09/18/__trashed-30/",
+      "date": "perc",
+      "excerpt": "Ha a vasi kistelepülések főutcáin sétálsz, szinte sehol sem látod nyomát annak, hogy kevesebb mint egy hónap múlva, október 13-án...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ítélet a halálrepülők ügyében: Argentína példát mutat az egész világnak",
+      "url": "https://atlatszo.hu/vilagterkep/2017/12/07/itelet-a-halalrepulok-ugyeben-argentina-peldat-mutat-az-egesz-vilagnak/",
+      "date": "perc",
+      "excerpt": "Az argentin történelem legnagyobb szabású pere zárult le múlt szerdán. Összesen 789 bűntény elkövetésével gyanúsított, 54 vádlott ellen hoztak...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Veszprém county, 02. no. constituency",
+  "search_name_used": "Kiss Lívia"
+}

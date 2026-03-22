@@ -1,0 +1,45 @@
+{
+  "kpn_id": 695603,
+  "candidate_name": "DR. SALACZ LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:12.079634+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kiugrott ellenzékiek indulnak a választáson Pécsett, festett körmű férfival kampányol Tiba István fideszes politikus",
+      "url": "https://atlatszo.hu/orszagszerte/2022/02/13/kiugrott-ellenzekiek-indulnak-a-valasztason-pecsett-festett-kormu-ferfival-kampanyol-tiba-istvan-fideszes-politikus/",
+      "date": "perc",
+      "excerpt": "SzabadPécs.hu: Két kiugrott pécsi városházi ellenzéki is úgy gondolta, elindul az országgyűlési választáson Bognár Szilvia, a DK kérésére leváltott pécsi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Uniós pénzből fesztiváloznak a kampányban a kecskeméti fideszes képviselők",
+      "url": "https://atlatszo.hu/2019/09/18/unios-penzbol-fesztivaloznak-a-kampanyban-a-kecskemeti-fideszes-kepviselok/",
+      "date": "perc",
+      "excerpt": "Félmilliárd forintot nyert Kecskemét 3 éven át tartó közösségépítő, helyi identitást erősítő rendezvényekre. A őszi önkormányzati választások előtt számos városrészi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Aki elutasít egy vakcinát, elutasítja az életet” – orvosok, asszisztensek az oltási kampányról",
+      "url": "https://atlatszo.hu/kozpenz/2021/04/15/aki-elutasit-egy-vakcinat-elutasitja-az-eletet-orvosok-asszisztensek-az-oltasi-kampanyrol/",
+      "date": "perc",
+      "excerpt": "Rengeteg hír, álhír terjed a koronavírus elleni vakcinákkal kapcsolatban, ami egyre több embert bizonytalanít el és tart kétségek között. Pedig...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Bács-Kiskun county, 01. no. constituency",
+  "search_name_used": "Salacz László"
+}

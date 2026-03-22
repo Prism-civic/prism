@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4069325,
+  "candidate_name": "SZAJLAI JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:37.963675+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„A mi médiánk le fogja szarni, mit akar az Orbán”",
+      "url": "https://atlatszo.hu/mutyimondo/2015/02/09/a-mi-mediank-le-fogja-szarni-mit-akar-az-orban/",
+      "date": "perc",
+      "excerpt": "Ezekről ne maradj le! Feltárul a piszkos svájci banktitkok egy része. (444) Polt kinevezése óta kevesebb korrupciós ügy van. (Átlátszó)...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Borsod-Abaúj-Zemplén county, 07. no. constituency",
+  "search_name_used": "Szajlai János"
+}

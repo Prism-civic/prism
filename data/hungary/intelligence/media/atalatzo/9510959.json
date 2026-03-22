@@ -1,0 +1,42 @@
+{
+  "kpn_id": 9510959,
+  "candidate_name": "SZEGEDI JÁNOS ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:53:26.049741+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Fideszből súgnak aszegedikancellárnak",
+      "url": "https://atlatszo.hu/oktatas/2015/05/02/a-fideszbol-sugnak-a-szegedi-kancellarnak/",
+      "date": "perc",
+      "excerpt": "Mindössze három hónapja kezdte meg munkáját Devecz Miklós kancellár aSzegediTudományegyetemen, de egyre érdekesebb csapat bontakozik ki körülötte....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Heti Mutyimondó: lesz-e LázárJánosFácánkert?",
+      "url": "https://atlatszo.hu/kozugy/2014/01/13/heti_mutyimondo_lesz-e_lazar_janos_facankert/",
+      "date": "perc",
+      "excerpt": "Elkezdődött az új év, az első hét máris számos leget produkált: volt itt egy 913 fácán életét kioltó luxusvadászat, a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A 46 milliárdos kőbányai gigasportcsarnok építését is lefújta a kormány",
+      "url": "https://atlatszo.hu/kozpenz/2022/09/23/a-46-milliardos-kobanyai-gigasportcsarnok-epiteset-is-lefujta-a-kormany/",
+      "date": "perc",
+      "excerpt": "LázárJánoslistáját megírta: sok iskola és út építése mellett elmarad több szakrendelő felújítása, a gigacsarnok és sok más projekt kivitelezése is.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Jász-Nagykun-Szolnok county, 04. no. constituency",
+  "search_name_used": "Szegedi János Attila"
+}

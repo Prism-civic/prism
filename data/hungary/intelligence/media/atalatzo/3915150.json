@@ -1,0 +1,32 @@
+{
+  "kpn_id": 3915150,
+  "candidate_name": "ORBÁN ADRIEN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:52:10.335618+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Orbánnal nótázó, offshore-barát képviselőből fejlesztési miniszter: Seszták Miklós pályaképe",
+      "url": "https://atlatszo.hu/kozugy/2014/05/31/orbannal-notazo-offshore-barat-kepviselobol-fejlesztesi-miniszter-sesztak-miklos-palyaja/",
+      "date": "perc",
+      "excerpt": "Bár az az uniós pályázat, amelyben érintett, az Európai Unió csalás elleni hivatala szerint is korrupciógyanús, Seszták Miklós 2014-től fejlesztési...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A magyarországi arisztokrácia tündöklése és bukása",
+      "url": "https://atlatszo.hu/kult/2025/10/18/a-magyarorszagi-arisztokracia-tundoklese-es-bukasa/",
+      "date": "perc",
+      "excerpt": "Gyáni Gábor és SzilágyiAdrienn saccra közel 2 kilós kötete kifejezetten olvasmányos módon mutatja be a magyarországi főnemesek életét.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Győr-Moson-Sopron county, 02. no. constituency",
+  "search_name_used": "Orbán Adrien"
+}

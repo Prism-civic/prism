@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4185955,
+  "candidate_name": "NÉMETH BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:53.987690+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "238 oldal tömény önfényezés az atlétikai vb 75 millió forintos hatástanulmánya",
+      "url": "https://atlatszo.hu/kozadat/2024/11/19/238-oldal-tomeny-onfenyezes-az-atletikai-vb-75-millio-forintos-hatastanulmanya/",
+      "date": "perc",
+      "excerpt": "Schmidt Ádám kormánybiztos korábban \"szakszámításokat\" ígért arról, hogy mennyire érte meg a vb hazánknak, de a színes kiadványban kevés a konkrétum.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Rejtegetik a 315 milliárdos atlétikai vb 75 millióért készített hatástanulmányát",
+      "url": "https://atlatszo.hu/kozadat/2024/07/08/rejtegetik-a-315-milliardos-atletikai-vb-75-millioert-keszitett-hatastanulmanyat/",
+      "date": "perc",
+      "excerpt": "A szervezőcég 75 millió forintért rendelte meg a dokumentumot, de nem árulják el, hogy hol van, és mi áll benne.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Szabad Európa, a WMN, a HVG és a Telex munkatársai kapták idén a Szegénységről Méltósággal Sajtódíjat",
+      "url": "https://atlatszo.hu/kult/2024/06/04/a-szabad-europa-a-wmn-a-hvg-es-a-telex-munkatarsai-kaptak-iden-a-szegenysegrol-meltosaggal-sajtodijat/",
+      "date": "perc",
+      "excerpt": "Idén nyolcadik alkalommal osztották ki a Szegénységről Méltósággal Sajtódíjat, két fődíjat, és két különdíjat osztott ki a zsűri.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 13. no. constituency",
+  "search_name_used": "Németh Balázs"
+}

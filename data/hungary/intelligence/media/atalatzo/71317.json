@@ -1,0 +1,42 @@
+{
+  "kpn_id": 71317,
+  "candidate_name": "DR. HILLER ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:14.062277+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Füttykoncert fogadtaHillerIstvánt",
+      "url": "https://atlatszo.hu/oktatas/2014/06/07/futtykoncert_fogadta_hiller_istvant/",
+      "date": "perc",
+      "excerpt": "A 2007-es diákparlamenten füttykoncert fogadtaHillerIstvánakkori oktatási minisztert, miután egy váratlan húzással a szervezők elfojtották a diákok “rebellis”...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Milliárdos adóssághegy – MMKA-ügybenHillerIstvánfelelőssége is felmerült",
+      "url": "https://atlatszo.hu/kozpenz/2012/12/28/milliardos-adossaghegy-mmka-ugyben-hiller-istvan-felelossege-is-felmerult/",
+      "date": "perc",
+      "excerpt": "Több mint hatmilliárd forint jogsértő vagy pazarló felhasználása miatt nyomoz a rendőrség a márciusban megszüntetett Magyar Mozgókép Közalapítvány (MMKA) viselt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Hillera leghülyébb oktatáspolitikus?",
+      "url": "https://atlatszo.hu/oktatas/2013/07/26/hiller_a_leghulyebb_oktataspolitikus/",
+      "date": "perc",
+      "excerpt": "Az Átlátszó Oktatás előszeretettel fikázza a Fideszes oktatáspolitika vezetőit, Balog ,,BaZo” Zoltánt, Klinghammer ,,Klingon”Istvánt vagy akár Hoffmann ,,Umbridge” Rózsát....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Hiller István"
+}

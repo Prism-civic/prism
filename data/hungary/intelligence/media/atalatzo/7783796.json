@@ -1,0 +1,23 @@
+{
+  "kpn_id": 7783796,
+  "candidate_name": "BUCZKÓ RÉKA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:30.144429+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Aláírás-mátrix: rengeteg kamu ajánlást jelentettek, már 80 büntetőeljárás indult",
+      "url": "https://atlatszo.hu/kozugy/2026/03/20/alairas-matrix-rengeteg-kamu-ajanlast-jelentettek-mar-80-buntetoeljaras-indult/",
+      "date": "perc",
+      "excerpt": "Több mint húsz emberrel beszéltünk, akiknek olyan jelöltek ajánlóívein szerepel az aláírásuk, akikről még csak nem is hallottak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Veszprém county, 01. no. constituency",
+  "search_name_used": "Buczkó Réka"
+}

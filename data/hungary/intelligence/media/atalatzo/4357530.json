@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4357530,
+  "candidate_name": "MOLNÁR MÁRIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:06.017163+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "MolnárGyula havi 1,2 millió forintért ad tanácsokat az újbudai polgármesternek",
+      "url": "https://atlatszo.hu/kozpenz/2024/05/02/molnar-gyula-havi-12-millio-forintert-ad-tanacsokat-az-ujbudai-polgarmesternek/",
+      "date": "perc",
+      "excerpt": "Újbuda korábbi polgármesterét, az MSZP-ből a DK-ba átigazoltMolnárt két éve foglalkoztatja a DK-s László Imre által vezetett önkormányzat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Hajdú-Bihar county, 04. no. constituency",
+  "search_name_used": "Molnár Mária"
+}

@@ -1,0 +1,23 @@
+{
+  "kpn_id": 6882268,
+  "candidate_name": "DR. DANKA LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:47:49.941905+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„A nyugati közvélemény befolyásolása fontosabb Putyinnak, mint az ukránok meggyőzése”",
+      "url": "https://atlatszo.hu/vilagterkep/2025/07/29/a-nyugati-kozvelemeny-befolyasolasa-fontosabb-putyinnak-mint-az-ukranok-meggyozese/",
+      "date": "perc",
+      "excerpt": "„Az orosz dezinformációs csatornák blokkolása önmagában nem alakítja jelentősen a közvéleményt, de nem is ilyen keretekben gondolkodunk. Mivel háborúban állunk Oroszországgal, azokat a műveleteket célozzuk, amikre Oroszország erőforrásokat fordít\", mondta az Átlátszónak a Break the Fake ukrán civil ",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Vas county, 01. no. constituency",
+  "search_name_used": "Danka Lajos"
+}

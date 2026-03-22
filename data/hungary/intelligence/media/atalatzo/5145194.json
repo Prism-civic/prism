@@ -1,0 +1,32 @@
+{
+  "kpn_id": 5145194,
+  "candidate_name": "DR. SZABÓ ALEXANDRA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:30:40.099619+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A NER legnagyobb túlélői VII. – DobolyiAlexandra",
+      "url": "https://atlatszo.hu/kozugy/2016/09/02/a-ner-legnagyobb-tuleloi-vii-dobolyi-alexandra/",
+      "date": "perc",
+      "excerpt": "Gondoljunk bele: akárcsak három-négy évvel ezelőtt hogyan is zengett a közbeszéd főárama? Az egyik oldalról az elmúlt nyolc évet,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Lesz-e abszolút többsége a Fidesznek? Kiket söpör el a Tisza? – választási podcast",
+      "url": "https://atlatszo.hu/mutyimondo/2024/06/08/lesz-e-abszolut-tobbsege-a-fidesznek-kiket-sopor-el-a-tisza-valasztasi-podcast/",
+      "date": "perc",
+      "excerpt": "Kérdések és válaszok: László Róberttel, a Political Capital választási szakértőjével ésSzabóKrisztián adatújságíróval beszélgetett Hont András.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 14. no. constituency",
+  "search_name_used": "Szabó Alexandra"
+}

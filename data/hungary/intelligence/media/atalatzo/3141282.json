@@ -1,0 +1,62 @@
+{
+  "kpn_id": 3141282,
+  "candidate_name": "KLING OND",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:57:41.967397+00:00",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "18->49: MegszereztükKlinghammerék kibővült vitaanyagát",
+      "url": "https://atlatszo.hu/oktatas/2013/07/31/18-_49_megszereztuk_klinghammerek_kibovult_vitaanyagat/",
+      "date": "perc",
+      "excerpt": "Itt az egyetemek és más szervezetek kommentjeivel 18 oldalasról 49 oldalasra ápdételt anyag és elemzésünk. A régi és az uj dokumentum...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "ТоварищKlinghammer",
+      "url": "https://atlatszo.hu/oktatas/2013/06/30/_klinghammer/",
+      "date": "perc",
+      "excerpt": "Klinghammer államtitkár és elvtársai munkalapú, termelő, értékteremtő ökörségeit már több posztban tárgyalta blogunk. Most néhány infografikával és egy kúl videóval szeretnénk kedveskedni a nagyhatalmú...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Frissen doktorált értéktermelő CEU-sok köszöntikKlinghammert!",
+      "url": "https://atlatszo.hu/oktatas/2013/06/27/frissen_doktoralt_ertektermelo_ceu-sok_koszontik_klinghammert/",
+      "date": "perc",
+      "excerpt": "Három, a CEU-n frissen doktorált történész és Karl Hall professzor üdvözliKlinghammer államtitkár urat!  A Soros György által alapított CEU...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ki az aKlinghammer István?",
+      "url": "https://atlatszo.hu/2013/06/25/ki_az_a_klinghammer_istvan/",
+      "date": "perc",
+      "excerpt": "Blogunk értékalapú, MAGYAR blog, így igazán fontosnak találjuk, hogy mi is beszálljunk az új magyar értékvitába. A vitát magaKlinghammer...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Vélemény:Klinghammer államtitkár lehülyézte a kormányt",
+      "url": "https://atlatszo.hu/oktatas/2013/06/24/velemeny_klinghammer_allamtitkar_lehulyezte_a_kormanyt/",
+      "date": "perc",
+      "excerpt": "Úgy tűnik, az értékalapú kormánynak egyetlen értéktermelő tagja sincs, legfeljebb az embereket gyönyörködtetik, boldogságot adnak. Még szegény felsőoktatási államtitkár sem ér fel ehhez,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 07. no. constituency",
+  "search_name_used": "Kling Ond"
+}

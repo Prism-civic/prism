@@ -1,0 +1,23 @@
+{
+  "kpn_id": 6214858,
+  "candidate_name": "KÓKAI MÁTYÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:54.010484+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A NER legnagyobb túlélői VII. – Dobolyi Alexandra",
+      "url": "https://atlatszo.hu/kozugy/2016/09/02/a-ner-legnagyobb-tuleloi-vii-dobolyi-alexandra/",
+      "date": "perc",
+      "excerpt": "Gondoljunk bele: akárcsak három-négy évvel ezelőtt hogyan is zengett a közbeszéd főárama? Az egyik oldalról az elmúlt nyolc évet,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Zala county, 02. no. constituency",
+  "search_name_used": "Kókai Mátyás"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2053156,
+  "candidate_name": "SZALKAI IMRE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:07:46.005852+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kevés a kötszer és az orvos, nagy a leterheltség – ezek az új ügyeleti rendszer tapasztalatai",
+      "url": "https://atlatszo.hu/orszagszerte/2024/03/21/keves-a-kotszer-es-az-orvos-nagy-a-leterheltseg-ezek-az-uj-ugyeleti-rendszer-tapasztalatai/",
+      "date": "perc",
+      "excerpt": "A gyerekek nem kicsi felnőttek – vallják a gyerekorvosok, akik szerint nem jó, hogy Pest megyében csak három helyen van gyerekügyelet.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Önti a pénzt az állam a legatyásodott fecskendőgyáras cégbe, ahol a NAV nyomoz",
+      "url": "https://atlatszo.hu/orszagszerte/2023/06/07/onti-a-penzt-az-allam-a-legatyasodott-fecskendogyaras-cegbe-ahol-a-nav-nyomoz/",
+      "date": "perc",
+      "excerpt": "A cég pénzeszköze 2,6 milliárdról 71 millióra csökkent egy év alatt, hiába állnak az állami milliárdok a vállalkozásban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Szálka: kövek helyett 120 millióért fapalló lesz a tóparton, megvan a kivitelező",
+      "url": "https://atlatszo.hu/orszagszerte/2022/04/25/szalka-kovek-helyett-120-millioert-fapallo-lesz-a-toparton-megvan-a-kivitelezo/",
+      "date": "perc",
+      "excerpt": "Tavaly nyáron indítottak petíciót helyi civilek a strandon tervezett betonozás ellen, amiről a helyi polgármester állítja: szó sem volt arról,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Békés county, 02. no. constituency",
+  "search_name_used": "Szalkai Imre"
+}

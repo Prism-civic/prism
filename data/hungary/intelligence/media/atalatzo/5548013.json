@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5548013,
+  "candidate_name": "KOVÁTS GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:59:54.048986+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Autónként ötször annyi vizet használ majd a BYD-gyár, mint a kecskeméti Mercedes",
+      "url": "https://atlatszo.hu/orszagszerte/2025/04/23/autonkent-otszor-annyi-vizet-hasznal-majd-a-byd-gyar-mint-a-kecskemeti-mercedes/",
+      "date": "perc",
+      "excerpt": "A kínai gyártó szegedi üzemének évi 1,8 millió köbméter lesz a vízfelhasználása, a német cég autógyára viszont csak évi 207 ezer köbmétert fogyaszt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A tudomány autonómiájának visszaállítását követelik, és az egyetemi modellváltást bírálják az akadémiai szférában",
+      "url": "https://atlatszo.hu/oktatas/2025/05/20/a-tudomany-autonomiajanak-visszaallitasat-kovetelik-es-az-egyetemi-modellvaltast-biraljak-az-akademiai-szferaban/",
+      "date": "perc",
+      "excerpt": "Az Oktatói Hálózat, a Stádium 28 Kör és az Akadémiai Dolgozók fóruma közös konferencián követelte a tudomány autonómiájának visszaállítását.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A fogcsikorgató muszáj-összefogás kudarca Kaposváron: újabb ciklus Krakus ügynöknek",
+      "url": "https://atlatszo.hu/2019/10/29/a-fogcsikorgato-muszaj-osszefogas-kudarca-kaposvaron-ujabb-ciklus-krakus-ugynoknek/",
+      "date": "perc",
+      "excerpt": "A somogyi megyeszékhelyen senki sem várt ellenzéki áttörést, tán még maguk a jelölő pártok sem. Szita Károly immár rekord-közeli, több...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 07. no. constituency",
+  "search_name_used": "Kováts Gábor"
+}

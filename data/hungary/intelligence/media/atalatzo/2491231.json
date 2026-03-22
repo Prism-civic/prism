@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2491231,
+  "candidate_name": "LOSÓ ÉVA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:11:02.162308+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Németországban alig drágább a karácsonyi bevásárlás és ünnepi vásár, mint itthon – de majdnem négyszer több a fizetés",
+      "url": "https://atlatszo.hu/adat/2023/12/18/nemetorszagban-alig-dragabb-a-karacsonyi-bevasarlas-es-unnepi-vasar-mint-itthon-de-majdnem-negyszer-tobb-a-fizetes/",
+      "date": "perc",
+      "excerpt": "Végre utolértük a Nyugatot – legalábbis az árak tekintetében. Viszont a német átlagfizetés 3,6-szorosa a magyarnak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Bevándorló vagy? Tejelj, ahova mondjuk, és minden okés!",
+      "url": "https://atlatszo.hu/mutyimondo/2015/06/10/bevandorlo-vagy-tejelj-ahova-mondjuk-es-minden-okes/",
+      "date": "perc",
+      "excerpt": "Ezekről ne maradj le! Bevándorló vagy? Tejelj, ahova mondjuk, és minden okés! (Átlátszó) Az OLAF most egy klinikára csap le (NOL) Itt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kormányközeli közvélemény-kutatók szerint Márki-Zayék négy éve ilyenkor jobban álltak, mint a Tisza Párt most",
+      "url": "https://atlatszo.hu/adat/2026/03/16/kormanykozeli-kozvelemeny-kutatok-szerint-marki-zayek-negy-eve-ilyenkor-jobban-alltak-mint-a-tisza-part-most/",
+      "date": "perc",
+      "excerpt": "Ez nehezen hihető annak tükrében, hogy idén a rendszerváltás óta a legrövidebb lesz a szavazólap, miután a kis pártok nehezen boldogultak az elegendő aláírás összegyűjtésével.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Fejér county, 02. no. constituency",
+  "search_name_used": "Losó Éva"
+}

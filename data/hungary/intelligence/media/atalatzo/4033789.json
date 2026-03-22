@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4033789,
+  "candidate_name": "VASZKÓ IMRE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:52:33.954692+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Amerikában lehet diplomata a volt fideszes polgármester, egy kérdésre sem válaszolt a DK-s képviselő",
+      "url": "https://atlatszo.hu/2021/05/23/amerikaban-lehet-diplomata-a-volt-fideszes-polgarmester-egy-kerdesre-sem-valaszolt-a-dk-s-kepviselo/",
+      "date": "perc",
+      "excerpt": "Debreciner.hu: Diktatúrára jellemző a sajtó akadályozása a DK-s képviselő szerint, közben ő maga sem reagál a megkereséseinkreVaszkóImre(DK)...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Hajdú-Bihar county, 02. no. constituency",
+  "search_name_used": "Vaszkó Imre"
+}

@@ -1,0 +1,32 @@
+{
+  "kpn_id": 7436732,
+  "candidate_name": "TAKÁCS PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:29:04.102691+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Leváltották azt az ügyészségi vezetőt, aki nem tudta, hogy PoltPéterki akarja fogni a szelet a Jobbik vitorlájából",
+      "url": "https://atlatszo.hu/kozugy/2016/04/27/levaltottak-azt-az-ugyeszsegi-vezetot-aki-nem-tudta-hogy-polt-peter-ki-akarja-fogni-a-szelet-a-jobbik-vitorlajabol/",
+      "date": "perc",
+      "excerpt": "Nem tudhatta egy vezető pozícióban lévő ügyész, hogy a Jobbik mennyire idegesítheti főnökét, PoltPéterlegfőbb ügyészt a vácszentlászlói...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Nincs konkrét időpont a szentesi kórház műtőjének klimatizálására",
+      "url": "https://atlatszo.hu/kozadat/2025/10/01/nincs-konkret-idopont-a-szentesi-korhaz-mutojenek-klimatizalasara/",
+      "date": "perc",
+      "excerpt": "A Szegedi Tudományegyetem jogi képviselője közölte a bírósággal, hogy szerinteTakácsPéteregészségügyi államtitkár témában tett nyilatkozata nem bizonyíték.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Veszprém county, 04. no. constituency",
+  "search_name_used": "Takács Péter"
+}

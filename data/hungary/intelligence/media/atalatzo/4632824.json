@@ -1,0 +1,34 @@
+{
+  "kpn_id": 4632824,
+  "candidate_name": "BARTAL ANDRÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:40:40.118433+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A faddi Duna-holtág vízpótlására adakoztak, de a település másra költi a pénzt",
+      "url": "https://atlatszo.hu/orszagszerte/2024/03/04/a-faddi-duna-holtag-vizpotlasara-adakoztak-de-a-telepules-masra-kolti-a-penzt/",
+      "date": "perc",
+      "excerpt": "A vízutánpótláshoz kevésnek tartják az összegyűlt 4,6 millió forintot, ezért úgy döntöttek, inkább horgászhelyek kialakítására és faültetésre költik.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Schmidt Mária barátai és üzletfelei fűtik a milliárdokat égető közpénz-kohót Ózdon",
+      "url": "https://atlatszo.hu/kozugy/2016/11/26/schmidt-maria-baratai-es-uzletfelei-futik-a-milliardokat-egeto-kozpenz-kohot-ozdon/",
+      "date": "perc",
+      "excerpt": "3,7 milliárd forint unióspénz és közpénz ment el a Magyar Nemzeti Digitális Archívum ózdi projektjeinek beindítására. Az egyik projekt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Budapest capital, 13. no. constituency",
+  "search_name_used": "Bartal András"
+}

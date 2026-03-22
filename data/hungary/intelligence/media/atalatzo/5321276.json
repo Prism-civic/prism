@@ -1,0 +1,32 @@
+{
+  "kpn_id": 5321276,
+  "candidate_name": "JOZÓ TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:46:50.514762+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Miskolc ésTamási kiadta az OLAF-levelet, Cegléd, Kecskemét és Keszthely nem",
+      "url": "https://atlatszo.hu/kozpenz/2018/03/08/miskolc-es-tamasi-kiadta-az-olaf-levelet-cegled-kecskemet-es-keszthely-nem/",
+      "date": "perc",
+      "excerpt": "Adatigénylésünkre Miskolc ésTamási is kiadta az EU csalás elleni ügynökségétől Elios-ügyben kapott levelet a közvilágítási projektek vizsgálata során...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Portik a találkozóit úgy megtervezte, mint egy titkosszolgálati műveletet",
+      "url": "https://atlatszo.hu/kozugy/2024/03/01/portik-a-talalkozoit-ugy-megtervezte-mint-egy-titkosszolgalati-muveletet/",
+      "date": "perc",
+      "excerpt": "PortikTamásés az FBI együttműködésére vonatkozó állításokról kérdeztük rendőrségi forrásainkat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Somogy county, 03. no. constituency",
+  "search_name_used": "Jozó Tamás"
+}

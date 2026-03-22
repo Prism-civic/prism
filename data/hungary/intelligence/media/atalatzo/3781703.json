@@ -1,0 +1,52 @@
+{
+  "kpn_id": 3781703,
+  "candidate_name": "FEKETE BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:47:13.961608+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Az alezredes rémálma ésfeketecsomag az ostromlott Donbaszban",
+      "url": "https://atlatszo.hu/vilagterkep/2025/10/28/az-alezredes-remalma-es-fekete-csomag-az-ostromlott-donbaszban/",
+      "date": "perc",
+      "excerpt": "A tél közeledtével újra az energiaellátást vették célba az oroszok. A Donbaszban megnéztük, mi a helyzet a korábban biztonságosnak gondolt városokban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Mészáros Lőrinc erőműve feketére szennyezte a patakot, a kormány átverte az orvosokat",
+      "url": "https://atlatszo.hu/mutyimondo/2019/08/16/meszaros-lorinc-eromuve-feketere-szennyezte-a-patakot-a-kormany-atverte-az-orvosokat/",
+      "date": "perc",
+      "excerpt": "Napi.hu: A Mátrai Erőműből folyt a szennyezett víz a Tarnába Július végénfeketelett a Tarna és a Bene-patak vize, több...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Nyomozás Oszter Sándor mesterséges tava miatt, vádemelési javaslat Kovács KGBélakémkedési ügyében | Heti Mutyimondó",
+      "url": "https://atlatszo.hu/mutyimondo/2017/11/29/nyomozas-oszter-sandor-mesterseges-tava-miatt-vademelesi-javaslat-kovacs-kgbela-kemkedesi-ugyeben-heti-mutyimondo/",
+      "date": "perc",
+      "excerpt": "Az állami szervek titkolóznak, mi perelünk, ezúttal a Miniszterelnökséget. A vizes vb, amit nem is láttunk. A Junior Príma...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A Bárcenas-leak:Feketekasszából tápolta politikusait a pártpénztárnok",
+      "url": "https://atlatszo.hu/kozpenz/2013/02/11/barcenas-leak-feketekasszabol-tapolta-politikusait-a-partpenztarnok/",
+      "date": "perc",
+      "excerpt": "A korrupciókutatók álma válhat valóra Spanyolországban, amennyiben sikerül bizonyítani a január végén nyilvánosságra került ún. Bárcenas-lapokról, hogy valóban a kormányzó...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 03. no. constituency",
+  "search_name_used": "Fekete Béla"
+}

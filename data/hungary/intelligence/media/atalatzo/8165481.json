@@ -1,0 +1,42 @@
+{
+  "kpn_id": 8165481,
+  "candidate_name": "FÜLÖP ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T19:55:49.069292+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kormányközeli cégek építhetik újjá nettó 12,7 milliárdért az MCC révfülöpi táborát",
+      "url": "https://atlatszo.hu/kozpenz/2026/02/04/kormanykozeli-cegek-epithetik-ujja-netto-127-milliardert-az-mcc-revfulopi-taborat/",
+      "date": "perc",
+      "excerpt": "A Mathias Corvinus Collegium Alapítvány tenderét a Magyar Építők, a Pharos '95, a Fertődi Építő és a ZÁÉV nyerte mindössze 11 millió forint különbséggel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ötödáron vett tésztagyári részesedést Kaposvár országgyűlési képviselője, GelencsérAttila",
+      "url": "https://atlatszo.hu/kozpenz/2018/10/04/otodaron-vett-tesztagyari-reszesedest-kaposvar-orszaggyulesi-kepviseloje-gelencser-attila/",
+      "date": "perc",
+      "excerpt": "Nem lesz könnyű dolga a krónikásnak, akinek egyszer majd az Azori-szigeteki kaland hősének, a kaposvári Fidesz helyi erős emberének elmúlt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A pécsi sörbártól a kaposvári miniszteri biztosságig:FülöpPéter színházmenedzseri karrierje",
+      "url": "https://atlatszo.hu/2018/07/30/a-pecsi-sorbartol-a-kaposvari-miniszteri-biztossagig-fulop-peter-szinhazmenedzseri-karrierje/",
+      "date": "perc",
+      "excerpt": "A pécsi vendéglős felemelkedésének története igazi gyöngyszem, még a csodálatos NER-karrierek világában is. Miniszteri engedéllyel hosszabbítgatott, ideiglenes igazgatói megbízással megszerzett...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 04. no. constituency",
+  "search_name_used": "Fülöp Attila"
+}

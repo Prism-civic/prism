@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1289642,
+  "candidate_name": "BAKÓ NORBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:47:33.958281+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Megszüntetik az alvállalkozóival pereskedő, Orbán Áronnal hírbe hozott céget",
+      "url": "https://atlatszo.hu/kozpenz/2023/02/08/megszuntetik-az-alvallalkozoival-pereskedo-orban-aronnal-hirbe-hozott-ceget/",
+      "date": "perc",
+      "excerpt": "Az Octopus Invest Kft.-t Orbán Viktor miniszterelnök fivérével emlegették együtt azok a vállalkozók, akiket nem fizettek ki, ezért perelnek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Uniós pénzt is nyert a csincsilla-halálgyár, állatvédők tiltakoztak Komáromban",
+      "url": "https://atlatszo.hu/2019/08/09/unios-penzt-is-nyert-a-csincsilla-halalgyar-allatvedok-tiltakoztak-komaromban/",
+      "date": "perc",
+      "excerpt": "Féléves kisbaba és hetvenes budapesti aktivista is vonult azzal a kb. nyolcvan fős csoporttal, amely hangos kántálással a kertvárosban üzemelő...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Közbeszerzéslovagé lehet az esztergomi helyi tévé, amelynek a főszerkesztője Lomnicit instruálta",
+      "url": "https://atlatszo.hu/2019/01/16/kozbeszerzeslovage-lehet-az-esztergomi-helyi-teve-amelynek-a-foszerkesztoje-lomnicit-instrualta/",
+      "date": "perc",
+      "excerpt": "Új tulajdonos érkezik Esztergom helyi tévéjéhez – a csődbe ment Viadom építési vállalkozás alapítója, más cége révén egyéb állami megbízások...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Tolna county, 01. no. constituency",
+  "search_name_used": "Bakó Norbert"
+}

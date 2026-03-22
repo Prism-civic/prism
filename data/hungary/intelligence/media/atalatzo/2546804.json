@@ -1,0 +1,22 @@
+{
+  "kpn_id": 2546804,
+  "candidate_name": "DR. GŐDÉNY GYÖRGY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:34.036176+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Országosan 68 büntetőeljárás indult ajánlások hamisítása miatt, leggyakrabbanGődénypártjával volt probléma",
+      "url": "https://atlatszo.hu/kozugy/2022/07/20/orszagosan-68-buntetoeljaras-indult-ajanlasok-hamisitasa-miatt-leggyakrabban-godeny-partjaval-volt-problema/",
+      "date": "perc",
+      "excerpt": "Megkérdeztük az ORFK-t és a választókerületeket, hány büntetőeljárás van folyamatban választási ajánlások hamisítása miatt, és mely pártok érintettek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "NÉP",
+  "constituency": "Veszprém county, 02. no. constituency",
+  "search_name_used": "Gődény György"
+}

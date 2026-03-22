@@ -1,0 +1,34 @@
+{
+  "kpn_id": 7085304,
+  "candidate_name": "GUBA ENDRE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:17:14.019670+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Nemcsak 2006, a közelmúlt rendőri túlkapásainak nagy része is kivizsgálatlanul maradt",
+      "url": "https://atlatszo.hu/kozugy/2021/11/08/nemcsak-2006-a-kozelmult-rendori-tulkapasainak-nagy-resze-is-kivizsgalatlanul-maradt/",
+      "date": "perc",
+      "excerpt": "A 2006-os tömeges rendőri erőszakot követő eljárások nem hoztak mélyreható változást a rendőri erőszak előfordulásának gyakoriságát és következményeit illetően. Erre...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az Orbán-rendszer legfontosabb pillére – Polt Péter legfőbb ügyész pályaíve",
+      "url": "https://atlatszo.hu/kozpenz/2016/06/27/az-orban-rendszer-legfontosabb-pillere-polt-peter-legfobb-ugyesz-palyaive/",
+      "date": "perc",
+      "excerpt": "Áder kádere – nagyjából ebben egyezett segítőink emlékezete, amikor Polt Péter legfőbb ügyész portréjának megrajzolásához kértünk segítséget. A kaméleonok ügyességével...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "NÉP",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
+  "search_name_used": "Guba Endre"
+}

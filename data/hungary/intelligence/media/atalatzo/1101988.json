@@ -1,0 +1,23 @@
+{
+  "kpn_id": 1101988,
+  "candidate_name": "HOLLÓSY ANDRÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:56.077080+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Egyre többen szorulnak népkonyhára Komlón; leszavazta a fideszes többség a teljes átláthatóságot Kecskeméten",
+      "url": "https://atlatszo.hu/orszagszerte/2025/02/23/egyre-tobben-szorulnak-nepkonyhara-komlon-leszavazta-a-fideszes-tobbseg-a-teljes-atlathatosagot-kecskemeten/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 02. no. constituency",
+  "search_name_used": "Hollósy András"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 7110871,
+  "candidate_name": "DR. FARKAS LEVENTE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:24.087014+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "FarkasFlórián ügyében megszűnt a nyomozás, Tiborcz István könyvet írt",
+      "url": "https://atlatszo.hu/mutyimondo/2022/12/16/farkas-florian-ugyeben-megszunt-a-nyomozas-tiborcz-istvan-konyvet-irt/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Csongrád-Csanád county, 01. no. constituency",
+  "search_name_used": "Farkas Levente"
+}

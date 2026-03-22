@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8612713,
+  "candidate_name": "GAJDA ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:33:08.068534+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kiszivárgott az új Duna-hídhoz kapcsolódó hatástanulmány: akár kétezer fát is kivághatnak",
+      "url": "https://atlatszo.hu/kozpenz/2020/09/16/kiszivargott-az-uj-duna-hidhoz-kapcsolodo-hatastanulmany-akar-ketezer-fat-is-kivaghatnak/",
+      "date": "perc",
+      "excerpt": "Az új Duna-híd pesti levezető úthálózatának nyomvonaltervei a lakosság számára eddig ismeretlenek voltak, de most az Átlátszó birtokába került az erről szóló...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Lassan elkészül a bő kétszeresére drágult Bozsik Stadionnal a kormányközeli kivitelező",
+      "url": "https://atlatszo.hu/kozpenz/2020/04/14/lassan-elkeszul-a-bo-ketszeresere-dragult-bozsik-stadionnal-a-kormanykozeli-kivitelezo/",
+      "date": "perc",
+      "excerpt": "Javában épül Budapest legújabb sportlétesítménye, a Bozsik Stadion Kispesten, ami a Honvéd új otthona lesz. Nemrég látványos fázisba ért a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A helység kalapácsa: Budapesti kerületek helyi médiaköltései 2006 – 2012",
+      "url": "https://atlatszo.hu/kozpenz/2013/05/29/a-helyseg-kalapacsa-budapesti-keruletek-helyi-mediakoltesei-2006-2012/",
+      "date": "perc",
+      "excerpt": "A megyei jogú városok és a fővárosi kerületek sajtótermék-vásárlásai után annak jártunk utána, hogy mekkora összeget költenek ugyanezek az önkormányzatok a helyi, saját vagy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Csongrád-Csanád county, 02. no. constituency",
+  "search_name_used": "Gajda Attila"
+}

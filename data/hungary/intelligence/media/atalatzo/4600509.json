@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4600509,
+  "candidate_name": "KOVÁCS BALÁZS NORBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T19:55:53.198269+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Így segítette, bátorította és fedezte a Fidesz Matolcsyék arcátlan bankrablását",
+      "url": "https://atlatszo.hu/kozpenz/2025/03/27/igy-segitette-batoritotta-es-fedezte-a-fidesz-matolcsyek-arcatlan-bankrablasat/",
+      "date": "perc",
+      "excerpt": "8-10 éve még teljes erőből állították a kormánypárti képviselők, hogy a jegybanki alapítványokból nem tűnik el közpénz, és egyébként az már nem is közpénz.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Tokaji régió: közpénzmilliárdokból épülnek-szépülnek a luxusszállodák",
+      "url": "https://atlatszo.hu/orszagszerte/2021/12/06/tokaji-regio-kozpenzmilliardokbol-epulnek-szepulnek-a-luxusszallodak/",
+      "date": "perc",
+      "excerpt": "Kétrészes riportunkban a tokaji régiót vettük górcső alá, ahova évek óta ömlik a közpénz a kormányzati döntéseknek köszönhetően. A támogatásokból...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros Lőrinchez köthető biztonsági cég startolhat rá Tóth Csabáék megüresedett helyére",
+      "url": "https://atlatszo.hu/kozugy/2021/06/21/meszaros-lorinchez-kotheto-biztonsagi-ceg-startolhat-ra-toth-csabaek-meguresedett-helyere/",
+      "date": "perc",
+      "excerpt": "A Puskás Akadémiánál már keresik, hogy ki léphet az őrizetbe vett Tóth Csaba és teamje helyére. Egy Mészáros Lőrinchez köthető...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 05. no. constituency",
+  "search_name_used": "Kovács Balázs Norbert"
+}

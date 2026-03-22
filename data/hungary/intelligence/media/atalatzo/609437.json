@@ -1,0 +1,45 @@
+{
+  "kpn_id": 609437,
+  "candidate_name": "OVÁDI PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:28:48.097697+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Veszprémi vigaszág Mesterházynak? Egy csatatérkörzet esélyei",
+      "url": "https://atlatszo.hu/adat/2021/09/22/veszpremi-vigaszag-mesterhazynak-egy-csataterkorzet-eselyei/",
+      "date": "perc",
+      "excerpt": "2015-ben Navracsics Tibor egykori körzetét egy időközi választáson Kész Zoltán, független jelölt hódította el, országos reménykedést kiváltva ellenzéki körökben. Ehhez...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Két éve dőlt el, hogy katonai bázis épül Gyulafirátót mellé, csak a helyieknek nem szóltak",
+      "url": "https://atlatszo.hu/kozpenz/2021/07/09/ket-eve-dolt-el-hogy-katonai-bazis-epul-gyulafiratot-melle-csak-a-helyieknek-nem-szoltak/",
+      "date": "perc",
+      "excerpt": "Június 28-án lakossági fórumot tartottak a Gyulafirátót mellé épülő katonai bázis ügyében. Kiderült, hogy már évek óta folyik a tervezgetés,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Mintha háborúban lettünk volna” – amerikai invázió és NATO-bázisépítés Veszprém környékén",
+      "url": "https://atlatszo.hu/kozpenz/2021/06/09/mintha-haboruban-lettunk-volna-amerikai-invazio-es-nato-bazisepites-veszprem-kornyeken/",
+      "date": "perc",
+      "excerpt": "Hetekig tartó, éjszakába nyúló nemzetközi hadgyakorlatok zavarták meg május közepén a Veszprém környékiek nyugalmát. Az elcsigázott lakók attól tartanak, a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Veszprém county, 01. no. constituency",
+  "search_name_used": "Ovádi Péter"
+}

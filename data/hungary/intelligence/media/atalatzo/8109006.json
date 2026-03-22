@@ -1,0 +1,52 @@
+{
+  "kpn_id": 8109006,
+  "candidate_name": "BECSÓ ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:24.093567+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "BecsóZsoltillegális szállodája, és a 6 milliárdos lovas EB",
+      "url": "https://atlatszo.hu/mutyimondo/2019/12/13/becso-zsolt-illegalis-szallodaja-es-a-6-milliardos-lovas-eb/",
+      "date": "perc",
+      "excerpt": "24.hu: Belvárosi szállodája van a fideszesBecsóZsoltnak, de engedélye nincs hozzá Évek óta működhet feketén a Nagymező utca 66. szám...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Széles Gáborhoz ésBecsóékhoz is jutott turisztikai támogatás, a Századvégé lehet az MTA-intézetek pénze – Heti lapszemle",
+      "url": "https://atlatszo.hu/mutyimondo/2019/02/03/szeles-gaborhoz-es-becsoekhoz-is-jutott-turisztikai-tamogatas-a-szazadvege-lehet-az-mta-intezetek-penze-heti-lapszemle/",
+      "date": "perc",
+      "excerpt": "Napi: Fidesz-közelbe folyik a Magyar Turisztikai Ügynökség támogatása Nem csak Mészáros Lőrinc ötcsillagos szállodája kapott a Magyar Turisztikai Ügynökség (MTÜ) által indított,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Így épültBecsóék vendégháza Hollókőn – két éve drónvideót is készítettünk róla",
+      "url": "https://atlatszo.hu/kozugy/2018/03/29/igy-epult-becsoek-vendeghaza-hollokon-ket-eve-dronvideot-is-keszitettunk-rola/",
+      "date": "perc",
+      "excerpt": "2016-ban saját szemünkkel láttuk, és drónvideón mutattuk meg a fideszes országgyűlési képviselő és testvére vendégházát, amit EU-s támogatásból építettek, és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Az uniós milliárdokból felújított Hollókőn épül a fideszesBecsócsalád háza",
+      "url": "https://atlatszo.hu/kozpenz/2016/07/27/az-unios-milliardokbol-felujitott-hollokon-epul-a-fideszes-becso-csalad-haza/",
+      "date": "perc",
+      "excerpt": "A Fidesz Nógrád megyei erős emberéhez,BecsóZsolthoz több szállal is köthető családi ház épül Hollókőn. Az 1987 óta...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Nógrád county, 01. no. constituency",
+  "search_name_used": "Becsó Zsolt"
+}

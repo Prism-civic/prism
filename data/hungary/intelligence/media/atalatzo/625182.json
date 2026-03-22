@@ -1,0 +1,32 @@
+{
+  "kpn_id": 625182,
+  "candidate_name": "SZATMÁRI BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:10:14.002315+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Egyetemi diplomája sincs a zöldhatóság vezetőjének?",
+      "url": "https://atlatszo.hu/kozpenz/2013/06/03/egyetemi-diplomaja-sincs-a-zoldhatosag-vezetojenek/",
+      "date": "perc",
+      "excerpt": "Meghiúsult az OKTVF főigazgatójának parlamenti számonkérésére tett kísérlet: a kormányoldal összezárt Tolnai Jánosné dr.SzatmáriKatalin mögött. Pedig nem sikerült...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Áldoktor vezeti az országos zöldhatóságot",
+      "url": "https://atlatszo.hu/kozpenz/2013/03/28/aldoktor-vezeti-az-orszagos-zoldhatosagot/",
+      "date": "perc",
+      "excerpt": "Tolnai Jánosné dr.SzatmáriKatalin az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (OKTVF), avagy az országos zöldhatóság főigazgatója, az ország...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Csongrád-Csanád county, 03. no. constituency",
+  "search_name_used": "Szatmári Béla"
+}

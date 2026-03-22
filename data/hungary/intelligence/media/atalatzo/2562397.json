@@ -1,0 +1,22 @@
+{
+  "kpn_id": 2562397,
+  "candidate_name": "VASVÁRI PÉTER LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:54:09.963942+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A NER kedvenc producere tulaj lett a tatárjárásos filmben, amely júniusra kész lehet",
+      "url": "https://atlatszo.hu/kozpenz/2025/04/07/a-ner-kedvenc-producere-tulaj-lett-a-tatarjarasos-filmben-juniusra-kesz-lehet/",
+      "date": "perc",
+      "excerpt": "LajosTamás producer megjelent a Nyugat Kapujában Kft.-ben, épp aznap, amikor Kossuth-díjat kapott.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 03. no. constituency",
+  "search_name_used": "Vasvári Péter Lajos"
+}

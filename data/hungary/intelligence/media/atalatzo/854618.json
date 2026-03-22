@@ -1,0 +1,45 @@
+{
+  "kpn_id": 854618,
+  "candidate_name": "DUDÁS RÓBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:22.331816+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Ötszáz köbméter olaj szivárgott el egy MOL-vezetékből Gárdonynál, kerti kutakban bukkant fel",
+      "url": "https://atlatszo.hu/orszagszerte/2025/01/19/otszaz-kobmeter-olaj-szivargott-el-egy-mol-vezetekbol-gardonynal-kerti-kutakban-bukkant-fel/",
+      "date": "perc",
+      "excerpt": "Eltűnt 500 köbméter a MOL egyik üzemanyagvezetékéből, a hiányzó mennyiséget a Velencei-tó vízgyűjtő területén találták meg a földben.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nyílt és demokratikus küzdelem helyett halpiaci alku? Így szorult ki a civil jelöltek többsége az előválasztásról",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/02/nyilt-es-demokratikus-kuzdelem-helyett-halpiaci-alku-igy-szorult-ki-a-civil-jeloltek-tobbsege-az-elovalasztasrol/",
+      "date": "perc",
+      "excerpt": "2021. augusztus 15-én lezárult az ellenzéki előválasztás regisztrációs időszaka, eddig az időpontig tudták jelezni indulási szándékukat azok, akik szeretnék megmérettetni...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Előválasztás-figyelő – Mellár meglepetésszerűen megfutamodott, előkerült viszont egy új miniszterelnök-jelölt",
+      "url": "https://atlatszo.hu/adat/2021/08/20/elovalasztas-figyelo-nem-minden-elozetes-jelentkezo-adta-le-regisztraciojat-egy-hetedik-miniszterelnok-jeloltet-is-nyilvantartasba-vettek/",
+      "date": "perc",
+      "excerpt": "Augusztus 15-én, vasárnap véget ért az előválasztás regisztrációs időszaka. Az indulni vágyó képviselő- és miniszterelnök-jelölteknek három hetük volt indulásuk hivatalos...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Heves county, 02. no. constituency",
+  "search_name_used": "Dudás Róbert"
+}

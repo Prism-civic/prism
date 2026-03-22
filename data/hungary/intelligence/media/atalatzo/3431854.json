@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3431854,
+  "candidate_name": "HEGYESI BEÁTA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:48:53.978374+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Budakeszi Álomvölgy: Az ügyészség elrendelte a nyomozás folytatását természetkárosítás miatt",
+      "url": "https://atlatszo.hu/kozugy/2021/06/02/budakeszi-alomvolgy-az-ugyeszseg-elrendelte-a-nyomozas-folytatasat-termeszetkarositas-miatt/",
+      "date": "perc",
+      "excerpt": "„A nyomozó hatóság nem végzett el az elkövető felkutatása érdekében minden indokolt és szükséges nyomozati cselekményt” – így fogalmaz a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Felfüggesztette a rendőrség a természetkárosítás miatti nyomozást a budakeszi Álomvölgy-ügyben",
+      "url": "https://atlatszo.hu/kozugy/2021/04/29/felfuggesztette-a-rendorseg-a-termeszetkarositas-miatti-nyomozast-a-budakeszi-alomvolgy-ugyben/",
+      "date": "perc",
+      "excerpt": "A hatóságok tétlenül nézték, ezért a Natura 2000-es területet is érintő beruházást helyi lakók nyomására az önkormányzat próbálta megakadályozni. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Folytatódik az építkezés, természetkárosítás gyanúja miatt nyomoz a rendőrség a budakeszi Álomvölgyben",
+      "url": "https://atlatszo.hu/kozugy/2020/02/24/folytatodik-az-epitkezes-termeszetkarositas-gyanuja-miatt-nyomoz-a-rendorseg-a-budakeszi-alomvolgyben/",
+      "date": "perc",
+      "excerpt": "Természetkárosítás gyanúja miatt folyik nyomozás ismeretlen tettes ellen Budakeszi Álomvölgy néven ismert területe kapcsán – tájékoztatta az Átlátszót a Pest Megyei...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 04. no. constituency",
+  "search_name_used": "Hegyesi Beáta"
+}

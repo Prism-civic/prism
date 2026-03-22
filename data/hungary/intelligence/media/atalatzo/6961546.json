@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6961546,
+  "candidate_name": "KENÉZ ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:54:41.963498+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A betegeknek joguk van fájdalommentesen meghalni, ez mégsem biztosított mindenki számára",
+      "url": "https://atlatszo.hu/kozugy/2024/01/10/a-betegeknek-joguk-van-fajdalommentesen-meghalni-ez-megsem-biztositott-mindenki-szamara/",
+      "date": "perc",
+      "excerpt": "Meg lehet-e tisztességgel halni Magyarországon, vagy csak keveseknek adatik meg? Lovas András intenzíves orvos cikke.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hosszú évekre lenullázhatják a Balatont, eddigi formájában megszűnik a POSZT Pécsett",
+      "url": "https://atlatszo.hu/2021/03/07/videki-lapszemle/",
+      "date": "perc",
+      "excerpt": "Balatontipp.hu: Tudósok és civilek próbálják megvédeni a Balatont a Vízügy tervezett megaprojektjétől Az Országos Vízügyi Főigazgatóságnak a tó védelmében hirdetett...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Titkolja a kormánybarát TV2, hogy mennyi pénzt kapott az állami hirdetésekre",
+      "url": "https://atlatszo.hu/mutyimondo/2017/03/02/titkolja-a-kormanybarat-tv2-hogy-mennyi-penzt-kapott-az-allami-hirdetesekre/",
+      "date": "perc",
+      "excerpt": "Megint fákat vágnak ki Budapesten, ezúttal egy fürdőberuházás miatt; a saját rokonának osztott uniós pénzt a Mol elnök-vezérigazgatója; Rogán Antal...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 10. no. constituency",
+  "search_name_used": "Kenéz István"
+}

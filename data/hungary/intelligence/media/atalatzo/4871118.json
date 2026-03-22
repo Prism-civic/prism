@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4871118,
+  "candidate_name": "UJVÁRI SZILVIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:39:16.107662+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Az egészséges fehér babák itthon maradnak, a többi magyar gyerek egy része csak külföldön talál otthonra",
+      "url": "https://atlatszo.hu/adat/2024/07/01/az-egeszseges-feher-babak-itthon-maradnak-a-tobbi-magyar-gyerek-egy-resze-csak-kulfoldon-talal-otthonra/",
+      "date": "perc",
+      "excerpt": "Több ország vizsgálja a külföldi örökbefogadásokat szabálytalanságok miatt, hazánkból évente nagyjából 200 gyermek kerül más országba.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Veszprém county, 04. no. constituency",
+  "search_name_used": "Ujvári Szilvia"
+}

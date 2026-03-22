@@ -1,0 +1,42 @@
+{
+  "kpn_id": 8244069,
+  "candidate_name": "RADICS BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:22.266868+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Negyvenmillió készpénzben – csak a lényeg nem derül kiRadicsvagyonnyilatkozatából",
+      "url": "https://atlatszo.hu/kozpenz/2026/02/03/negyvenmillio-keszpenzben-csak-a-lenyeg-nem-derul-ki-radics-vagyonnyilatkozatabol/",
+      "date": "perc",
+      "excerpt": "RadicsBélavagyonnyilatkozata nemcsak egy fideszes fővárosi képviselő anyagi helyzetéről ad képet, hanem a jelenlegi vagyonnyilatkozati rendszer működéséről és értelmetlenségéről is.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Európa egyik legnagyobb adóparadicsoma oktatná takarékosságra a déli államokat",
+      "url": "https://atlatszo.hu/vilagterkep/2020/07/22/europa-egyik-legnagyobb-adoparadicsoma-oktatna-takarekossagra-a-deli-allamokat/",
+      "date": "perc",
+      "excerpt": "A kedd hajnalban elfogadott, közös adósságkibocsátásra alapuló európai újjáépítési projekt ellenzői, az úgynevezett „takarékos” államok, számos engedményt harcoltak ki az...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Osztrák turistaparadicsomban működtet szállodát a miskolci polgármester migránsozó tanácsadója",
+      "url": "https://atlatszo.hu/orszagszerte/2018/09/10/osztrak-turistaparadicsomban-mukodtet-szallodat-a-miskolci-polgarmester-migransozo-tanacsadoja/",
+      "date": "perc",
+      "excerpt": "Alpesi síparadicsomban, a Grimming hegységnél van szállodája Zárug Péter Farkas miskolci politológusnak, Kriza Ákos (Fidesz) polgármester tanácsadójának. Hogy övé a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 06. no. constituency",
+  "search_name_used": "Radics Béla"
+}

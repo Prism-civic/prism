@@ -1,0 +1,23 @@
+{
+  "kpn_id": 2218478,
+  "candidate_name": "FÖLDESI MIHÁLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:56.117308+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Diákok írtak nyílt levelet Hoffmann Rózsával tárgyaló társaiknak",
+      "url": "https://atlatszo.hu/oktatas/2014/02/24/diakok_irtak_nyilt_levelet_hoffmann_rozsanak/",
+      "date": "perc",
+      "excerpt": "Eddig körülbelül harminc diák írta alá azt a nyílt levelet, melyben a Hoffmann Rózsával szerdán egyeztető diákokhoz (és volt a diákokhoz)...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Békés county, 02. no. constituency",
+  "search_name_used": "Földesi Mihály"
+}

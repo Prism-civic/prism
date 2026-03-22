@@ -1,0 +1,22 @@
+{
+  "kpn_id": 3562265,
+  "candidate_name": "DR. SZIJJÁRTÓ GÁBOR",
+  "source": "https://telex.hu",
+  "scraped_at": "2026-03-21T21:38:11.311781+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "'Preposterous conspiracy theories' – Szijjártó reacts to Washington Post article on staged...",
+      "url": "https://telex.hu/english/2026/03/21/preposterous-conspiracy-theories-szijjarto-reacts-to-washington-post-article-on-staged-assassination-attempt",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Tolna county, 02. no. constituency",
+  "search_name_used": "Szijjártó Gábor"
+}

@@ -1,0 +1,23 @@
+{
+  "kpn_id": 9239835,
+  "candidate_name": "FENYVES DÁVID GYÖRGY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:05.961733+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Welsz Tamás, Kovács Gábor és egy rosszhírű lett bank is üzletelt a Lavecóval",
+      "url": "https://atlatszo.hu/kozpenz/2017/05/17/welsz-tamas-kovacs-gabor-es-egy-rosszhiru-lett-bank-is-uzletelt-a-lavecoval/",
+      "date": "perc",
+      "excerpt": "Tombor András, a „Habony hitelezőjeként” emlegetett üzletember nyakig merült az offshore-ba – nem csak most, de a jelek szerint...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Somogy county, 04. no. constituency",
+  "search_name_used": "Fenyves Dávid György"
+}

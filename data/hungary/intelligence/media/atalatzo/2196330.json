@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2196330,
+  "candidate_name": "RADNAI MÁRK",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:32.104788+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Akkugyár az Átlátszó ellen, szexvideó Magyar Péterről",
+      "url": "https://atlatszo.hu/mutyimondo/2026/02/13/akkugyar-az-atlatszo-ellen-szexvideo-magyar-peterrol/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Juszt László majdnem a Russia Today magyar arca lett",
+      "url": "https://atlatszo.hu/kozpenz/2017/09/26/juszt-laszlo-majdnem-a-russia-today-magyar-arca-lett/",
+      "date": "perc",
+      "excerpt": "A magyar adás ötlete Lovas István jobboldali újságírótól származik, mégis a balosként elkönyvelt Juszt László volt tévés riportert választotta...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": ",,A jövőt azok jelentik, akik ma  kiállnak az oktatás szabadságáért” – 101 diákolimpikon tiltakozik a kormány oktatáspolitikája ellen",
+      "url": "https://atlatszo.hu/oktatas/2016/02/22/a-jovot-azok-jelentik-akik-ma-kiallnak-az-oktatas-szabadsagaert-101-diakolimpikon-tiltakozik-a-kormany-oktataspolitikaja-ellen/",
+      "date": "perc",
+      "excerpt": "101 diákolimpikon utasítja el, hogy Balog Zoltán emberminiszter politikai célokra használja fel sikereiket. A diákolimpikonok az interneten tették közzé levelüket, melyben azt írják,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Komárom-Esztergom county, 02. no. constituency",
+  "search_name_used": "Radnai Márk"
+}

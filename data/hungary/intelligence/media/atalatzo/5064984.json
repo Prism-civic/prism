@@ -1,0 +1,42 @@
+{
+  "kpn_id": 5064984,
+  "candidate_name": "KISS ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:12:38.015107+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A NER Soros-ügynökei I. – HankissÁgnes",
+      "url": "https://atlatszo.hu/kozugy/2019/04/20/a-ner-soros-ugynokei-i-hankiss-agnes/",
+      "date": "perc",
+      "excerpt": "A NER legnagyobb túlélői után ismét sorozatot indítunk, a NER Soros-ügynökei címmel. Mert Soros György és az ő hálózata kőkeményen...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Állami területet igényelt SemjénZsoltvadászcimborája, 50 milliós, német rendszámos Merciben terpeszkedik Tiborcz István",
+      "url": "https://atlatszo.hu/mutyimondo/2019/04/06/allami-teruletet-igenyelt-semjen-zsolt-vadaszcimboraja-50-millios-nemet-rendszamos-merciben-terpeszkedik-tiborcz-istvan/",
+      "date": "perc",
+      "excerpt": "A Safari Club Egyesület nevében, de annak felhatalmazása nélkül igényelt vadászterületet az állami Gemenc Zrt.-től az egyesület elnöke, Halmágyi-Takács István,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "MolnárZsolt: Sokan azonos súlyúnak ítélik meg az orosz és az amerikai fenyegetést",
+      "url": "https://atlatszo.hu/kozugy/2017/05/01/molnar-zsolt-sokan-azonos-sulyunak-itelik-meg-az-orosz-es-az-amerikai-fenyegetest/",
+      "date": "perc",
+      "excerpt": "Hetente kerülnek napvilágra ügyek, amelyek azt mutatják, hogy a kormány önszántából nemhogy nem lép fel az orosz befolyásszerzéssel szemben,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Hajdú-Bihar county, 01. no. constituency",
+  "search_name_used": "Kiss Zsolt"
+}

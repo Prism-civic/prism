@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5431457,
+  "candidate_name": "BERKÓ ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:56.098060+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Győri fideszes képviselő édesanyjának cége szerezte meg a csokonyavisontai gyógyfürdőt",
+      "url": "https://atlatszo.hu/orszagszerte/2022/12/27/gyori-fideszes-kepviselo-edesanyja-szerezte-meg-a-csokonyavisontai-gyogyfurdot/",
+      "date": "perc",
+      "excerpt": "A képviselő rokona minden bizonnyal bízik a kapcsolataiban, a felújításhoz támogatásokat terveznek igénybe venni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A korábbi fideszes államtitkár szerint a kormány fiskális politikája is okozza az inflációt",
+      "url": "https://atlatszo.hu/kozugy/2022/05/19/a-korabbi-fideszes-allamtitkar-szerint-a-kormany-monetaris-politikaja-is-okozza-az-inflaciot/",
+      "date": "perc",
+      "excerpt": "Becsey Zsolt a forint leértékelődéséről és az infláció kapcsolatáról beszélt lapunknak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros Lőrinc keményítőgyára, Andrej Babis étolajos cége és a WHB is kapott kedvezményes COVID-hitelt az Eximbanktól",
+      "url": "https://atlatszo.hu/kozpenz/2021/04/20/meszaros-lorinc-kemenyitogyara-andrej-babis-etolajos-cege-es-a-whb-is-kapott-kedvezmenyes-covid-hitelt-az-eximbanktol/",
+      "date": "perc",
+      "excerpt": "A koronavírus okozta gazdasági károk enyhítésére az Európai Bizottság (EB) 2020 tavaszán rugalmas szabályokat vezetett be, hogy az uniós tagállamok...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Jász-Nagykun-Szolnok county, 01. no. constituency",
+  "search_name_used": "Berkó Attila"
+}

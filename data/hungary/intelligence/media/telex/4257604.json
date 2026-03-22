@@ -1,0 +1,32 @@
+{
+  "kpn_id": 4257604,
+  "candidate_name": "MAGYAR PÉTER",
+  "source": "https://telex.hu",
+  "scraped_at": "2026-03-21T21:29:14.336956+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Kikerült a videó Justin Timberlake letartóztatásáról, amin a rendőröknek magyarázza ittasan, ki is...",
+      "url": "https://telex.hu/after/2026/03/21/justin-timberlake-ittas-vezetes-letartoztatas-video",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Magyar Péter szerint Orbán háborús őrülete és a biztonságot, békét jelentő Tisza közül lehet...",
+      "url": "https://telex.hu/belfold/2026/03/21/magyar-peter-sopron-kampany-valasztas-tisza-part",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 03. no. constituency",
+  "search_name_used": "Magyar Péter"
+}

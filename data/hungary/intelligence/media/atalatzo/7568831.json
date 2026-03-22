@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7568831,
+  "candidate_name": "SZARKA SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:10.008268+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Miért a Hit Gyülekezete adta ki magyarul Udo Ulfkotte konteóit?",
+      "url": "https://atlatszo.hu/kult/2015/05/23/miert-a-hit-gyulekezete-adta-ki-magyarul-udo-ulfkotte-konteoit/",
+      "date": "perc",
+      "excerpt": "Nemrég jelent meg idehaza Udo Ulfkotte német újságíró botránykönyve. A szerző nem kevesebbet állít, minthogy a német média csöppet sem...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Voksturisták után kutatnak Abaújlakon bejelentésünk nyomán",
+      "url": "https://atlatszo.hu/kozpenz/2014/04/09/voksturistak-utan-kutatnak-abaujlakon-bejelentesunk-nyoman/",
+      "date": "perc",
+      "excerpt": "Nem voltak hiábavalók az atlatszo.hu erőfeszítései, Abaújlakon megkezdődött a fiktíven bejelentkezetett voksturisták ellenőrzése. A jegyzői vizsgálat érinti a Fidesz kommunikációs...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Már 191 tanár bojkottálja a portfóliót",
+      "url": "https://atlatszo.hu/oktatas/2014/02/26/mar_191_tanar_bojkottalja_a_portfoliot/",
+      "date": "perc",
+      "excerpt": "Elsőként az Átlátszó Oktatás számolt be a Hívatlanul csoporthoz kötődő kezdeményezésről, melynek keretében a közoktatásban dolgozó tanárok által elkészítendő portfólió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Tolna county, 03. no. constituency",
+  "search_name_used": "Szarka Sándor"
+}

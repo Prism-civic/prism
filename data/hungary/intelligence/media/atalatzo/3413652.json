@@ -1,0 +1,22 @@
+{
+  "kpn_id": 3413652,
+  "candidate_name": "DR. STUMPF PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:33:04.122400+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Gyűlnek a csontvázak PoltPéterszekrényében – így züllött az ügyészség a politika kiszolgálójává",
+      "url": "https://atlatszo.hu/kozpenz/2016/09/19/gyulnek-a-csontvazak-polt-peter-szekrenyeben-igy-zullott-az-ugyeszseg-a-politika-kiszolgalojava/",
+      "date": "perc",
+      "excerpt": "„Előző hivatali ciklusa idején már bőségesen bizonyította, hogy hivatalát nem pártatlan közszolgaként, hanem megbízója kiszolgálójaként tölti be.” Ezt hazánk...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Csongrád-Csanád county, 01. no. constituency",
+  "search_name_used": "Stumpf Péter"
+}

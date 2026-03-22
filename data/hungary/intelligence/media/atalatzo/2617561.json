@@ -1,0 +1,22 @@
+{
+  "kpn_id": 2617561,
+  "candidate_name": "FARKAS TÍMEA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:06.027840+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Hoppá! Lelepleztük a Kurucinfót és az álfüggetlen civileket.",
+      "url": "https://atlatszo.hu/mutyimondo/2015/05/16/hoppa-lelepleztuk-a-kurucinfot-es-az-alfuggetlen-civileket/",
+      "date": "perc",
+      "excerpt": "Heti Top 5 – Átlátszó: Nemzetközire nőtt a Quaestor-botrány Akik még a NER-t is túlélik:FarkasFlórián Dől a közpénz Garancsi természetjáróihoz Megvan a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "NÉP",
+  "constituency": "Budapest capital, 15. no. constituency",
+  "search_name_used": "Farkas Tímea"
+}

@@ -1,0 +1,42 @@
+{
+  "kpn_id": 537965,
+  "candidate_name": "GYARMATI MIHÁLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:55:34.073263+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "VargaMihályvolt szobatársának cége közel 10 milliárdért építhet termálfürdőt és szállodát",
+      "url": "https://atlatszo.hu/2021/05/06/varga-mihaly-volt-szobatarsanak-cege-kozel-10-milliardert-epithet-termalfurdot-es-szallodat/",
+      "date": "perc",
+      "excerpt": "A szállodában 72 szoba kap helyet, a hotel mellett épül egy termálfürdő beltéri és kültéri medencékkel, balneológiai (gyógyfürdő kúra) és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "100 dolog, amit rosszul tudsz a balassagyarmatitúszdrámáról",
+      "url": "https://atlatszo.hu/kult/2015/09/14/100-dolog-amit-rosszul-tudsz-a-balassagyarmati-tuszdramarol/",
+      "date": "perc",
+      "excerpt": "Látta a Túsztörténetet? Olvasta Végh Antal Könyörtelenül című regényét? Esetleg a Kék fény sztárja, Szabó László riportjaiból tájékozódott először a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Polgármestereket fenyeget a Fidesz-iroda: fizessenek elő a Magyar Időkre",
+      "url": "https://atlatszo.hu/kozugy/2017/04/06/polgarmestereket-fenyeget-a-fidesz-iroda-fizessenek-elo-a-magyar-idokre/",
+      "date": "perc",
+      "excerpt": "Több mint 20 Nógrád megyei település polgármestere kapott nemrég levelet a balassagyarmatiFidesz-irodától. A párt megyei képviselője sarkos stílusban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
+  "search_name_used": "Gyarmati Mihály"
+}

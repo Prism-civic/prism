@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1715034,
+  "candidate_name": "DR. FERENCZI GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:33:20.109220+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Lázár és a temzei jacht körút",
+      "url": "https://atlatszo.hu/mutyimondo/2014/06/11/lazar-es-a-temzei-jacht-korut/",
+      "date": "perc",
+      "excerpt": "Hiába volt a tiltakozás a jobb- és baloldali médiában is a múlt héten a tervezett reklámadó miatt, ami számos hazai...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Törvénytelenül köthetett szerződést hatvan évre a gárdonyi önkormányzat egy veszteséges céggel",
+      "url": "https://atlatszo.hu/2021/01/20/torvenytelenul-kothetett-szerzodest-hatvan-evre-a-gardonyi-onkormanyzat-egy-veszteseges-ceggel/",
+      "date": "perc",
+      "excerpt": "Nem túl stabil hátterű céggel kötött hatvan évre bérleti szerződést a gárdonyi önkormányzat egy part menti beruházáshoz. A végrehajtásokkal megterhelt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A vidéki média rajongott Tiborcz cégéért – az Elios-sztori közel tíz év sajtóhíreiben",
+      "url": "https://atlatszo.hu/kozpenz/2018/02/16/a-videki-media-rajongott-tiborcz-cegeert-az-elios-sztori-kozel-tiz-ev-sajtohireiben/",
+      "date": "perc",
+      "excerpt": "2011-2012-ben fedezte fel a média az akkor már évek óta működő Eliost, amit a 2013-as Orbán-Tiborcz lagziig legtöbbször Simicska-cégként...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Csongrád-Csanád county, 04. no. constituency",
+  "search_name_used": "Ferenczi Gábor"
+}

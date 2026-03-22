@@ -1,0 +1,22 @@
+{
+  "kpn_id": 2104047,
+  "candidate_name": "MENCZER TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:40.089319+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A Harcosok Klubjában nyomul a nyugdíjasok pénzére utazó üzletlánc volt fejese",
+      "url": "https://atlatszo.hu/kozugy/2025/06/04/a-harcosok-klubjaban-nyomul-a-nyugdijasok-penzere-utazo-uzletlanc-volt-fejese/",
+      "date": "perc",
+      "excerpt": "Ökrösi Levente régóta a Fidesz közelében mozgolódik, legutóbb a kormánypárti kommentkommandó nyitóeseményénMenczerTamással fotózkodott mosolyogva.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 03. no. constituency",
+  "search_name_used": "Menczer Tamás"
+}

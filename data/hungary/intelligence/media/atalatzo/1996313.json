@@ -1,0 +1,23 @@
+{
+  "kpn_id": 1996313,
+  "candidate_name": "TONZOR PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:52:42.059970+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A helyiek tiltakozása ellenére, természetvédelmi területen húztak fel egy kerítést a dunakeszi lovastelep szélén",
+      "url": "https://atlatszo.hu/2021/10/08/a-helyiek-tiltakozasa-ellenere-termeszetvedelmi-teruleten-huztak-fel-egy-keritest-a-dunakeszi-lovastelep-szelen/",
+      "date": "perc",
+      "excerpt": "Sebtiben húzott fel egy szögesdrót kerítést a Kincsem Nemzeti Kft. a dunakeszi-alagi tréningpályán, elzárva így a helyieket a lovastelep szabad...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Hajdú-Bihar county, 04. no. constituency",
+  "search_name_used": "Tonzor Péter"
+}

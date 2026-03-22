@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4449662,
+  "candidate_name": "BÜRGER ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:57:21.968295+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Bejártuk a vadászati kiállítást: bizarr szobrok, kevés látogató, KovácsZoltána vizsláival",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/29/bejartuk-a-vadaszati-kiallitast-bizarr-szobrok-keves-latogato-kovacs-zoltan-a-vizslaival/",
+      "date": "perc",
+      "excerpt": "Megnéztük az 55 milliárd forintból megújult budapesti Hungexpót, ami a 17 milliárdos vadászati kiállításnak nyújt otthont három héten keresztül. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 03. no. constituency",
+  "search_name_used": "Bürger Zoltán"
+}

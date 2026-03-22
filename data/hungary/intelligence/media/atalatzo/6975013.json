@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6975013,
+  "candidate_name": "MIHÁLFFY BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:28.120653+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Csak az nem jön át, aki nem akar – a határkerítésbe vágott kapukon ki-be járnak az embercsempészek Ásotthalomnál",
+      "url": "https://atlatszo.hu/orszagszerte/2023/11/07/csak-az-nem-jon-at-aki-nem-akar-a-hatarkeritesbe-vagott-kapukon-ki-be-jarnak-az-embercsempeszek-asotthalomnal/",
+      "date": "perc",
+      "excerpt": "Csoportokban vonuló határsértők, egyre erőszakosabb embercsempészek – erre panaszkodtak stábunknak az ásotthalmiak. Több napig forgattunk a térségben, így találkoztunk egy sétáltató embercsempésszel, valamint figyeltük éjszakán át a határt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Közvélemény-kutatással hangolnak a választásra; építhetik tovább az akkugyárat",
+      "url": "https://atlatszo.hu/orszagszerte/2023/07/30/kozvelemeny-kutatassal-hangolnak-a-valasztasra-epithetik-tovabb-az-akkugyarat/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A szegényeknek vett uniós csomagban a 159 forintos tej 516 forintba került",
+      "url": "https://atlatszo.hu/kozadat/2023/05/19/a-szegenyeknek-vett-unios-csomagban-a-159-forintos-tej-516-forintba-kerult/",
+      "date": "perc",
+      "excerpt": "Megkaptuk a Szociális és Gyermekvédelmi Főigazgatóságtól, hogy mit tartalmaztak 2017-ben a szegények élelmiszercsomagjai. Döbbenetes, 2023-as árakat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Csongrád-Csanád county, 02. no. constituency",
+  "search_name_used": "Mihálffy Béla"
+}

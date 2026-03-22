@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1207999,
+  "candidate_name": "RÁKI ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:32:12.113771+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Egy bátor brit hírszerző, aki megpróbálta megakadályozni az iraki háborút",
+      "url": "https://atlatszo.hu/kult/2021/01/31/egy-bator-brit-hirszerzo-aki-megprobalta-megakadalyozni-az-iraki-haborut/",
+      "date": "perc",
+      "excerpt": "Katharine Gun brit hírszerző 2003-ban kiszivárogtatott a sajtónak egy törvénytelen akcióról szóló titkos iratot, hogy ezzel megakadályozza az iraki háborút....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A kegyelmi botrány és következményei a gyermekvédelemben – interjú Kothencz Jánossal",
+      "url": "https://atlatszo.hu/kozugy/2025/10/16/a-kegyelmi-botrany-es-kovetkezmenyei-a-gyermekvedelemben-interju-kothencz-janossal/",
+      "date": "perc",
+      "excerpt": "Ez a beszélgetés nemcsak a kegyelmi botrányról szól – hanem arról is, milyen nehéz ma gyereket védeni Magyarországon.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hosszú harcra készülnek a Rio Tinto lítiumbányája ellen a szerbiai faluban",
+      "url": "https://atlatszo.hu/vilagterkep/2024/09/27/hosszu-harcra-keszulnek-a-rio-tinto-litiumbanyaja-ellen-a-szerbiai-faluban/",
+      "date": "perc",
+      "excerpt": "Ismét a lítium lehet a szerbiai konfliktusok egyik témája: az alkotmánybíróság döntése után nincs akadálya, hogy elkezdődjön a bányászata.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Békés county, 03. no. constituency",
+  "search_name_used": "Ráki Zsolt"
+}

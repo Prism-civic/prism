@@ -1,0 +1,42 @@
+{
+  "kpn_id": 2169411,
+  "candidate_name": "GERGELY RÓBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:50:35.177545+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Böszörményi-NagyGergelycége havi 536 ezer forintért ad tanácsokat a Miniszterelnökségnek",
+      "url": "https://atlatszo.hu/kozugy/2018/09/13/boszormenyi-nagy-gergely-cege-havi-536-ezer-forintert-ad-tanacsokat-a-miniszterelnoksegnek/",
+      "date": "perc",
+      "excerpt": "A Design Terminal vezetője a többségi tulajdonosa a CreaCity Kft.-nek, ami jövő május végéig „kormányzati stratégia kidolgozását támogató szakmai tanácsadást...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "RépássyRóbertaz Andrássy út 70. adásvételénél is jogászkodott az államnak",
+      "url": "https://atlatszo.hu/kozpenz/2018/08/30/repassy-robert-az-andrassy-ut-70-adasvetelenel-is-jogaszkodott-az-allamnak/",
+      "date": "perc",
+      "excerpt": "Az ingatlanra az állam egy tavaly decemberi kormányrendelettel szerzett elővásárlási jogot, és idén júliusban egy kormányhatározattal 4 milliárd forintot különített...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "RépássyRóberthárommillió forintért jogászkodott a volt Malév-székház adásvételénél",
+      "url": "https://atlatszo.hu/kozpenz/2018/08/03/repassy-robert-harommillio-forintert-jogaszkodott-a-volt-malev-szekhaz-adasvetelenel/",
+      "date": "perc",
+      "excerpt": "A Lánchíd közelében fekvő épületre tavaly decemberben szerzett az állam elővásárlási jogot, és idén meg is vásárolta. A vételár körülbelül...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Békés county, 02. no. constituency",
+  "search_name_used": "Gergely Róbert"
+}

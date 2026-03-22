@@ -1,0 +1,32 @@
+{
+  "kpn_id": 286984,
+  "candidate_name": "DR. NÉMETH CSILLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:32:36.081450+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Állami támogatásból épít 4csillagos, 4 milliárdos szállodát a Rákóczi Szövetség",
+      "url": "https://atlatszo.hu/orszagszerte/2024/07/02/allami-tamogatasbol-epit-4-csillagos-4-milliardos-szallodat-a-rakoczi-szovetseg/",
+      "date": "perc",
+      "excerpt": "Az alapkövét már le is tették június 4-én, amikor felavatták a szintén 4 milliárd forintból elkészült függőhidat a Rákóczi Szövetség tábora közelében.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Hamarosan szabadulhat Magda Marinko a szegediCsillagból – több, mint két évtizedet ült négy gyilkosságért",
+      "url": "https://atlatszo.hu/2018/07/02/hamarosan-szabadulhat-magda-marinko-a-szegedi-csillagbol/",
+      "date": "perc",
+      "excerpt": "Pár hónap múlva feltételesen szabadulhat a magyar kriminalisztika egyik legvéresebb kezű gyilkosa, a szerb Magda Marinko. Fel nem lélegezhet, Szerbiában...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Borsod-Abaúj-Zemplén county, 03. no. constituency",
+  "search_name_used": "Németh Csilla"
+}

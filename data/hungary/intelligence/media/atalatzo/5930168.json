@@ -1,0 +1,52 @@
+{
+  "kpn_id": 5930168,
+  "candidate_name": "GALÓ CSABA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:07:42.269279+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Az orosz-ukrán háború miatt drágult 1,2 milliárddal a piliscsabai könyvtár-raktár",
+      "url": "https://atlatszo.hu/orszagszerte/2024/08/29/az-orosz-ukran-haboru-miatt-dragult-12-milliarddal-a-piliscsabai-konyvtar-raktar/",
+      "date": "perc",
+      "excerpt": "A kivitelező két erősen NER-közeli cég volt, az épület 2 héttel a júliusi átadása után drágult meg majdnem 19 milliárdra „a háborús konfliktus miatt”.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A 160 milliárdért cammogó vonatokról beszélt SegesváriCsabaa Klubrádióban",
+      "url": "https://atlatszo.hu/impakt/2023/06/07/a-160-milliardert-cammogo-vonatokrol-beszelt-segesvari-csaba-a-klubradioban/",
+      "date": "perc",
+      "excerpt": "A beszélgetés itt visszahallgatható.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Feleannyi az utas a felújított békéscsabai vasútvonalon, mint 2017-ben",
+      "url": "https://atlatszo.hu/orszagszerte/2021/11/10/feleannyi-az-utas-a-felujitott-bekescsabai-vasutvonalon-mint-2017-ben/",
+      "date": "perc",
+      "excerpt": "Három évig építkeztek a tram-train kapcsán a Szeged-Békéscsabavasútvonalon, a Hódmezővásárhelyig tartó szakaszra 30 milliárdot költöttek. A MÁV adatai alapján...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Mészáros Lőrinchez köthető biztonsági cég startolhat rá Tóth Csabáék megüresedett helyére",
+      "url": "https://atlatszo.hu/kozugy/2021/06/21/meszaros-lorinchez-kotheto-biztonsagi-ceg-startolhat-ra-toth-csabaek-meguresedett-helyere/",
+      "date": "perc",
+      "excerpt": "A Puskás Akadémiánál már keresik, hogy ki léphet az őrizetbe vett TóthCsabaés teamje helyére. Egy Mészáros Lőrinchez köthető...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Békés county, 02. no. constituency",
+  "search_name_used": "Galó Csaba"
+}

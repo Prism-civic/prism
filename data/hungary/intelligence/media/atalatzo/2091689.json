@@ -1,0 +1,34 @@
+{
+  "kpn_id": 2091689,
+  "candidate_name": "SZABÓNÉ PAPP KLÁRA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:58.562620+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Köpés, ütés, menesztés – valódi csataterek Pest megyében",
+      "url": "https://atlatszo.hu/adat/2022/03/24/kopes-utes-menesztes-valodi-csataterek-pest-megyeben/",
+      "date": "perc",
+      "excerpt": "Budapesten nem sok babér teremhet a kormánypártoknak, legalábbis ezzel számol az elemzők többsége, egy-két helytől eltekintve. A számok alapján hasonló...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Már 191 tanár bojkottálja a portfóliót",
+      "url": "https://atlatszo.hu/oktatas/2014/02/26/mar_191_tanar_bojkottalja_a_portfoliot/",
+      "date": "perc",
+      "excerpt": "Elsőként az Átlátszó Oktatás számolt be a Hívatlanul csoporthoz kötődő kezdeményezésről, melynek keretében a közoktatásban dolgozó tanárok által elkészítendő portfólió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 08. no. constituency",
+  "search_name_used": "Szabóné Papp Klára"
+}

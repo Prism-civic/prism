@@ -1,0 +1,34 @@
+{
+  "kpn_id": 1182962,
+  "candidate_name": "DR. BORVENDÉG ZSUZSANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:33.923936+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Az ellopott kolbásztól az ügynökösködésig: Csurka István újratöltve",
+      "url": "https://atlatszo.hu/kult/2023/10/21/az-ellopott-kolbasztol-az-ugynokoskodesig-csurka-istvan-ujratoltve/",
+      "date": "perc",
+      "excerpt": "Csurka István tanulmányainak magyarázatai egy elfogult kötetben, amelyben a MIÉP-alapító antiszemtizmusát is igyekeznek mentegetni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kurzus-Coelho a gazdasági hírszerzésről az ízlésesnél jóval több zsidózással – Rényi Gábor tagadja az ügynökvádat",
+      "url": "https://atlatszo.hu/kult/2018/07/13/kurzus-coelho-a-gazdasagi-hirszerzesrol-az-izlesesnel-joval-tobb-zsidozassal-renyi-gabor-tagadja-az-ugynokvadat/",
+      "date": "perc",
+      "excerpt": "A kommunista rezsim titkosszolgálatai féltékenykedtek egymásra. Fedőcégeket is futtattak, de a cégvezetők lenyúlták a haszon egy részét. Mindebből a Háttérhalom...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 03. no. constituency",
+  "search_name_used": "Borvendég Zsuzsanna"
+}

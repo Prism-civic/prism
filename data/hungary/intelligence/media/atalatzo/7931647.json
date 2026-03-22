@@ -1,0 +1,22 @@
+{
+  "kpn_id": 7931647,
+  "candidate_name": "TOROCZKAI LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:45.971248+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A Twitterre terelné a magyarokatToroczkai, Kecskemét polgármesterének nincs véleménye a diáktüntetésekről",
+      "url": "https://atlatszo.hu/orszagszerte/2022/10/30/a-twitterre-terelne-a-magyarokat-toroczkai-kecskemet-polgarmesterenek-nincs-velemenye-a-diaktuntetesekrol/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Csongrád-Csanád county, 02. no. constituency",
+  "search_name_used": "Toroczkai László"
+}

@@ -1,0 +1,42 @@
+{
+  "kpn_id": 2276813,
+  "candidate_name": "KERTÉSZ ÉVA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:51:49.973447+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A biológus, aki otthagyta az MTA-t és gerillakertészlett vidéken",
+      "url": "https://atlatszo.hu/2019/01/11/a-biologus-aki-otthagyta-az-mta-t-es-gerillakertesz-lett-videken/",
+      "date": "perc",
+      "excerpt": "Szemébe nézett egy pajzstetű és megváltozott az élete. Tudományos munkáját hagyta ott, hogy inkább a kiskertjét gondozza Kecskeméten. Metszőollóval vágja...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Most már hivatalos:KertészBalázs Rogán Antal sötét oldala",
+      "url": "https://atlatszo.hu/mutyimondo/2017/01/23/most-mar-hivatalos-kertesz-balazs-rogan-antal-sotet-oldala/",
+      "date": "perc",
+      "excerpt": "Felborult az oligarcha-egyensúly a jobboldalon; bekeményít a jegybank a vergődő tőzsdén; milliárdokat a mentésirányításra, mégsem ér ki a mentő; Rogán...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Régi ismerősünkKertészBalázs, a propagandaminiszter tegnap kiszerkesztett fantomja",
+      "url": "https://atlatszo.hu/kozugy/2016/11/12/regi-ismerosunk-a-propagandaminiszter-tegnap-kiszerkesztett-fantomja-kertesz-balazs/",
+      "date": "perc",
+      "excerpt": "Nincsenek jó napjai sem propagandaminiszterünknek, Rogán Antalnak, sem a jobb kezének és pénzügyi bizalmasának mondott, ám a nyilvánosság elől...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Fejér county, 03. no. constituency",
+  "search_name_used": "Kertész Éva"
+}

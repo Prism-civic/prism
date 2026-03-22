@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4534118,
+  "candidate_name": "ENDRE BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:32.121054+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Utolértük Egres Bélát, aki ezúttal is tagadja, hogy ő állna a jól sikerült médiahekk mögött",
+      "url": "https://atlatszo.hu/kozugy/2019/09/05/utolertuk-egres-belat-aki-ezuttal-is-tagadja-hogy-o-allna-a-jol-sikerult-mediahekk-mogott/",
+      "date": "perc",
+      "excerpt": "EgresBélatagadja, hogy ő állna a Miniszterelnökséget is megvezető médiahekk mögött, és újra elmondta, hogy szerinte valaki folyamatosan visszaél...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Bács-Kiskun county, 04. no. constituency",
+  "search_name_used": "Endre Béla"
+}

@@ -1,0 +1,52 @@
+{
+  "kpn_id": 5895224,
+  "candidate_name": "DR. PÁPAI ÁKOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:44:25.947124+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Több családot is kilakoltatott a MÁV az arab befektetők kedvéért Rákosrendezőről",
+      "url": "https://atlatszo.hu/kozpenz/2025/03/30/tobb-csaladot-is-kilakoltatott-a-mav-az-arab-befektetok-kedveert-rakosrendezorol/",
+      "date": "perc",
+      "excerpt": "A kilakoltatás jobban megy a MÁV-nak, mint egy nyilvános vécé rendben tartása. Videóriport.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "PápaiGergely: Az utolsó szó jogán",
+      "url": "https://atlatszo.hu/kornyezet/2025/02/14/papai-gergely-az-utolso-szo-jogan/",
+      "date": "perc",
+      "excerpt": "Egy tárgyalás, amelyen eldől, hogy munkatársunk újságíró vagy bűnsegéd.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Több esztergomi egyházi iskola diákjainak is kötelező az eucharisztikusÁkos-koncert",
+      "url": "https://atlatszo.hu/2021/09/09/tobb-esztergomi-egyhazi-iskola-diakjainak-is-kotelezo-az-eucharisztikus-akos-koncert/",
+      "date": "perc",
+      "excerpt": "Vallási hovatartozástól függetlenül kötelező iskolai programként kezelik több esztergomi, egyházi fenntartású gimnáziumban is a diákok részvételét az Eucharisztikus Világkongresszus budapesti...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Helyi lakosokkal és Ausztriával is konfrontálódik a kormány a Fertő-tavi óriásberuházás miatt",
+      "url": "https://atlatszo.hu/kozpenz/2019/08/19/helyi-lakosokkal-es-ausztriaval-is-konfrontalodik-a-kormany-a-ferto-tavi-oriasberuhazas-miatt/",
+      "date": "perc",
+      "excerpt": "Legalább 23 milliárd forint közpénzből akar megvalósítani a kormány egy hatalmas turisztikai beruházást Fertőrákoson, ahol a tervek szerint szálloda, sportközpont,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Heves county, 01. no. constituency",
+  "search_name_used": "Pápai Ákos"
+}

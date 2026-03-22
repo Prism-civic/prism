@@ -1,0 +1,45 @@
+{
+  "kpn_id": 9108742,
+  "candidate_name": "TÚRÓ RICHÁRD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:14:14.070546+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "EP-választások: a liberálisok és az EU-ellenes szélsőjobb előretörése várható Szlovákiában",
+      "url": "https://atlatszo.hu/vilagterkep/2019/05/22/ep-valasztasok-a-liberalisok-es-az-eu-ellenes-szelsojobb-eloretorese-varhato-szlovakiaban/",
+      "date": "perc",
+      "excerpt": "Hónapok óta csökken a baloldali-populista kormánypárt népszerűsége, miközben a progresszív liberális, EU-barát politikai pártok, de a szélsőjobb mozgalom támogatottsága is...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Életrajzi filmen Dick Cheney: emberi vonások, maszatoló ecsettel",
+      "url": "https://atlatszo.hu/impakt/2019/03/06/eletrajzi-filmen-dick-cheney-emberi-vonasok-maszatolo-ecsettel/",
+      "date": "perc",
+      "excerpt": "Ha az a kérdés, nézhető, fogyasztható, szórakoztató-e az Alelnök című film, jó-e a színészi játék, az operatőri munka, a rendezői...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A gengszterek fogják eldönteni, melyik nap ölnek meg – új platform a veszélyben lévő újságírók védelmére",
+      "url": "https://atlatszo.hu/vilagterkep/2017/05/28/a-gengszterek-fogjak-eldonteni-melyik-nap-olnek-meg-uj-platform-a-veszelyben-levo-ujsagirok-vedelmere/",
+      "date": "perc",
+      "excerpt": "Stories stay alive, „a sztorik túlélik”  szlogennel indul útjára egy oknyomozó újságírók támogatását célzó platform, a Riporterek Határok Nélkül...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Jász-Nagykun-Szolnok county, 03. no. constituency",
+  "search_name_used": "Túró Richárd"
+}

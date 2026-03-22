@@ -1,0 +1,23 @@
+{
+  "kpn_id": 7981814,
+  "candidate_name": "DR. MISKOLCZI ORSOLYA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:36:20.106714+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„A NER-bűnözés szimbóluma a Samsung akkugyára” – Magyar Péter Gödön járt",
+      "url": "https://atlatszo.hu/orszagszerte/2026/03/18/a-ner-bunozes-szimboluma-a-samsung-akkugyara-magyar-peter-godon-jart/",
+      "date": "perc",
+      "excerpt": "Dél-Koreában azonnal bezáratnák ezt a gyárat, ha úgy működne, mint Gödön – állította Magyar Péter, aki szigorú intézkedésekkel vetne véget az akkus üzemekhez kapcsolódó szennyezéseknek. Videóriport.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Pest county, 05. no. constituency",
+  "search_name_used": "Miskolczi Orsolya"
+}

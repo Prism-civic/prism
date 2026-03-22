@@ -1,0 +1,52 @@
+{
+  "kpn_id": 3848183,
+  "candidate_name": "DR. FEKETE DÁVID",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:04.105942+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Az azerifeketekasszából származó pénzen népszerűsítette Alijev rezsimjét egy amerikai lobbicég",
+      "url": "https://atlatszo.hu/category/azerbajdzsan/",
+      "date": "perc",
+      "excerpt": "Az OCCRP és partnerei tavaly ősszel számoltak be arról, hogy Azerbajdzsán brit cégeken keresztül egyfeketekasszát működtetett. Egy bonyolult, homályos...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Lengyelországban feketébe öltözve tiltakoznak az abortusz szinte teljes tilalmát jelentő törvénytervezet ellen",
+      "url": "https://atlatszo.hu/category/cikkek/globalvoices/",
+      "date": "perc",
+      "excerpt": "A #czarnyprotest („feketetüntetés”) hashtag a legfelkapottabb ma Lengyelországban, több ezer ember oszt meg magáról olyan képet, amelyen feketébe öltözve tiltakozik...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Pofátlanul túlárazott projektek,feketefoglalkoztatás – így költik el Nyíregyházán az uniós milliárdokat",
+      "url": "https://atlatszo.hu/kozpenz/2015/10/07/pofatlanul-tularazott-projektek-feketefoglalkoztatas-igy-koltik-el-nyiregyhazan-az-unios-milliardokat/",
+      "date": "perc",
+      "excerpt": "Háromszoros áron elszámolt anyagok, építkezés engedély nélkül, tömegesfeketefoglalkoztatás – így zajlik Nyíregyházán a kétmilliárdos Sóstó-Gyógyfürdő-projekt. A város vezetése körül...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "„A Fidesz kézi vezérlésre állította a nagy kontrollszervezeteket és a független hatalmi ágakat” – JancsicsDávidkorrupciókutató",
+      "url": "https://atlatszo.hu/kozpenz/2014/09/02/a-fidesz-kezi-vezerlesre-allitotta-a-nagy-kontrollszervezeteket-es-a-fuggetlen-hatalmi-agakat-jancsics-david-korrupciokutato/",
+      "date": "perc",
+      "excerpt": "Amerikában rangos díjat kaptak, a magyar szaklapok nem közölték Jávor István és JancsicsDávidkorrupciót vizsgáló tanulmányát. A két szociológus...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Győr-Moson-Sopron county, 02. no. constituency",
+  "search_name_used": "Fekete Dávid"
+}

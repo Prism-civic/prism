@@ -3,10 +3,10 @@
     "election": "2026 Hungarian Parliamentary Election",
     "date": "2026-04-12",
     "source": "NVI — Nemzeti Választási Iroda (vtr.valasztas.hu)",
-    "data_version": "2026-03-21T17:00:00",
+    "data_version": "2026-03-21T17:00:00.07464578+01:00",
     "total_constituencies": 106,
     "total_active_candidates": 666,
-    "note": "Active (registered) individual constituency candidates only"
+    "refreshed_at": "2026-03-21T18:53:37.546653+00:00"
   },
   "constituencies": [
     {

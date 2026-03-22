@@ -1,0 +1,42 @@
+{
+  "kpn_id": 9191459,
+  "candidate_name": "SÁNDOR BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:38.253868+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Egymásra mutogat a magyar és az osztrák kormány, elégtelent kapott PintérSándor",
+      "url": "https://atlatszo.hu/orszagszerte/2023/06/10/egymasra-mutogat-a-magyar-es-az-osztrak-kormany-elegtelent-kapott-pinter-sandor/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "BúsBalázsmég nem fizette vissza a jogtalanul felvett pénzeket, és a kormányhivatal szerint nem is kell",
+      "url": "https://atlatszo.hu/kozpenz/2022/02/17/bus-balazs-meg-nem-fizette-vissza-a-jogtalanul-felvett-penzeket-es-a-kormanyhivatal-szerint-nem-is-kell/",
+      "date": "perc",
+      "excerpt": "Január 25-én megírtuk, hogy BúsBalázsmár egy éve egyszerre a Nemzeti Kulturális Alap (NKA) alelnöke és önkormányzati képviselő, holott...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Régi ismerősünk KertészBalázs, a propagandaminiszter tegnap kiszerkesztett fantomja",
+      "url": "https://atlatszo.hu/kozugy/2016/11/12/regi-ismerosunk-a-propagandaminiszter-tegnap-kiszerkesztett-fantomja-kertesz-balazs/",
+      "date": "perc",
+      "excerpt": "Nincsenek jó napjai sem propagandaminiszterünknek, Rogán Antalnak, sem a jobb kezének és pénzügyi bizalmasának mondott, ám a nyilvánosság elől...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Veszprém county, 03. no. constituency",
+  "search_name_used": "Sándor Balázs"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 3657506,
+  "candidate_name": "KOVÁCS SÁNDOR",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-21T19:58:08.288477+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Kovács Bálint: A hamis ukrán zászlós hadművelet nagyobb bajt mutat, mint ami elsőre látszik",
+      "url": "https://hvg.hu/360/20260318_ukran-zaszlo-marcius-15-tisza-nemzeti-menet-provokacio-fidesz-aktivistak-velemeny-kovacs-balint",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 05. no. constituency",
+  "search_name_used": "Kovács Sándor"
+}

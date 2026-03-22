@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1816733,
+  "candidate_name": "CSÁRDI ANTAL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:05:06.017671+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Korrupció miatti vádemelés MSZP-sek ellen, részegen nőt bántalmazó fideszes",
+      "url": "https://atlatszo.hu/mutyimondo/2024/08/23/korrupcio-miatti-vademeles-mszp-sek-ellen-reszegen-not-bantalmazo-fideszes/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Foggal-körömmel védte a kormány a gödi akkugyárat a parlamentben az elmúlt években",
+      "url": "https://atlatszo.hu/kornyezet/2026/02/17/foggal-korommel-vedte-a-kormany-a-godi-akkugyarat-a-parlamentben-az-elmult-evekben/",
+      "date": "perc",
+      "excerpt": "Folyamatosan azt állították, hogy a Samsung kapcsán a \"baloldal\" politikai haszonszerzés érdekében rémhíreket terjeszt és hangulatkeltést végez.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Veszélyeztetés, jogtiprás, adatok eltitkolása – az év legbotrányosabb hatósági jogsértései",
+      "url": "https://atlatszo.hu/kornyezet/2025/12/28/veszelyeztetes-jogtipras-adatok-eltitkolasa-az-ev-legbotranyosabb-hatosagi-jogsertesei/",
+      "date": "perc",
+      "excerpt": "Az állampolgárok gyakran szembesülnek azzal, hogy a hatóságok „ellenük\" dolgoznak, és nem az ő érdekeiket védik.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Budapest capital, 02. no. constituency",
+  "search_name_used": "Csárdi Antal"
+}

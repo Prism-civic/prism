@@ -1,0 +1,32 @@
+{
+  "kpn_id": 3355458,
+  "candidate_name": "GELENCSÉR ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:27:32.099403+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A választások óta már három cégben tett szert tulajdonrészreGelencsérAttilafideszes képviselő",
+      "url": "https://atlatszo.hu/kozpenz/2019/03/26/a-valasztasok-ota-mar-harom-cegben-tett-szert-tulajdonreszre-gelencser-attila-fideszes-kepviselo/",
+      "date": "perc",
+      "excerpt": "Tévedés lenne azt hinni, hogy hazánkban csak Mészáros Lőrinc szellemi képességei múlják felül Mark Zuckerbergét, a szelíd somogyi lankák is...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ötödáron vett tésztagyári részesedést Kaposvár országgyűlési képviselője,GelencsérAttila",
+      "url": "https://atlatszo.hu/kozpenz/2018/10/04/otodaron-vett-tesztagyari-reszesedest-kaposvar-orszaggyulesi-kepviseloje-gelencser-attila/",
+      "date": "perc",
+      "excerpt": "Nem lesz könnyű dolga a krónikásnak, akinek egyszer majd az Azori-szigeteki kaland hősének, a kaposvári Fidesz helyi erős emberének elmúlt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Somogy county, 01. no. constituency",
+  "search_name_used": "Gelencsér Attila"
+}

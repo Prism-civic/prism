@@ -1,0 +1,45 @@
+{
+  "kpn_id": 9730744,
+  "candidate_name": "SIPOS IVETT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:00:01.958647+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Tízéves az Átlátszó – volt és jelenlegi szerzőinket, kollégáinkat kérdeztük a kedvenc munkáikról",
+      "url": "https://atlatszo.hu/kozpenz/2021/07/04/tizeves-az-atlatszo-volt-es-jelenlegi-szerzoinket-kollegainkat-kerdeztuk-a-kedvenc-munkaikrol/",
+      "date": "perc",
+      "excerpt": "Ma tíz éve, 2011. július 4-én, a függetlenség napján indítottuk el az Átlátszót, saját tőke nélkül, az olvasók adományozó kedvében...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ön rábízná a vagyonát? A magyar állam rábízta. Szivek Norbert portréja",
+      "url": "https://atlatszo.hu/kozpenz/2017/07/13/on-rabizna-a-vagyonat-a-magyar-allam-rabizta-szivek-norbert-portreja/",
+      "date": "perc",
+      "excerpt": "Felkerült a NAV szégyenfalára, a 180 napon túl több mint 100 millió forinttal tartozó zsiványcégek közé Szivek Norbert MNV-vezér...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Hogyhogy él? Felborítja a számozást!” Megszólal az Aszad-rezsim fotósa",
+      "url": "https://atlatszo.hu/vilagterkep/2015/10/05/hogyhogy-el-felboritja-a-szamozast-megszolal-az-aszad-rezsim-fotosa/",
+      "date": "perc",
+      "excerpt": "A szíriai biztonsági szolgálatok módszeresen halálra kínozzák a foglyokat, ugyanakkor mindent rutinszerűen dokumentálnak, és senki nem gondol arra, hogy ezek...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Csongrád-Csanád county, 02. no. constituency",
+  "search_name_used": "Sipos Ivett"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2669473,
+  "candidate_name": "TAKÁCS IMRE FERENC",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:47:57.961001+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Leisztinger Tamás 384 millió forintért vásárol 44 hektár földet Törökbálinton",
+      "url": "https://atlatszo.hu/orszagszerte/2025/06/10/leisztinger-tamas-384-millio-forintert-vasarol-44-hektar-foldet-torokbalinton/",
+      "date": "perc",
+      "excerpt": "Az Auchannal szemközti területre 7,6 milliárd forintos adósság van bejegyezve, de a zálogjogosultak is köthetők a regisztrált földművesként vásárló Leisztingerhez.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A NER kedvenc producere tulaj lett a tatárjárásos filmben, amely júniusra kész lehet",
+      "url": "https://atlatszo.hu/kozpenz/2025/04/07/a-ner-kedvenc-producere-tulaj-lett-a-tatarjarasos-filmben-juniusra-kesz-lehet/",
+      "date": "perc",
+      "excerpt": "Lajos Tamás producer megjelent a Nyugat Kapujában Kft.-ben, épp aznap, amikor Kossuth-díjat kapott.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Titkolják a fideszes orvos-politikusok, hogy a kamarában maradtak-e vagy kiléptek",
+      "url": "https://atlatszo.hu/kozugy/2023/04/28/titkoljak-a-fideszes-orvos-politikusok-hogy-a-kamaraban-maradtak-e-vagy-kileptek/",
+      "date": "perc",
+      "excerpt": "Az orvosok több mint kétharmada maradt a kamarában, de a MOK szerint vannak nagyobb bajok is a kötelező tagság eltörlésénél.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Vas county, 03. no. constituency",
+  "search_name_used": "Takács Imre Ferenc"
+}

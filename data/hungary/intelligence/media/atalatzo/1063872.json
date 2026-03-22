@@ -1,0 +1,32 @@
+{
+  "kpn_id": 1063872,
+  "candidate_name": "PÁL ANNA VIKTÓRIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:00:14.509873+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Dávidok harca a nagyvállalatok és az államok ellen: megvannak a „zöld Nobel” idei nyertesei",
+      "url": "https://atlatszo.hu/vilagterkep/2019/05/24/davidok-harca-a-nagyvallalatok-es-az-allamok-ellen-megvannak-a-zold-nobel-idei-nyertesei/",
+      "date": "perc",
+      "excerpt": "Április végén osztották ki az elmúlt év legjelentősebb környezetvédelmi aktivistáinak a zöld Nobelnek is nevezett Goldman-díjat, amelyet 1989-ben hozott létre...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Uniós százmilliókat nyelt el a lengyeltóti kastély, végül egy 76 éves nő cégénél landolt",
+      "url": "https://atlatszo.hu/orszagszerte/2023/10/31/unios-szazmilliokat-nyelt-el-a-lengyeltoti-kastely-vegul-egy-76-eves-no-cegenel-landolt/",
+      "date": "perc",
+      "excerpt": "AViktóriaSziget Kft. kastélyszállót álmodott a létesítménybe, majd csődbe ment. A 2007-ben félmilliárdot érő épület azóta is üresen áll.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Csongrád-Csanád county, 04. no. constituency",
+  "search_name_used": "Pál Anna Viktória"
+}

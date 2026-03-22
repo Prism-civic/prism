@@ -1,0 +1,32 @@
+{
+  "kpn_id": 6783788,
+  "candidate_name": "MOLNÁR ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:48.108883+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Percemberke a kígyófészekben –MolnárGyula új MSZP-elnök portréja",
+      "url": "https://atlatszo.hu/kozpenz/2016/07/06/percemberke-a-kigyofeszekben-molnar-gyula-uj-mszp-elnok-portreja/",
+      "date": "perc",
+      "excerpt": "Moszkvai egyetemi barátja ma Garancsi István üzlettársa a MET-ben, egykori kerületi kabinetfőnöke pedig Tarlós István fővárosi biztonsági tótumfaktuma – mégsem...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "IllésZoltántanácsadója szerezte meg a Budavári Labirintus hasznosítási jogát",
+      "url": "https://atlatszo.hu/kozpenz/2012/01/12/illes-zoltan-tanacsadoja-szerezte-meg-a-budavari-labirintus-hasznositasi-jogat/",
+      "date": "perc",
+      "excerpt": "IllésZoltánpolitikai tanácsadója magának közvetíthette ki a Budavár Labirintus hasznosítását. Az illetőt a vidékfejlesztési minisztériumból már kitették, de tudomásunk...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Nógrád county, 02. no. constituency",
+  "search_name_used": "Molnár Zoltán"
+}

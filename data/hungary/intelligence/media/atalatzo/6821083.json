@@ -1,0 +1,23 @@
+{
+  "kpn_id": 6821083,
+  "candidate_name": "TRENTIN BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:29:56.090420+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Megszereztük a Magyar Péter diákhiteles szerződéseiről szóló KEHI-jelentést",
+      "url": "https://atlatszo.hu/kozpenz/2024/10/02/megszereztuk-a-magyar-peter-diakhiteles-szerzodeseirol-szolo-kehi-jelentest/",
+      "date": "perc",
+      "excerpt": "Egy interneten többnyire ingyenesen elérhető tartalomból összeállított tanulmány oldalanként 100 ezer forintba, egy 18 diából álló előadás pedig 4,4 millióba került.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 07. no. constituency",
+  "search_name_used": "Trentin Balázs"
+}

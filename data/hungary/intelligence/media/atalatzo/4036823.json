@@ -1,0 +1,32 @@
+{
+  "kpn_id": 4036823,
+  "candidate_name": "LANTOS JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:10.062761+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Jánosnak lövése van, de Rogán bukta",
+      "url": "https://atlatszo.hu/mutyimondo/2014/11/10/janosnak-lovese-van-de-rogan-bukta/",
+      "date": "perc",
+      "excerpt": "Több ezer fácán retteghet a Prágától 40 kilométerre elterülő cseh állami erdészeti területen attól, hogy LázárJánosvagy vadásztársai puskacsöve...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Visszakaphatnánk a Dunát, de inkább eladjuk – podcast a bősi vízerőműről",
+      "url": "https://atlatszo.hu/kornyezet/2025/09/19/visszakaphatnank-a-dunat-de-inkabb-eladjuk-podcast-a-bosi-vizeromurol/",
+      "date": "perc",
+      "excerpt": "Miért segít az Orbán-kormány a bősi erőmű megmaradásában, sőt: bővítésében Szlovákiának?Jánossy András és Czímer Gábor az Átlátszó-podcastban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Komárom-Esztergom county, 02. no. constituency",
+  "search_name_used": "Lantos János"
+}

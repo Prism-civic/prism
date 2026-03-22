@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4395823,
+  "candidate_name": "HENDE MÁTÉ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:37:12.110347+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Fidesz szerint Szombathelyen “bevándorláspárti szivárványkoalíció” vette át a hatalmat",
+      "url": "https://atlatszo.hu/2019/03/06/a-fidesz-szerint-szombathelyen-bevandorlasparti-szivarvanykoalicio-vette-at-a-hatalmat/",
+      "date": "perc",
+      "excerpt": "Kirúgták a médiaközpont igazgatóját, pénzügyi ellenőrt kap a közvilágítás-csere, újraosztják a városi közbeszerzési bizottsági helyeket – ilyesmiket döntött a helyi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A „voldemortos” Holbok Sándor volt cégével üzletel a budaörsi önkormányzat",
+      "url": "https://atlatszo.hu/2018/05/24/a-voldemortos-holbok-sandor-volt-cegevel-uzletel-a-budaorsi-onkormanyzat/",
+      "date": "perc",
+      "excerpt": "1,6 milliárd forintos közbeszerzés nyomán üzemeltetheti a Budaörsi Egészségügyi Központot a Jump-Consulting Kft. A cég budaörsi szerepe ellen korábban tiltakozott a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kubatov kopaszai akcióztak az NVI-nél, felülről állíthatták le a nyomozást",
+      "url": "https://atlatszo.hu/kozpenz/2017/05/04/kubatov-kopaszai-akcioztak-az-nvi-nel-felulrol-allithattak-le-a-nyomozast/",
+      "date": "perc",
+      "excerpt": "2006-tól félnek kormánykörökben, ezért keresik a kopaszok kegyeit – így értelmezik futballszerető informátoraink a verőemberek és a kormánypolitika flörtjét....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Pest county, 13. no. constituency",
+  "search_name_used": "Hende Máté"
+}

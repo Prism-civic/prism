@@ -1,0 +1,22 @@
+{
+  "kpn_id": 5191928,
+  "candidate_name": "BAKK ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:56:45.946808+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Így kerültek magánkézbe a Velencei-tó part menti területei – drónvideó",
+      "url": "https://atlatszo.hu/orszagszerte/2021/10/21/igy-kerultek-magankezbe-a-velencei-to-part-menti-teruletei-dronvideo/",
+      "date": "perc",
+      "excerpt": "TóthIstvánpolgármester regnálása alatt hatalmas változásokon ment keresztül Gárdonyban a Velencei-tó és a közvetlen part menti terület. Az elmúlt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Veszprém county, 03. no. constituency",
+  "search_name_used": "Bakk István"
+}

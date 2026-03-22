@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2354967,
+  "candidate_name": "DUNAI MÓNIKA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:22:43.788816+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Négy éve adták át, ma sincs ETCS-engedélye a 160 milliárdból felújított hatvani vonalnak",
+      "url": "https://atlatszo.hu/orszagszerte/2026/03/12/negy-eve-adtak-at-ma-sincs-etcs-engedelye-a-160-milliardbol-felujitott-hatvani-vonalnak/",
+      "date": "perc",
+      "excerpt": "Továbbra is csak álom a 160-as tempó a 80a vasútvonalon.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Csak percekkel lett gyorsabb a hatvani vasút, és ez 160 milliárdba került",
+      "url": "https://atlatszo.hu/orszagszerte/2024/05/15/csak-percekkel-lett-gyorsabb-a-hatvani-vasut-es-ez-160-milliardba-kerult/",
+      "date": "perc",
+      "excerpt": "160 milliárd forintból kevesebb mint 10 perccel lett gyorsabb a Budapest-Hatvan vasútvonal.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kicsit most lassul a vonat a 160 milliárdért felújított hatvani vonalon, jövőre talán gyorsabb lesz",
+      "url": "https://atlatszo.hu/orszagszerte/2023/12/14/kicsit-most-lassul-a-vonat-a-160-milliardert-felujitott-hatvani-vonalon-jovore-talan-gyorsabb-lesz/",
+      "date": "perc",
+      "excerpt": "Az utasok több mint egy éve a biztosító- és vonatbefolyásoló rendszer üzembe helyezésére várnak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 15. no. constituency",
+  "search_name_used": "Dunai Mónika"
+}

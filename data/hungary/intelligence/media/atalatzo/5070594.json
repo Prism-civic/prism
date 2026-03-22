@@ -1,0 +1,32 @@
+{
+  "kpn_id": 5070594,
+  "candidate_name": "DR. JUHÁSZ ÁRON",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:04.122923+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Ez a pancserség tobzódása: Ha Orbán Viktor tartalékost akar, akkor lesz tartalékos bármiáron",
+      "url": "https://atlatszo.hu/kozugy/2018/07/13/ez-a-pancserseg-tobzodasa-ha-orban-viktor-tartalekost-akar-akkor-lesz-tartalekos-barmi-aron/",
+      "date": "perc",
+      "excerpt": "Kovács Gyula nyugállományú katonatiszt több cikket írt az Átlátszónak a magyar honvédség helyzetéről, legutóbb például a 2019. évi költségvetés témához...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A helység kalapácsa – helyi oligarchia és vazallusmédia Kaposváron",
+      "url": "https://atlatszo.hu/kozpenz/2013/01/25/a-helyseg-kalapacsa-helyi-oligarchia-es-vazallusmedia-kaposvaron/",
+      "date": "perc",
+      "excerpt": "Szita Károly kaposvári polgármester, akire egykor sokan leendő kormánytagként tekintettek, 2002-től fokozatosan kiszorult az országos politikából – ettől kezdve a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Heves county, 03. no. constituency",
+  "search_name_used": "Juhász Áron"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1686546,
+  "candidate_name": "FARKAS KÁLMÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:55:57.938319+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Hivatali visszaélés és hűtlen kezelés gyanúja a korrupció ellen küzdő Integritás Hatóságnál",
+      "url": "https://atlatszo.hu/kozugy/2025/01/16/hivatali-visszaeles-es-hutlen-kezeles-gyanuja-a-korrupcio-ellen-kuzdo-integritas-hatosagnal/",
+      "date": "perc",
+      "excerpt": "Az ügyészség gyanúja szerint a hatóság elnöke két autót is bérelt az IH számlájára, és az egyiket a felesége magáncélra használta. Az elnök szerint a személyén keresztül az általa vezetett hatóságot támadják.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Palkovics volt üzlettársának cégeihez dőlnek az állami megbízások, tízmilliárdokat költünk náluk oktatási informatikára",
+      "url": "https://atlatszo.hu/kozpenz/2022/09/01/palkovics-volt-uzlettarsanak-cegeihez-dolnek-az-allami-megbizasok-tizmilliardokat-koltunk-naluk-oktatasi-informatikara/",
+      "date": "perc",
+      "excerpt": "Fauszt Zoltán 14 éven keresztül üzlettársa volt Palkovicsnak, aki először oktatási államtitkár, majd miniszter lett.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az ukrán háborús helyzetre hivatkozva zárolt 200 milliót Makó önkormányzata",
+      "url": "https://atlatszo.hu/orszagszerte/2022/05/30/az-ukran-haborus-helyzetre-hivatkozva-zarolt-200-milliot-mako-onkormanyzata/",
+      "date": "perc",
+      "excerpt": "Gond lehet Makón, rendkívüli ülésen döntöttek 200 millió forint átcsoportosításáról. Ez a költség 3 százaléka. Az önkormányzat hallgat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
+  "search_name_used": "Farkas Kálmán"
+}

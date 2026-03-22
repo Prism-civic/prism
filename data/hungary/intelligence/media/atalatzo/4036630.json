@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4036630,
+  "candidate_name": "SZÉKELY DÁNIEL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:50:27.869533+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A járványügyi korlátozások elleni tüntetéssel tért vissza az oroszbarátszékelygárdista",
+      "url": "https://atlatszo.hu/kozpenz/2020/07/17/a-jarvanyugyi-korlatozasok-elleni-tuntetessel-tert-vissza-az-oroszbarat-szekelygardista/",
+      "date": "perc",
+      "excerpt": "Csibi Barna oroszbarátszékelyaktivista is megjelent a magyar nyelvű koronavírusos dezinformációs játszótéren. Csibi az általa szerkesztett Ruszin Kárpátalja blogon...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Bács-Kiskun county, 06. no. constituency",
+  "search_name_used": "Székely Dániel"
+}

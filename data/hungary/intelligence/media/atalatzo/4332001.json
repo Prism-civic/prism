@@ -1,0 +1,42 @@
+{
+  "kpn_id": 4332001,
+  "candidate_name": "CSÁK LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:34:40.113363+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Bezuhant SzíjjLászlóék hadiipari cége, amitől a Gidránokat vette a honvédség",
+      "url": "https://atlatszo.hu/kozpenz/2025/06/18/bezuhant-szijj-laszloek-hadiipari-cege-amitol-a-gidranokat-vette-a-honvedseg/",
+      "date": "perc",
+      "excerpt": "A HT Division Zrt. 2023-ban 2,7 milliárd forint hasznot, 2024-ben viszont 700 milliós veszteséget termelt Orbán és Erdogan oligarcháinak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Negyedmilliárdot költ konyhára, 300 milliót tanácsteremre KövérLászlóhivatala",
+      "url": "https://atlatszo.hu/kozpenz/2025/05/14/negyedmilliardot-kolt-konyhara-300-milliot-tanacsteremre-kover-laszlo-hivatala/",
+      "date": "perc",
+      "excerpt": "Az Országgyűlés Hivatala mindkét esetben meghívásos tenderrel kereste a kivitelezőket, és a nyertes is ugyanaz a Főszerép Kft. lett.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Börtöntelefon: verseny nélkül kapta meg az 5,2 milliárdos megbízást a Telekom és TasnádiLászlócége",
+      "url": "https://atlatszo.hu/kozpenz/2024/07/17/bortontelefon-verseny-nelkul-kapta-meg-az-52-milliardos-megbizast-a-telekom-es-tasnadi-laszlo-cege/",
+      "date": "perc",
+      "excerpt": "A Büntetés-végrehajtás Országos Parancsnoksága saját magát lavírozta kiszolgáltatott helyzetbe évekkel ezelőtt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Hajdú-Bihar county, 03. no. constituency",
+  "search_name_used": "Csák László"
+}

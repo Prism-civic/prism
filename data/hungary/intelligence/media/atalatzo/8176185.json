@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8176185,
+  "candidate_name": "KÁRPÁTI ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:57.993983+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Az Európai Csalás Elleni Hivatal is vizsgálja a korrupciógyanús érdi óvodaépítéseket",
+      "url": "https://atlatszo.hu/kozpenz/2022/11/30/az-europai-csalas-elleni-hivatal-is-vizsgalja-a-korrupciogyanus-erdi-ovodaepiteseket/",
+      "date": "perc",
+      "excerpt": "Az Átlátszó 2019-ben kezdte feltárni az érdi óvodaépítési közbeszerzések körüli botrányokat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Gyurcsány alatt helyreállították, Orbán alatt ismét lebontották a munkácsi turulszobrot",
+      "url": "https://atlatszo.hu/vilagterkep/2022/10/20/gyurcsany-alatt-helyreallitottak-orban-alatt-ismet-lebontottak-a-munkacsi-turulszobrot/",
+      "date": "perc",
+      "excerpt": "Az Európába irányuló ukrán cigarettacsempészettel szembeni magyar állami toleranciáért cserébe állíthatták helyre Kárpátalján a Turul-szobrot, amelynek lebontásához a jelenlegi magyar állam Ukrajnával szembeni politikája is hozzájárult.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Megint Fidesz-közeli szervezetek nyerték a legnagyobb összegeket a kormány civil-támogató programján",
+      "url": "https://atlatszo.hu/kozpenz/2022/05/05/megint-fidesz-kozeli-szervezetek-nyertek-a-legnagyobb-osszegeket-a-kormany-civil-tamogato-programjan/",
+      "date": "perc",
+      "excerpt": "Újabb, fideszes politikusokhoz köthető egyesületek gazdagodtak a kormány civil támogatási programjából. A Városi Civil Alap keretében másodszor osztanak támogatásokat, a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Baranya county, 04. no. constituency",
+  "search_name_used": "Kárpáti Zoltán"
+}

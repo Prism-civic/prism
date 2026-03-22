@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2860606,
+  "candidate_name": "BÁNYAI AMIR ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:49:41.974046+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Dömötör listája: kormányközeli cégekhez vándorolt a kulturális felújításokra szánt források több mint fele",
+      "url": "https://atlatszo.hu/kozpenz/2022/02/04/domotor-listaja-kormanykozeli-cegekhez-vandorolt-a-kulturalis-felujitasokra-szant-forrasok-tobb-mint-fele/",
+      "date": "perc",
+      "excerpt": "Dömötör Csaba, a Miniszterelnöki Kabinetiroda parlamenti államtitkára nemrég egy 50 tételből álló listát tett közzé arról, hogy milyen kulturális beruházásokat...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Közel 35 milliárd forintra drágult az új Néprajzi Múzeum építése",
+      "url": "https://atlatszo.hu/kozugy/2021/04/22/kozel-35-milliard-forintra-dragult-az-uj-neprajzi-muzeum-epitese/",
+      "date": "perc",
+      "excerpt": "Az Új Néprajzi Múzeum és Látogatóközpont befejező munkáira kiírt tendert két NER-közeli cég, a ZÁÉV Építőipari Zrt. és a Magyar...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kubatov Gábor tíz éve a Fradi élén: a listavezető",
+      "url": "https://atlatszo.hu/kozpenz/2021/02/22/kubatov-gabor-tiz-eve-a-fradi-elen-a-listavezeto/",
+      "date": "perc",
+      "excerpt": "Becsatornázott állami milliárdok, önkormányzati százmilliók, több 10 milliárdos sportlétesítmények vagyonkezelői joga – így finanszírozta az állam a Ferencvárosi Torna Clubot...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Bányai Amir Attila"
+}

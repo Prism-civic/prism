@@ -1,0 +1,22 @@
+{
+  "kpn_id": 9675744,
+  "candidate_name": "FARKAS DÁVID",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:08:18.145227+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A bánszállási szegénytelepen a Fidesz 5 ezer forintért, az ellenzék süteményért és borért vett szavazatokat",
+      "url": "https://atlatszo.hu/kozugy/2022/04/04/a-banszallasi-szegenytelepen-a-fidesz-5-ezer-forintert-az-ellenzek-sutemenyert-es-borert-vett-szavazatokat/",
+      "date": "perc",
+      "excerpt": "A Borsod 3-as választókerület két településén jártunk: az ózdi Bánszálláson ésFarkaslyukon is választási csalásba botlottunk. Bánszálláson elmondták az Átlátszónak,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+  "search_name_used": "Farkas Dávid"
+}

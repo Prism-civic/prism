@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1565629,
+  "candidate_name": "KELLER LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:54:05.938341+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Balhés szocik és fideszes polgármesterek egyengetik a dunakeszi hulladéklerakó ügyét",
+      "url": "https://atlatszo.hu/kozpenz/2018/08/06/balhes-szocik-es-fideszes-polgarmesterek-egyengetik-a-dunakeszi-hulladeklerako-ugyet/",
+      "date": "perc",
+      "excerpt": "Hétpróbás politikai kalandorokhoz vezetnek a szálak az Átlátszó által korábban bemutatott dunakeszi hulladéklerakó ügyében. Előző cikkünk hatására a fideszes vezetésű...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Fidesz-közeli tanácsadók a sóskúti csatornaberuházásnál, bennragadhat a lakossági önrész",
+      "url": "https://atlatszo.hu/2018/06/25/fidesz-kozeli-tanacsadok-a-soskuti-csatornaberuhazasnal-bennragadhat-a-lakossagi-onresz/",
+      "date": "perc",
+      "excerpt": "Aki csak számít: Biczi és Tuzson Ügyvédi Iroda, Public Sector Consulting, Provital. Összegyűltek, mint bogárkák a lámpafényre a sóskúti szennyvízcsatorna-beruházás...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Exállamtitkár cége kapcsolná ki a gázt a Quaestor ETO Parkjában",
+      "url": "https://atlatszo.hu/kozugy/2017/04/07/exallamtitkar-cege-kapcsolna-ki-a-gazt-a-quaestor-eto-parkjaban/",
+      "date": "perc",
+      "excerpt": "Kikapcsolással fenyegette meg február végén a gázszolgáltató a Quaestor-érdekeltség ETO Park állami felszámolóját. A gázszolgáltató cég tulajdonosa az első...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 02. no. constituency",
+  "search_name_used": "Keller László"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6347418,
+  "candidate_name": "SZAKÁCS PÉTER LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:37:56.110709+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Csúszik az állami finanszírozású gigafilm premierje, egyelőre nincs pénz az utómunkára",
+      "url": "https://atlatszo.hu/kult/2024/03/19/csuszik-az-allami-finanszirozasu-gigafilm-premierje-egyelore-nincs-penz-az-utomunkara/",
+      "date": "perc",
+      "excerpt": "Nincsenek jó híreink a Nyugat Kapujában című szuperprodukcióra várók számára, úgy tűnik, a tavaszi bemutató elmarad.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Előválasztás-figyelő – Mellár meglepetésszerűen megfutamodott, előkerült viszont egy új miniszterelnök-jelölt",
+      "url": "https://atlatszo.hu/adat/2021/08/20/elovalasztas-figyelo-nem-minden-elozetes-jelentkezo-adta-le-regisztraciojat-egy-hetedik-miniszterelnok-jeloltet-is-nyilvantartasba-vettek/",
+      "date": "perc",
+      "excerpt": "Augusztus 15-én, vasárnap véget ért az előválasztás regisztrációs időszaka. Az indulni vágyó képviselő- és miniszterelnök-jelölteknek három hetük volt indulásuk hivatalos...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Így lett a nemzetközi ultrakatolikus hálózat magyar emberéből a kormánymédia homofób beszélő feje",
+      "url": "https://atlatszo.hu/kozpenz/2021/01/06/igy-lett-a-nemzetkozi-ultrakatolikus-halozat-magyar-emberebol-a-kormanymedia-homofob-beszelo-feje/",
+      "date": "perc",
+      "excerpt": "Nemzetközi hátterű, abortusz- és melegellenes szervezetek hálózata építkezne Magyarországon — egy pénzügyi vita óta a terveket egyelőre jegelik. Az alapítvány...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
+  "search_name_used": "Szakács Péter Lajos"
+}

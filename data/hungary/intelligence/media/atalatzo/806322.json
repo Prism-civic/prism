@@ -1,0 +1,32 @@
+{
+  "kpn_id": 806322,
+  "candidate_name": "DOHÁNY ANDRÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:08:30.024780+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "JóriAndrás: „Ha meg tudjátok tartani”",
+      "url": "https://atlatszo.hu/kozpenz/2013/05/02/jori-andras-ha-meg-tudjatok-tartani/",
+      "date": "perc",
+      "excerpt": "A kádári diktatúra rendszerében az egyén átlátható volt az állam számára: egyre többet – bár még mindig nem eleget –...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Rekordösszegeket vettek ki idén osztalékként NER-es cégekből",
+      "url": "https://atlatszo.hu/kozpenz/2025/06/20/rekordosszegeket-vettek-ki-iden-osztalekkent-ner-es-cegekbol/",
+      "date": "perc",
+      "excerpt": "Lázár János barátjánakdohányos cégénél kiseperték a kasszát, de az Orbán- és Mészáros-érdekeltségeknél nincs jele a vagyonkimentésnek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Borsod-Abaúj-Zemplén county, 02. no. constituency",
+  "search_name_used": "Dohány András"
+}

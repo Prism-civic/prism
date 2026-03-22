@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8950309,
+  "candidate_name": "KÁTAI ALIZ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:02:10.102525+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Reconquista Andalúziában: a szélsőjobb történelmi sikere vet véget a 36 éves szocialista uralomnak",
+      "url": "https://atlatszo.hu/vilagterkep/2018/12/08/reconquista-andaluziaban-a-szelsojobb-tortenelmi-sikere-vet-veget-a-36-eves-szocialista-uralomnak/",
+      "date": "perc",
+      "excerpt": "December 6-án ünnepelte Spanyolország alkotmányos berendezkedésének negyvenedik szülinapját, ami egyúttal a Franco halála utáni demokratikus rendszer pirosbetűs ünnepe is. Négy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Izrael párizsi nagykövetsége megpróbálta letiltani a francia köztévé gázai riportját",
+      "url": "https://atlatszo.hu/vilagterkep/2018/10/18/izrael-parizsi-nagykovetsege-megprobalta-letiltani-a-francia-kozteve-gazai-riportjat/",
+      "date": "perc",
+      "excerpt": "Különös polémia kerekedett múlt héten a francia köztévé egyik műsora miatt, amelynek gázai riportját néhány zsidó szervezet mellett Izrael párizsi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Putyin trollemlékműve a franciaországi II. János Pál pápa szobor",
+      "url": "https://atlatszo.hu/vilagterkep/2017/11/14/putyin-trollemlekmuve-a-franciaorszagi-ii-janos-pal-papa-szobor/",
+      "date": "perc",
+      "excerpt": "Orosz pénzből, a Kreml jóváhagyásával épült a franciaországi II. János Pál pápa szobor, amelyről el kell távolítani a keresztet....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Komárom-Esztergom county, 03. no. constituency",
+  "search_name_used": "Kátai Aliz"
+}

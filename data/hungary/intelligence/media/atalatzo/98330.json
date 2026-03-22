@@ -1,0 +1,22 @@
+{
+  "kpn_id": 98330,
+  "candidate_name": "DR. GÁSPÁR LEVENTE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:38:56.114274+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A Harcosok Klubjában nyomul a nyugdíjasok pénzére utazó üzletlánc volt fejese",
+      "url": "https://atlatszo.hu/kozugy/2025/06/04/a-harcosok-klubjaban-nyomul-a-nyugdijasok-penzere-utazo-uzletlanc-volt-fejese/",
+      "date": "perc",
+      "excerpt": "ÖkrösiLeventerégóta a Fidesz közelében mozgolódik, legutóbb a kormánypárti kommentkommandó nyitóeseményén Menczer Tamással fotózkodott mosolyogva.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Veszprém county, 01. no. constituency",
+  "search_name_used": "Gáspár Levente"
+}

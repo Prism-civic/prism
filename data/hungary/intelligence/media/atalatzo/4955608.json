@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4955608,
+  "candidate_name": "DR. FERENCZ ORSOLYA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T19:55:41.031859+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Mészáros Lőrinc új luxusszállodája, és Tiborczék tizenegyedik belvárosi palotája",
+      "url": "https://atlatszo.hu/mutyimondo/2026/03/13/meszaros-lorinc-uj-luxusszallodaja-es-tiborczek-tizenegyedik-belvarosi-palotaja/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Egy bálban mulatott tavaly Kocsis Máté és a tüntetőt pofozó vállalkozó",
+      "url": "https://atlatszo.hu/kozugy/2015/08/25/egy-balban-mulatott-tavaly-kocsis-mate-es-a-tuntetot-pofozo-vallalkozo/",
+      "date": "perc",
+      "excerpt": "Két nap kellett ahhoz, hogy kiderüljön, nem egy teljesen ismeretlen ember ütött a józsefvárosi önkormányzati ünnepségen, hanem egy olyan vállalkozó,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Tízéves az Átlátszó – volt és jelenlegi szerzőinket, kollégáinkat kérdeztük a kedvenc munkáikról",
+      "url": "https://atlatszo.hu/kozpenz/2021/07/04/tizeves-az-atlatszo-volt-es-jelenlegi-szerzoinket-kollegainkat-kerdeztuk-a-kedvenc-munkaikrol/",
+      "date": "perc",
+      "excerpt": "Ma tíz éve, 2011. július 4-én, a függetlenség napján indítottuk el az Átlátszót, saját tőke nélkül, az olvasók adományozó kedvében...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 02. no. constituency",
+  "search_name_used": "Ferencz Orsolya"
+}

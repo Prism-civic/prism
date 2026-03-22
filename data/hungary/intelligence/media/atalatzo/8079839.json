@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8079839,
+  "candidate_name": "PÓCS JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:00.089705+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Melyik értelmetlen beruházás legyen az uniós pénzpocsékolás szimbóluma?",
+      "url": "https://atlatszo.hu/kozpenz/2023/07/12/melyik-ertelmetlen-beruhazas-legyen-az-unios-penzpocsekolas-szimboluma/",
+      "date": "perc",
+      "excerpt": "Ahogy az atlétikai vb-nek a rackajuh, úgy közel húszéves tagságunknak az Európai Unióban is lehet kabalája. Találjuk meg együtt!",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Titkolja a Vízügy, hogy mire költött 4,7 milliárd forintot az aszály idején",
+      "url": "https://atlatszo.hu/kornyezet/2025/10/28/titkolja-a-vizugy-hogy-mire-koltott-47-milliard-forintot-az-aszaly-idejen/",
+      "date": "perc",
+      "excerpt": "Augusztus eleje óta levelezünk a Vízügyi Főigazgatósággal, de hiába. Az biztos, hogy a leghírhedtebb akciójuk a Zagyva partjának letarolása volt júliusban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Két év felfüggesztettre ítélték a milliárdos EU-s támogatást elmutyizó szövetkezet egyetlen vádlottját",
+      "url": "https://atlatszo.hu/kozpenz/2022/05/20/ket-ev-felfuggesztettre-iteltek-a-milliardos-eu-s-tamogatast-elmutyizo-szovetkezet-egyetlen-vadlottjat/",
+      "date": "perc",
+      "excerpt": "A milliárdos, legszegényebb embereket kihasználó csalásban több Fidesz-közeli figura vett részt, négy év után végre ítélet született, amivel azonban nem mindenki elégedett.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Jász-Nagykun-Szolnok county, 02. no. constituency",
+  "search_name_used": "Pócs János"
+}

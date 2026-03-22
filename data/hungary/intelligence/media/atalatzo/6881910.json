@@ -1,0 +1,52 @@
+{
+  "kpn_id": 6881910,
+  "candidate_name": "MOLNÁR GYULA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:49:17.982661+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "MolnárGyulahavi 1,2 millió forintért ad tanácsokat az újbudai polgármesternek",
+      "url": "https://atlatszo.hu/kozpenz/2024/05/02/molnar-gyula-havi-12-millio-forintert-ad-tanacsokat-az-ujbudai-polgarmesternek/",
+      "date": "perc",
+      "excerpt": "Újbuda korábbi polgármesterét, az MSZP-ből a DK-ba átigazoltMolnárt két éve foglalkoztatja a DK-s László Imre által vezetett önkormányzat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "MolnárGyulatrükkösen szerzett ingatlant, orosz céget tol a magyar Eximbank – Heti lapszemle",
+      "url": "https://atlatszo.hu/mutyimondo/2018/04/28/molnar-gyula-trukkosen-szerzett-ingatlant-orosz-ceget-tol-a-magyar-eximbank-heti-lapszemle/",
+      "date": "perc",
+      "excerpt": "Heti Válasz: több hangfelvétel is alátámasztja Gyárfás bűnösségét Nem egy, hanem rengeteg kompromittáló hangfelvétele van az ügyészségnek a Gyárfás–Fenyő-ügyben....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Percemberke a kígyófészekben –MolnárGyulaúj MSZP-elnök portréja",
+      "url": "https://atlatszo.hu/kozpenz/2016/07/06/percemberke-a-kigyofeszekben-molnar-gyula-uj-mszp-elnok-portreja/",
+      "date": "perc",
+      "excerpt": "Moszkvai egyetemi barátja ma Garancsi István üzlettársa a MET-ben, egykori kerületi kabinetfőnöke pedig Tarlós István fővárosi biztonsági tótumfaktuma – mégsem...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Duna Aszfalt meló Kongóban, az MSZP pénzelte volna a Liberálisokat – Heti lapszemle",
+      "url": "https://atlatszo.hu/mutyimondo/2018/05/19/duna-aszfalt-melo-kongoban-az-mszp-penzelte-volna-a-liberalisokat-heti-lapszemle/",
+      "date": "perc",
+      "excerpt": "Zoom: az MSZP is pénzelte volna Fodor Gábor liberálisaitMolnárGyulaleköszönt MSZP-elnök még pártvezérként különalkut kötött Fodor Gáborral a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 10. no. constituency",
+  "search_name_used": "Molnár Gyula"
+}

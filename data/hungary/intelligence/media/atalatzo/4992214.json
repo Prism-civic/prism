@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4992214,
+  "candidate_name": "FEHÉR BENJÁMIN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:58.105552+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Amerika döntés előtt – grafikonok az elnökválasztás esélyeiről",
+      "url": "https://atlatszo.hu/adat/2024/10/08/amerika-dontes-elott-grafikonok-az-elnokvalasztas-eselyeirol/",
+      "date": "perc",
+      "excerpt": "A közvélemény-kutatások hónapok óta szoros eredményeket jeleznek: Kamala Harris néhány szavazattal kaphat csak többet Donald Trumpnál.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Új korszak Izraelben? A közel-keleti konfliktus adatokban",
+      "url": "https://atlatszo.hu/adat/2021/06/16/uj-korszak-izraelben-a-kozel-keleti-konfliktus-adatokban/",
+      "date": "perc",
+      "excerpt": "Tizenkét év után véget érni látszik a Netanjahu-korszak Izraelben, a héten egy új koalíciós kormány kezdte meg a működését, miután ...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kelet-Közép-Európában terjeszkedik a Lengyelországban sikeres ultrakatolikus szervezet",
+      "url": "https://atlatszo.hu/vilagterkep/2021/01/04/kelet-kozep-europaban-terjeszkedik-a-lengyelorszagban-sikeres-ultrakatolikus-szervezet/",
+      "date": "perc",
+      "excerpt": "Hogyan lesznek eurószázezrek a Fátimai Miasszonyunk lengyeleknek eladott szentképeiből, amit aztán egy radikális litván katolikus szervezetbe fektetnek be? Újságírók nemzetközi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Középpárt",
+  "constituency": "Jász-Nagykun-Szolnok county, 03. no. constituency",
+  "search_name_used": "Fehér Benjámin"
+}

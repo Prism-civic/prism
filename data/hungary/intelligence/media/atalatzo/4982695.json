@@ -1,0 +1,32 @@
+{
+  "kpn_id": 4982695,
+  "candidate_name": "VERES CSABA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:53.912089+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "HorváthCsabaújabb gyanús előterjesztést nyújtott be és vont vissza, Borkai lemondott",
+      "url": "https://atlatszo.hu/mutyimondo/2019/11/08/horvath-csaba-ujabb-gyanus-eloterjesztest-nyujtott-be-es-vont-vissza-borkai-lemondott/",
+      "date": "perc",
+      "excerpt": "444.hu: HorváthCsaba: A zuglói parkolási szerződés erkölcsileg aggályos, de szakmailag jó A lap az önkormányzat honlapjára feltöltött, a frissen...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Menedékkérők kezdtek éhségsztrájkba Békéscsabán",
+      "url": "https://atlatszo.hu/kozugy/2013/10/16/menedekkerok_kezdtek_ehsegsztrajkba_bekescsaban/",
+      "date": "perc",
+      "excerpt": "Az atlatszo.hu információi szerint október 10-én 5 afrikai menedékkérő kezdett éhségsztrájkba a Bevándorlási és Állampolgársági Hivatal békéscsabai Menekültügyi Őrzött Befogadó...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Csongrád-Csanád county, 04. no. constituency",
+  "search_name_used": "Veres Csaba"
+}

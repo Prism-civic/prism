@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4020737,
+  "candidate_name": "BALLA MIHÁLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:28.130569+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Polgármestereket fenyeget a Fidesz-iroda: fizessenek elő a Magyar Időkre",
+      "url": "https://atlatszo.hu/kozugy/2017/04/06/polgarmestereket-fenyeget-a-fidesz-iroda-fizessenek-elo-a-magyar-idokre/",
+      "date": "perc",
+      "excerpt": "Több mint 20 Nógrád megyei település polgármestere kapott nemrég levelet a balassagyarmati Fidesz-irodától. A párt megyei képviselője sarkos stílusban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Fantomkalandpályák, begerjedt pályázatírók, családi projektek – így költöttük az uniós pénzt 2016-ban",
+      "url": "https://atlatszo.hu/kozpenz/2016/12/21/fantomkalandpalyak-begerjedt-palyazatirok-csaladi-projektek-igy-koltottuk-az-unios-penzt-2016-ban/",
+      "date": "perc",
+      "excerpt": "Náddal feltört biciklis kalandpálya, eliszaposodott balatoni strand, lezárt csarnokok, üres üzemépületek – egyebek mellett ezeket tapasztalták az Átlátszó munkatársai,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Kicsinállak, te szemét!” – mondta haragosának a polgármester, majd ütött",
+      "url": "https://atlatszo.hu/kozugy/2016/10/07/kicsinallak-te-szemet-mondta-haragosanak-a-polgarmester-majd-utott/",
+      "date": "perc",
+      "excerpt": "Félmillió forint pénzbüntetésre ítélték a Nógrád megyei Tolmács polgármesterét, amiért betörte haragosa orrát. Az esetet megemlítettük korábbi, helyi korrupciógyanús...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Nógrád county, 02. no. constituency",
+  "search_name_used": "Balla Mihály"
+}

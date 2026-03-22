@@ -1,0 +1,22 @@
+{
+  "kpn_id": 7813083,
+  "candidate_name": "BERKI SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:14:34.005680+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„Mi már csak egymáson segíthetünk” – interjúSándorMáriával",
+      "url": "https://atlatszo.hu/kozugy/2016/01/08/mi-mar-csak-egymason-segithetunk-interju-sandor-mariaval/",
+      "date": "perc",
+      "excerpt": "A fekete ruhás nővér közel egy éve állt ki a nyilvánosság elé az egészségügyben tapasztalható problémák miatt. Azóta felmondott és mozgalmat...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Nógrád county, 01. no. constituency",
+  "search_name_used": "Berki Sándor"
+}

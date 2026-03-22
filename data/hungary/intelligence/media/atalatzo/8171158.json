@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8171158,
+  "candidate_name": "DR. CZUCZOR GERGELY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:36.080992+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Honvédségi gépekkel a Föld körül: a Magyar Légierő legizgalmasabb 2022-es útvonalai",
+      "url": "https://atlatszo.hu/kozpenz/2022/12/31/honvedsegi-gepekkel-a-fold-korul-a-magyar-legiero-legizgalmasabb-2022-es-utvonalai/",
+      "date": "perc",
+      "excerpt": "Összefoglaltuk a magyar légierő legérdekesebb 2022-es útjait.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Szijjártó Péter legutóbbi luxusrepüléséről beszélt a Klubrádióban Erdélyi Katalin",
+      "url": "https://atlatszo.hu/impakt/2022/10/19/szijjarto-peter-legutobbi-luxusrepuleserol-beszelt-a-klubradioban-erdelyi-katalin/",
+      "date": "perc",
+      "excerpt": "A külügyminiszter először Prágába, majd onnan Moszkvába ment az egyik honvédségi Falconnal, hazafele pedig beugrott Győrbe megnézni a volt gimijét.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Szijjártó Péter a volt gimnáziumába sietett Moszkvából a honvédség luxusrepülőjén",
+      "url": "https://atlatszo.hu/kozpenz/2022/10/17/szijjarto-peter-a-volt-gimnaziumaba-sietett-moszkvabol-a-honvedseg-luxusrepulojen/",
+      "date": "perc",
+      "excerpt": "A külügyminiszter a győri bencés gimnázium állami támogatásból megvalósult új iskolaépületét tekintette meg az oroszországi tárgyalásai után.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 02. no. constituency",
+  "search_name_used": "Czuczor Gergely"
+}

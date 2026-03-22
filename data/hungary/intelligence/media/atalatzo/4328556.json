@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4328556,
+  "candidate_name": "LEHOCZKI FERENC",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:16:02.172810+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Polyák Gábor: Irányított nyilvánosság",
+      "url": "https://atlatszo.hu/kozpenz/2014/10/11/polyak-gabor-iranyitott-nyilvanossag/",
+      "date": "perc",
+      "excerpt": "Foglyul ejtett média címmel a Mérték Médiaelemző Műhely eddigi kutatásait, valamint a Fidesz médiapolitikájának jellemzőit összefoglaló tanulmánykötet jelent meg. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Somogy county, 01. no. constituency",
+  "search_name_used": "Lehoczki Ferenc"
+}

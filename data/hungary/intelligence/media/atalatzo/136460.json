@@ -1,0 +1,45 @@
+{
+  "kpn_id": 136460,
+  "candidate_name": "KUNHALMI ÁGNES",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:05:34.006050+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Szülők tüntettek a XVIII. kerületben, a tankerületi vezető lemondását követelik",
+      "url": "https://atlatszo.hu/oktatas/2025/04/11/szulok-tuntettek-a-xviii-keruletben-a-tankeruleti-vezeto-lemondasat-kovetelik/",
+      "date": "perc",
+      "excerpt": "Szülők demonstráltak tegnap este a Kapocs Iskola miatt a XVIII. kerületben, a tankerület vezetőjének lemondását követelték.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Vadvirágos Budapest” munkacímen szabadultak volna Gyurcsányéktól, de a DK leverte az ellenzéki polgármesterek lázadását a választások előtt",
+      "url": "https://atlatszo.hu/kozugy/2024/06/27/vadviragos-budapest-munkacimen-szabadultak-volna-gyurcsanyektol-de-a-dk-leverte-az-ellenzeki-polgarmesterek-lazadasat-a-valasztasok-elott/",
+      "date": "perc",
+      "excerpt": "\"Vadvirágos Budapest\" munkacímű választási projekttel próbálták csökkenteni a DK túlsúlyát budapesti polgármesterek, sikertelenül. Azonban Magyar Péter megjelenése miatt Gyurcsányék győzelme nem volt hosszú életű.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hont András: Hol fizet a Tóni? A Magyar Péter-jelenség és az újságírás",
+      "url": "https://atlatszo.hu/kozugy/2024/03/25/hont-andras-hol-fizet-a-toni-a-magyar-peter-jelenseg-es-az-ujsagiras/",
+      "date": "perc",
+      "excerpt": "Az újságírás végét jelenti, ha a közönségnek annyi elég, hogy a tegnap még a hatalom ölében ülő mellékszereplő kollaborációval gyanúsítja a sajtót.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Budapest capital, 08. no. constituency",
+  "search_name_used": "Kunhalmi Ágnes"
+}

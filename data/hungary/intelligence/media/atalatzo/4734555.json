@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4734555,
+  "candidate_name": "DR. FARKAS CSONGOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:20.107063+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Lázár János az ex-főtitkárt vonná felelősségre a Tenisz Szövetségnél eltűnt milliárdok miatt",
+      "url": "https://atlatszo.hu/kozpenz/2020/10/14/lazar-janos-az-ex-fotitkart-vonna-felelossegre-a-tenisz-szovetsegnel-eltunt-milliardok-miatt/",
+      "date": "perc",
+      "excerpt": "Július óta Lázár János (Fidesz) a Magyar Tenisz Szövetség (MTSZ) új elnöke, aki Szűcs Lajost (Fidesz) váltotta, és újabb bűnvádi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Klasszikusíró-listát kér Jordán Tamás a szombathelyi önkormányzattól, hogy tartani tudja a kvótát",
+      "url": "https://atlatszo.hu/2018/10/05/klasszikusiro-listat-ker-jordan-tamas-a-szombathelyi-onkormanyzattol-hogy-tartani-tudja-a-kvotat/",
+      "date": "perc",
+      "excerpt": "Jordán Tamás listát kér a szombathelyi önkormányzattól: kik a klasszikus drámaírók, akiket preferálnia kell – ezt a színházigazgató válaszolta érdeklődésünkre,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nem tudni, mennyibe kerül a hódmezővásárhelyi diákok évi rendszeres erdélyi utazása",
+      "url": "https://atlatszo.hu/kozugy/2018/04/10/nem-tudni-mennyibe-kerul-a-hodmezovasarhelyi-diakok-evi-rendszeres-erdelyi-utazasa/",
+      "date": "perc",
+      "excerpt": "2016 óta minden érettségi előtt álló hódmezővásárhelyi tanuló többnapos erdélyi kirándulásra megy a Rákóczi Szövetség szervezésében. A diákok Csehétfalván...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Jász-Nagykun-Szolnok county, 04. no. constituency",
+  "search_name_used": "Farkas Csongor"
+}

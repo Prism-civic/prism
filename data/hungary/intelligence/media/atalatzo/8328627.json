@@ -1,0 +1,22 @@
+{
+  "kpn_id": 8328627,
+  "candidate_name": "RÉVI ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:14:22.158129+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Pécs új vezetése feljelentést tett hűtlen kezelés miatt a POSZT színházi találkozó kapcsán",
+      "url": "https://atlatszo.hu/2020/11/26/pecs-uj-vezetese-feljelentest-tett-hutlen-kezeles-miatt-a-poszt-szinhazi-talalkozo-kapcsan/",
+      "date": "perc",
+      "excerpt": "A várost 2019 ősze óta vezető PéterffyAttilapolgármester és az önkormányzat közleményben tudatta, hogy az átvilágítás során az derült...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Jász-Nagykun-Szolnok county, 04. no. constituency",
+  "search_name_used": "Révi Attila"
+}

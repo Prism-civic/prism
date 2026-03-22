@@ -1,0 +1,23 @@
+{
+  "kpn_id": 8152368,
+  "candidate_name": "MAKULA GÁBRIEL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:09:41.977723+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Heti Mutyimondó: indul az Országos Pénzszivattyú Bajnokság",
+      "url": "https://atlatszo.hu/kozugy/2014/01/27/heti_mutyimondo_indul_az_orszagos_penzszivattyu_bajnoksag/",
+      "date": "perc",
+      "excerpt": "Ki tud percenként több közpénzt kiszivattyúzni a rendszerből, Mészáros Lőrinc vagy Kálomista Gábor? Melyik a leghatásosabb, leginnovatívabb szerkezet: az úthenger,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "NÉP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 05. no. constituency",
+  "search_name_used": "Makula Gábriel"
+}

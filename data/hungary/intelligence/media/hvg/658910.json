@@ -1,0 +1,42 @@
+{
+  "kpn_id": 658910,
+  "candidate_name": "MÜLLER ANNA",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-21T20:03:44.221277+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Megvannak az ötös lottó nyerőszámai",
+      "url": "https://hvg.hu/elet/20260321_megvannak-az-otos-lotto-nyeroszamai-ebx",
+      "date": "2026-03-21",
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Longevity a gyakorlatban Meskó Bertalannal: mit mondhat a hosszú élet titkáról egy többmilliós szűrőcsomag?",
+      "url": "https://pulzus.hvg.hu/egeszseg/20260319_hvg-mesko-bertalan-longevity-szures-medipredict",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Papp Réka Kinga: Ez a magyarázata annak, hogy a NER kitermelte önnön legesélyesebb ellenzékét",
+      "url": "https://hvg.hu/360/20260319_nem-engedunk-a-huszonhatbol-papp-reka-kinga-velemeny-hvg",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 13. no. constituency",
+  "search_name_used": "Müller Anna"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6057256,
+  "candidate_name": "DEÁK GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:56:18.017741+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Mészáros Lőrinc ügyvédjének cége tarthatja karban az Országgyűlés Hivatalának klímáit",
+      "url": "https://atlatszo.hu/kozpenz/2025/11/12/meszaros-lorinc-ugyvedjenek-cege-tarthatja-karban-az-orszaggyules-hivatalanak-klimait/",
+      "date": "perc",
+      "excerpt": "Vörös József cégével, a PR-Cooling Kft.-vel 84 millió forintos keretszerződést kötnek. A kft. 1527 db berendezés működéséért felel majd.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Turai madármérgezés: vadászatban érdekelt fél lehet az elkövető, ismerte a határokat",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/15/turai-madarmergezes-vadaszatban-erdekelt-fel-lehet-az-elkoveto-ismerte-a-hatarokat/",
+      "date": "perc",
+      "excerpt": "A természetvédelmi kár meghaladja a hat és fél millió forintot minden idők egyik legsúlyosabb madármérgezéses esetében Turán. Az első bejelentéshez...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ez lesz Mészáros Lőrinc új malma?",
+      "url": "https://atlatszo.hu/kozugy/2017/11/17/ez-lesz-meszaros-lorinc-uj-malma/",
+      "date": "perc",
+      "excerpt": "Aranka Malom Kft. néven alapított céget Mészáros Lőrinc családi vállalkozása, a Búzakalász 66 Felcsút Kft. Ilyen nevű malom a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Vas county, 02. no. constituency",
+  "search_name_used": "Deák Gábor"
+}

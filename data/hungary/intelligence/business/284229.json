@@ -1,0 +1,182 @@
+{
+  "kpn_id": 284229,
+  "candidate_name": "STEINER ATTILA",
+  "source": "e-cegjegyzek.hu",
+  "scraped_at": "2026-03-21T19:58:15.289991+00:00",
+  "item_count": 19,
+  "items": [
+    {
+      "type": "company_name_match",
+      "text": "STEINER-AUTOHOF Kft.1994",
+      "url": "https://ceginfo.hu//ceg-adatlap/dr-steiner-erika-koezjegyzoi-irodaja-0121000016.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER Építőipari Generálkivitelező Kft.2004",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-scenics-armourers-sfx-szolgaltato-es-kereskedelmi-kft-1309108473.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner Scenics Armourers SFX Szolgáltató és Kereskedelmi Kft.2006",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-gipsz-kft-0809031229.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner Gipsz Kft.2019",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-rony-lifestock-allatjoleti-szolgaltato-kft-2009073828.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER & RONY LIFESTOCK Állatjóléti Szolgáltató Kft.2013",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-hanser-kereskedelmi-es-szolgaltato-kft-0109984220.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner & Hanser Kereskedelmi és Szolgáltató Kft.2012",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-m-szolgaltato-es-kereskedelmi-kft-0809016229.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER-M Szolgáltató és Kereskedelmi Kft.2008",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-nagy-szalloda-uezemelteto-kft-0809002854.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner-Nagy Szálloda Üzemeltető Kft.1992",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-haz-epito-es-szolgaltato-kft-1409308275.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER-HÁZ Építő és Szolgáltató Kft.2008",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-trans-szolgaltato-kft-0709006617.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner Trans Szolgáltató Kft.1999",
+      "url": "https://ceginfo.hu//ceg-adatlap/dr-steiner-clinics-egeszseguegyi-kft-0109939709.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "DR. STEINER CLINICS Egészségügyi Kft.2010",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-filmgyarto-es-forgalmazo-bt-1306022925.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER Filmgyártó és Forgalmazó Bt.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-schwarz-management-zrt-0110049672.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner & Schwarz Management Zrt.2018",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-stony-kft-1109016897.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER STONY Kft.2010",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-szolgaltato-bt-vegelszamolas-alatt-0106791305.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER Szolgáltató Bt. \"végelszámolás alatt\"1999",
+      "url": "https://ceginfo.hu//ceg-adatlap/steinerscenics-fegyverbolt-kft-1309172951.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steinerscenics Fegyverbolt Kft.2014",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-takarito-es-szolgaltato-bt-0106772465.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner Takarító és Szolgáltató Bt.2005",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-2011-szolgaltato-kft-1409312093.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "STEINER 2011 Szolgáltató Kft.2011",
+      "url": "https://ceginfo.hu//ceg-adatlap/steiner-es-tarsa-gazdasagi-es-informatikai-szolgaltato-bt-0106725155.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Steiner és társa Gazdasági és Informatikai Szolgáltató Bt.1999",
+      "url": "https://ceginfo.hu/ceglista/cegek/1",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Steiner\" — manual verification required to confirm directorship"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 03. no. constituency"
+}

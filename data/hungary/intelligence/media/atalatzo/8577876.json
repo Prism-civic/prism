@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8577876,
+  "candidate_name": "VÁRADI BARNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:02.031222+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Debreceni vonalbezárás – Fontosabb az akkugyár, mint a vidék",
+      "url": "https://atlatszo.hu/orszagszerte/2025/08/28/debreceni-vonalbezaras-fontosabb-az-akkugyar-mint-a-videk/",
+      "date": "perc",
+      "excerpt": "Pár éve még sikersztori volt a felújítása, most mégis bezárnák Magyarország második legforgalmasabb mellékvonalát a CATL terjeszkedése kedvéért.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros 7,7 milliárddal lépett 8 éve a leggazdagabbak listájára, most 660 milliárddal vezeti",
+      "url": "https://atlatszo.hu/adat/2023/07/03/meszaros-77-milliarddal-lepett-8-eve-a-leggazdagabbak-listajara-most-660-milliarddal-vezeti/",
+      "date": "perc",
+      "excerpt": "Mészáros Lőrinc továbbra is az ország leggazdagabb embere, vagyona eléri a 660 milliárd forintot – derül ki a 100 leggazdagabb magyar kiadványból.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Brókercsőd, adócsalás, bennfentes kereskedelem? Hívja a Fintha-Nagy ügyvédi irodát!",
+      "url": "https://atlatszo.hu/kozpenz/2016/12/08/brokercsod-adocsalas-bennfentes-kereskedelem-hivja-a-fintha-nagy-ugyvedi-irodat/",
+      "date": "perc",
+      "excerpt": "Ádáz harc dúl a Kulcsár Attila-féle K&H-s brókerbotrányban elkezelt milliárdokért. Egy olyan üzleti kör tenyerelne rá akár a bennfentes...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Hajdú-Bihar county, 03. no. constituency",
+  "search_name_used": "Váradi Barna"
+}

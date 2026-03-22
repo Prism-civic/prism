@@ -1,0 +1,34 @@
+{
+  "kpn_id": 9527035,
+  "candidate_name": "URBIN GYÖRGY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:15:54.060516+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Fidesz-közeli, állami, és multinacionális cégek öntik a TAO-pénzt a kormány kedvenc futballklubjaiba – itt vannak a nevek és a számok",
+      "url": "https://atlatszo.hu/kozpenz/2018/07/18/fidesz-kozeli-allami-es-multinacionalis-cegek-ontik-a-tao-penzt-a-kormany-kedvenc-futballklubjaiba-itt-vannak-a-nevek-es-a-szamok/",
+      "date": "perc",
+      "excerpt": "Fél év alatt sikerült kiszednünk a Magyar Labdarúgó-szövetségből (MLSZ), hogy az elmúlt három évben melyik cégek nyújtottak TAO-támogatást egyes kormánykedvenc...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Magasfeszültség: az MVM még Simicskának tejel?",
+      "url": "https://atlatszo.hu/kozpenz/2015/06/08/magasfeszultseg-az-mvm-meg-simicskanak-tejel/",
+      "date": "perc",
+      "excerpt": "Mintha nem is lenne Simicska-Orbán háború, legalábbis az állami energiaipari óriás MVM Magyar Villamos Művek Zrt. támogatási politikája olyan, mint...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Pest county, 13. no. constituency",
+  "search_name_used": "Urbin György"
+}

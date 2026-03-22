@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3020711,
+  "candidate_name": "VÁMOS ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:28:36.094941+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Válogat az újságok között a vasi főispán; pert nyert a diszkriminált pécsi egyesület",
+      "url": "https://atlatszo.hu/orszagszerte/2023/01/29/valogat-az-ujsagok-kozott-a-vasi-foispan-pert-nyert-a-diszkriminalt-pecsi-egyesulet/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kétséges indokkal tiltotta ki a stadionból Kubatov a Fradibusz főszervezőjét",
+      "url": "https://atlatszo.hu/kozpenz/2015/07/01/ketseges-indokkal-tiltotta-ki-a-stadionbol-kubatov-a-fradibusz-foszervezojet/",
+      "date": "perc",
+      "excerpt": "A ferencvárosi klubvezetés és a csapat meccseit bojkottáló tábor tagjai közötti harcban Kubatov Gábor egyik fegyvere a stadionból való kitiltásokkal...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Így vagyonosodott a dinasztia, miközben Orbán „nem foglalkozott” üzleti ügyekkel",
+      "url": "https://atlatszo.hu/kozpenz/2025/02/14/igy-vagyonosodott-a-dinasztia-mikozben-orban-nem-foglalkozott-uzleti-ugyekkel/",
+      "date": "perc",
+      "excerpt": "A Direkt36 dokumentumfilmjének apropóján most összefoglaljuk az elmúlt közel másfél évtizedet röviden.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Vas county, 01. no. constituency",
+  "search_name_used": "Vámos Zoltán"
+}

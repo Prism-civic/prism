@@ -1,0 +1,34 @@
+{
+  "kpn_id": 3515612,
+  "candidate_name": "DR. PAJTÓK GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:44.093344+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Tehetetlen a NAIH a kormányhivatalok időhúzásával szemben",
+      "url": "https://atlatszo.hu/kozadat/2022/06/13/tehetetlen-a-naih-a-kormanyhivatalok-idohuzasaval-szemben/",
+      "date": "perc",
+      "excerpt": "A Hatóság nem szabhat ki bírságot, csak felhívhatja a figyelmet az információszabadság fontosságára és a jogszabályokra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Gázgyár épül a kisajátított földeken, a gazdák nevetséges kártérítést kapnak",
+      "url": "https://atlatszo.hu/kozugy/2016/05/12/gazgyar-epul-a-kisajatitott-foldeken-a-gazdak-nevetseges-karteritest-kapnak/",
+      "date": "perc",
+      "excerpt": "Az indiai Apollo Tyres gumigyár miatt tette rá a kezét magántulajdonú földterületekre korábban a gyöngyöshalászi önkormányzat. Most egy olasz...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Heves county, 01. no. constituency",
+  "search_name_used": "Pajtók Gábor"
+}

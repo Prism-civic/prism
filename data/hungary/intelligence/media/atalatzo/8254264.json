@@ -1,0 +1,42 @@
+{
+  "kpn_id": 8254264,
+  "candidate_name": "BODÓ LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:57:05.973954+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "„Most rossz fát pisiltél le” – levélváltásunk PestyLászlóval a székely petícióról, amihez Moszkvában talált szövetségeseket",
+      "url": "https://atlatszo.hu/kozugy/2022/03/21/most-rossz-fat-pisiltel-le-levelvaltasunk-pesty-laszloval-a-szekely-peticiorol-amihez-moszkvaban-talalt-szovetsegeseket/",
+      "date": "perc",
+      "excerpt": "A kormánypárti dokumentumfilmes és kommunikációs szakember inkorrektséggel és etikátlansággal vádolja az Átlátszó cikksorozatát, amelyben bemutattuk, hogyan fordult a keze alatt orosz irányba egy eredetileg a Székelyföld autonómiáját célzó európai uniós polgári kezdeményezés, amelynek a promóciójára",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "PestyLászlóa Partizánban reagált a cikkeinkre, amikben európai uniós muszkavezetéssel vádoltuk",
+      "url": "https://atlatszo.hu/impakt/2022/03/17/pesty-laszlo-a-partizanban-beszelt-az-atlatszo-rola-szolo-cikkeirol/",
+      "date": "perc",
+      "excerpt": "A Partizán élőben követte a március 15-i eseményeket, az Orbán Viktor beszédével megkoronázott Békemenetet és az egyesült ellenzéki pártok nagygyűlését...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "PestyLászlóa magyar adófizetők pénzéből, a székelyek nevében az oroszoknak kampányol – itt vannak az interjúk",
+      "url": "https://atlatszo.hu/kozpenz/2022/03/01/pesty-laszlo-a-magyar-adofizetok-penzebol-a-szekelyek-neveben-az-oroszoknak-kampanyol-itt-vannak-az-interjuk/",
+      "date": "perc",
+      "excerpt": "Az Átlátszó cikksorozata arról szól, hogy miképpen került Moszkva az eredetileg egy székely csoportosulás kezdeményezésére indult európai uniós aláírásgyűjtésbe, és egyáltalán hova tűntek a székelyek abból a kampányból, amit a valaha legendás dokumentumfilmes folytatott magyar állami százmilliókból ",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Zala county, 03. no. constituency",
+  "search_name_used": "Bodó László"
+}

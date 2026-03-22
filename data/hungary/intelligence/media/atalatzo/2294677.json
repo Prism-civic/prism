@@ -1,0 +1,23 @@
+{
+  "kpn_id": 2294677,
+  "candidate_name": "DR. ÁRVAY NIKOLETT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:36.103989+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Talajvízmérgezés a Vértes szívében egy Mészáros-cég telephelyén",
+      "url": "https://atlatszo.hu/orszagszerte/2026/03/04/vizmergezes-a-vertes-sziveben-egy-meszaros-ceg-telephelyen/",
+      "date": "perc",
+      "excerpt": "A cég telephelyének környezetében, Natura 2000 területek vizeiben rákkeltő és veszélyes anyagok határérték feletti jelenlétét mutatta ki egy laborvizsgálat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Komárom-Esztergom county, 03. no. constituency",
+  "search_name_used": "Árvay Nikolett"
+}

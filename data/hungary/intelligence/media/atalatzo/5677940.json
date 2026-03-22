@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5677940,
+  "candidate_name": "LAJOS MILÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:38.052648+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Fidesz az AfD felkarolásával igyekszik befolyásolni a német belpolitikát",
+      "url": "https://atlatszo.hu/vilagterkep/2025/11/27/a-fidesz-az-afd-felkarolasaval-igyekszik-befolyasolni-a-nemet-belpolitikat/",
+      "date": "perc",
+      "excerpt": "A Fidesz folyamatosan a szuverenitást hangsúlyozza, de közben a szélsőjobboldali AfD felemelésével próbálja befolyásolni a német belpolitikát.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Közel 600 milliós veszteséget termelt tavaly a MotoGP-pálya építéséért felelős cég",
+      "url": "https://atlatszo.hu/orszagszerte/2024/07/22/kozel-600-millios-veszteseget-termelt-tavaly-a-motogp-palya-epiteseert-felelos-ceg/",
+      "date": "perc",
+      "excerpt": "A határozatlan időre elhalasztott hajdúnánási MotoGP-pálya helyett már ipari parkot, gokartpályákat és egyetemi központot akarnak építeni Hajdúnánásra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kétmilliárdos veszteséget termelt tavaly a MotoGP-pálya építéséért felelős HUMDA Zrt.",
+      "url": "https://atlatszo.hu/kozugy/2023/06/15/ketmilliardos-veszteseget-termelt-tavaly-a-motogp-palya-epiteseert-felelos-humda-zrt/",
+      "date": "perc",
+      "excerpt": "Leadta beszámolóját az autó- és motorsport fejlesztéséért felelős HUMDA Zrt., ami a hajdúnánási MotoGP-pálya építésében is érintett.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Baranya county, 01. no. constituency",
+  "search_name_used": "Lajos Milán"
+}

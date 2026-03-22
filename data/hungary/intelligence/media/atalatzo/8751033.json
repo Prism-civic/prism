@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8751033,
+  "candidate_name": "TÓTH KÁLMÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:58:06.153566+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Eladósodott a Haladás; a Kúria döntése után sem állították le a CATL-gyár építését",
+      "url": "https://atlatszo.hu/mutyimondo/2023/12/03/eladosodott-a-haladas-a-kuria-dontese-utan-sem-allitottak-le-a-catl-gyar-epiteset/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kiugrott ellenzékiek indulnak a választáson Pécsett, festett körmű férfival kampányol Tiba István fideszes politikus",
+      "url": "https://atlatszo.hu/orszagszerte/2022/02/13/kiugrott-ellenzekiek-indulnak-a-valasztason-pecsett-festett-kormu-ferfival-kampanyol-tiba-istvan-fideszes-politikus/",
+      "date": "perc",
+      "excerpt": "SzabadPécs.hu: Két kiugrott pécsi városházi ellenzéki is úgy gondolta, elindul az országgyűlési választáson Bognár Szilvia, a DK kérésére leváltott pécsi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Baján az elmúlt öt év sikereivel kampányol a városvezetés, de csak korábbi ciklusok eredményeit tudják felmutatni",
+      "url": "https://atlatszo.hu/2019/08/21/bajan-az-elmult-ot-ev-sikereivel-kampanyol-a-varosvezetes-de-csak-korabbi-ciklusok-eredmenyeit-tudjak-felmutatni/",
+      "date": "perc",
+      "excerpt": "Néhány napja egy vaskos, színes kiadvány került a bajai postaládákba “Nekünk Baja az első – Beszámoló az elmúlt öt évben...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 11. no. constituency",
+  "search_name_used": "Tóth Kálmán"
+}

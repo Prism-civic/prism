@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1114604,
+  "candidate_name": "JUHÁSZ BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:54:45.968685+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Százmilliárdok az akkugyárak vízellátására, miközben a lakossági vízhálózat lepusztul",
+      "url": "https://atlatszo.hu/orszagszerte/2025/07/06/szazmilliardok-az-akkugyarak-vizellatasara-mikozben-a-lakossagi-vizhalozat-lepusztul/",
+      "date": "perc",
+      "excerpt": "Megnéztük, hogy a legnagyobb hazai akkugyárak helyszínén, Gödön, Iváncsán és Debrecenben miként folynak a Mészáros és Mészáros Zrt. kivitelezésében zajló vizes beruházások.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Vác és Sződliget is vesztese lehet a gödi iparosítás gigantomán terveinek",
+      "url": "https://atlatszo.hu/orszagszerte/2021/11/15/vac-es-szodliget-is-vesztese-lehet-a-godi-iparositas-gigantoman-terveinek/",
+      "date": "perc",
+      "excerpt": "Természetvédelmi területeken és lakóövezeteken keresztül vezetné a gödi Samsung-gyár új csatornáit a projekt kivitelezésével megbízott Mészáros és Mészáros Kft. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Egészalakos kép, „erkölcsteszt” – ezeket kérik a BME-n a gólyáktól",
+      "url": "https://atlatszo.hu/oktatas/2013/08/09/egeszalakos_kep_erkolcsteszt_ezeket_kerik_a_bme-n_a_golyaktol/",
+      "date": "perc",
+      "excerpt": "„Erkölcstesztet” töltetnek ki, egész alakos fotót és Facebook-profilt kérnek a BME Gazdaság- és Társadalomtudományi Karán a gólyatáborba jelentkezőktől. Az adatvédelmileg...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 11. no. constituency",
+  "search_name_used": "Juhász Béla"
+}

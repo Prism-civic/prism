@@ -1,0 +1,52 @@
+{
+  "kpn_id": 4813660,
+  "candidate_name": "BALOG CSABA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:40:36.122649+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Hiába feszített HendeCsabais az alapkőletételnél, befuccsolt abalogunyomi önkormányzati beruházás",
+      "url": "https://atlatszo.hu/orszagszerte/2019/08/15/hiaba-feszitett-hende-csaba-is-az-alapkoletetelnel-befuccsolt-a-balogunyomi-onkormanyzati-beruhazas/",
+      "date": "perc",
+      "excerpt": "2018. február 7-én nagy nap volt a Vas megyeiBalogunyom életében, alapkőletételre gyűlt össze a falu, még a térség fideszes...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "LatorcaiCsabaszerint „álhír”, amit a gödi akkugyár engedélye miatti perről írtunk",
+      "url": "https://atlatszo.hu/impakt/2025/02/24/latorcai-csaba-szerint-alhir-amit-a-godi-akkugyar-engedelye-miatti-perrol-irtunk/",
+      "date": "perc",
+      "excerpt": "Pedig csak beszámoltunk a tárgyalásról. Az államtitkár viszont cikkünk mellett a hatósági iratok benyújtására felszólító bírósági döntést is megkérdőjelezte.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "HorváthCsabamár most átláthatatlanabbá tenné Zuglót, ahol csak két hete polgármester",
+      "url": "https://atlatszo.hu/kozugy/2019/10/27/horvath-csaba-mar-most-atlathatatlanabba-tenne-zuglot-ahol-csak-ket-hete-polgarmester/",
+      "date": "perc",
+      "excerpt": "Az önkormányzati választáson az MSZP-s HorváthCsaba, az ellenzék közös jelöltje a szavazatok 50,33 százalékával lett polgármester. Az új képviselő-testület...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Már a rendőrség is nyomoz  abalogunyomi fantomhivatal ügyében",
+      "url": "https://atlatszo.hu/2019/08/27/mar-a-rendorseg-is-nyomoz-a-balogunyomi-fantomhivatal-ugyeben/",
+      "date": "perc",
+      "excerpt": "A polgármester tavaly novemberben még azzal nyugtatta a népeket, hogy HendeCsabasegíti ki a megrekedt építkezést a Belügyminisztérium vis...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Budapest capital, 12. no. constituency",
+  "search_name_used": "Balog Csaba"
+}

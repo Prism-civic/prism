@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1829289,
+  "candidate_name": "BÓNA ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:27:04.110124+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Másodfokon is pert nyertünk a dunavarsányi mézüzem uniós támogatásának ügyében",
+      "url": "https://atlatszo.hu/kozadat/2024/11/26/masodfokon-is-pert-nyertunk-a-dunavarsanyi-mezuzem-unios-tamogatasanak-ugyeben/",
+      "date": "perc",
+      "excerpt": "A Magyar Államkincstár nem akarja kiadni a Fulmer GmbH közel 1 milliárd forintos támogatásának iratait, de a bíróság első- és másodfokon is erre kötelezte.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Pert nyertünk a dunavarsányi mézüzem 970 milliós uniós támogatásának ügyében",
+      "url": "https://atlatszo.hu/kozadat/2024/06/03/pert-nyertunk-a-dunavarsanyi-mezuzem-970-millios-unios-tamogatasanak-ugyeben/",
+      "date": "perc",
+      "excerpt": "Az Államkincstár szerint nem nyilvános a Fulmer GmbH-nak adott közel 1 milliárd forintos EU-s támogatás iratanyaga, de a bíróság másként gondolja.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Titkolja az Államkincstár a dunavarsányi mézüzem uniós támogatásának papírjait",
+      "url": "https://atlatszo.hu/kozadat/2024/04/10/titkolja-az-allamkincstar-a-dunavarsanyi-mezuzem-unios-tamogatasanak-papirjait/",
+      "date": "perc",
+      "excerpt": "A Fulmer GmbH hazai fióktelepének 970 millió forint EU-s támogatást adott a kormány, de a kapcsolódó iratokat nem adják ki, ezért a bírósághoz fordulunk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 09. no. constituency",
+  "search_name_used": "Bóna Zoltán"
+}

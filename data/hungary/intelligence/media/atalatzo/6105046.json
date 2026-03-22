@@ -1,0 +1,32 @@
+{
+  "kpn_id": 6105046,
+  "candidate_name": "PÓCS MIKLÓS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:43:33.952962+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Ferencvárosi focista és eltiltott cégvezetők rántanák összePócsmegyer klímavédelmi programját",
+      "url": "https://atlatszo.hu/2021/06/08/ferencvarosi-focista-es-eltiltott-cegvezetok-rantanak-ossze-pocsmegyer-klimavedelmi-programjat/",
+      "date": "perc",
+      "excerpt": "Keretmegállapodást kötött egy céggel apócsmegyeri polgármester, ám a Fradi II-ben játszó ifjú labdarúgó tulajdonolta Földemért Közhasznú Nonprofit Kft.-vel nincs...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Szennyezett víztől szenvedtek apócsmegyeriek, elfuserálták a 161 milliós vízelvezetőt",
+      "url": "https://atlatszo.hu/2019/10/11/szennyezett-viztol-szenvedtek-a-pocsmegyeriek-elfuseraltak-a-161-millios-vizelvezetot/",
+      "date": "perc",
+      "excerpt": "Nem tette boldogabbá apócsmegyeriek életét az a csapadékvíz-elvezetésre szolgáló tározórendszer, aminek nyáron fejeződött be az építése. A bűzlő, túlcsorduló...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Győr-Moson-Sopron county, 02. no. constituency",
+  "search_name_used": "Pócs Miklós"
+}

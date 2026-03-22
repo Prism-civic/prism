@@ -1,0 +1,45 @@
+{
+  "kpn_id": 63442,
+  "candidate_name": "VARGA BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:18.025620+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Hatalom, szórakoz(tat)ás, identitás – a magyar kultúripar dübörgése",
+      "url": "https://atlatszo.hu/kult/2024/02/23/hatalom-szorakoztatas-identitas-a-magyar-kulturipar-duborgese/",
+      "date": "perc",
+      "excerpt": "A Populáris kultúra és politika című kötetben három blokkban hét tanulmány szerepel a témáról.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Ezzel a beruházással a jövő költözik be Gödre” – Orbánék eddig csak szépeket mondtak a Samsung akkugyáráról",
+      "url": "https://atlatszo.hu/kornyezet/2026/02/27/ezzel-a-beruhazassal-a-jovo-koltozik-be-godre-orbanek-eddig-csak-szepeket-mondtak-a-samsung-akkugyararol/",
+      "date": "perc",
+      "excerpt": "Orbán Viktor miniszterelnök, Szijjártó Péter külügyminiszter és Tuzson Bence, a térség országgyűlési képviselője egekig magasztalta a gödi akkugyárat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A rendész pizzát rendelt neki, majd megpróbálta beszervezni egy bűnbandába",
+      "url": "https://atlatszo.hu/kozugy/2026/01/05/a-rendesz-pizzat-rendelt-neki-majd-megprobalta-beszervezni-egy-bunbandaba/",
+      "date": "perc",
+      "excerpt": "„A rendészek rendszeresen verték a fiúkat ott, ahová nem látott a kamera” – a Debreceni Javítóintézetben történt bántalmazásokról, visszaélésekről és eltussolásról számol be egy egykori intézetis.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Borsod-Abaúj-Zemplén county, 03. no. constituency",
+  "search_name_used": "Varga Balázs"
+}

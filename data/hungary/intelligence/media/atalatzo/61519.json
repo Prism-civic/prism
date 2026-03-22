@@ -1,0 +1,45 @@
+{
+  "kpn_id": 61519,
+  "candidate_name": "MUCSI TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:51:38.105499+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Közpénzből gyarapodik, mégis kimaradt a vagyonnyilatkozatból a roma elnök cége",
+      "url": "https://atlatszo.hu/orszagszerte/2021/11/03/kozpenzbol-gyarapodik-megis-kimaradt-a-vagyonnyilatkozatbol-a-roma-elnok-cege/",
+      "date": "perc",
+      "excerpt": "Komoly referenciákkal rendelkező cégeket vert meg közbeszerzésen a makói Roma Nemzetiségi Önkormányzat elnökének és egyik képviselőjének cége, így ők nyírhatják...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Szépségverseny győztese felelhet Esztergom kommunikációjáért, Dél-Somogyról lemondtak",
+      "url": "https://atlatszo.hu/2021/01/31/szepsegverseny-gyoztese-felelhet-esztergom-kommunikaciojaert-del-somogyrol-lemondtak/",
+      "date": "perc",
+      "excerpt": "Esztergomlive.hu: Havi bruttó 700 ezer városkommunikációra és honlapüzemeltetésre Esztergom polgármestere 2020 tavaszán döntött arról, hogy havi bruttó 700 ezer forintért...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Félmilliárddal meghaladta az árajánlat a fürdőre szánt összeget, mégis túl olcsónak találták",
+      "url": "https://atlatszo.hu/2020/11/16/felmilliarddal-meghaladta-az-arajanlat-a-furdore-szant-osszeget-megis-tul-olcsonak-talaltak/",
+      "date": "perc",
+      "excerpt": "Kicsivel több mint 4 milliárd forintos ajánlatot adott a makói fürdő bővítésre a szegedi Dél-Konstrukt, de nem lett nyertes, arra...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Csongrád-Csanád county, 04. no. constituency",
+  "search_name_used": "Mucsi Tamás"
+}

@@ -1,0 +1,52 @@
+{
+  "kpn_id": 3924566,
+  "candidate_name": "KÁLMÁN OLGA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:54:14.013859+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "KálmánOlgánál is téma volt az azeri feketekassza és a baltás gyilkos",
+      "url": "https://atlatszo.hu/impakt/2017/09/08/kalman-olganal-is-tema-volt-az-azeri-feketekassza-es-a-baltas-gyilkos/",
+      "date": "perc",
+      "excerpt": "2,9 milliárd dollár, azaz forintra átváltva közel nyolcszáz milliárd forint nyomára bukkant az OCCRP oknyomozó projekt, benne az Átlátszó....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Nehéz dolgavan a leendő egyetemistáknak, drága albérlettel, kollégiumi várólistákkal kell számolniuk",
+      "url": "https://atlatszo.hu/oktatas/2023/07/28/nehez-dolga-van-a-leendo-egyetemistaknak-draga-alberlettel-kollegiumi-varolistakkal-kell-szamolniuk/",
+      "date": "perc",
+      "excerpt": "Lakhatási körképünkben bemutatjuk, milyen lehetőségek közül választhatnak az elsőéves hallgatók, akik a napokban nyertek felvételt az egyetemekre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Gyerekeire íratta palotáját a SzéllKálmántér csődbe ment kivitelezője",
+      "url": "https://atlatszo.hu/kozpenz/2017/04/04/gyerekeire-iratta-palotajat-a-szell-kalman-ter-csodbe-ment-kivitelezoje/",
+      "date": "perc",
+      "excerpt": "A SzéllKálmántér 5,3 milliárd forintos felújítását végző Wis Holding Zrt. ellen csődeljárást rendelt el a bíróság. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Itt vannak a SzéllKálmántéri óra meghiúsult high-tech látványtervei",
+      "url": "https://atlatszo.hu/kozpenz/2017/01/30/itt-vannak-a-szell-kalman-teri-ora-meghiusult-high-tech-latvanytervei/",
+      "date": "perc",
+      "excerpt": "A budapesti Moszkva, avagy SzéllKálmántéren a közösség kezébe vette az óra alakítását: kisebb-nagyobb órákkal és más tárgyakkal...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 04. no. constituency",
+  "search_name_used": "Kálmán Olga"
+}

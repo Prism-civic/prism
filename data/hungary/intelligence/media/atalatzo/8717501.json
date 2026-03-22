@@ -1,0 +1,32 @@
+{
+  "kpn_id": 8717501,
+  "candidate_name": "SZIN RICHÁRD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:58:30.152602+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Joe Biden népszerűsége egy év alatt Donald Trumpszintjére esett vissza",
+      "url": "https://atlatszo.hu/adat/2022/02/04/joe-biden-nepszerusege-egy-ev-alatt-donald-trump-szintjere-esett-vissza/",
+      "date": "perc",
+      "excerpt": "2020. november 3-án Joe Bident megválasztották az Amerikai Egyesült Államok 46. elnökévé, hivatalát pedig 2021. január 20-án foglalhatta el. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Állami pénzből oszt iskolatáskát a határon túli magyaroknak a Fidesz-közeli szervezet",
+      "url": "https://atlatszo.hu/kozpenz/2025/12/15/allami-penzbol-oszt-iskolataskat-a-hataron-tuli-magyaroknak-a-fidesz-kozeli-szervezet/",
+      "date": "perc",
+      "excerpt": "A Rákóczi Szövetség évesszinten milliárdokat kap a magyar kormánytól. Az ő létesítményükben tartották a Harcosok Klubja \"edzőtáborát\" is.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 15. no. constituency",
+  "search_name_used": "Szin Richárd"
+}

@@ -1,0 +1,34 @@
+{
+  "kpn_id": 6654645,
+  "candidate_name": "BÁNNÉ DR. GÁL BOGLÁRKA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:12.086757+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Két dűlőút készült 620 millióból, jövőre esküt kell tenniük a tanároknak",
+      "url": "https://atlatszo.hu/mutyimondo/2023/08/04/ket-dulout-keszult-620-milliobol-jovore-eskut-kell-tenniuk-a-tanaroknak/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Háború Európa éléskamrájában: 10 éve nem látott magasságokban a kukorica ára",
+      "url": "https://atlatszo.hu/adat/2022/03/10/52368/",
+      "date": "perc",
+      "excerpt": "Ukrajna a világ negyedik legnagyobb kukorica exportőre, az EU első számú beszállítója, épp ezért az ukrán-orosz konfliktus jelentős hatással van...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 05. no. constituency",
+  "search_name_used": "Bánné Gál Boglárka"
+}

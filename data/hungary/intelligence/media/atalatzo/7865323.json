@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7865323,
+  "candidate_name": "DR. PÓCS ALFRÉD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:18.237259+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Tömegtüntetés nem igazán, kamupártos adatgyűjtés viszont még összejöhet vírustagadásból",
+      "url": "https://atlatszo.hu/kozugy/2020/08/17/tomegtuntetes-nem-igazan-kamupartos-adatgyujtes-viszont-meg-osszejohet-virustagadasbol/",
+      "date": "perc",
+      "excerpt": "Dezinformációs híradónkban a háttérhatalom ellen küzdő konteómetálos figura szervez sikertelen tüntetést a zenészekért, Gődény csoportja pedig új hírszájtot indít és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A járványügyi korlátozások elleni tüntetéssel tért vissza az oroszbarát székelygárdista",
+      "url": "https://atlatszo.hu/kozpenz/2020/07/17/a-jarvanyugyi-korlatozasok-elleni-tuntetessel-tert-vissza-az-oroszbarat-szekelygardista/",
+      "date": "perc",
+      "excerpt": "Csibi Barna oroszbarát székely aktivista is megjelent a magyar nyelvű koronavírusos dezinformációs játszótéren. Csibi az általa szerkesztett Ruszin Kárpátalja blogon...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A rendőrség bohócokat kerget, a konteócsatornák zavartalanul nyomják a koronás hülyeséget",
+      "url": "https://atlatszo.hu/kozpenz/2020/04/28/a-rendorseg-bohocokat-kerget-a-konteocsatornak-zavartalanul-nyomjak-a-koronas-hulyeseget/",
+      "date": "perc",
+      "excerpt": "Hiába a rémhírterjesztésre vonatkozó törvényi szigorítás, a koronavírus-járványra építkező fantazmagóriákat szabadon terjesztik a magyar online összeesküvéselmélet-univerzum konteógyárosai. Az összeesküvés-elméletek burjánzására...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "NEEM",
+  "constituency": "Heves county, 01. no. constituency",
+  "search_name_used": "Pócs Alfréd"
+}

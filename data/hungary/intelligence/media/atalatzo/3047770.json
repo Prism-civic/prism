@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3047770,
+  "candidate_name": "JANZSÓ TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:11:42.120171+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Uniós fejlesztési forrásokból romhalmaz – a rakamazi turisztikai projektek",
+      "url": "https://atlatszo.hu/kozpenz/2016/11/23/unios-fejlesztesi-forrasokbol-romhalmaz-a-rakamazi-turisztikai-projektek/",
+      "date": "perc",
+      "excerpt": "Bedöglött projektek szegélyezik az utat, ami a hírhedtté vált rakamazi Teknősház és vízi tanösvény teljes kudarcához vezetett. Az elfüstölt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Itt járt Rogán táskás embere, aki ott sem volt",
+      "url": "https://atlatszo.hu/mutyimondo/2016/11/13/itt-jart-rogan-taskas-embere-aki-ott-sem-volt/",
+      "date": "perc",
+      "excerpt": "Ezekről ne maradj le! Rogán táskás emberének nyomait sem lehet teljesen eltűntetni (Index) Hiába az uniós támogatások, ha a pályázatíró...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A rakamazi pénzszivattyú: így égette el egy dörzsölt pályázatíró a kisváros uniós pénzeit",
+      "url": "https://atlatszo.hu/kozpenz/2016/11/11/a-rakamazi-penzszivattyu-igy-egette-el-egy-dorzsolt-palyazatiro-a-kisvaros-unios-penzeit/",
+      "date": "perc",
+      "excerpt": "Nemrég egy rövid pillanatra az országos érdeklődés középpontjába került Rakamaz: az eddig 800 millió forintba került Nagy-Morotva Vizi tanösvény-projekt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A Magyar Vállalkozók és",
+  "constituency": "Fejér county, 05. no. constituency",
+  "search_name_used": "Janzsó Tamás"
+}

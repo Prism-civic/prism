@@ -1,0 +1,32 @@
+{
+  "kpn_id": 9141770,
+  "candidate_name": "VINCZE MIKLÓS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:15:50.027340+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Tenderek és emberek: közbeszerzésekről az Átlátszó-podcastban",
+      "url": "https://atlatszo.hu/mutyimondo/2023/11/27/tenderek-es-emberek-kozbeszerzesekrol-az-atlatszo-podcastban/",
+      "date": "perc",
+      "excerpt": "A Mutyimondó Extra vendége LigetiMiklósésVinczeOrsolya volt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Drónvideó: üresen áll a 2,4 milliárd forintból épült luxus-teniszakadémia Kisvárda mellett",
+      "url": "https://atlatszo.hu/kozpenz/2021/11/05/dronvideo-uresen-all-a-24-milliard-forintbol-epult-luxus-teniszakademia-kisvarda-mellett/",
+      "date": "perc",
+      "excerpt": "Megnéztük a nettó 2,4 milliárd forintból épült luxus-teniszakadémiát Kisvárda mellett, amit a volt fejlesztési miniszterhez, SesztákMiklóshoz köthető alapítvány húzott...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Pest county, 12. no. constituency",
+  "search_name_used": "Vincze Miklós"
+}

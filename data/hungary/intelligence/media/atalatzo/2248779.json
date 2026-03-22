@@ -1,0 +1,32 @@
+{
+  "kpn_id": 2248779,
+  "candidate_name": "GY. NÉMETH ERZSÉBET",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:49:38.052511+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "„Köztisztviselő vagyok, nem kutya” – interjú a VII. kerületi bérlakásbiznisz miatt kirúgott jogásszal",
+      "url": "https://atlatszo.hu/kozpenz/2016/05/25/koztisztviselo-vagyok-nem-kutya-interju-a-vii-keruleti-berlakasbiznisz-miatt-kirugott-jogasszal/",
+      "date": "perc",
+      "excerpt": "A VII. kerületi bérlakásbizniszre felfigyelőNémethMárton 2010 óta dolgozott a Főpolgármesteri Hivatalban. Három évig a humán-főosztályon, majd 2013 decemberétől...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Vélemény: A Pázmány bizony egykorrekt intézmény",
+      "url": "https://atlatszo.hu/oktatas/2014/02/06/velemeny_a_pazmany_bizony_egy_korrekt_intezmeny/",
+      "date": "perc",
+      "excerpt": "Véleménycikk következik két vendégszerzőnktől, Lolkától és Bolkától. Őszintén szólva nagyon meglepődtünk, amikor elolvastukNémethÁdám Géza „elemzését” Frivaldszky János jogelmélet...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 15. no. constituency",
+  "search_name_used": "Gy. Németh Erzsébet"
+}

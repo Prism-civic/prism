@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4402590,
+  "candidate_name": "POGÁCSÁS TIBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:27:20.100933+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A letelepedési kötvényekig nyúlnak a monori ingatlanügyletek szálai",
+      "url": "https://atlatszo.hu/kozugy/2017/04/03/a-letelepedesi-kotvenyekig-nyulnak-a-monori-ingatlanugyletek-szalai/",
+      "date": "perc",
+      "excerpt": "Az egyik letelepedési kötvényt árusító cégbe ésPogácsásTiborvolt monori polgármesterbe, illetve jelenlegi államtitkárba lehet belefutni az Átlátszó...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 12. no. constituency",
+  "search_name_used": "Pogácsás Tibor"
+}

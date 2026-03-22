@@ -1,0 +1,34 @@
+{
+  "kpn_id": 7675182,
+  "candidate_name": "BÖJTE ZITA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:15:10.029317+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Best of 2017 – az elmúlt év legnépszerűbb cikkei és blogposztjai az Átlátszón",
+      "url": "https://atlatszo.hu/kozpenz/2017/12/31/best-of-2017-az-elmult-ev-legnepszerubb-cikkei-es-blogposztjai-az-atlatszon/",
+      "date": "perc",
+      "excerpt": "Az elmúlt év legolvasottabb és legidézettebb cikkei és blogposztjai toplistákba rendezve. Köszönjük az egész éves figyelmet, jövőre innen folytatjuk!...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Jogászbál: az úriember az a vadállat, aki valameddig bír várni",
+      "url": "https://atlatszo.hu/oktatas/2016/03/24/jogaszbal-az-urimeber-az-a-vadallat-aki-valameddig-bir-varni/",
+      "date": "perc",
+      "excerpt": "A Budapesti Jogászbál hivatalos Facebook-oldala szerint a nők prédák, a férfiak pedig vadállatok, akik egy darabig tudnak várni. Hogy mire...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Pest county, 05. no. constituency",
+  "search_name_used": "Böjte Zita"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4980918,
+  "candidate_name": "DOBOS ERZSÉBET",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:56:13.964008+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Sámándob újjáépítésének ára közel 50 százalékkal drágább a tavalyi ajánlatoknál",
+      "url": "https://atlatszo.hu/2021/08/25/a-samandob-ujjaepitesenek-ara-kozel-50-szazalekkal-dragabb-a-tavalyi-ajanlatoknal/",
+      "date": "perc",
+      "excerpt": "Most 3,8 milliárd forintért varázsolják újjá a Sámándobot Karcagon, holott tavaly a 2,6 milliárd forintos ajánlatokra sem volt elég pénze...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Régi politikusok, hírességek és kutatók is helyet kaptak a fővárosi cégek felügyelőbizottságaiban",
+      "url": "https://atlatszo.hu/kozugy/2020/02/13/regi-politikusok-hiressegek-es-kutatok-is-helyet-kaptak-a-fovarosi-cegek-felugyelobizottsagaiban/",
+      "date": "perc",
+      "excerpt": "A Fővárosi Közgyűlés november 5-i, november 27-i illetve december 11-i ülésein több tucat önkormányzati cég és kulturális intézmény igazgatósági és felügyelőbizottsági tagjairól...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Kétfarkú Kutyapárt Békemenetén nem vertek meg senkit – nézze meg, milyen volt!",
+      "url": "https://atlatszo.hu/impakt/2018/03/16/marcius15_kutyapart_bekemenet/",
+      "date": "perc",
+      "excerpt": "„Az elnök úr rájött, hogy a béke nem minőségi, hanem mennyiségi kérdés. Minél több Békemenet van, annál jobb. Mi lehet...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Tolna county, 03. no. constituency",
+  "search_name_used": "Dobos Erzsébet"
+}

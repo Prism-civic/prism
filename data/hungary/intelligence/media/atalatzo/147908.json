@@ -1,0 +1,22 @@
+{
+  "kpn_id": 147908,
+  "candidate_name": "SZABÓ PATRIK",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:28.107819+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Fészket rakott és üzletelni kezdett a svéd szélsőjobb Budapesten",
+      "url": "https://atlatszo.hu/kozpenz/2016/04/04/feszket-rakott-es-uzletelni-kezdett-a-sved-szelsojobb-budapesten/",
+      "date": "perc",
+      "excerpt": "Orbán-rajongó svéd szélsőjobbos expolitikusok tették át székhelyüket Budapestre az utóbbi években. Erik Almqvist ésPatrikBrinkmann bevándorlásellenes pártok kulcsemberei voltak,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Bács-Kiskun county, 03. no. constituency",
+  "search_name_used": "Szabó Patrik"
+}

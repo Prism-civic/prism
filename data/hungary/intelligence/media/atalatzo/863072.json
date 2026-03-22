@@ -1,0 +1,23 @@
+{
+  "kpn_id": 863072,
+  "candidate_name": "GÖRÖGHNÉ BOCSKAI ÉVA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:34:52.099936+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„Ez a polip engem nagyon fojtogat” – videóriport a Fidesz utáni Hajdúböszörményből",
+      "url": "https://atlatszo.hu/orszagszerte/2025/11/09/ez-a-polip-engem-nagyon-fojtogat-videoriport-a-fidesz-utani-hajduboszormenybol/",
+      "date": "perc",
+      "excerpt": "Cikkünk nyomán eljárások indultak a városban korrupciógyanús közbeszerzések miatt. Az új, civil polgármester elmesélte, hogyan küzd a korábban mindent elnyerő cég ellen.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Hajdú-Bihar county, 06. no. constituency",
+  "search_name_used": "Göröghné Bocskai Éva"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8885131,
+  "candidate_name": "HORVÁTH ANNAMÁRIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:07:17.964362+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Összeférhetetlenségi eljárást kezdeményeztek az energiahatóság vezetője ellen",
+      "url": "https://atlatszo.hu/kozugy/2014/12/08/osszeferhetetlensegi-eljarast-kezdemenyeztek-az-energiahatosag-vezetoje-ellen/",
+      "date": "perc",
+      "excerpt": "November 21-én írtuk meg, hogy a Magyar Energetikai és Közmű-szabályozási Hivatal (MEKH) elnöke, Dorkota Lajos a tavaly július 1-i kinevezése...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Már 191 tanár bojkottálja a portfóliót",
+      "url": "https://atlatszo.hu/oktatas/2014/02/26/mar_191_tanar_bojkottalja_a_portfoliot/",
+      "date": "perc",
+      "excerpt": "Elsőként az Átlátszó Oktatás számolt be a Hívatlanul csoporthoz kötődő kezdeményezésről, melynek keretében a közoktatásban dolgozó tanárok által elkészítendő portfólió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Több tucat kamupárt startolhat rá az állami százmilliókra",
+      "url": "https://atlatszo.hu/kozpenz/2014/02/12/tobb-tucat-kamupart-startolhat-ra-az-allami-szazmilliokra/",
+      "date": "perc",
+      "excerpt": "Rendesen felpörgette a pártalapítási kedvet az a pártonként 150-700 millió forint, amit az országos listát állító pártok kaphatnak az államtól...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Bács-Kiskun county, 04. no. constituency",
+  "search_name_used": "Horváth Annamária"
+}

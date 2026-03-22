@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1778115,
+  "candidate_name": "KOVÁCS IMRE ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:08:26.027210+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Áder János alapítványa körül bukkant fel az Elios-ügyből ismert egyik vállalkozó",
+      "url": "https://atlatszo.hu/kozpenz/2024/08/07/ader-janos-alapitvanya-korul-bukkant-fel-az-elios-ugybol-ismert-egyik-vallalkozo/",
+      "date": "perc",
+      "excerpt": "Lattman Gábor az Elioshoz köthető egyik off-shore cég igazgatója volt. Most egyik vállalkozásával a Kék Bolygó Alapítvány cégének dolgozhat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Romsics Ignác sok munkával lett mezítlábas parasztgyerekből történészprofesszor",
+      "url": "https://atlatszo.hu/kult/2024/02/09/romsics-ignac-sok-munkaval-lett-mezitlabas-parasztgyerekbol-torteneszprofesszor/",
+      "date": "perc",
+      "excerpt": "Romsics Ignác kétkötetes önéletrajza betekintés nyújt a történészprofesszor magánéletébe is, de szaftos pletykákra senki ne számítson.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Másodjára is megtervezik a Semmelweis Egyetem gyógyszerkutatási centrumát",
+      "url": "https://atlatszo.hu/kozpenz/2023/09/14/masodjara-is-megtervezik-a-semmelweis-egyetem-gyogyszerkutatasi-centrumat/",
+      "date": "perc",
+      "excerpt": "A 2021-ben alapítványi tulajdonba került egyetem nem kapott az államtól 30 milliárdot a projektre, de nem tett le róla: most \"forráselemzést\" készít.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Borsod-Abaúj-Zemplén county, 02. no. constituency",
+  "search_name_used": "Kovács Imre István"
+}

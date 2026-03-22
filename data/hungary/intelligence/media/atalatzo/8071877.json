@@ -1,0 +1,34 @@
+{
+  "kpn_id": 8071877,
+  "candidate_name": "HALMAI FERENC TIBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:35:12.104076+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Stadionláz, 3. rész: Minden út Felcsútra vezet – a stadionépítő cégek toplistája",
+      "url": "https://atlatszo.hu/kozpenz/2016/06/30/stadionlaz-3-resz-minden-ut-felcsutra-vezet-a-stadionepito-cegek-toplistaja/",
+      "date": "perc",
+      "excerpt": "Átnéztük a vonatkozó közbeszerzéseket és 60 milliárd forintnyi, stadionfejlesztésekhez kötődő megbízást találtunk. Nem meglepő, hogy a nagy nyertesek között...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Veszélyben a pécsi jogi kar?",
+      "url": "https://atlatszo.hu/oktatas/2013/11/05/veszelyben_a_pecsi_jogi_kar/",
+      "date": "perc",
+      "excerpt": "Nyílt levélben tiltakoznak jogászok, a Pécsi Tudományegyetem volt és jelenlegi tanárai, illetve egy sor további értelmiségi a tervezett tömeges elbocsátások...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Jász-Nagykun-Szolnok county, 02. no. constituency",
+  "search_name_used": "Halmai Ferenc Tibor"
+}

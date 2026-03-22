@@ -1,0 +1,23 @@
+{
+  "kpn_id": 5282659,
+  "candidate_name": "HATALA-OROSZ CSABA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:32:40.092500+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Az ország legfideszesebb települései: ahol a kormánypárt minden szavazatot bezsebelt 2022-ben",
+      "url": "https://atlatszo.hu/adat/2026/02/18/az-orszag-legfideszesebb-telepulesei-ahol-a-kormanypart-minden-szavazatot-bezsebelt-2022-ben/",
+      "date": "perc",
+      "excerpt": "A 2022-es országgyűlési választáson észak-magyarországi aprófalvakban nyert a legnagyobb arányban a Fidesz–KDNP, volt, ahol az összes szavazatot megszerezte.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Borsod-Abaúj-Zemplén county, 04. no. constituency",
+  "search_name_used": "Hatala-orosz Csaba"
+}

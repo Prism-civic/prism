@@ -1,0 +1,22 @@
+{
+  "kpn_id": 6768164,
+  "candidate_name": "DR. KONCZ ZSÓFIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:16.091519+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Öt éve környezethasználati engedély nélkül működik a gödi akkugyár",
+      "url": "https://atlatszo.hu/kozugy/2023/10/09/ot-eve-kornyezethasznalati-engedely-nelkul-mukodik-a-godi-akkugyar/",
+      "date": "perc",
+      "excerpt": "Megindult a környezetvédelmi felülvizsgálati eljárás – válaszoltaKonczZsófiaenergiaügyi államtitkár a gyár engedély nélküli működését firtató kérdésre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 06. no. constituency",
+  "search_name_used": "Koncz Zsófia"
+}

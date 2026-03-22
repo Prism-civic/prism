@@ -1,0 +1,42 @@
+{
+  "kpn_id": 8217490,
+  "candidate_name": "DR. VITÁLYOS ESZTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:44.105110+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Megígérte. Megcsinálta? Ezzel kampányoltVitályosEszternégy éve",
+      "url": "https://atlatszo.hu/kozugy/2026/02/25/megigerte-megcsinalta-ezzel-kampanyolt-vitalyos-eszter-negy-eve/",
+      "date": "perc",
+      "excerpt": "A 11-es út felújítása, új mentőállomás és egy intermodális csomópont is szerepelt a 2022-es ígéretek között. Megnéztük, mi valósult meg a bejelentésekből azóta.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "“Vérlázító, nevetséges”  –VitályosEszterkormányszóvivő is ellenzi a csobánkai bányanyitást",
+      "url": "https://atlatszo.hu/orszagszerte/2024/10/11/verlazito-nevetseges-vitalyos-eszter-kormanyszovivo-is-ellenzi-a-csobankai-banyanyitast/",
+      "date": "perc",
+      "excerpt": "Lakossági fórumon tiltakoztak a megjelentek Csobánkán a dolomitbánya újranyitása és inert hulladékkal való feltöltése ellen.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "VitályosEszteraz új kormányszóvivő; egy fél rendezvény árát spórolták meg Komlón",
+      "url": "https://atlatszo.hu/mutyimondo/2024/03/30/vitalyos-eszter-az-uj-kormanyszovivo-egy-fel-rendezveny-arat-sporoltak-meg-komlon/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 04. no. constituency",
+  "search_name_used": "Vitályos Eszter"
+}

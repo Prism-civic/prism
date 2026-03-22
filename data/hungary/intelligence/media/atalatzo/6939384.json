@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6939384,
+  "candidate_name": "GYOPÁROS ALPÁR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:08.083916+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Nem mindenütt ért célba a kormánypárti propaganda a választás előtt",
+      "url": "https://atlatszo.hu/orszagszerte/2024/07/22/nem-mindenutt-ert-celba-a-kormanyparti-propaganda-a-valasztas-elott/",
+      "date": "perc",
+      "excerpt": "A vidéki lapokban gyakran ugyanazt a tematikát kínálták: háborús narratíva, békemenet, béke, kötelező európai sorkatonaság.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Budapest-Esztergom vasútvonal: évi 2,2 millióról 5,8 millióra nőtt az utasszám – ezt jelenti a normális vonat és a felújított pálya",
+      "url": "https://atlatszo.hu/kozadat/2023/08/23/budapest-esztergom-vasutvonal-evi-22-milliorol-58-milliora-nott-az-utasszam-ezt-jelenti-a-normalis-vonat-es-felujitott-palya/",
+      "date": "perc",
+      "excerpt": "Két példán keresztül mutatjuk be, hogy vasútvonalak bezárása helyett mit lehetne elérni fejlesztéssekkel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Elbillent. Túl a sztorizgatáson: az ellenzéki bukás valódi oka",
+      "url": "https://atlatszo.hu/adat/2022/05/27/elbillent-tul-a-sztorizgatason-az-ellenzeki-bukas-valodi-oka/",
+      "date": "perc",
+      "excerpt": "Április 3. drámaian rajzolta át az ország választási térképét. Ábrákon mutatjuk, hogy mennyire, és hogy miként tűnt el az ellenzék az ország egyes vidékeiről.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Győr-Moson-Sopron county, 03. no. constituency",
+  "search_name_used": "Gyopáros Alpár"
+}

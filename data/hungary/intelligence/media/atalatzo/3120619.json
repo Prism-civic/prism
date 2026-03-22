@@ -1,0 +1,34 @@
+{
+  "kpn_id": 3120619,
+  "candidate_name": "BORSOS GYULA ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:57.999730+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Megmutatták a honvédségi luxusrepülőket, és fű alatt osztják a turisztikai támogatásokat",
+      "url": "https://atlatszo.hu/mutyimondo/2020/02/28/megmutattak-a-honvedsegi-luxusrepuloket-es-fu-alatt-osztjak-a-turisztikai-tamogatasokat/",
+      "date": "perc",
+      "excerpt": "Index: Kényelmes bőrfotelek és díszes faborítás látható a Magyar Honvédségnek vásárolt repülőn Kihelyezett ülést tartott az országgyűlés honvédelmi bizottsága Kecskeméten, a Magyar...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Uniós testtérkép kérdőjelekkel III. – Parabolikus doktorok a magánklinikán",
+      "url": "https://atlatszo.hu/kozpenz/2012/06/19/unios-testterkep-kerdojelekkel-iii-parabolikus-doktorok-a-maganklinikan/",
+      "date": "perc",
+      "excerpt": "Cikkorozatunk eddigi részeiben bemutattuk, hogy számos kérdést felvet a Body Map Kft. uniós támogatása, kiderítettük, hogy sokkal olcsóbban is beszerezhetők...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Zala county, 01. no. constituency",
+  "search_name_used": "Borsos Gyula Zoltán"
+}

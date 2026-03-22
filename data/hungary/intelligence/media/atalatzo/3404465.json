@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3404465,
+  "candidate_name": "RÓNAI SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:54:18.587081+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Foggal-körömmel védte a kormány a gödi akkugyárat a parlamentben az elmúlt években",
+      "url": "https://atlatszo.hu/kornyezet/2026/02/17/foggal-korommel-vedte-a-kormany-a-godi-akkugyarat-a-parlamentben-az-elmult-evekben/",
+      "date": "perc",
+      "excerpt": "Folyamatosan azt állították, hogy a Samsung kapcsán a \"baloldal\" politikai haszonszerzés érdekében rémhíreket terjeszt és hangulatkeltést végez.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Pumpapályás rendezvényparkot építene a dunakeszi önkormányzat egy zöldterületre",
+      "url": "https://atlatszo.hu/orszagszerte/2025/08/18/pumpapalyas-rendezvenyparkot-epitene-a-dunakeszi-onkormanyzat-egy-zoldteruletre/",
+      "date": "perc",
+      "excerpt": "Természetvédelmi területet is érintő új szabadidőközpont létesülne Dunakeszin, a tiltakozókat a városvezetés szerint csak az ellenzéki pártok hergelik.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A helyiek tiltakozása ellenére, természetvédelmi területen húztak fel egy kerítést a dunakeszi lovastelep szélén",
+      "url": "https://atlatszo.hu/2021/10/08/a-helyiek-tiltakozasa-ellenere-termeszetvedelmi-teruleten-huztak-fel-egy-keritest-a-dunakeszi-lovastelep-szelen/",
+      "date": "perc",
+      "excerpt": "Sebtiben húzott fel egy szögesdrót kerítést a Kincsem Nemzeti Kft. a dunakeszi-alagi tréningpályán, elzárva így a helyieket a lovastelep szabad...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 05. no. constituency",
+  "search_name_used": "Rónai Sándor"
+}

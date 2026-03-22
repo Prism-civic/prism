@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2222159,
+  "candidate_name": "OLÁH ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:09:18.197972+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Vállalkozóktól kérjenek adományt az iskolának – ajánlotta az igazgató a diákoknak",
+      "url": "https://atlatszo.hu/orszagszerte/2024/10/24/vallalkozoktol-kerjenek-adomanyt-az-iskolanak-ajanlotta-az-igazgato-a-diakoknak/",
+      "date": "perc",
+      "excerpt": "Havi 50 ezer forint költséghozzájárulást kért a diákoktól az iskolaigazgató, miután a Magyar Államkincstár megvonta az iskolától az állami támogatást.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Főkertnél is kaszált a parkfenntartási bizniszben utazó nyerő négyes",
+      "url": "https://atlatszo.hu/kozpenz/2024/07/18/a-fokertnel-is-kaszalt-a-parkfenntartasi-bizniszben-utazo-nyero-negyes/",
+      "date": "perc",
+      "excerpt": "Az önkormányzatoknál füvet nyíró, kartellgyanús vállalkozói körről már többen írtak, az Átlátszó most egy eddig felderítetlen szálnak eredt nyomába.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kipereltük, mennyiért államosították az ingyen tankönyveket gyártó Alföldi Nyomdát",
+      "url": "https://atlatszo.hu/kozadat/2023/01/25/kipereltuk-mennyiert-allamositottak-az-ingyen-tankonyveket-gyarto-alfoldi-nyomdat/",
+      "date": "perc",
+      "excerpt": "A tranzakció a tankönyvpiac államosításának egyik utolsó lépése volt, amivel a kormány bebiztosította a kampánycélra is használt ingyenes tankönyveket.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Középpárt",
+  "constituency": "Borsod-Abaúj-Zemplén county, 05. no. constituency",
+  "search_name_used": "Oláh Zsolt"
+}

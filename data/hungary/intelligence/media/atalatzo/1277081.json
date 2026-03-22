@@ -1,0 +1,22 @@
+{
+  "kpn_id": 1277081,
+  "candidate_name": "DR. VITÁNYI ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:32.084271+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Katonaiskola indul Hódmezővásárhelyen, volt fűtőművet adott el Miskolc",
+      "url": "https://atlatszo.hu/orszagszerte/2022/01/02/katonaiskola-indul-hodmezovasarhelyen-volt-futomuvet-adott-el-miskolc/",
+      "date": "perc",
+      "excerpt": "Debreciner.hu: Tasónak ésVitányinak egy indítványa sem volt, Tiba megszólalt – Így dolgoztak 2021-ben a hajdú-bihari parlamenti képviselők A lap...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Hajdú-Bihar county, 04. no. constituency",
+  "search_name_used": "Vitányi István"
+}

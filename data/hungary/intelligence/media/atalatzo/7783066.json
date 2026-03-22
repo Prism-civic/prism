@@ -1,0 +1,22 @@
+{
+  "kpn_id": 7783066,
+  "candidate_name": "BARABÁS GYÖRGY LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:05:09.983332+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Huth Gergely: Üdv a Ténycsárdában!",
+      "url": "https://atlatszo.hu/kozpenz/2012/10/29/huth-gergely-udv-a-tenycsardaban/",
+      "date": "perc",
+      "excerpt": "„Bőségesen kaptak működési támogatást az idei büdzséből kormányközeli civil szervezetek, a dúsgazdag TelekiLászlóAlapítványtól kezdve a fideszes képviselő Simonka...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Budapest capital, 03. no. constituency",
+  "search_name_used": "Barabás György László"
+}

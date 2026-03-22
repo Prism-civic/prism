@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4774494,
+  "candidate_name": "TÓTH TAMARA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:14.201480+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A túltolt illiberalizmus miatt semmisült meg a Fidesz Kiskunfélegyházán",
+      "url": "https://atlatszo.hu/kozpenz/2015/04/28/a-tultolt-illiberalizmus-miatt-semmisult-meg-a-fidesz-kiskunfelegyhazan/",
+      "date": "perc",
+      "excerpt": "Viharos időszakot zárt le Kiskunfélegyháza a tavaly őszi önkormányzati választással. Az előző ciklusban Kapus Krisztián, a város  fideszes polgármestere egészen...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
+  "search_name_used": "Tóth Tamara"
+}

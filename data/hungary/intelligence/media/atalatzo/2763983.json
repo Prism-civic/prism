@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2763983,
+  "candidate_name": "ARATÓ GERGELY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:49:06.299736+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kerestük, de nem találtuk milyen adatokra alapozzák az Ukrajnával kapcsolatos kormányzati lejáratókampányt",
+      "url": "https://atlatszo.hu/kozugy/2025/08/11/kerestuk-de-nem-talaltuk-milyen-adatokra-alapozzak-az-ukrajnaval-kapcsolatos-kormanyzati-lejaratokampanyt/",
+      "date": "perc",
+      "excerpt": "A Magyarországra fenekedő ukrán szervezett bűnözéssel összefüggő NER-kampány ténybeli alapjairól próbáltunk az illetékesek megkérdezésével információkhoz jutni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Sulyok Tamás Párizsban, 15 kiskorú sértett a Szőlő utcában",
+      "url": "https://atlatszo.hu/mutyimondo/2026/01/16/sulyok-tamas-parizsban-15-kiskoru-sertett-a-szolo-utcaban/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kegyelmi botrány, Schadl-Völner-ügy: mi áll a „Zsolti bácsizás” mögött?",
+      "url": "https://atlatszo.hu/kozugy/2025/09/25/kegyelmi-botrany-schadl-volner-ugy-mi-all-a-zsolti-bacsizas-mogott/",
+      "date": "perc",
+      "excerpt": "A kormánymédiában Káncz Csabát teszik meg bűnbaknak a parlamentben kirobbant \"Zsolti bácsi\"-botrány miatt, de az interneten már régóta terjednek városi legendák, amik pedofilügyekkel hoznak kapcsolatba állami vezetőket.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 07. no. constituency",
+  "search_name_used": "Arató Gergely"
+}

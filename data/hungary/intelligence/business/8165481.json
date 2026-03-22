@@ -1,0 +1,182 @@
+{
+  "kpn_id": 8165481,
+  "candidate_name": "FÜLÖP ATTILA",
+  "source": "e-cegjegyzek.hu",
+  "scraped_at": "2026-03-21T19:58:25.271662+00:00",
+  "item_count": 19,
+  "items": [
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP SZERKEZET Kft.2012",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-es-tarsa-kereskedelmi-kft-1609008493.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP és Társa Kereskedelmi Kft.2005",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-ingatlan-es-eszkoezhasznosito-kft-0109286527.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp Ingatlan és Eszközhasznosító Kft.2016",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-med-gyogyszereszeti-kft-0309118927.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp-Med Gyógyszerészeti Kft.2009",
+      "url": "https://ceginfo.hu//ceg-adatlap/5-fueloep-epitoipari-kft-1709008033.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "5. Fülöp Építőipari Kft.2010",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-femipari-kft-0209069997.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp Fémipari Kft.2005",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-es-tarsa-ipari-kereskedo-es-szolgaltato-bt-0806003322.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp és Társa Ipari, Kereskedő és Szolgáltató Bt.1993",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-epito-kft-1109025953.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP ÉPÍTŐ Kft.2018",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-szabolcs-vegrehajtoi-irodaja-1318000006.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP & FÜLÖP INVEST INGATLAN-HASZNOSÍTÓ Kft.2008",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-es-tarsa-2006-epitoipari-es-kereskedelmi-kft-1409306932.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp és Társa 2006 Építőipari és Kereskedelmi Kft.2006",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-es-tarsa-kereskedelmi-es-szolgaltato-kft-0109263972.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp és Társa Kereskedelmi és Szolgáltató Kft.1993",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-epueletgepeszeti-kereskedelmi-es-szolgaltato-kft-0109568293.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP Épületgépészeti Kereskedelmi és Szolgáltató Kft.1997",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-vill-szolgaltato-es-kereskedelmi-kft-1809105897.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP-VILL Szolgáltató és Kereskedelmi Kft.2004",
+      "url": "https://ceginfo.hu//ceg-adatlap/total-epker-fueloep-epitesi-szakipari-anyag-kereskedelmi-es-szolgaltato-kft-0109469995.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "TOTAL-ÉPKER-FÜLÖP Építési Szakipari-Anyag Kereskedelmi és Szolgáltató Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-iroda-kft-0109698021.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP IRODA Kft.2001",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-optika-kft-0809011139.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp Optika Kft.2003",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-2004-csatornatisztito-szolgaltato-kft-1309100862.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp 2004 Csatornatisztító Szolgáltató Kft.2004",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-es-mark-szolgaltato-es-kereskedelmi-kft-0109719450.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FÜLÖP és MÁRK Szolgáltató és Kereskedelmi Kft.2003",
+      "url": "https://ceginfo.hu//ceg-adatlap/fueloep-varrogep-kft-0109964085.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Fülöp Varrógép Kft.2011",
+      "url": "https://ceginfo.hu/ceglista/cegek/1",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Fülöp\" — manual verification required to confirm directorship"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 04. no. constituency"
+}

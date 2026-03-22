@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3308539,
+  "candidate_name": "DR. TILKI ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:28:08.105538+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "2,8 milliárdos keretből osztják a bölcsikben a játékmotorokat a fideszes politikusok",
+      "url": "https://atlatszo.hu/kozadat/2025/12/04/28-milliardos-keretbol-osztjak-a-bolcsikben-a-jatekmotorokat-fideszes-politikusok/",
+      "date": "perc",
+      "excerpt": "Balásy Gyula cégeivel szerződtek le erre (is), de azt nem hajlandók megmondani, hogy hova, mennyi műanyag kismotort visznek, és mennyi közpénzért veszik őket.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Duna Aszfalt építheti meg nettó 294 milliárd forintért a mohácsi Duna-hidat",
+      "url": "https://atlatszo.hu/kozpenz/2024/04/25/a-duna-aszfalt-epitheti-meg-netto-294-milliard-forintert-a-mohacsi-duna-hidat/",
+      "date": "perc",
+      "excerpt": "Szíjj László érdekeltsége adta a legolcsóbb ajánlatot, így – ha nem jön közbe semmi – ők végezhetik el a munkálatokat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A dollármédia nevében köszöntötte munkatársunk a köztévé nézőit – és egyéb kalandjaink a kormánymédiában",
+      "url": "https://atlatszo.hu/kozugy/2022/12/28/a-dollarmedia-neveben-koszontotte-munkatarsunk-a-kozteve-nezoit-es-egyeb-kalandjaink-a-kormanymediaban/",
+      "date": "perc",
+      "excerpt": "Gőzerővel dollármédiázik a Fidesz-érdekű és -lelkű média. Természetesen ennek során az Átlátszó is sorra került. Mit sorra került! Egyenesen az amerikai valuta honi nyilvánosságban való térnyerésének úttörőjeként került bemutatásra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
+  "search_name_used": "Tilki Attila"
+}

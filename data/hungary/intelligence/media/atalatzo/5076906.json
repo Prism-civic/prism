@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5076906,
+  "candidate_name": "ANDER BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:16:10.255002+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Víztározó: a vidék zöldbárója engedély nélkül csapolja a Rinya-patakot?",
+      "url": "https://atlatszo.hu/orszagszerte/2022/03/06/viztarozo-a-videk-zoldbaroja-engedely-nelkul-csapolja-a-rinya-patakot/",
+      "date": "perc",
+      "excerpt": "Egyelőre nincs válasz a címben feltett kérdésre, amely nagyon foglalkoztatja a környék, különösen a tizenegyezres lélekszámú kisváros, Nagyatád közvéleményét. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Előválasztás Somogyban: a kezdőrúgás előtt akár le is fújhatják a mérkőzést",
+      "url": "https://atlatszo.hu/orszagszerte/2021/06/30/elovalasztas-somogyban-a-kezdorugas-elott-akar-le-is-fujhatjak-a-merkozest/",
+      "date": "perc",
+      "excerpt": "Somogyban is épp csak megkezdték az előkészületeket az ellenzéki előválasztás párt-paritásos alapon szerveződött bizottságai, miközben egyre kétségesebb, hogy lehet-e egyáltalán...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ráindulás és Peppa malac veszélyezteti az ellenzéki összefogás maradékát Józsefvárosban",
+      "url": "https://atlatszo.hu/kozugy/2025/11/05/raindulas-es-peppa-malac-veszelyezteti-az-ellenzeki-osszefogas-maradekat-jozsefvarosban/",
+      "date": "perc",
+      "excerpt": "Pikóék a kormánypárttal való összejátszással vádolják az MSZP-t, mert ráindítottak valakit a jelöltjükre a hétvégi józsefvárosi időközin.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Somogy county, 02. no. constituency",
+  "search_name_used": "Ander Balázs"
+}

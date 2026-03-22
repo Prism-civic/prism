@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4762731,
+  "candidate_name": "CZIRBUS GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:36.090277+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Az ukrán háborús helyzetre hivatkozva zárolt 200 milliót Makó önkormányzata",
+      "url": "https://atlatszo.hu/orszagszerte/2022/05/30/az-ukran-haborus-helyzetre-hivatkozva-zarolt-200-milliot-mako-onkormanyzata/",
+      "date": "perc",
+      "excerpt": "Gond lehet Makón, rendkívüli ülésen döntöttek 200 millió forint átcsoportosításáról. Ez a költség 3 százaléka. Az önkormányzat hallgat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Letartóztatták a pécsi Volvo-ügy másodrendű vádlottját, „politikai megszállás” az egyetemeken",
+      "url": "https://atlatszo.hu/2021/01/17/letartoztattak-a-pecsi-volvo-ugy-masodrendu-vadlottjat-politikai-megszallas-az-egyetemeken/",
+      "date": "perc",
+      "excerpt": "Debreciner.hu: Politikai megszállás zajlik a magyar felsőoktatásban Fábián István szerint A folyamat során az állami vagyon „eltűnik a szem elől”,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kizártak egy ellenzéki képviselőt a Csongrád megyei közgyűlésből, mert helyi hírportált üzemeltető egyesület elnöke",
+      "url": "https://atlatszo.hu/2019/01/03/kizartak-egy-ellenzeki-kepviselot-a-csongrad-megyei-kozgyulesbol-mert-helyi-hirportalt-uzemelteto-egyesulet-elnoke/",
+      "date": "perc",
+      "excerpt": "A Csongrád Megyei Közgyűlés november végén méltatlansági eljárás keretében megszüntette Kiss Attila jobbikos önkormányzati képviselő megbízatását. A közgyűlés szerint ugyanis...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Csongrád-Csanád county, 04. no. constituency",
+  "search_name_used": "Czirbus Gábor"
+}

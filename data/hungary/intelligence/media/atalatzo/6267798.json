@@ -1,0 +1,22 @@
+{
+  "kpn_id": 6267798,
+  "candidate_name": "SZILÁGYI JÓZSEF",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:43:38.008784+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Mi történik az ellenzéki vezetésű Győrben és Szombathelyen? – Országszerte Podcast",
+      "url": "https://atlatszo.hu/orszagszerte/2025/03/25/mi-tortenik-az-ellenzeki-vezetesu-gyorben-es-szombathelyen-orszagszerte-podcast/",
+      "date": "perc",
+      "excerpt": "Nyugaton a helyzet változik? Pintér Bence győri polgármester, Papp László Tamás ésSzilágyiJózsefújságírók az Átlátszó Országszerte podcastban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Győr-Moson-Sopron county, 03. no. constituency",
+  "search_name_used": "Szilágyi József"
+}

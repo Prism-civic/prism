@@ -1,0 +1,32 @@
+{
+  "kpn_id": 7122733,
+  "candidate_name": "DR. KOVÁCS ÁRON",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-21T20:04:46.505578+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Orbán előbb túlment minden határon, majd új feltételeket szabott",
+      "url": "https://hvg.hu/eurologus/20260321_euforia-podcast-gyurkeri-mercedesz-eu-csucs-ep2026",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Kovács Bálint: A hamis ukrán zászlós hadművelet nagyobb bajt mutat, mint ami elsőre látszik",
+      "url": "https://hvg.hu/360/20260318_ukran-zaszlo-marcius-15-tisza-nemzeti-menet-provokacio-fidesz-aktivistak-velemeny-kovacs-balint",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Baranya county, 02. no. constituency",
+  "search_name_used": "Kovács Áron"
+}

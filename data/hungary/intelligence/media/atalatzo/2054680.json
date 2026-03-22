@@ -1,0 +1,23 @@
+{
+  "kpn_id": 2054680,
+  "candidate_name": "ORMOS TAS ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:09:22.020774+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A forint gyengülése és a nyersanyagok drágulása is növeli az inflációt",
+      "url": "https://atlatszo.hu/adat/2022/08/10/a-forint-gyengulese-es-a-nyersanyagok-dragulasa-is-noveli-az-inflaciot/",
+      "date": "perc",
+      "excerpt": "Az árakat az uniós szinten legmagasabb magyar áfa és a jövedéki adók is magas szinten tartják.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Borsod-Abaúj-Zemplén county, 05. no. constituency",
+  "search_name_used": "Ormos Tas Zsolt"
+}

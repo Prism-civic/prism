@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4677056,
+  "candidate_name": "CSIGE TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:52:53.952410+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Plakátrongálás miatt nyomoznak Pécsett, Szombathelyen sem függesztik ki a Nemzeti Hitvallást",
+      "url": "https://atlatszo.hu/2021/08/08/plakatrongalas-miatt-nyomoznak-pecsett-szombathelyen-sem-fuggesztik-ki-a-nemzeti-hitvallast/",
+      "date": "perc",
+      "excerpt": "Debreciner.hu: Nem engedtek a 21-ből? – Megszűnt Hajdúdorog orvosi ügyelete 2021. augusztus 2-án 16 órától a Hajdúböszörményi Járási Hivatal Népegészségügyi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Régi politikusok, hírességek és kutatók is helyet kaptak a fővárosi cégek felügyelőbizottságaiban",
+      "url": "https://atlatszo.hu/kozugy/2020/02/13/regi-politikusok-hiressegek-es-kutatok-is-helyet-kaptak-a-fovarosi-cegek-felugyelobizottsagaiban/",
+      "date": "perc",
+      "excerpt": "A Fővárosi Közgyűlés november 5-i, november 27-i illetve december 11-i ülésein több tucat önkormányzati cég és kulturális intézmény igazgatósági és felügyelőbizottsági tagjairól...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Pártbeli leszámolás után polgármester-választást nyerne a Fidesz Balmazújvárosban",
+      "url": "https://atlatszo.hu/2018/08/04/partbeli-leszamolas-utan-polgarmester-valasztast-nyerne-a-fidesz-balmazujvarosban/",
+      "date": "perc",
+      "excerpt": "Három független és egy munkáspárti jelölt indul jövő vasárnap a balmazújvárosi polgármesteri székért: van egy fideszes-, egy összellenzéki- és egy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Hajdú-Bihar county, 06. no. constituency",
+  "search_name_used": "Csige Tamás"
+}

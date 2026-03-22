@@ -1,0 +1,22 @@
+{
+  "kpn_id": 7497153,
+  "candidate_name": "FAZEKAS CSILLA",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-21T19:56:50.494720+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Csillagászati összegekbe kerül az iráni háború, ahogy a válacsapások is",
+      "url": "https://hvg.hu/gazdasag/20260321_iran-haboru-koltsegek-karok-amerikai-bazisok",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 01. no. constituency",
+  "search_name_used": "Fazekas Csilla"
+}

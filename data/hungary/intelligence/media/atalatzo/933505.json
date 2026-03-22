@@ -1,0 +1,45 @@
+{
+  "kpn_id": 933505,
+  "candidate_name": "SZALAI TIMEA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:26.204115+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "OLAF-jelzések: A magyar hatóságok a Budapest Szíve Programban sem vontak felelősségre senkit",
+      "url": "https://atlatszo.hu/kozpenz/2019/03/18/olaf-jelzesek-a-magyar-hatosagok-a-budapest-szive-programban-sem-vontak-felelossegre-senkit/",
+      "date": "perc",
+      "excerpt": "Mivel bűncselekmény elkövetése nem volt megállapítható és a büntethetőség is elévült, nem történt felelősségre vonás a Budapest Szíve  Programmal kapcsolatban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Benne van a Panama-iratokban, mégse vizsgálja senki",
+      "url": "https://atlatszo.hu/mutyimondo/2016/08/21/benne-van-a-panama-iratokban-megse-vizsgalja-senki/",
+      "date": "perc",
+      "excerpt": "Ezekről ne maradj le! Itt a tanulmány amivel a Századvég 1,8 milliárdos melót nyert az MNB-től (Átlátszó) Az NNI szerint...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Miérthallgatóknak is elegük lett a HÖK-ösökből",
+      "url": "https://atlatszo.hu/oktatas/2013/02/03/a-mierthallgatoknak-is-eleguk-lett-a-hok-osokbol/",
+      "date": "perc",
+      "excerpt": "Az azóta megszűnt SzegedCafé cikke. Amióta a sajtóban megjelentek az első hírek arról, hogy a kormány drasztikusan csökkentené a felsőoktatási...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 01. no. constituency",
+  "search_name_used": "Szalai Timea"
+}

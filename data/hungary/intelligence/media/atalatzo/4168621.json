@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4168621,
+  "candidate_name": "DICSŐ VIKTÓRIA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:38:00.114874+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Háborúban nincsdicsőség – egy brit harckocsizó emlékiratai az embertelen borzalmakról",
+      "url": "https://atlatszo.hu/kult/2020/02/28/haboruban-nincs-dicsoseg-egy-brit-harckocsizo-emlekiratai-az-embertelen-borzalmakrol/",
+      "date": "perc",
+      "excerpt": "„1944-ben Normandiában két hétre becsülték egy frissen tisztté avatott harckocsiszakasz-parancsnok várható élettartamát.” – derül ki David Render nemrég magyarul is...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 03. no. constituency",
+  "search_name_used": "Dicső Viktória"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1476351,
+  "candidate_name": "FÖLDESI GYULA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:22:47.566912+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Maffiás Ablak-Zsiráf, Asszony Feritől Zubovics Gyuláig – a szervezett bűnözés története",
+      "url": "https://atlatszo.hu/kult/2019/06/12/maffias-ablak-zsiraf-asszony-feritol-zubovics-gyulaig/",
+      "date": "perc",
+      "excerpt": "Fejében van a fél irodalmi lexikon. A-tól K-ig. Nem maradéktalanul jóindulatú egykori kollégáim jellemezték így sok-sok évvel ezelőtt a vonatkozó...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Rózsadombon ebédelget Nikola Gruevszki, bagóért bérel lakást a Budai Várban Tiffán Zsolt – Heti lapszemle",
+      "url": "https://atlatszo.hu/mutyimondo/2018/12/15/a-rozsadombon-ebedelget-nikola-gruevszki-bagoert-berel-lakast-a-budai-varban-tiffan-zsolt-heti-lapszemle/",
+      "date": "perc",
+      "excerpt": "24: budai luxusétteremnél fotózták le a macedón ex-miniszterelnököt Nikola Gruevszki a menekültek híresen gondtalan életét éli Magyarországon. Szerdán sofőrrel ment ebédelni...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kormányzati segítséggel csórt sztorit a Magyar Nemzet az Átlátszótól",
+      "url": "https://atlatszo.hu/kozpenz/2014/02/04/kormanyzati-segitseggel-csort-sztorit-a-magyar-nemzet-az-atlatszotol/",
+      "date": "perc",
+      "excerpt": "Hiába nyertünk pert és hozattuk nyilvánosságra a tavaly megvont kommunista nyugdíjpótlékok jogosultjainak névsorát, ennek felhőtlenül csak a sztorit – persze...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Földesi Gyula"
+}

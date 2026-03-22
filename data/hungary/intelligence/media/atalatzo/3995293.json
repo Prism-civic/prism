@@ -1,0 +1,32 @@
+{
+  "kpn_id": 3995293,
+  "candidate_name": "KEREKES EDIT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:08:22.006050+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Csak 88kerekesszékes autóvásárlási pályázatát támogatta tavaly a kormány",
+      "url": "https://atlatszo.hu/kozpenz/2026/02/03/csak-88-kerekesszekes-autovasarlasi-palyazatat-tamogatta-tavaly-a-kormany/",
+      "date": "perc",
+      "excerpt": "2025-ben több mint 300 súlyosan mozgáskorlátozott kért támogatást közel 2 milliárd forint értékben, de hiába: csak 476,5 milliót szánt erre a célra a kormány.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A szállókról ki van tiltva, az utcán megbüntetik akerekesszékes, HIV-pozitív hajléktalant",
+      "url": "https://atlatszo.hu/kozpenz/2018/11/13/a-szallokrol-ki-van-tiltva-az-utcan-megbuntetik-a-kerekesszekes-hiv-pozitiv-hajlektalant/",
+      "date": "perc",
+      "excerpt": "Mondhatni klasszikus hajléktalan-életút végén jutott el Krisztián a Fehérvári úti piac sarkára: félárva lett, aztán alig huszonévesen el kellett jönnie...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+  "search_name_used": "Kerekes Edit"
+}

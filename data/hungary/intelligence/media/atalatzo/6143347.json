@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6143347,
+  "candidate_name": "OLÁH JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:57:33.989240+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Választást talán nem, de két újabb tendert szinte biztos nyernek Mészáros Lőrinc cégei",
+      "url": "https://atlatszo.hu/kozpenz/2025/11/17/valasztast-talan-nem-de-ket-ujabb-tendert-szinte-biztos-nyernek-meszaros-lorinc-cegei/",
+      "date": "perc",
+      "excerpt": "A Mészáros M1 Járműparkkezelő Zrt. az Országos Vérellátó Szolgálat autóit szervizelheti, a Mészáros és Mészáros Zrt. pedig Pakson építkezhet.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros Lőrincék cégei szervizelhetik a Sándor-palota 49 autóját 120 millióért",
+      "url": "https://atlatszo.hu/kozpenz/2025/10/17/meszaros-lorincek-cegei-szervizelhetik-a-sandor-palota-49-autojat-120-millioert/",
+      "date": "perc",
+      "excerpt": "A közbeszerzési eljárásra a Mészáros M1 Járműparkkezelő Zrt.-n kívül mindössze egy cég jelentkezett, de ez nem is meglepő az elvárt referenciák fényében.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Lebontatná a jegyző a lakók kerítését, mert szerinte telkeik egy része az önkormányzaté",
+      "url": "https://atlatszo.hu/2021/07/15/lebontatna-a-jegyzo-a-lakok-keriteset-mert-szerinte-telkeik-egy-resze-az-onkormanyzate/",
+      "date": "perc",
+      "excerpt": "A péceli jegyző levelet írt néhány helyi lakosnak, hogy telkeik egy része az önkormányzat tulajdonát képezi, ezért az ott lévő...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 05. no. constituency",
+  "search_name_used": "Oláh János"
+}

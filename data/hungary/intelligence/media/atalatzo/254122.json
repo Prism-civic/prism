@@ -1,0 +1,32 @@
+{
+  "kpn_id": 254122,
+  "candidate_name": "ANDRÁS KÁROLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:20.119257+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Hiányos a blogbirodalmi adatsor: „Urbánus” SzitaKárolyaz MTVA által közölt összeg tízszeresét vette fel a vagyonnyilatkozata szerint",
+      "url": "https://atlatszo.hu/2019/04/16/hianyos-a-blogbirodalmi-adatsor-urbanus-szita-karoly-az-mtva-altal-kozolt-osszeg-tizszereset-vette-fel-a-vagyonnyilatkozata-szerint/",
+      "date": "perc",
+      "excerpt": "Az Átlátszó nemrégiben közérdekű adatigénylésben kérte ki a közmédia kebelében felépített blogbirodalom kormányközeli tartalom-előállítóinak javadalmazását. SzitaKárolykaposvári polgármester azonban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "FonyóKárolynélkül nincs szerencséje a B+N Referencia Zrt-nek",
+      "url": "https://atlatszo.hu/kozugy/2015/12/16/fonyo-karoly-nelkul-nincs-szerencseje-a-bn-referencia-zrt-nek/",
+      "date": "perc",
+      "excerpt": "Valószínűleg olcsón akarta takaríttatni a Készenléti Rendőrség (KR) Központi Gazdasági Ellátó Igazgatósága budapesti ingatlanait, mert a pályázó cégek mindannyian magasabb...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Bács-Kiskun county, 01. no. constituency",
+  "search_name_used": "András Károly"
+}

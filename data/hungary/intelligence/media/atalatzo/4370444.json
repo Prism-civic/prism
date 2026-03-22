@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4370444,
+  "candidate_name": "DR. SIMON ZSUZSÁNNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:38:04.122775+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Az ország legfideszesebb települései: ahol a kormánypárt minden szavazatot bezsebelt 2022-ben",
+      "url": "https://atlatszo.hu/adat/2026/02/18/az-orszag-legfideszesebb-telepulesei-ahol-a-kormanypart-minden-szavazatot-bezsebelt-2022-ben/",
+      "date": "perc",
+      "excerpt": "A 2022-es országgyűlési választáson észak-magyarországi aprófalvakban nyert a legnagyobb arányban a Fidesz–KDNP, volt, ahol az összes szavazatot megszerezte.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Újabb uniós programokból zártak ki egyetemi kutatókat, matektanárok sora mondott fel a státusztörvény miatt",
+      "url": "https://atlatszo.hu/orszagszerte/2023/07/08/ujabb-unios-programokbol-zartak-ki-egyetemi-kutatokat-matektanarok-sora-mondott-fel-a-statusztorveny-miatt/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az uniós pénzek kiosztásában is részt vehettek a Fidesz kedvenc civiljei",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/24/az-unios-penzek-kiosztasaban-is-reszt-vehettek-a-fidesz-kedvenc-civiljei/",
+      "date": "perc",
+      "excerpt": "Az EU által finanszírozott úgynevezett CLLD-típusú programok az állami civil támogatásoknál célzottabbak és átláthatóbbak, azonban ezek kezdvezményezettjei között is találkozhatunk...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
+  "search_name_used": "Simon Zsuzsánna"
+}

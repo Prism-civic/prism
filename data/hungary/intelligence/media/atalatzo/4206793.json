@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4206793,
+  "candidate_name": "TOMPA ENIKŐ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:34:36.099880+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Gombamódra szaporodnak az ingatlanok, cégek és folyóiratok Demeter Szilárd körül",
+      "url": "https://atlatszo.hu/kozpenz/2021/11/02/gombamodra-szaporodnak-az-ingatlanok-cegek-es-folyoiratok-demeter-szilard-korul/",
+      "date": "perc",
+      "excerpt": "Nemrég írtunk arról, hogy a magyar kormány 2021-ben a magyar nyelvű folyóiratok támogatási rendszerének átalakítására 1,8 milliárd forintot szán a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Hajdú-Bihar county, 02. no. constituency",
+  "search_name_used": "Tompa Enikő"
+}

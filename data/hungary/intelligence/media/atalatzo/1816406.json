@@ -1,0 +1,22 @@
+{
+  "kpn_id": 1816406,
+  "candidate_name": "JÁMBOR PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:16:26.016026+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "MagyarPéterbejött, Karácsony Gergely lement, a helyi ellenzék szétrobbant",
+      "url": "https://atlatszo.hu/orszagszerte/2024/04/22/magyar-peter-bejott-karacsony-gergely-lement-a-helyi-ellenzek-szetrobbant/",
+      "date": "perc",
+      "excerpt": "Karácsony igyekezett békíteni a soproni ellenzékben, de párbeszédes párttársai zsarolási kísérleteinek nem tudott gátat vetni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "IRÁNY Párt",
+  "constituency": "Somogy county, 04. no. constituency",
+  "search_name_used": "Jámbor Péter"
+}

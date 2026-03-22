@@ -1,0 +1,42 @@
+{
+  "kpn_id": 7347783,
+  "candidate_name": "KÓNYA ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:44.093378+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Központosítás a SzentIstvánEgyetemen – rektori irányítás alatt álló intézetek jönnek létre",
+      "url": "https://atlatszo.hu/oktatas/2020/02/12/kozpontositas-a-szent-istvan-egyetemen/",
+      "date": "perc",
+      "excerpt": "A SzentIstvánEgyetem minden karán intézetek kerültek kialakításra az egyetem közleménye szerint. A létrejött intézetekből öt intézmény közvetlen rektori...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "TiborczIstvánrégi bizalmasa a rejtélyes negyedik; kormányközelben a pénzszállítás; megint elszállt Pécs adóssága | Heti lapszemle",
+      "url": "https://atlatszo.hu/mutyimondo/2017/11/10/tiborcz-istvan-regi-bizalmasa-a-rejtelyes-negyedik-kormanykozelben-a-penzszallitas-megint-elszallt-pecs-adossaga-heti-lapszemle/",
+      "date": "perc",
+      "excerpt": "Heti Válasz: Nincs több titok: ő Tiborcz társa a BDPST luxusingatlan-kereskedőben Október végén ismét felkerült a címlapokra TiborczIstván,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A NER legnagyobb túlélői XI. – KocsisIstván",
+      "url": "https://atlatszo.hu/kozugy/2017/07/07/a-ner-legnagyobb-tuleloi-xi-kocsis-istvan/",
+      "date": "perc",
+      "excerpt": "Folytatódik a NER túlélőbajnokait bemutató sorozat. Ezúttal egy öreg róka – a kormányokon (sőt, rendszereken) átívelő önátmentés mestere –...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Békés county, 03. no. constituency",
+  "search_name_used": "Kónya István"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4899462,
+  "candidate_name": "TARR ZOLTÁN",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-21T20:04:16.721586+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Farkas Zoltán: Világszerte tort ül a Matolcsy-féle simplicity",
+      "url": "https://hvg.hu/360/20260319_simplicity-a-kobon-fulszoveg-hvg-12",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Tarr Zoltán"
+}

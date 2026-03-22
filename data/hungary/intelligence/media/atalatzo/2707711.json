@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2707711,
+  "candidate_name": "KISS BEATRIX",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:41.953196+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Akár 32 Celsius-fokra is hevíthetné a Dunát a Paksi Atomerőmű egy új javaslat szerint",
+      "url": "https://atlatszo.hu/kornyezet/2025/07/24/akar-32-celsius-fokra-is-hevithetne-a-dunat-a-paksi-atomeromu-egy-uj-javaslat-szerint/",
+      "date": "perc",
+      "excerpt": "Ez már lényegében termálfürdő-kategória: a budapesti Lukács Gyógyfürdő gyógymedencéje például 32, külső élménymedencéje 32-33 Celsius-fok meleg.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nemcsak a foci-, de a kézilabdapálya-építés is jól hoz a konyhára a baráti cégeknek",
+      "url": "https://atlatszo.hu/kozpenz/2023/06/08/nemcsak-a-foci-de-a-kezilabdapalya-epites-is-jol-hoz-a-konyhara-a-barati-cegeknek/",
+      "date": "perc",
+      "excerpt": "Milliárdos bevételek, százmilliós osztalékok a közpénzből kézilabdapályákat építő cégeknél.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A maradék parkon át, egy társasház ablakai alatt vezetnék el az elkerülő utat",
+      "url": "https://atlatszo.hu/kornyezet/2021/11/16/a-maradek-parkon-at-egy-tarsashaz-ablakai-alatt-vezetnek-el-az-elkerulo-utat/",
+      "date": "perc",
+      "excerpt": "Nem kap társasházfelújítási támogatást az inotai lakótelep, ha az ott élőknek nem tetszik, hogy az ablakaik alatt menne az új...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Baranya county, 02. no. constituency",
+  "search_name_used": "Kiss Beatrix"
+}

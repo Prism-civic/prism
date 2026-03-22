@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6219628,
+  "candidate_name": "BENCZE JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:14.005030+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "48 milliárdos megbízást kaptak Mészárosék, Nyíregyházán fejleszthetik az ipari parkot",
+      "url": "https://atlatszo.hu/kozpenz/2026/02/09/48-milliardos-megbizast-kaptak-meszarosek-nyiregyhazan-fejleszthetik-az-ipari-parkot/",
+      "date": "perc",
+      "excerpt": "A Mészáros és Mészáros Zrt. a Belfry PE Kft.-vel illetve a KE-VÍZ 21 Kft.-vel kiegészülve lett befutó. A Strabagot aránytalanul alacsony árajánlat miatt kizárták.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Jakubinyi tagad, de a BM-ben sem örülnek a Pintér Sándorról szóló konteóknak",
+      "url": "https://atlatszo.hu/kozpenz/2017/04/03/jakubinyi-tagad-de-a-bm-ben-sem-orulnek-a-pinter-sandorrol-szolo-konteoknak/",
+      "date": "perc",
+      "excerpt": "Polgári jogi ügyeket intézett Jakubinyi Róbert Tanyi György védőjénél, nem Pintér Sándor belügyminiszter lejáratását célzó akciót szervezett – ezt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nyíregyházi couleur locale: vádlottként is lehet 70 milliós szerződést kötni",
+      "url": "https://atlatszo.hu/kozpenz/2016/08/24/nyiregyhazi-couleur-locale-vadlottkent-is-lehet-70-millios-szerzodest-kotni/",
+      "date": "perc",
+      "excerpt": "A pesti botrányok árnyékában Nyíregyházán háborítatlanul vezeti a városüzemeltetési céget az a Bocskai Péter, akit az ügyészség különösen nagy vagyoni...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Tolna county, 03. no. constituency",
+  "search_name_used": "Bencze János"
+}

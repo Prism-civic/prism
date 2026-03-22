@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4399179,
+  "candidate_name": "DR. BOGNÁR LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:41.942965+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Kiugrott ellenzékiek indulnak a választáson Pécsett, festett körmű férfival kampányol Tiba István fideszes politikus",
+      "url": "https://atlatszo.hu/orszagszerte/2022/02/13/kiugrott-ellenzekiek-indulnak-a-valasztason-pecsett-festett-kormu-ferfival-kampanyol-tiba-istvan-fideszes-politikus/",
+      "date": "perc",
+      "excerpt": "SzabadPécs.hu: Két kiugrott pécsi városházi ellenzéki is úgy gondolta, elindul az országgyűlési választásonBognárSzilvia, a DK kérésére leváltott pécsi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 05. no. constituency",
+  "search_name_used": "Bognár László"
+}

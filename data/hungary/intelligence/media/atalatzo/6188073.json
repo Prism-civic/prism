@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6188073,
+  "candidate_name": "KÓKAI KATALIN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:50:14.271893+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Volt fideszes politikus lett a KSH új szóvivője",
+      "url": "https://atlatszo.hu/kozugy/2024/11/04/volt-fideszes-politikus-lett-a-ksh-uj-szovivoje/",
+      "date": "perc",
+      "excerpt": "Ozsváth Kálmán október elején kapta meg a kinevezését a Statisztikai Hivatalnál. Korábban Újpesten volt fideszes képviselő, és 20 éve tagja a pártnak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kémek, művészek, tudósok, világutazók és más különleges nők egy kötetben",
+      "url": "https://atlatszo.hu/kult/2022/10/31/kemek-muveszek-tudosok-vilagutazok-es-mas-kulonleges-nok-egy-kotetben/",
+      "date": "perc",
+      "excerpt": "Egy finn újságírónő nagyjából 100 nőt mutat be, akik nem nagyon szerepelnek a történelemkönyvekben, pedig sokuknak ott lenne a helye.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hivatali vesztegetéssel is gyanúsítják a Dózsa György úti halálos gázolásról elhíresült M. Richárdot",
+      "url": "https://atlatszo.hu/kozugy/2018/11/23/hivatali-vesztegetessel-is-gyanusitjak-a-dozsa-gyorgy-uti-halalos-gazolasrol-elhiresult-m-richardot/",
+      "date": "perc",
+      "excerpt": "Előzetes letartóztatásba helyezte a bíróság M. Richárdot, miután a férfi ismét megsértette a házi őrizet szabályait. M. Richárd sorozatosan követte...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Bács-Kiskun county, 03. no. constituency",
+  "search_name_used": "Kókai Katalin"
+}

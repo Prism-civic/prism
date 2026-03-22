@@ -1,0 +1,45 @@
+{
+  "kpn_id": 9128344,
+  "candidate_name": "HORVÁTH NÁNDOR ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:38:52.113604+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Az ország legfideszesebb települései: ahol a kormánypárt minden szavazatot bezsebelt 2022-ben",
+      "url": "https://atlatszo.hu/adat/2026/02/18/az-orszag-legfideszesebb-telepulesei-ahol-a-kormanypart-minden-szavazatot-bezsebelt-2022-ben/",
+      "date": "perc",
+      "excerpt": "A 2022-es országgyűlési választáson észak-magyarországi aprófalvakban nyert a legnagyobb arányban a Fidesz–KDNP, volt, ahol az összes szavazatot megszerezte.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Pártrendezvények közpénzből: választási mozgósításra használhatták az állami civil alap támogatásait",
+      "url": "https://atlatszo.hu/kozpenz/2022/06/30/partrendezvenyek-kozpenzbol-valasztasi-mozgositasra-hasznalhattak-az-allami-civil-alap-tamogatasait/",
+      "date": "perc",
+      "excerpt": "Tavaly médiaépítésre, idén a kampány alatti mozgósító és hangulatjavító rendezvényekre kaptak sok közpénzt a fideszes civilek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Akadozva, de alakul az ellenzék összefogása a vidéki városokban az önkormányzati választásokra",
+      "url": "https://atlatszo.hu/kozpenz/2019/07/04/akadozva-de-alakul-az-ellenzek-osszefogasa-a-videki-varosokban-az-onkormanyzati-valasztasokra/",
+      "date": "perc",
+      "excerpt": "Szombathely, Pécs visszahódítható, Szeged megtartható az ellenzék számára, amely azonban továbbra sem tud (akar?) mit kezdeni a debreceniek elkötelezett fidesz-imádatával....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Vas county, 03. no. constituency",
+  "search_name_used": "Horváth Nándor Zsolt"
+}

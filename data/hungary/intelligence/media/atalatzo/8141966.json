@@ -1,0 +1,23 @@
+{
+  "kpn_id": 8141966,
+  "candidate_name": "KESZTHELYI DOROTTYA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:48:57.949211+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Uniós pénzből kapnak halottszállító járműveket, laboratóriumi és bonctermi eszközöket a vidéki kórházak",
+      "url": "https://atlatszo.hu/kozugy/2020/04/07/unios-penzbol-kapnak-halottszallito-jarmuveket-laboratoriumi-es-bonctermi-eszkozoket-a-videki-korhazak/",
+      "date": "perc",
+      "excerpt": "A koronavírus-járvány európai kitörése előtt, február 10-én indított közbeszerzési eljárást az egészségügyi intézmények részére állami pénzből eszközöket biztosító Állami Egészségügyi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 05. no. constituency",
+  "search_name_used": "Keszthelyi Dorottya"
+}

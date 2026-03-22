@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4172167,
+  "candidate_name": "DOMOKOS ZSUZSANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:55:53.954443+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Már 191 tanár bojkottálja a portfóliót",
+      "url": "https://atlatszo.hu/oktatas/2014/02/26/mar_191_tanar_bojkottalja_a_portfoliot/",
+      "date": "perc",
+      "excerpt": "Elsőként az Átlátszó Oktatás számolt be a Hívatlanul csoporthoz kötődő kezdeményezésről, melynek keretében a közoktatásban dolgozó tanárok által elkészítendő portfólió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 05. no. constituency",
+  "search_name_used": "Domokos Zsuzsanna"
+}

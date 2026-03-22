@@ -1,0 +1,23 @@
+{
+  "kpn_id": 8308861,
+  "candidate_name": "MAROSVÖLGYI ANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:40:32.082618+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Közpénzmilliárdok mennek a türkökhöz, automatikus adóemelések jönnek itthon",
+      "url": "https://atlatszo.hu/mutyimondo/2024/11/01/kozpenzmilliardok-mennek-a-turkokhoz-automatikus-adoemelesek-jonnek-itthon/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Budapest capital, 11. no. constituency",
+  "search_name_used": "Marosvölgyi Anna"
+}

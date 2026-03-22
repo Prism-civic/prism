@@ -1,0 +1,22 @@
+{
+  "kpn_id": 727600,
+  "candidate_name": "NÉMETH KÁROLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:38.003285+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A helység kalapácsa – helyi oligarchia és vazallusmédia Kaposváron",
+      "url": "https://atlatszo.hu/kozpenz/2013/01/25/a-helyseg-kalapacsa-helyi-oligarchia-es-vazallusmedia-kaposvaron/",
+      "date": "perc",
+      "excerpt": "SzitaKárolykaposvári polgármester, akire egykor sokan leendő kormánytagként tekintettek, 2002-től fokozatosan kiszorult az országos politikából – ettől kezdve a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Veszprém county, 03. no. constituency",
+  "search_name_used": "Németh Károly"
+}

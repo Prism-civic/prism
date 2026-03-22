@@ -1,0 +1,34 @@
+{
+  "kpn_id": 3962173,
+  "candidate_name": "TURÓ JENŐ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:14:18.036248+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "„Ha nem ad hitelt, bezárhat, ha ad, akkor is” – vidéki riport a kisboltok nyitásáról",
+      "url": "https://atlatszo.hu/kozpenz/2021/10/26/ha-nem-ad-hitelt-bezarhat-ha-ad-akkor-is-videki-riport-a-kisboltok-nyitasarol/",
+      "date": "perc",
+      "excerpt": "121 kistelepülésen nyílhat újra kisbolt a többmilliárdos állami támogatásnak köszönhetően – jelentette be a napokban a kormány. Mivel sok érintett...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A tartalomra koncentráló jeligéstől a kétes hírű megapályázatokig",
+      "url": "https://atlatszo.hu/kozpenz/2013/07/24/a-tartalomra-koncentralo-jeligestol-a-ketes-hiru-megapalyazatokig/",
+      "date": "perc",
+      "excerpt": "A jeligés rendszer ugyanis a „szakmai” beágyazottságot, a kapcsolati tőkét törölte, így megítélésre maradt a pályázat szakmai tartalma. Rendkívüli dolog...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Jász-Nagykun-Szolnok county, 03. no. constituency",
+  "search_name_used": "Turó Jenő"
+}

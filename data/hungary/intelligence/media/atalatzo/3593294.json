@@ -1,0 +1,22 @@
+{
+  "kpn_id": 3593294,
+  "candidate_name": "GYŐRFFY PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:01:46.145021+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Hadházy: fideszes képviselő, parlamenti alelnök és volt miniszter is érintett Simonka ügyében",
+      "url": "https://atlatszo.hu/kozugy/2020/05/21/hadhazy-fideszes-kepviselo-parlamenti-alelnok-es-volt-miniszter-is-erintett-simonka-ugyeben/",
+      "date": "perc",
+      "excerpt": "„Érthetetlen, hogy Jakab István parlamenti alelnök,GyőrffyBalázs fideszes képviselő, az Agrárkamara elnöke és Fazekas Sándor fideszes képviselő, korábbi agrárminiszter...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Heves county, 02. no. constituency",
+  "search_name_used": "Győrffy Péter"
+}

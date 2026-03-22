@@ -1,0 +1,22 @@
+{
+  "kpn_id": 896211,
+  "candidate_name": "DR. BARCSA LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:20.086686+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Debrecen: vége van-e a Kósa-korszaknak?",
+      "url": "https://atlatszo.hu/kozpenz/2015/05/05/debrecen-vege-van-e-a-kosa-korszaknak/",
+      "date": "perc",
+      "excerpt": "Az előző ciklusban KósaLajosalpolgármestereként tevékenykedő Papp László októberi megválasztása után nem nagyon kavarodott fel az állóvíz Debrecenben. Igaz,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Hajdú-Bihar county, 01. no. constituency",
+  "search_name_used": "Barcsa Lajos"
+}

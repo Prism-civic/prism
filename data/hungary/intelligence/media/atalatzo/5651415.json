@@ -1,0 +1,22 @@
+{
+  "kpn_id": 5651415,
+  "candidate_name": "CZUNYINÉ DR. BERTALAN JUDIT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:20.082656+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Taós sportcsarnok Oroszlánynak – 26 év késéssel",
+      "url": "https://atlatszo.hu/kozugy/2016/02/03/taos-sportcsarnok-oroszlanynak-26-ev-kesessel/",
+      "date": "perc",
+      "excerpt": "A térség országgyűlési képviselője,CzunyinéBertalanJuditállamtitkár szerint egyetlen település sem kapott olyan mértékű taós támogatást, mint az egymilliárdos...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Komárom-Esztergom county, 03. no. constituency",
+  "search_name_used": "Czunyiné Bertalan Judit"
+}

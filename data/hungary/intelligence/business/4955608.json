@@ -1,0 +1,164 @@
+{
+  "kpn_id": 4955608,
+  "candidate_name": "DR. FERENCZ ORSOLYA",
+  "source": "e-cegjegyzek.hu",
+  "scraped_at": "2026-03-21T19:58:05.255083+00:00",
+  "item_count": 17,
+  "items": [
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi Épületgépészeti Kft.2009",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferencz-ker-szolgaltato-kft-0109989994.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferencz-ker Szolgáltató Kft.2011",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczy-fuvarozo-kft-1809108136.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczy Fuvarozó Kft.2008",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczi-es-ferenczi-kereskedelmi-szolgaltato-szallito-kft-1609003609.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi és Ferenczi Kereskedelmi-Szolgáltató-Szállító Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczi-es-tarsai-vegrehajto-iroda-0118000011.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi Fémipari Kft.1999",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczy-22-projekt-kft-0109300903.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczy 22 Projekt Kft.2017",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferencz-press-szolgaltato-bt-0706011106.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FERENCZ-PRESS Szolgáltató Bt.2002",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczi-agri-kft-0709017898.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi Agri Kft.2009",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferencz-es-tarsa-kereskedelmi-es-szolgaltato-kft-0109070736.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FERENCZ és TÁRSA Kereskedelmi és Szolgáltató Kft1990",
+      "url": "https://ceginfo.hu//ceg-adatlap/dr-ferenczi-fanni-koezjegyzoi-irodaja-0921000010.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi és Társa Ipari-Kereskedelmi és Szolgáltató Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferencz-epszer-epitoipari-kereskedelmi-es-szolgaltato-kft-1309100817.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FERENCZ ÉPSZER Építőipari, Kereskedelmi és Szolgáltató Kft.2004",
+      "url": "https://ceginfo.hu//ceg-adatlap/dr-ferenczy-reka-koezjegyzoi-irodaja-0121000026.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FERENCZI Kereskedelmi, Szolgáltató és Termelő Kft.2001",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczi-targonca-kereskedelmi-es-szolgaltato-kft-0509025694.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi Targonca Kereskedelmi és Szolgáltató Kft.2013",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczi-forgacsolo-kft-0809030301.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczi Forgácsoló Kft.2018",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczy-solutions-kft-0109308674.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "FERENCZY Solutions Kft.2018",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferenczigeneral-szolgaltato-es-kereskedelmi-kft-0509013419.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferenczigenerál Szolgáltató és Kereskedelmi Kft.2006",
+      "url": "https://ceginfo.hu//ceg-adatlap/ferencziek-mezogazdasagi-es-erdeszeti-bt-0606015413.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Ferencziék Mezőgazdasági és Erdészeti Bt.2006",
+      "url": "https://ceginfo.hu/ceglista/cegek/1",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Ferencz\" — manual verification required to confirm directorship"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 02. no. constituency"
+}

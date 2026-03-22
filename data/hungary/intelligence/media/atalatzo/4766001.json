@@ -1,0 +1,23 @@
+{
+  "kpn_id": 4766001,
+  "candidate_name": "STRASSZER JÓZSEF",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:51:45.978894+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Kis Oligarchatározó: Széles Gábor",
+      "url": "https://atlatszo.hu/kozpenz/2012/08/01/kis-oligarchatarozo-szeles-gabor/",
+      "date": "perc",
+      "excerpt": "Mi lenne, ha autó lenne? Természetesen Ikarus busz. Ezzel talán mindent el is mondtunk a legnagyobb retrooligarcháról, a magyar oligarchák...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Fejér county, 02. no. constituency",
+  "search_name_used": "Strasszer József"
+}

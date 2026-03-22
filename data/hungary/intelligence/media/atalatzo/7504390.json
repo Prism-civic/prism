@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7504390,
+  "candidate_name": "FAZAKAS ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:11:06.006373+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Élesedik a fehérvári cicaharc, az ellenzék elhatárolódást vár a rabszolgatörvénytől",
+      "url": "https://atlatszo.hu/2018/12/18/elesedik-a-fehervari-cicaharc-az-ellenzek-elhatarolodast-var-a-rabszolgatorvenytol/",
+      "date": "perc",
+      "excerpt": "Ha lassan is, de elérte Székesfehérvárt is a budapesti gyors, új mederbe került egy röpke hétvége alatt a helyi politikusok...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ezt hozta a fehérvári advent: krampuszfotóból lett botrány a helyi politikában",
+      "url": "https://atlatszo.hu/2018/12/13/ezt-hozta-a-fehervari-advent-krampuszfotobol-lett-botrany-a-helyi-politikaban/",
+      "date": "perc",
+      "excerpt": "A székesfehérvári polgármester állami gondozott gyerekek ajándékait fogadta Mikulás napján a városházán. A fotót kritizálva megjelent egy poszt egy ellenzéki...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kipereltük és közzétesszük az országgyűlési választás egyéni képviselőjelöltjeinek elszámolásait",
+      "url": "https://atlatszo.hu/kozpenz/2015/07/15/kipereltuk-es-kozzetesszuk-az-orszaggyulesi-valasztas-egyeni-kepviselojeloltjeinek-elszamolasait/",
+      "date": "perc",
+      "excerpt": "A tavalyi országgyűlési választáson minden egyéni képviselőjelölt egymillió forint költségvetési támogatást kapott a kampányához, amelyről elszámolást kellett benyújtania a Magyar...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Fejér county, 02. no. constituency",
+  "search_name_used": "Fazakas Attila"
+}

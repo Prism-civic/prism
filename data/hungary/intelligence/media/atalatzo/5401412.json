@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5401412,
+  "candidate_name": "LAKATOS ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:17:42.049303+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "„Népes társaság lenne a megoldatlan gyilkosságok szabadlábon lévő tetteseiből” – börtöninterjú Czibere Attilával",
+      "url": "https://atlatszo.hu/kozugy/2025/05/14/nepes-tarsasag-lenne-a-megoldatlan-gyilkossagok-szabadlabon-levo-tetteseibol-bortoninterju-czibere-attilaval/",
+      "date": "perc",
+      "excerpt": "A diósdi kettős gyilkosság ügyében 2010-ben húsz évre ítélt férfinek számos kérdést tettünk fel a Hidegre vagy hűvösre című, tavaly megjelent könyvének apropóján.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Szabad Európa, a WMN, a HVG és a Telex munkatársai kapták idén a Szegénységről Méltósággal Sajtódíjat",
+      "url": "https://atlatszo.hu/kult/2024/06/04/a-szabad-europa-a-wmn-a-hvg-es-a-telex-munkatarsai-kaptak-iden-a-szegenysegrol-meltosaggal-sajtodijat/",
+      "date": "perc",
+      "excerpt": "Idén nyolcadik alkalommal osztották ki a Szegénységről Méltósággal Sajtódíjat, két fődíjat, és két különdíjat osztott ki a zsűri.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A rendőrség kereste Portikot, de mindig olyankor, amikor nem volt ott",
+      "url": "https://atlatszo.hu/kozugy/2024/03/07/a-rendorseg-kereste-portikot-de-mindig-olyankor-amikor-nem-volt-ott/",
+      "date": "perc",
+      "excerpt": "Több forrásunk is azt állítja: Portik Tamásnak, illetve a szervezett bűnözésnek jóval komolyabb rendőrségi és titkosszolgálati kapcsolatai lehettek a hazai szerveknél, mint az USA-ban, illetve az FBI-nál.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
+  "search_name_used": "Lakatos Attila"
+}

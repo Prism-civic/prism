@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6466385,
+  "candidate_name": "SZABÓ TIMEA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:05:42.155560+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Fánkozó, ékszerüzlet és statisztaközvetítés – a Filmalapból pénzelt produkciókba is bedolgozik Vajna Tímea cége",
+      "url": "https://atlatszo.hu/kozpenz/2016/09/23/fankozo-ekszeruzlet-es-statisztakozvetites-a-filmalapbol-penzelt-produkciokba-is-bedolgozik-vajna-timea-cege/",
+      "date": "perc",
+      "excerpt": "Két cége veszteséges, egy szerény eredményt ért el, a negyedik – a fánk- és bagelüzlet – pedig még csak...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "“Statáriális jellegű eljárásokba vonják be a menekülőket” – interjú Kovács Tímeával, a Helsinki Bizottság szegedi ügyvédjével",
+      "url": "https://atlatszo.hu/kozugy/2015/10/14/statarialis-jellegu-eljarasokba-vonjak-be-a-menekuloket-interju-kovacs-timeaval-a-helsinki-bizottsag-szegedi-ugyvedjevel/",
+      "date": "perc",
+      "excerpt": "Az emberi jogok érvényesüléséért küzdő Helsinki Bizottság kiemelt részt vállal a hazánkba érkező menekültek jogi képviseletének ellátásban is. A szervezet...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Magyar Péter bejött, Karácsony Gergely lement, a helyi ellenzék szétrobbant",
+      "url": "https://atlatszo.hu/orszagszerte/2024/04/22/magyar-peter-bejott-karacsony-gergely-lement-a-helyi-ellenzek-szetrobbant/",
+      "date": "perc",
+      "excerpt": "Karácsony igyekezett békíteni a soproni ellenzékben, de párbeszédes párttársai zsarolási kísérleteinek nem tudott gátat vetni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Budapest capital, 11. no. constituency",
+  "search_name_used": "Szabó Timea"
+}

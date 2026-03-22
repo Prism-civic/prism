@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4489749,
+  "candidate_name": "TESSELY ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:48.095567+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "11 milliárdra drágult a bicskei vasútállomás fejlesztése az orosz-ukrán háború miatt",
+      "url": "https://atlatszo.hu/orszagszerte/2025/05/09/11-milliardra-dragult-a-bicskei-vasutallomas-fejlesztese-az-orosz-ukran-haboru-miatt/",
+      "date": "perc",
+      "excerpt": "A kivitelező Mészáros Lőrinc V-Híd Zrt.-je, a munkálatok költségét pedig EU-s pénzből fizeti a kormány.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Amit betonból el lehet képzelni, az mind épülne ide” – a tópart beépítése ellen tiltakoznak Sukorón",
+      "url": "https://atlatszo.hu/orszagszerte/2025/03/06/amit-betonbol-el-lehet-kepzelni-az-mind-epulne-ide-a-topart-beepitese-ellen-tiltakoznak-sukoron/",
+      "date": "perc",
+      "excerpt": "A Velencei-tó egyik utolsó természetes partszakaszának beépítését jelentené a kormány által kiemeltté tett építési beruházás, melynek részleteit titkolják.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Milliárdokkal drágult, és így már több mint 50 milliárdba kerül a kajak-kenu központ",
+      "url": "https://atlatszo.hu/orszagszerte/2025/02/20/milliardokkal-dragult-es-igy-mar-tobb-mint-50-milliardba-kerul-a-kajak-kenu-kozpont/",
+      "date": "perc",
+      "excerpt": "A \"háborús infláció\" elérte a Velencei-tónál épülő Kovács Katalin Nemzeti Kajak-Kenu Sportakadémiát is: a kivitelező WHB 5,5 milliárddal kap többet a munkálatokra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Fejér county, 03. no. constituency",
+  "search_name_used": "Tessely Zoltán"
+}

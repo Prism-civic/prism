@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2547997,
+  "candidate_name": "GAJDOS LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:37:52.131157+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Öten hívják ki a lombkoronás polgármestert, Filemon megint dühbe jött az Átlátszótól – választási riport Nyírmártonfalváról",
+      "url": "https://atlatszo.hu/orszagszerte/2024/06/08/oten-hivjak-ki-a-lombkoronas-polgarmestert-filemon-megint-duhbe-jott-az-atlatszotol-valasztasi-riport-nyirmartonfalvarol/",
+      "date": "perc",
+      "excerpt": "A regnáló polgármestert kihívó jelöltek egyetértenek abban, hogy a falu lakóinak félelemben tartása, a szabad véleménynyilvánítás ellehetetlenítése a legfőbb probléma a településen.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Névsor csata után – kik maradtak pozícióban Simicska Lajos emberei közül?",
+      "url": "https://atlatszo.hu/kozpenz/2015/01/15/nevsor-csata-utan-kik-maradtak-pozicioban-simicska-lajos-emberei-kozul/",
+      "date": "perc",
+      "excerpt": "Sokan találgatják mostanában a Simicska Lajos és Orbán Viktor közti konfliktus lehetséges kimenetelét. Összeállításunkból az derül ki, hogy ez a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Miért pont a NAV kerülhetett az amerikaiak célkeresztjébe?",
+      "url": "https://atlatszo.hu/kozugy/2014/10/20/miert-pont-a-nav-kerulhetett-az-amerikaiak-celkeresztjebe/",
+      "date": "perc",
+      "excerpt": "Nem cáfolt információk szerint a Vida Ildikó, a NAV elnöke és az adóhatóság két másik vezetője is szerepel a beutazási...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 01. no. constituency",
+  "search_name_used": "Gajdos László"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 184694,
+  "candidate_name": "SCHMIDT ROLAND",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:43:05.997111+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Mészáros Lőrinc ügyvédjének cége tarthatja karban az Országgyűlés Hivatalának klímáit",
+      "url": "https://atlatszo.hu/kozpenz/2025/11/12/meszaros-lorinc-ugyvedjenek-cege-tarthatja-karban-az-orszaggyules-hivatalanak-klimait/",
+      "date": "perc",
+      "excerpt": "Vörös József cégével, a PR-Cooling Kft.-vel 84 millió forintos keretszerződést kötnek. A kft. 1527 db berendezés működéséért felel majd.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros 7,7 milliárddal lépett 8 éve a leggazdagabbak listájára, most 660 milliárddal vezeti",
+      "url": "https://atlatszo.hu/adat/2023/07/03/meszaros-77-milliarddal-lepett-8-eve-a-leggazdagabbak-listajara-most-660-milliarddal-vezeti/",
+      "date": "perc",
+      "excerpt": "Mészáros Lőrinc továbbra is az ország leggazdagabb embere, vagyona eléri a 660 milliárd forintot – derül ki a 100 leggazdagabb magyar kiadványból.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Orbán kincstárnoka szedte meg magát az ellopott nyugdíjvagyonon",
+      "url": "https://atlatszo.hu/mutyimondo/2017/04/28/orban-kincstarnoka-szedte-meg-magat-az-ellopott-nyugdijvagyonon/",
+      "date": "perc",
+      "excerpt": "Gyermekbántalmazás is szerepel a tavaly az NVI-nél fellépő kopaszok bűnlajstromán; Szíjj László cégei idén már 160 milliárdot nyertek el; Simicska...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Fejér county, 02. no. constituency",
+  "search_name_used": "Schmidt Roland"
+}

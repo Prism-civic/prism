@@ -1,0 +1,45 @@
+{
+  "kpn_id": 758335,
+  "candidate_name": "BERÉNYI GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:00:37.983721+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Aszály és akkugyárak – a tájból eltűnő víz nyomában jártunk az elmúlt évben",
+      "url": "https://atlatszo.hu/kornyezet/2025/12/23/aszaly-es-akkugyarak-a-tajbol-eltuno-viz-nyomaban-jartunk-az-elmult-evben/",
+      "date": "perc",
+      "excerpt": "Számos cikkben és videóban foglalkoztunk idén a klímaváltozás miatt egyre elviselhetetlenebbé váló nyári hőséggel, a természetes vizekkel, és az ivóvízzel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az elbukott sukorói kaszinóváros helyszínén most NER-orosz érdekeltség építene hasonló komplexumot",
+      "url": "https://atlatszo.hu/orszagszerte/2024/12/23/az-elbukott-sukoroi-kaszinovaros-helyszinen-most-ner-orosz-erdekeltseg-epitene-hasonlo-komplexumot/",
+      "date": "perc",
+      "excerpt": "Fiatalokért Központ néven épülne rendezvényhelyszín a Velencei-tó partjára, a beruházás hátterében ingatlan-tulajdonosként az orosz milliárdos Megdet Rahimkulov egyik fia is feltűnik.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Vadvirágos Budapest” munkacímen szabadultak volna Gyurcsányéktól, de a DK leverte az ellenzéki polgármesterek lázadását a választások előtt",
+      "url": "https://atlatszo.hu/kozugy/2024/06/27/vadviragos-budapest-munkacimen-szabadultak-volna-gyurcsanyektol-de-a-dk-leverte-az-ellenzeki-polgarmesterek-lazadasat-a-valasztasok-elott/",
+      "date": "perc",
+      "excerpt": "\"Vadvirágos Budapest\" munkacímű választási projekttel próbálták csökkenteni a DK túlsúlyát budapesti polgármesterek, sikertelenül. Azonban Magyar Péter megjelenése miatt Gyurcsányék győzelme nem volt hosszú életű.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Fejér county, 04. no. constituency",
+  "search_name_used": "Berényi Gábor"
+}

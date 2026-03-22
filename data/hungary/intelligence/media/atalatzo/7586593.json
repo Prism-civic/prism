@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7586593,
+  "candidate_name": "REMES GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:55:14.031554+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Előválasztás Somogyban: a kezdőrúgás előtt akár le is fújhatják a mérkőzést",
+      "url": "https://atlatszo.hu/orszagszerte/2021/06/30/elovalasztas-somogyban-a-kezdorugas-elott-akar-le-is-fujhatjak-a-merkozest/",
+      "date": "perc",
+      "excerpt": "Somogyban is épp csak megkezdték az előkészületeket az ellenzéki előválasztás párt-paritásos alapon szerveződött bizottságai, miközben egyre kétségesebb, hogy lehet-e egyáltalán...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Előre a múltba – Nádas Péterrel",
+      "url": "https://atlatszo.hu/kult/2024/10/24/elore-a-multba-nadas-peterrel/",
+      "date": "perc",
+      "excerpt": "A már rég komplettnek, s még inkább komplexnek mondható életmű most újabb könyvvel gyarapodott a szerző hatvanas-hetvenes-nyolcvanas évekbeli fotóival.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Önjelölt harcművészek garázdálkodnak vagy anyagfáradás? Kifogyott a műanyag konténerekből az FKF",
+      "url": "https://atlatszo.hu/kozugy/2020/03/18/onjelolt-harcmuveszek-garazdalkodnak-vagy-anyagfaradas-kifogyott-a-muanyag-kontenerekbol-az-fkf/",
+      "date": "perc",
+      "excerpt": "A Fővárosi Közterület-fenntartó (FKF) Zrt.-nél az elmúlt öt évben 50-80 millió forintos értékben sérültek meg 1100 literes zöld műanyag konténerek....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Somogy county, 02. no. constituency",
+  "search_name_used": "Remes Gábor"
+}

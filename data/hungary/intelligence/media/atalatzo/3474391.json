@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3474391,
+  "candidate_name": "HÓDI ZSUZSANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:24.111844+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "300 millióból javítják a 410 milliós utat Komlón; sós víz fenyegeti a Maros élővilágát",
+      "url": "https://atlatszo.hu/orszagszerte/2025/06/15/300-milliobol-javitjak-a-410-millios-utat-komlon-sos-viz-fenyegeti-a-maros-elovilagat/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az ellopott kolbásztól az ügynökösködésig: Csurka István újratöltve",
+      "url": "https://atlatszo.hu/kult/2023/10/21/az-ellopott-kolbasztol-az-ugynokoskodesig-csurka-istvan-ujratoltve/",
+      "date": "perc",
+      "excerpt": "Csurka István tanulmányainak magyarázatai egy elfogult kötetben, amelyben a MIÉP-alapító antiszemtizmusát is igyekeznek mentegetni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Beindult a mémgyár: letarolta az internetet az erdő nélküli lombkoronasétány",
+      "url": "https://atlatszo.hu/kozpenz/2023/04/06/beindult-a-memgyar-letarolta-az-internetet-az-erdo-nelkuli-lombkoronasetany/",
+      "date": "perc",
+      "excerpt": "A legötletesebb képek és videók egy helyen az erdő nélkül épült nyírmártonfalvai lombkoronasétányról.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Bács-Kiskun county, 02. no. constituency",
+  "search_name_used": "Hódi Zsuzsanna"
+}

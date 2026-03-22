@@ -1,0 +1,22 @@
+{
+  "kpn_id": 2574385,
+  "candidate_name": "DÓCS DÁVID",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:22.071397+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "VitézyDávidnehezen sérthetett volna üzleti titkot",
+      "url": "https://atlatszo.hu/kozugy/2015/02/10/vitezy-david-nehezen-serthetett-volna-uzleti-titkot/",
+      "date": "perc",
+      "excerpt": "A Budapesti Közlekedési Központ üzleti titok megsértésének megalapozott gyanúja miatt feljelentette VitézyDávidot, saját nemrég leváltott igazgatóját. Egy gyengébb pénteken ezzel...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Nógrád county, 02. no. constituency",
+  "search_name_used": "Dócs Dávid"
+}

@@ -1,0 +1,42 @@
+{
+  "kpn_id": 4028259,
+  "candidate_name": "DEMETER ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:08.093352+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Elbukta a jogállamisági pert Magyarország, 48 milliárd forint aDemeterSzilárd vezette alapítványnak",
+      "url": "https://atlatszo.hu/mutyimondo/2022/02/18/elbukta-a-jogallamisagi-pert-magyarorszag-48-milliard-demeter-szilard-alapitvanyanak/",
+      "date": "perc",
+      "excerpt": "Hvg.hu:DemeterSzilárd alapítványát 48 milliárd forintnyi közpénzből erősítik meg Négy év alatt több mint 48 milliárd forint közpénzt bocsátott...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Gombamódra szaporodnak az ingatlanok, cégek és folyóiratokDemeterSzilárd körül",
+      "url": "https://atlatszo.hu/kozpenz/2021/11/02/gombamodra-szaporodnak-az-ingatlanok-cegek-es-folyoiratok-demeter-szilard-korul/",
+      "date": "perc",
+      "excerpt": "Nemrég írtunk arról, hogy a magyar kormány 2021-ben a magyar nyelvű folyóiratok támogatási rendszerének átalakítására 1,8 milliárd forintot szán a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "1,8 milliárd forintot oszthat folyóiratoknakDemeterSzilárd kulturális ügynöksége",
+      "url": "https://atlatszo.hu/kozpenz/2021/08/12/18-milliard-forintot-oszthat-folyoiratoknak-demeter-szilard-kulturalis-ugynoksege/",
+      "date": "perc",
+      "excerpt": "Június 22-ikén adta hírül a kultura.hu, hogy megalakult az a két szakmai kollégium, amelyik döntéselőkészítési folyamat során jóváhagyta a Petőfi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Borsod-Abaúj-Zemplén county, 04. no. constituency",
+  "search_name_used": "Demeter Zoltán"
+}

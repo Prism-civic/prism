@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4437890,
+  "candidate_name": "GÁL ADRIENN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:34.299867+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A magyarországi arisztokrácia tündöklése és bukása",
+      "url": "https://atlatszo.hu/kult/2025/10/18/a-magyarorszagi-arisztokracia-tundoklese-es-bukasa/",
+      "date": "perc",
+      "excerpt": "Gyáni Gábor és SzilágyiAdriennsaccra közel 2 kilós kötete kifejezetten olvasmányos módon mutatja be a magyarországi főnemesek életét.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Baranya county, 01. no. constituency",
+  "search_name_used": "Gál Adrienn"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5391425,
+  "candidate_name": "ÁBRAHÁM BARNABÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:14.041730+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Soros-ellenes konferencia újfasiszta meghívottakkal",
+      "url": "https://atlatszo.hu/oktatas/2017/03/20/soros-ellenes-konferencia-ujfasiszta-meghivottakkal/",
+      "date": "perc",
+      "excerpt": "Stop Operation Soros néven szervezett konferenciát szombaton az Identitesz és a Knights Templar International. A meghívottak felét az Identitesz...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hungaristákkal és a putyinizmussal is flörtölnek a frankofón szélsőjobboldal hazai képviselői, az identitáriusok",
+      "url": "https://atlatszo.hu/kozpenz/2016/11/07/hungaristakkal-es-a-putyinizmussal-is-flortolnek-a-frankofon-szelsojobboldal-hazai-kepviseloi-az-identitariusok/",
+      "date": "perc",
+      "excerpt": "Nemzetközi „franchise-rendszerben” szerveződik Európa egyik legnagyobb radikális jobboldali ifjúsági mozgalma, az identitárius mozgalom. Magyarországon a legtöbben talán Michel Houellebecq...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Orosz Mihály Zoltán hagyatéka – adósságokban és perekben fuldoklik Érpatak a bolond polgármester bukása után",
+      "url": "https://atlatszo.hu/kozpenz/2018/06/20/orosz-mihaly-zoltan-hagyateka-adossagokban-es-perekben-fuldoklik-erpatak-a-bolond-polgarmester-bukasa-utan/",
+      "date": "perc",
+      "excerpt": "Bukását követően a falu fellélegzett, most pedig körözést rendelt el a Nyírbátori Rendőrkapitányság Orosz Mihály Zoltán, Érpatak volt polgármestere ellen....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Komárom-Esztergom county, 03. no. constituency",
+  "search_name_used": "Ábrahám Barnabás"
+}

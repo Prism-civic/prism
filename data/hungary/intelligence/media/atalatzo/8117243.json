@@ -1,0 +1,32 @@
+{
+  "kpn_id": 8117243,
+  "candidate_name": "DR. BIHARI ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:32:52.081414+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Se herbál, se Jobbik – szegregáció és kiskirályság abiharivégeken",
+      "url": "https://atlatszo.hu/kozpenz/2015/06/15/se-herbal-se-jobbik-szegregacio-es-kiskiralysag-a-bihari-vegeken/",
+      "date": "perc",
+      "excerpt": "Fideszes polgármester kerülhet szembe a református teológus és fideszes miniszterrel egy református általános iskola tervei miatt – ráadásul úgy hírlik,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Katonaiskola indul Hódmezővásárhelyen, volt fűtőművet adott el Miskolc",
+      "url": "https://atlatszo.hu/orszagszerte/2022/01/02/katonaiskola-indul-hodmezovasarhelyen-volt-futomuvet-adott-el-miskolc/",
+      "date": "perc",
+      "excerpt": "Debreciner.hu: Tasónak és Vitányinak egy indítványa sem volt, Tiba megszólalt – Így dolgoztak 2021-ben a hajdú-bihariparlamenti képviselők A lap...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Borsod-Abaúj-Zemplén county, 06. no. constituency",
+  "search_name_used": "Bihari Zoltán"
+}

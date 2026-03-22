@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4888792,
+  "candidate_name": "ERDŐS NORBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:48.085846+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Lopásokra, elszálló árakra panaszkodnak a Simonka utódját megszavazó helyiek",
+      "url": "https://atlatszo.hu/orszagszerte/2022/04/14/lopasokra-elszallo-arakra-panaszkodnak-a-simonka-utodjat-megszavazo-helyiek/",
+      "date": "perc",
+      "excerpt": "Az ellenzéki programról nem hallottak, a Fidesz pénzosztása mindenkinek jó, miközben a falu is fejlődött, Simonka Györgyről pedig nem tudtak...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros Lőrinc izocukorgyára 1,7 milliárd forint beruházási támogatást kapott a kormánytól",
+      "url": "https://atlatszo.hu/kozugy/2021/04/22/meszaros-lorinc-izocukorgyara-17-milliard-forint-beruhazasi-tamogatast-kapott-a-kormanytol/",
+      "date": "perc",
+      "excerpt": "A Kall Ingredients Kft. tavaly szeptemberben 1,7 milliárd forint vissza nem térítendő beruházási támogatást kapott a Pénzügyminisztériumtól. A cég kisebbségi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Egyetlen fideszes EP-képviselő sem válaszolt az irodabérlésükkel kapcsolatos megkeresésünkre",
+      "url": "https://atlatszo.hu/kozpenz/2017/06/20/egyetlen-fideszes-ep-kepviselo-sem-valaszolt-az-irodaberlesukkel-kapcsolatos-megkeresesunkre/",
+      "date": "perc",
+      "excerpt": "Az Európai Parlament (EP) minden képviselője havi 4.342 eurót kap általános költségtérítésként, főleg azért, hogy irodát tarthasson fent hazájában....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Békés county, 04. no. constituency",
+  "search_name_used": "Erdős Norbert"
+}

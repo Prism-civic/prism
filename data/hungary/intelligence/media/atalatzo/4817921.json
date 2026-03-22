@@ -1,0 +1,32 @@
+{
+  "kpn_id": 4817921,
+  "candidate_name": "LÁSZLÓ ENDRE MÁRTON",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:36:24.116664+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Ungváry Krisztián: A diktatúra banalitása – MarinovichEndreés az állambiztonság",
+      "url": "https://atlatszo.hu/kozpenz/2019/07/14/ungvary-krisztian-a-diktatura-banalitasa-marinovich-endre-es-az-allambiztonsag/",
+      "date": "perc",
+      "excerpt": "Nem először és attól tartok nem is utoljára írom le ezt a mondatot: Magyarországon elmaradt a közszereplők kommunista múlttal kapcsolatos...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Habony Árpád diplomata-útlevelet kapott, BigeLászlót vesztegetéssel gyanúsítják",
+      "url": "https://atlatszo.hu/mutyimondo/2019/06/01/habony-arpad-diplomata-utlevelet-kapott-bige-laszlot-vesztegetessel-gyanusitjak/",
+      "date": "perc",
+      "excerpt": "Kiderítettük, hogy az ötödik leggazdagabb magyar ellen vesztegetés gyanúja miatt nyomoz a rendőrség, a miniszterelnök nem hivatalos tanácsadója pedig februárban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Pest county, 06. no. constituency",
+  "search_name_used": "László Endre Márton"
+}

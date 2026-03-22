@@ -1,0 +1,42 @@
+{
+  "kpn_id": 9032007,
+  "candidate_name": "OROSZ PATRIK",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:54.326730+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kormányzati szinten harcol Csehország azoroszháborús dezinformáció ellen",
+      "url": "https://atlatszo.hu/vilagterkep/2022/03/06/kormanyzati-szinten-harcol-csehorszag-az-orosz-haborus-dezinformacio-ellen/",
+      "date": "perc",
+      "excerpt": "Törvénybe ütközik CsehországbanOroszország Ukrajna elleni háborújának nyílt támogatása. A rendőrséghez már több száz bejelentés érkezett, megkezdődtek a letartóztatások, és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A kormánypárti sajtó és a közmédia is terjeszti a putyinista propagandát Magyarországon",
+      "url": "https://atlatszo.hu/kozpenz/2017/04/28/a-kormanyparti-sajto-es-a-kozmedia-is-terjeszti-a-putyinista-propagandat-magyarorszagon/",
+      "date": "perc",
+      "excerpt": "Összefoglaló azorosz-párti propaganda magyarországi jelenlétéről és terjedéséről. A cikk eredetileg a Re:Baltica oknyomozó oldalon, lettországi partnerünknél jelent meg az álhírekről...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Fészket rakott és üzletelni kezdett a svéd szélsőjobb Budapesten",
+      "url": "https://atlatszo.hu/kozpenz/2016/04/04/feszket-rakott-es-uzletelni-kezdett-a-sved-szelsojobb-budapesten/",
+      "date": "perc",
+      "excerpt": "Orbán-rajongó svéd szélsőjobbos expolitikusok tették át székhelyüket Budapestre az utóbbi években. Erik Almqvist ésPatrikBrinkmann bevándorlásellenes pártok kulcsemberei voltak,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 07. no. constituency",
+  "search_name_used": "Orosz Patrik"
+}

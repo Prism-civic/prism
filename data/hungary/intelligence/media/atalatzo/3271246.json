@@ -1,0 +1,22 @@
+{
+  "kpn_id": 3271246,
+  "candidate_name": "DEÁK BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:15:02.015788+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Régi ismerősünk KertészBalázs, a propagandaminiszter tegnap kiszerkesztett fantomja",
+      "url": "https://atlatszo.hu/kozugy/2016/11/12/regi-ismerosunk-a-propagandaminiszter-tegnap-kiszerkesztett-fantomja-kertesz-balazs/",
+      "date": "perc",
+      "excerpt": "Nincsenek jó napjai sem propagandaminiszterünknek, Rogán Antalnak, sem a jobb kezének és pénzügyi bizalmasának mondott, ám a nyilvánosság elől...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Pest county, 03. no. constituency",
+  "search_name_used": "Deák Balázs"
+}

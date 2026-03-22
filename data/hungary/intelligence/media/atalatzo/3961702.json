@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3961702,
+  "candidate_name": "BOROS DÁNIEL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:02:22.023007+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Borzalmas béke – lengyel kisemberek sorsa a II. világháború utolsó évében",
+      "url": "https://atlatszo.hu/kult/2024/01/12/borzalmas-beke-lengyel-kisemberek-sorsa-a-ii-vilaghaboru-utolso-eveben/",
+      "date": "perc",
+      "excerpt": "Magdalena Grzebałkowska riportszerű könyve egyszerű emberek sorsán keresztül mutatja be, mi történt a II. világháború utolsó évében Lengyelországban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Offshore cégek helyett magántőkealapok mögé bújik a NER-elit, egyre több szektort hálóznak be a titkos pénzgyűjtők",
+      "url": "https://atlatszo.hu/kozpenz/2022/01/10/offshore-cegek-helyett-magantokealapok-moge-bujik-a-ner-elit-egyre-tobb-szektort-haloznak-be-a-titkos-penzgyujtok/",
+      "date": "perc",
+      "excerpt": "Az elmúlt években egyre többször lehetett hallani a gombamód szaporodó hazai magántőkealapokról, amelyek számos iparágba bevásárolták magukat cégek megvételével, ám...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Erdélyi Katalin is szerepel a Mérték Médiaműhely újságírókat bemutató podcast-sorozatában",
+      "url": "https://atlatszo.hu/impakt/2021/10/22/erdelyi-katalin-is-szerepel-a-mertek-mediamuhely-ujsagirokat-bemutato-podcast-sorozataban/",
+      "date": "perc",
+      "excerpt": "A Mérték Médiaműhely podcast-sorozat formájában ismerteti meg a magyar média egy-egy meghatározó újságíró szereplőjét az olvasókkal. A sorozatban az Átlátszó...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Pest county, 01. no. constituency",
+  "search_name_used": "Boros Dániel"
+}

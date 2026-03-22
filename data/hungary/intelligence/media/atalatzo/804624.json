@@ -1,0 +1,42 @@
+{
+  "kpn_id": 804624,
+  "candidate_name": "HORTOBÁGYI KATALIN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:50.021156+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Egyelőre nem épül „Madárszínház” aHortobágyiNemzeti Park védett területén",
+      "url": "https://atlatszo.hu/kornyezet/2022/04/14/egyelore-nem-epul-madarszinhaz-a-hortobagyi-nemzeti-park-vedett-teruleten/",
+      "date": "perc",
+      "excerpt": "Tavaly októberben számoltunk be arról, hogy az állami tulajdonú Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Kft. egy 500 négyzetméter alapterületű...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Építkezni akar a kormány aHortobágyiNemzeti Park természetvédelmi területén",
+      "url": "https://atlatszo.hu/orszagszerte/2021/10/19/epitkezni-akar-a-kormany-a-hortobagyi-nemzeti-park-termeszetvedelmi-teruleten/",
+      "date": "perc",
+      "excerpt": "Az európai uniós közbeszerzési értesítőben megjelent kiírás szerint egy 500 négyzetméter alapterületű madármegfigyelőt és egy 600 négyzetméteres medencét akarnak létrehozni...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "„Délután megálmodja a dolgot Orbán, másnap megszavazzák” – RodicsKatalinkörnyezetvédelemről és földrablásról",
+      "url": "https://atlatszo.hu/kozpenz/2015/11/06/delutan-megalmodja-a-dolgot-orban-masnap-megszavazzak-rodics-katalin-kornyezetvedelemrol-es-foldrablasrol/",
+      "date": "perc",
+      "excerpt": "RodicsKatalina hazai környezetvédelmi szakma meghatározó személyisége, az államigazgatásban eltöltött évtizedek után jelenleg a Greenpeace mezőgazdasági felelőseként dolgozik. Interjúnkban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Veszprém county, 04. no. constituency",
+  "search_name_used": "Hortobágyi Katalin"
+}

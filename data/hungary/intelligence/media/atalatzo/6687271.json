@@ -1,0 +1,23 @@
+{
+  "kpn_id": 6687271,
+  "candidate_name": "SALÁNKINÉ KUTI ZSUZSANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:43:54.019336+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Beperli a kormányt négy hetilap, már biztosan nem épül meg négy börtön",
+      "url": "https://atlatszo.hu/orszagszerte/2023/03/18/beperli-a-kormanyt-negy-hetilap-mar-biztosan-nem-epul-meg-negy-borton/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Hajdú-Bihar county, 01. no. constituency",
+  "search_name_used": "Salánkiné Kuti Zsuzsanna"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 1100056,
+  "candidate_name": "JUHÁSZ ROLAND",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:32:24.224290+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Vádat emelnek Voldemort ellen",
+      "url": "https://atlatszo.hu/mutyimondo/2017/03/15/vadat-emelnek-voldemort-ellen/",
+      "date": "perc",
+      "excerpt": "Közel 1 milliárd forint olimpiai jutalmat kaptak a magyar sportolók a riói olimpia után; vádat emelnek MengyiRolandfideszes képviselő...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
+  "search_name_used": "Juhász Roland"
+}

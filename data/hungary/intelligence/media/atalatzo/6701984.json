@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6701984,
+  "candidate_name": "DR. TAKÁCS ÁRPÁD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:36.089647+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Fideszes álcivilek agytrösztje kampányol több mint 2,5 milliárd forint közpénzből a kereszténykonzervatív Budapestért",
+      "url": "https://atlatszo.hu/kozpenz/2025/08/07/fideszes-alcivilek-agytrosztje-kampanyol-tobb-mint-25-milliard-forint-kozpenzbol-a-keresztenykonzervativ-budapestert/",
+      "date": "perc",
+      "excerpt": "Feltörekvő Fidesz-káderek nyüzsögnek a milliárdos támogatásból életre hívott BP Műhely háza táján.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A NER kedvenc producere tulaj lett a tatárjárásos filmben, amely júniusra kész lehet",
+      "url": "https://atlatszo.hu/kozpenz/2025/04/07/a-ner-kedvenc-producere-tulaj-lett-a-tatarjarasos-filmben-juniusra-kesz-lehet/",
+      "date": "perc",
+      "excerpt": "Lajos Tamás producer megjelent a Nyugat Kapujában Kft.-ben, épp aznap, amikor Kossuth-díjat kapott.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Szerencsejáték-milliók a haveroknak, csalás az Év Kilátója-szavazáson",
+      "url": "https://atlatszo.hu/mutyimondo/2023/10/13/szerencsejatek-milliok-a-haveroknak-csalas-az-ev-kilatoja-szavazason/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Békés county, 01. no. constituency",
+  "search_name_used": "Takács Árpád"
+}

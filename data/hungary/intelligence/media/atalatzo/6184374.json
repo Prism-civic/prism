@@ -1,0 +1,32 @@
+{
+  "kpn_id": 6184374,
+  "candidate_name": "DR. GERGELY ANDREA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:57:17.970209+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Pozitív-negatív hozzáállás szerint listázta az újságírókat VárkonyiAndreacége a Magyar Kutatási Hálózatnak",
+      "url": "https://atlatszo.hu/kozadat/2025/04/16/pozitiv-negativ-hozzallas-szerint-listazta-az-ujsagirokat-varkonyi-andrea-cege-a-magyar-kutatasi-halozatnak/",
+      "date": "perc",
+      "excerpt": "Két hónapra szerződött a HUN-REN Magyar Kutatási Hálózat Mészáros Lőrinc feleségének cégével nettó 5 millió forintért. Az újságírók kategorizálását 99 ezer forintért vállalták.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Luxusfeleségek: az üzleti életben is sikeresek a NER nagyasszonyai",
+      "url": "https://atlatszo.hu/kozpenz/2022/06/08/luxusfelesegek-az-uzleti-eletben-is-sikeresek-a-ner-nagyasszonyai/",
+      "date": "perc",
+      "excerpt": "Szijjártó-Nagy Szilvia, VárkonyiAndreaés Rogán-Gaál Cecília cége is jól prosperált tavaly, pörögtek a milliárdok.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 02. no. constituency",
+  "search_name_used": "Gergely Andrea"
+}

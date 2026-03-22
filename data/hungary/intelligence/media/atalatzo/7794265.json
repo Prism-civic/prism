@@ -1,0 +1,23 @@
+{
+  "kpn_id": 7794265,
+  "candidate_name": "KOCSONDI MÁRK",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:37.959727+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Nemzetgazdasági szempontból kiemelt jelentőségű jégcsarnok épül a XXII. kerületben",
+      "url": "https://atlatszo.hu/kozugy/2016/08/05/nemzetgazdasagi-szempontbol-kiemelt-jelentosegu-jegcsarnok-epul-a-xxii-keruletben/",
+      "date": "perc",
+      "excerpt": "Több mint két év után végre rendeződni látszik két budafok-tétényi ingatlan sorsa: a jelek szerint az egyiken jégcsarnok, a másikon...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 10. no. constituency",
+  "search_name_used": "Kocsondi Márk"
+}

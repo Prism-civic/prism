@@ -1,0 +1,34 @@
+{
+  "kpn_id": 5393515,
+  "candidate_name": "SCHULTZ GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:42:04.121013+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Mi vezeti az anarchista merénylők kezét?",
+      "url": "https://atlatszo.hu/impakt/2018/09/21/mi-vezeti-az-anarchista-merenylok-kezet/",
+      "date": "perc",
+      "excerpt": "E hónapban volt 120 éve, hogy egy magányos anarchista, az akkor 25 éves Luigi Lucheni Genfben, 1898. szeptember 10-én megölte...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": ",,A jövőt azok jelentik, akik ma  kiállnak az oktatás szabadságáért” – 101 diákolimpikon tiltakozik a kormány oktatáspolitikája ellen",
+      "url": "https://atlatszo.hu/oktatas/2016/02/22/a-jovot-azok-jelentik-akik-ma-kiallnak-az-oktatas-szabadsagaert-101-diakolimpikon-tiltakozik-a-kormany-oktataspolitikaja-ellen/",
+      "date": "perc",
+      "excerpt": "101 diákolimpikon utasítja el, hogy Balog Zoltán emberminiszter politikai célokra használja fel sikereiket. A diákolimpikonok az interneten tették közzé levelüket, melyben azt írják,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Békés county, 04. no. constituency",
+  "search_name_used": "Schultz Gábor"
+}

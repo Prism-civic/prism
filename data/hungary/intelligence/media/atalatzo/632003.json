@@ -1,0 +1,22 @@
+{
+  "kpn_id": 632003,
+  "candidate_name": "DR. SZŰCS LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:27:00.098246+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Lázár János az ex-főtitkárt vonná felelősségre a Tenisz Szövetségnél eltűnt milliárdok miatt",
+      "url": "https://atlatszo.hu/kozpenz/2020/10/14/lazar-janos-az-ex-fotitkart-vonna-felelossegre-a-tenisz-szovetsegnel-eltunt-milliardok-miatt/",
+      "date": "perc",
+      "excerpt": "Július óta Lázár János (Fidesz) a Magyar Tenisz Szövetség (MTSZ) új elnöke, akiSzűcsLajost (Fidesz) váltotta, és újabb bűnvádi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 08. no. constituency",
+  "search_name_used": "Szűcs Lajos"
+}

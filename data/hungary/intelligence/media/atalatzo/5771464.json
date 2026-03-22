@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5771464,
+  "candidate_name": "SZABÓ BETTINA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:02.869042+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Csendrendelet: hétköznap tízkor, péntek-szombaton éjfélkor leáll az élet Szegeden",
+      "url": "https://atlatszo.hu/2018/06/20/hetkoznap-tizkor-pentek-szombaton-ejfelkor-leall-az-elet-szegeden/",
+      "date": "perc",
+      "excerpt": "A többség joga a nyugalomhoz? Választás előtti populista jogalkotás? Halálos döfés a város mediterrán fesztivál-jellegének? Egy biztos: óriási indulatokat gerjeszt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kémkedéssel gyanúsítanak egy több éve eltűnt üzletembert",
+      "url": "https://atlatszo.hu/kozugy/2016/02/22/kemkedessel-gyanusitanak-egy-tobb-eve-eltunt-uzletembert/",
+      "date": "perc",
+      "excerpt": "Az USA-nak és az IMF-nek való kémkedéssel gyanúsítják a magyar hatóságok az amerikai bejegyzésű Arcade LLC tulajdonosát, Maxin Norbertet, és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Elszámoltatás” az Operaházban: Egeret szültek a hegyek",
+      "url": "https://atlatszo.hu/kozpenz/2015/05/20/elszamoltatas-az-operahazban-egeret-szultek-a-hegyek/",
+      "date": "perc",
+      "excerpt": "Mi az, ami lassabban megy egy korrupciógyanús ügyben, mint a közérdekű adatok kiadása? Hát persze, hogy a büntetőeljárás, amelyben több...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Jász-Nagykun-Szolnok county, 04. no. constituency",
+  "search_name_used": "Szabó Bettina"
+}

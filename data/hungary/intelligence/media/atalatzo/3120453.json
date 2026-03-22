@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3120453,
+  "candidate_name": "SZÜCS ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:29.979289+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "„Mit szólna ehhez Széchenyi István?!” – az MTA mellett tüntetett a Momentum",
+      "url": "https://atlatszo.hu/impakt/2018/06/23/mit-szolna-ehhez-szechenyi-istvan-az-mta-mellett-tuntetett-a-momentum/",
+      "date": "perc",
+      "excerpt": "A kormány kontroll alá akarja vonni a Magyar Tudományos Akadémiát, ezért péntek délutánra a Momentum tüntetést szervezett az intézmény függetlenségéért....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Állami kórházakba terelné a kormány a meddő párokat",
+      "url": "https://atlatszo.hu/kozpenz/2017/07/28/allami-korhazakba-terelne-a-kormany-a-meddo-parokat/",
+      "date": "perc",
+      "excerpt": "Május végén egy kormányközeli lapból és a közmédia Híradójából értesült az ország arról, hogy a kormány duplájára akarja emelni...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kőszeg Ferenc: A beteg egészségügy",
+      "url": "https://atlatszo.hu/kozpenz/2017/02/07/koszeg-ferenc-a-beteg-egeszsegugy/",
+      "date": "perc",
+      "excerpt": "A magyar egészségügy nem ketté, hanem sok-sok darabra szakadt. Legalul ott van az a 15 százalék, akik egyáltalán nem...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Veszprém county, 01. no. constituency",
+  "search_name_used": "Szücs Zoltán"
+}

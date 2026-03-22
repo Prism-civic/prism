@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6833199,
+  "candidate_name": "GODÓ BEATRIX",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:53:49.975708+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Közpénzből meggazdagodott cégek hálózzák be a hatvanpusztai Orbán-birtokot",
+      "url": "https://atlatszo.hu/kozpenz/2025/11/24/kozpenzbol-meggazdagodott-cegek-halozzak-be-a-hatvanpusztai-orban-birtokot/",
+      "date": "perc",
+      "excerpt": "Bár az Orbán-család azt állítja, nem közpénzből épül Hatvanpuszta, eddig csupa állami megrendelésekből meggazdagodott cég neve került elő a projekt kapcsán.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Állami forrásból, 3 milliárdért építtet sportcsarnokot a Gödöllői Premontrei Apátság",
+      "url": "https://atlatszo.hu/kozpenz/2022/04/20/allami-forrasbol-3-milliardert-epittet-sportcsarnokot-a-godolloi-premontrei-apatsag/",
+      "date": "perc",
+      "excerpt": "Mészáros Lőrinc gyerekeinek cége, a FEJÉR-B.Á.L. Építő és Szolgáltató Zrt. építheti a Gödöllői Premontrei Apátság új sportcsarnokát nettó 3 milliárd...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Előválasztás-figyelő – elkezdődött a regisztráció, már ötven induló biztosan lesz az előválasztáson",
+      "url": "https://atlatszo.hu/adat/2021/08/01/elovalasztas-figyelo-elkezdodott-a-regisztracio-mar-otven-indulo-biztosan-lesz-az-elovalasztason/",
+      "date": "perc",
+      "excerpt": "Július 26-án hivatalosan is kezdetét vette az előválasztás, megnyílt a jelölti indulás hivatalos kezdeményezése. A lehetőséggel már közel hetven képviselőjelölt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Nógrád county, 01. no. constituency",
+  "search_name_used": "Godó Beatrix"
+}

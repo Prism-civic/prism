@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4516516,
+  "candidate_name": "TAKÁCS LÁSZLÓ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:56:09.998135+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "L. SimonLászlósegítségével szerzett műemléki pincét, és már túl is adna rajta",
+      "url": "https://atlatszo.hu/kozugy/2016/07/30/l-simon-laszlo-segitsegevel-szerzett-muemleki-pincet-es-mar-tul-is-adna-rajta/",
+      "date": "perc",
+      "excerpt": "27 millió forintért vette két éve, most 44 millió forintért adna túl a velencei Vörösmarty-pincén egy magáncég, amelynek érdekében L....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Tolna county, 02. no. constituency",
+  "search_name_used": "Takács László"
+}

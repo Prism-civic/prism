@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5624686,
+  "candidate_name": "KORÓDI ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:43:29.928910+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Pozíciókkal kényezteti ellenzékét a fővárosi Fidesz",
+      "url": "https://atlatszo.hu/kozpenz/2015/03/18/poziciokkal-kenyezteti-ellenzeket-a-fovarosi-fidesz/",
+      "date": "perc",
+      "excerpt": "A harcias politikai nyilatkozatokat némileg árnyalja a tény, hogy tucatnyi ellenzéki politikus kapott pozíciót a fővárosi önkormányzat különböző cégeiben. A...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nem mondja meg az MNB cége, hogy hol tartja a milliárdokért vásárolt műalkotásokat",
+      "url": "https://atlatszo.hu/kozpenz/2021/05/10/nem-mondja-meg-az-mnb-cege-hogy-hol-tartja-a-milliardokert-vasarolt-mualkotasokat/",
+      "date": "perc",
+      "excerpt": "Közadatigénylésben kértük ki az MNB-Ingatlan Kft.-től, hogy milyen alkotásokat vásárolt 2020 januárja óta. A cég által kiadott lista szerint jóval...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "3 ezer forintos tőkével rendelkező vajdasági cég kapott 360 milliós támogatást a magyar államtól",
+      "url": "https://atlatszo.hu/2021/03/10/3000-forintos-tokevel-rendelkezo-vajdasagi-ceg-kapott-360-millios-tamogatast-a-magyar-allamtol/",
+      "date": "perc",
+      "excerpt": "A magyar állam mellett egy Mészáros Lőrinc közeli cég finanszírozza azt az óbecsei vállalkozást, amely a tervek szerint négycsillagos szállodát...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Győr-Moson-Sopron county, 01. no. constituency",
+  "search_name_used": "Koródi István"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7933125,
+  "candidate_name": "VALENTIN ANDRÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:58:34.015365+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Lecsapolt tavak, kizsigerelt dolgozók, kerozin és vegyszerek: egy rózsaszál titkai",
+      "url": "https://atlatszo.hu/vilagterkep/2020/02/14/lecsapolt-tavak-kizsigerelt-dolgozok-kerozin-es-vegyszerek-egy-rozsaszal-titkai/",
+      "date": "perc",
+      "excerpt": "Az északi féltekén február közepén egy csokor rózsában ma már nincs szinte semmi romantikus és természetes. Egy maximumra pörgetett termelési...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Huszonévesen milliárdosok – így áll a saját lábán az Orbán-rezsim második generációja",
+      "url": "https://atlatszo.hu/kozpenz/2018/01/04/huszonevesen-milliardosok-igy-all-a-sajat-laban-az-orban-rezsim-masodik-generacioja/",
+      "date": "perc",
+      "excerpt": "Kennedyk vagy Alijevek? A nyugati vagy a keleti változatra hasonlítanak jobban a közelmúltban kialakult magyar politikus- és oligarcha-dinasztiák? Az...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hatvanmillió forintot költöttek a fel nem épülő kecskeméti stadion terveire",
+      "url": "https://atlatszo.hu/kozugy/2016/05/10/hatvanmillio-forintot-koltottek-a-fel-nem-epulo-kecskemeti-stadion-terveire/",
+      "date": "perc",
+      "excerpt": "A jelek szerint Kecskemét lesz a harmadik város, amelyik bukja a stadionfejlesztést. Egy közgyűlési kérdésre adott válaszban Szemereyné Pataki Klaudia...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Valentin András"
+}

@@ -1,0 +1,23 @@
+{
+  "kpn_id": 7558025,
+  "candidate_name": "BUJDOSÓ ANDREA ANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:36:08.103063+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Nehéz lesz ez így – a Fővárosi Közgyűlés alakuló ülésének tanulságai",
+      "url": "https://atlatszo.hu/adat/2024/10/09/nehez-lesz-ez-igy-a-fovarosi-kozgyules-alakulo-ulesenek-tanulsagai/",
+      "date": "perc",
+      "excerpt": "Egyik pártnak sincsen meg az abszolút többsége, több napirendi pontban sem sikerült megállapodásra jutni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Pest county, 03. no. constituency",
+  "search_name_used": "Bujdosó Andrea Anna"
+}

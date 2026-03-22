@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4753127,
+  "candidate_name": "DR. JUHÁSZ MÁTÉ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:59:57.979623+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Milliók tűntek el, házak maradtak félkészen – mesélik az Imperial-cégháló károsultjai",
+      "url": "https://atlatszo.hu/orszagszerte/2026/01/22/milliok-tuntek-el-hazak-maradtak-felkeszen-meselik-az-imperial-ceghalo-karosultjai/",
+      "date": "perc",
+      "excerpt": "Szakszerűtlen kivitelezésről és eltűnt milliókról számoltak be az Átlátszónak többen is azok közül, akik az Imperial-cégcsoporttal szerződtek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Korrupciógyanú: több száz közbeszerzést vizsgáltunk meg, bejelentést teszünk a hatóságoknál",
+      "url": "https://atlatszo.hu/kozpenz/2023/10/24/korrupciogyanu-tobb-szaz-kozbeszerzest-vizsgaltunk-meg-bejelentest-teszunk-a-hatosagoknal/",
+      "date": "perc",
+      "excerpt": "Egy közbeszerzési szakértő segítségével olyan tendereket vizsgáltunk meg, amelyeket a Tömb 2002 Kft. nyert el. Egymás után villantak fel a red flagek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Annyi víz kell a gödi Samsung-gyárnak, amennyi egy százezres lakosú városnak is elegendő lenne",
+      "url": "https://atlatszo.hu/kornyezet/2022/09/05/annyi-viz-kell-a-godi-samsung-gyarnak-amennyi-egy-szazezres-lakosu-varosnak-is-elegendo-lenne/",
+      "date": "perc",
+      "excerpt": "A gödi Samsung-gyár és a többi hazai akkumulátorgyár vízigényének kielégítése fontosabb cél a kormány számára, mint a lakossági vízellátás biztosítása.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Csongrád-Csanád county, 01. no. constituency",
+  "search_name_used": "Juhász Máté"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 139309,
+  "candidate_name": "VARGA GERGŐ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:51:06.236495+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Nem a rendőr az ellenség – így is lehet beszélni a feldühödőben lévő tömeghez",
+      "url": "https://atlatszo.hu/impakt/2017/04/19/nem-a-rendor-az-ellenseg-igy-is-lehet-beszelni-a-felduhodoben-levo-tomeghez/",
+      "date": "perc",
+      "excerpt": "A Gulyás Márton ésVargaGergőfogvatartása ellen április 11-én szervezett tiltakozáson elhangzott egy beszéd egy civil aktivistától,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Borsod-Abaúj-Zemplén county, 04. no. constituency",
+  "search_name_used": "Varga Gergő"
+}

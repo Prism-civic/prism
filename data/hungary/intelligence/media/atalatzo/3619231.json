@@ -1,0 +1,34 @@
+{
+  "kpn_id": 3619231,
+  "candidate_name": "DR. BARCZA ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:12.075226+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Akkugyarmattól a vasút szétlopásáig – Bodnár Zsuzsa a Greenfo podcastjában",
+      "url": "https://atlatszo.hu/impakt/2025/06/11/akkugyarmattol-a-vasut-szetlopasaig-bodnar-zsuzsa-a-greenfo-podcastjaban/",
+      "date": "perc",
+      "excerpt": "A műsor itt újra meghallgatható.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hoffman Rózsa menj a bushba: többezres tüntetés Budapesten, közel 100-an Szegeden",
+      "url": "https://atlatszo.hu/oktatas/2013/10/05/eloben_a_hivatlanul_tunteteserol/",
+      "date": "perc",
+      "excerpt": "A blog hagyományainak megfelelően (lásd pl. korábbi Pride és Nemzeti Tanévnyitó percről-percréinket) a mai Hívatlanul oktatásügyi tüntetésről is élőben közvetít csapatunk. A helyszínen van...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Győr-Moson-Sopron county, 04. no. constituency",
+  "search_name_used": "Barcza Attila"
+}

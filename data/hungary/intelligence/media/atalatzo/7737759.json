@@ -1,0 +1,52 @@
+{
+  "kpn_id": 7737759,
+  "candidate_name": "VARGA GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:56.092894+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "title": "Hadházy:VargaGáborfideszes képviselő kifelejtett egy uniós támogatással épített vendégházat a vagyonbevallásából",
+      "url": "https://atlatszo.hu/kozugy/2021/09/09/hadhazy-varga-gabor-fideszes-kepviselo-kifelejtett-egy-unios-tamogatassal-epitett-vendeghazat-a-vagyonbevallasabol/",
+      "date": "perc",
+      "excerpt": "Hadházy Ákos független országgyűlési képviselő évek óta heti Korrupcióinfó címmel tartott sajtótájékoztatón mutat be általa „mutyigyanúsnak” ítélt ügyeket. EzúttalVarga...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ködszínházra jut, óvodára még nem Debrecenben,VargaJudit kampányol",
+      "url": "https://atlatszo.hu/orszagszerte/2022/06/19/kodszinhazra-jut-ovodara-meg-nem-debrecenben-varga-judit-kampanyol/",
+      "date": "perc",
+      "excerpt": "Erről írtak a vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Áron alul bérelhetVargaMihály 169 milliós medencés balatoni luxusházat egy általa kitüntetett trafiktulajdonos cégétől",
+      "url": "https://atlatszo.hu/kozadat/2022/02/23/aron-alul-berelhet-varga-mihaly-169-millios-balatoni-luxushazat-egy-altala-kituntetett-trafiktulajdonostol/",
+      "date": "perc",
+      "excerpt": "VargaMihály pénzügyminiszter a vagyonnyilatkozata szerint 2020 óta bérel egy 204 négyzetméteres gyenesdiási nyaralót. Az Átlátszó kiderítette, hogy hol található...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A NER legnagyobb túlélői VI. – FodorGábor",
+      "url": "https://atlatszo.hu/kozugy/2016/08/20/a-ner-legnagyobb-tuleloi-vi-fodor-gabor/",
+      "date": "perc",
+      "excerpt": "Bizonyos, a NER-rezsimet a nyilvánosság fórumain oly hevesen támadó és/vagy korábban a szoclib holdudvarhoz tartozó emberek nagyon is egyezkednek...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Fejér county, 05. no. constituency",
+  "search_name_used": "Varga Gábor"
+}

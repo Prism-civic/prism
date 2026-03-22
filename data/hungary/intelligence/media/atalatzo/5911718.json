@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5911718,
+  "candidate_name": "BODA BÁNK",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:05.947910+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Komárom-Esztergom megye: a székhely ellenzéki, a nagyvárosok fideszesek",
+      "url": "https://atlatszo.hu/2019/10/31/komarom-esztergom-megye-a-szekhely-ellenzeki-a-nagyvarosok-fideszesek/",
+      "date": "perc",
+      "excerpt": "Tarolt az ellenzéki összefogás a megyeszékhelyen: Tatabányán szoros küzdelem mellett alulmaradt a regnáló Fideszes polgármester, ám a fontosabb bázistelepüléseken a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Háború Ukrajnában – ez történt decemberben",
+      "url": "https://atlatszo.hu/vilagterkep/2025/01/09/haboru-ukrajnaban-ez-tortent-decemberben/",
+      "date": "perc",
+      "excerpt": "Körvonalazódnak az ukrajnai béke feltételei, legalábbis nyugati és ukrán oldalról. A befagyasztott frontvonalak mentén békefenntartók garantálnák a fegyvernyugvást.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Több közép- és délkelet-európai országban gyakori az újságírók lehallgatása és megfigyelése",
+      "url": "https://atlatszo.hu/vilagterkep/2023/09/21/tobb-kozep-es-delkelet-europai-orszagban-gyakori-az-ujsagirok-lehallgatasa-es-megfigyelese/",
+      "date": "perc",
+      "excerpt": "A Balkan Investigative Reporting Network Közép- és Délkelet-Európa 15 országában vizsgálta az újságírók megfigyelésének mértékét.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Komárom-Esztergom county, 01. no. constituency",
+  "search_name_used": "Boda Bánk"
+}

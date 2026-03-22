@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5498856,
+  "candidate_name": "MIRKÓCZKI ÁDÁM",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:13.982627+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Elhallgatott humanitárius akció: így mentettek ki ukrán belügyes családokat Egerbe a háború elől",
+      "url": "https://atlatszo.hu/vilagterkep/2025/12/24/elhallgatott-humanitarius-akcio-igy-mentettek-ki-ukran-belugyes-csaladokat-egerbe-a-haboru-elol/",
+      "date": "perc",
+      "excerpt": "Az ukránellenes propaganda mellett pozitív együttműködés is folyt az ukrán belügyminisztériummal, amit a kormányzati kommunikáció teljesen elhallgatott.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Eger és Szolnok: káosz és kiszámíthatóság",
+      "url": "https://atlatszo.hu/orszagszerte/2024/04/02/eger-es-szolnok-kaosz-es-kiszamithatosag/",
+      "date": "perc",
+      "excerpt": "Másfél órás kocsiút választja el a két szomszéd megye székhelyét, de a politikai szituációt tekintve a két város nem is állhatna távolabb egymástól. Talán csak a halmozódó gondok jelentenek azonosságot a két helyen.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Százmilliókat éget el a Facebookon a magyar politika – teljesen értelmetlenül",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/27/szazmilliokat-eget-el-a-facebookon-a-magyar-politika-teljesen-ertelmetlenul/",
+      "date": "perc",
+      "excerpt": "Nincs olyan magyar fészbukozó, akinek a hírfolyamában ne dobná föl újra és újra valamelyik politikus hirdetését a közösségi oldal. Az...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Heves county, 01. no. constituency",
+  "search_name_used": "Mirkóczki Ádám"
+}

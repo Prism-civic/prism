@@ -1,0 +1,22 @@
+{
+  "kpn_id": 5920084,
+  "candidate_name": "KOLTAI TIBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:53.984541+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Politikaközeli vállalkozások is részesülnek a GINOP uniós fejlesztési pénzekből",
+      "url": "https://atlatszo.hu/kozpenz/2017/11/30/politikakozeli-vallalkozasok-is-reszesulnek-a-ginop-unios-fejlesztesi-penzekbol/",
+      "date": "perc",
+      "excerpt": "Tiborcz István ügyvédje, a Fidesz debreceni frakcióvezetője – az ő érdekeltségeik is százmilliós-milliárdos nagyságrendben részesültek a gazdaságfejlesztésre és innovációra...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Zala county, 01. no. constituency",
+  "search_name_used": "Koltai Tibor"
+}

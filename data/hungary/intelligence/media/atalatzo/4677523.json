@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4677523,
+  "candidate_name": "DR. KONCZ ÁRON",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:29:36.098257+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Hadházy Ákos: luxus minigarzon árából lett nyilvános WC Soroksáron",
+      "url": "https://atlatszo.hu/kozugy/2021/06/24/hadhazy-akos-luxus-minigarzon-arabol-lett-nyilvanos-wc-soroksaron/",
+      "date": "perc",
+      "excerpt": "Soroksár önkormányzata egy luxuslakás áráért, négyzetméterenként 1,1 millióért alakít ki egy nyilvános WC-t a HÉV-megállóban, ahol már amúgy is van...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 04. no. constituency",
+  "search_name_used": "Koncz Áron"
+}

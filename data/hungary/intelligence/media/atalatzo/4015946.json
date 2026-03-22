@@ -1,0 +1,34 @@
+{
+  "kpn_id": 4015946,
+  "candidate_name": "DR. GYÜRE CSABA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:16:46.000115+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "„Valakik el akarták tüntetni Portikot” – interjú Patócs Ilonával, a Pegasussal lehallgatott volt rendőrtiszttel",
+      "url": "https://atlatszo.hu/kult/2025/02/26/valakik-el-akartak-tuntetni-portikot-interju-patocs-ilonaval-a-pegasussal-lehallgatott-volt-rendortiszttel/",
+      "date": "perc",
+      "excerpt": "Régi és újabb ügyekről beszélgettünk az ügyvéddel a rendőri éveire visszaemlékező, A nyomozó című könyvének győri bemutatóján.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A rendőrség kereste Portikot, de mindig olyankor, amikor nem volt ott",
+      "url": "https://atlatszo.hu/kozugy/2024/03/07/a-rendorseg-kereste-portikot-de-mindig-olyankor-amikor-nem-volt-ott/",
+      "date": "perc",
+      "excerpt": "Több forrásunk is azt állítja: Portik Tamásnak, illetve a szervezett bűnözésnek jóval komolyabb rendőrségi és titkosszolgálati kapcsolatai lehettek a hazai szerveknél, mint az USA-ban, illetve az FBI-nál.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
+  "search_name_used": "Gyüre Csaba"
+}

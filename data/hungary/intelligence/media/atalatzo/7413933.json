@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7413933,
+  "candidate_name": "BAGI REA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:59:14.031571+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Videóriport a kínai akkugyár kedvéért bezárt vasútvonal utolsó napjáról",
+      "url": "https://atlatszo.hu/orszagszerte/2025/10/26/videoriport-a-kinai-akkugyar-kedveert-bezart-vasutvonal-utolso-napjarol/",
+      "date": "perc",
+      "excerpt": "Lázár János minisztériuma, a MÁV és a debreceni önkormányzat szerint lesz majd új vasútvonal, és különben is jobban járnak az utasok a buszokkal. Pedig nem.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Bezúzták az önkormányzati lapot, mert az előző polgármester volt benne kiadóként",
+      "url": "https://atlatszo.hu/orszagszerte/2024/11/28/bezuztak-az-onkormanyzati-lapot-mert-az-elozo-polgarmester-volt-benne-kiadokent/",
+      "date": "perc",
+      "excerpt": "Októbertől a fideszes Győrfiné Dr. Hajdú Szilvia vezeti Aszódot, de a helyi lap októberi számában még az elődje szerepelt felelős kiadóként, és ez Győrfiné szerint nem volt jogszerű.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Fiatalok a kormánypártok célkeresztjében: fidelitasos vezetésű szervezetek taroltak a Városi Civil Alap pályázatán",
+      "url": "https://atlatszo.hu/kozpenz/2024/01/08/fiatalok-a-kormanypartok-celkeresztjeben-fidelitasos-vezetesu-szervezetek-taroltak-a-varosi-civil-alap-palyazatan/",
+      "date": "perc",
+      "excerpt": "2021-ben a médiaépítést, a választási évben mozgósító rendezvényeket, idén a fiatalokat megszólító szervezeteket támogatott bőkezűen a Fidesz-közeli civil szervezeteket pénzelő alap.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Békés county, 01. no. constituency",
+  "search_name_used": "Bagi Rea"
+}

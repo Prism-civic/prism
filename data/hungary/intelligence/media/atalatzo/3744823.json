@@ -1,0 +1,42 @@
+{
+  "kpn_id": 3744823,
+  "candidate_name": "SARKADI PÁL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:50:18.314725+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Rendzavarás a karzaton, forráskivonás az egészségügyben: a Flaszterben jártSarkadiNagy Márton",
+      "url": "https://atlatszo.hu/impakt/2022/12/12/rendzavaras-a-karzaton-forraskivonas-az-egeszsegugyben-a-flaszterben-jart-sarkadi-nagy-marton/",
+      "date": "perc",
+      "excerpt": "Kollégánk a Magyar Hang közéleti műsorának legutóbbi adásában járt, a felvétel itt visszanézhető.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Műemlékvédelemnek hazudott építkezés Hatvanpusztán, tájrombolás a Balatonon – Bodnár Zsuzsa a Greenfo podcastjában",
+      "url": "https://atlatszo.hu/impakt/2025/09/30/muemlekvedelemnek-hazudott-epitkezes-hatvanpusztan-tajrombolas-a-balatonon-bodnar-zsuzsa-a-greenfo-podcastjaban/",
+      "date": "perc",
+      "excerpt": "KollégánkSarkadiPéter szerkesztővel és Zsuppán Andrással, a VálaszOnline újságírójával beszélgetett. Az adás itt újra meghallgatható.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A Tisza Párt zöld választási ígéreteitől a siófoki banánligetig  – Bodnár Zsuzsa a Greenfo podcastjában",
+      "url": "https://atlatszo.hu/impakt/2025/08/29/a-tisza-part-zold-valasztasi-igereteitol-a-siofoki-bananligetig-bodnar-zsuzsa-a-greenfo-podcastjaban/",
+      "date": "perc",
+      "excerpt": "KollégánkSarkadiPéter szerkesztővel és Zsuppán Andrással, a VálaszOnline újságírójával beszélgetett. Az adás itt újra meghallgatható.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Bács-Kiskun county, 04. no. constituency",
+  "search_name_used": "Sarkadi Pál"
+}

@@ -1,0 +1,23 @@
+{
+  "kpn_id": 7349772,
+  "candidate_name": "RÓZSAHEGYI ÁRON",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:31:04.098059+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Szlovákia is bekeményít az orosz kémek és trollok elleni küzdelemben",
+      "url": "https://atlatszo.hu/vilagterkep/2022/03/17/szlovakia-is-bekemenyit-az-orosz-kemek-es-trollok-elleni-kuzdelemben/",
+      "date": "perc",
+      "excerpt": "Oroszországnak folytatott kémtevékenység miatt tartóztattak le és utasítottak ki több embert Szlovákiában. A modern szlovák állam legnagyobb kiterjedésű titkosszolgálati művelete...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Baranya county, 03. no. constituency",
+  "search_name_used": "Rózsahegyi Áron"
+}

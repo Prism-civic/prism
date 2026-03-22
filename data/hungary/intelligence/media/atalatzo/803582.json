@@ -1,0 +1,23 @@
+{
+  "kpn_id": 803582,
+  "candidate_name": "KÖKÉNY GÁBOR KÁLMÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:55:06.005760+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A NER legnagyobb túlélői XII. – Németh Sándor",
+      "url": "https://atlatszo.hu/kozugy/2017/12/19/a-ner-legnagyobb-tuleloi-xii-nemeth-sandor/",
+      "date": "perc",
+      "excerpt": "A rendszerváltáskor, valamint a Demokratikus Charta és a kétharmados MSZP-SZDSZ koalíció éveiben nemigen gondolta volna mérvadó politikai elemző, hogy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Pest county, 14. no. constituency",
+  "search_name_used": "Kökény Gábor Kálmán"
+}

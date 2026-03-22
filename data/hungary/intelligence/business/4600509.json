@@ -1,0 +1,191 @@
+{
+  "kpn_id": 4600509,
+  "candidate_name": "KOVÁCS BALÁZS NORBERT",
+  "source": "e-cegjegyzek.hu",
+  "scraped_at": "2026-03-21T19:58:35.266044+00:00",
+  "item_count": 20,
+  "items": [
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS Vegyesipari, Kereskedelmi és Szolgáltató Kft.1993",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-autohaz-toyota-markakereskedo-es-szerviz-kft-1309074265.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS AUTÓHÁZ Toyota Márkakereskedő és Szervíz Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-autoalkatresz-kereskedelmi-kft-0609004767.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Kovács Autóalkatrész Kereskedelmi Kft.1997",
+      "url": "https://ceginfo.hu//ceg-adatlap/technokov-kovacsolo-es-lemezsajtolo-kft-0109077390.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "TECHNOKOV Kovácsoló és Lemezsajtoló Kft.1990",
+      "url": "https://ceginfo.hu//ceg-adatlap/hamor-kovacsolo-megmunkalo-es-hokezelo-zrt-0510000005.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "HÁMOR Kovácsoló, Megmunkáló és Hőkezelő Zrt.1989",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-tuezep-plusz-kereskedelmi-es-szolgaltato-kft-1509063934.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Kovács Tüzép Plusz Kereskedelmi és Szolgáltató Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-bau-epitoipari-es-szolgaltato-kft-0809012013.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS BAU Építőipari és Szolgáltató Kft.2004",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-tuezep-kereskedelmi-es-szolgaltato-kft-1009022768.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS TÜZÉP Kereskedelmi és Szolgáltató Kft.1996",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-zsolt-es-tarsa-kereskedelmi-es-szolgaltato-kft-0109681807.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS ZSOLT ÉS TÁRSA KERESKEDELMI ÉS SZOLGÁLTATÓ Kft.1999",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-trans-2000-fuvarozo-es-kereskedelmi-kft-0809009217.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS TRANS 2000 Fuvarozó és Kereskedelmi Kft.2000",
+      "url": "https://ceginfo.hu//ceg-adatlap/szabadalakito-kovacsuezem-termelo-es-szolgaltato-kft-0109678435.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Szabadalakító Kovácsüzem Termelő és Szolgáltató Kft.1999",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-es-fiai-szallitmanyozo-kft-0709012277.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Kovács és Fiai Szállítmányozó Kft.2006",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-es-tarsa-kereskedelmi-kft-0109076122.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Kovács és Társa Kereskedelmi Kft.1991",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-trans-kereskedelmi-es-szallitasi-kft-1109006427.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS-TRANS Kereskedelmi és Szállítási Kft.1997",
+      "url": "https://ceginfo.hu//ceg-adatlap/rzt-kovacsolo-es-kereskedelmi-kft-0509037154.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "RZT Kovácsoló és Kereskedelmi Kft.2022",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-gepszer-epitoipari-szerelesi-es-szolgaltato-kft-0609008948.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS GÉPSZER Építőipari, Szerelési és Szolgáltató Kft.2003",
+      "url": "https://ceginfo.hu//ceg-adatlap/balogh-es-kovacs-kereskedelmi-es-szolgaltato-kft-0809010121.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Balogh és Kovács Kereskedelmi és Szolgáltató Kft.2002",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-es-kiss-kereskedelmi-es-szolgaltato-kft-0509010840.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Kovács és Kiss Kereskedelmi és Szolgáltató Kft.2003",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-es-tarsai-birtok-mezogazdasagi-termelo-es-kereskedelmi-kft-1709002886.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "Kovács és Társai Birtok Mezőgazdasági Termelő és Kereskedelmi Kft.1997",
+      "url": "https://ceginfo.hu//ceg-adatlap/kovacs-transport-szallitmanyozo-es-fuvarozo-kft-0509013007.html",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    },
+    {
+      "type": "company_name_match",
+      "text": "KOVÁCS TRANSPORT Szállítmányozó és Fuvarozó Kft.2006",
+      "url": "https://ceginfo.hu/ceglista/cegek/1",
+      "source": "ceginfo.hu",
+      "confidence": "low",
+      "weight": "medium",
+      "note": "Company name contains surname \"Kovács\" — manual verification required to confirm directorship"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 05. no. constituency"
+}

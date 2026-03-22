@@ -1,0 +1,22 @@
+{
+  "kpn_id": 6318276,
+  "candidate_name": "BENCSIK JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:12.105635+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Tulajdoni lapok árulkodnak a fideszes képviselő családi vagyonának gyarapodásáról",
+      "url": "https://atlatszo.hu/kozpenz/2022/03/10/tulajdoni-lapok-arulkodnak-a-fideszes-kepviselo-csaladi-vagyonanak-gyarapodasarol/",
+      "date": "perc",
+      "excerpt": "A Komárom-Esztergom megyeiBencsikJánosvagyonát, ahogy más országgyűlési képviselőkét is, nehéz felmérni. A családi gazdaság ingatlanjainak jó része ugyanis...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Komárom-Esztergom county, 01. no. constituency",
+  "search_name_used": "Bencsik János"
+}

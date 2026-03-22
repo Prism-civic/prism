@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1784221,
+  "candidate_name": "DARÓCZI ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:05:54.010692+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Népszavazást kezdeményeznek a tataiak az Öreg-tó partjára tervezett luxusszálloda ellen",
+      "url": "https://atlatszo.hu/2020/07/14/nepszavazast-kezdemenyeznek-a-tataiak-az-oreg-to-partjara-tervezett-luxusszalloda-ellen/",
+      "date": "perc",
+      "excerpt": "Több ezres tüntetéssel és részletes szakértői elemzéssel tiltakozik egy civil lakossági mozgalom a tatai tópartra tervezett ötcsillagos szálloda megépítése ellen....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Velünk élő nyolcvanas évek: Gyárfás Tamás portréja",
+      "url": "https://atlatszo.hu/kozpenz/2016/01/21/velunk-elo-nyolcvanas-evek-gyarfas-tamas-portreja/",
+      "date": "perc",
+      "excerpt": "Andy Vajna filmes kormánybiztos, médiacézár és kaszinóguru lehet – a „szaknévsoros” Bodnár György révén – a sokak által keresett közös...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A szegregáció rossz, a család szerepe viszont fontos",
+      "url": "https://atlatszo.hu/oktatas/2015/06/10/a-szegregacio-rossz-a-csalad-szerepe-viszont-fontos/",
+      "date": "perc",
+      "excerpt": "2014-ben a nyíregyházi Huszár-telepi Sója Miklós Görögkatolikus Óvoda és Általános Iskoláról a bíróság első- majd másodfokon kimondta, hogy szegregálják az ott...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Budapest capital, 14. no. constituency",
+  "search_name_used": "Daróczi Zoltán"
+}

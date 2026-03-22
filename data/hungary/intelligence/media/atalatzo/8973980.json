@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8973980,
+  "candidate_name": "ÁDÁM EMESE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:02:50.144108+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Ráindulás és Peppa malac veszélyezteti az ellenzéki összefogás maradékát Józsefvárosban",
+      "url": "https://atlatszo.hu/kozugy/2025/11/05/raindulas-es-peppa-malac-veszelyezteti-az-ellenzeki-osszefogas-maradekat-jozsefvarosban/",
+      "date": "perc",
+      "excerpt": "Pikóék a kormánypárttal való összejátszással vádolják az MSZP-t, mert ráindítottak valakit a jelöltjükre a hétvégi józsefvárosi időközin.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Csendben módosult az övezeti besorolás, újabb apartmanházak épülhetnek a Balaton-parton Zamárdiban",
+      "url": "https://atlatszo.hu/orszagszerte/2025/01/14/csendben-modosult-az-ovezeti-besorolas-ujabb-apartmanhazak-epulhetnek-a-balatonparton-zamardiban/",
+      "date": "perc",
+      "excerpt": "Négy telek besorolását változtatta meg a képviselő-testület 2022 decemberében, ennek következtében egyszerűbbé vált a sokat érő telkeken nagyot építkezni. A helyiek háborognak, a polgármester hallgat az ügyben.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Drónfotók: letarolták a fákat a Velencei-tónál épülő kajak-kenu akadémia telkén",
+      "url": "https://atlatszo.hu/kornyezet/2022/08/11/dronfotok-letaroltak-a-fakat-a-velencei-tonal-epulo-kajak-kenu-akademia-telken/",
+      "date": "perc",
+      "excerpt": "Egy tóparti erdősáv kivételével tejesen letarolták a fákat, miközben a kormányhivatal szerint a beruházásnak nincs jelentős környezeti hatása.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Pest county, 05. no. constituency",
+  "search_name_used": "Ádám Emese"
+}

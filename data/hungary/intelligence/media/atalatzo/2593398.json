@@ -1,0 +1,62 @@
+{
+  "kpn_id": 2593398,
+  "candidate_name": "HORVÁTH ISTVÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:28:20.102351+00:00",
+  "item_count": 5,
+  "items": [
+    {
+      "title": "TiborczIstvánbelgrádi irodaházakat vett, leakciózta a külügy a lélegeztetőgépeket",
+      "url": "https://atlatszo.hu/mutyimondo/2024/01/19/tiborcz-istvan-belgradi-irodahazakat-vett-leakciozta-a-kulugy-a-lelegeztetogepeket/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Az ellopott kolbásztól az ügynökösködésig: CsurkaIstvánújratöltve",
+      "url": "https://atlatszo.hu/kult/2023/10/21/az-ellopott-kolbasztol-az-ugynokoskodesig-csurka-istvan-ujratoltve/",
+      "date": "perc",
+      "excerpt": "CsurkaIstvántanulmányainak magyarázatai egy elfogult kötetben, amelyben a MIÉP-alapító antiszemtizmusát is igyekeznek mentegetni.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Titok, hogy miért lett olcsóbb a TiborczIstvánüzlettársának majdnem eladott zuglói önkormányzati telek",
+      "url": "https://atlatszo.hu/kozugy/2021/09/03/titok-hogy-miert-lett-olcsobb-a-tiborcz-istvan-uzlettarsanak-majdnem-eladott-zugloi-onkormanyzati-telek/",
+      "date": "perc",
+      "excerpt": "„Leárazott” önkormányzati telket vett volna TiborczIstvánvolt üzlettársának, Erdei Bálintnak a cége Zuglóban. Az ingatlan több mint 100 millió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Korrupcióellenes szövetséget alapítottHorváthAndrás és Hadházy Ákos",
+      "url": "https://atlatszo.hu/impakt/2014/11/25/korrupcioellenes-szovetseget-alapitott-horvath-andras-es-hadhazy-akos/",
+      "date": "perc",
+      "excerpt": "Az utóbbi idők nagy korrupciós ügyeit leleplező személyek –HorváthAndrás, Hadházy Ákos, VancsuraIstván-, az olajügyeket feltáró Karancsi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ismét milliárdos forgalmat bonyolított a szekszárdi fideszes politikus cége",
+      "url": "https://atlatszo.hu/orszagszerte/2022/06/07/ismet-milliardos-forgalmat-bonyolitott-a-szekszardi-fideszes-politikus-cege/",
+      "date": "perc",
+      "excerpt": "HorváthIstváncsaládi vállalkozása 1,1 milliárdos árbevételt ért el tavaly, miközben jelentős uniós támogatást is kapott.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Tolna county, 01. no. constituency",
+  "search_name_used": "Horváth István"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 99686,
+  "candidate_name": "ZSIGMOND BARNA PÁL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:49.794117+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Százmilliókat éget el a Facebookon a magyar politika – teljesen értelmetlenül",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/27/szazmilliokat-eget-el-a-facebookon-a-magyar-politika-teljesen-ertelmetlenul/",
+      "date": "perc",
+      "excerpt": "Nincs olyan magyar fészbukozó, akinek a hírfolyamában ne dobná föl újra és újra valamelyik politikus hirdetését a közösségi oldal. Az...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Fidesz legalább tíz éve listázza a választókat, mégis Pikóék ellen nyomoznak",
+      "url": "https://atlatszo.hu/kozugy/2019/09/16/a-fidesz-legalabb-tiz-eve-listazza-a-valasztokat-megis-pikoek-ellen-nyomoznak/",
+      "date": "perc",
+      "excerpt": "Ha azt hallja: lista, kinek a neve ugrik be elsőre? Pikó Andrásé. Ja, nem. Csak a Facebookra kell felmenni például,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A választás napja: Fehérgyarmaton elfogyott a függöny",
+      "url": "https://atlatszo.hu/kozugy/2022/04/03/a-valasztas-napja-fehergyarmaton-elfogyott-a-fuggony/",
+      "date": "perc",
+      "excerpt": "Helyszíni riport a választás napjáról a legkeletibb és legszegényebb választókerületből, ahol a választópolgár maga döntheti el, hogy függönyös fülkében, vagy nyitott padnál szavaz.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 12. no. constituency",
+  "search_name_used": "Zsigmond Barna Pál"
+}

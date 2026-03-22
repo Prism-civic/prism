@@ -1,0 +1,45 @@
+{
+  "kpn_id": 8067372,
+  "candidate_name": "DR. HARGITAI JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:04.087850+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Plusz 4 milliárd hit- és erkölcstanoktatásra, 12 millió a KDNP-s képviselő barátnőjének",
+      "url": "https://atlatszo.hu/mutyimondo/2024/09/13/plusz-4-milliard-hit-es-erkolcstanoktatasra-12-millio-a-kdnp-s-kepviselo-baratnojenek/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Elrendelt és elszabotált nyomozások – jól dokumentált esetek kerültek süllyesztőbe",
+      "url": "https://atlatszo.hu/kozugy/2022/01/06/elrendelt-es-elszabotalt-nyomozasok-jol-dokumentalt-esetek-kerultek-sullyesztobe/",
+      "date": "perc",
+      "excerpt": "Varga Judit igazságügyi miniszter egy számára sértő Facebook-poszt miatt tett feljelentést, a Budapesti Rendőr-főkapitányság pedig azonnal nyomozást indított az ügyben....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Emojis plakátkampány a nemzeti konzultációról, OLAF-eljárás a Heves megyei piacok miatt",
+      "url": "https://atlatszo.hu/mutyimondo/2021/07/09/emojis-plakatkampany-a-nemzeti-konzultaciorol-olaf-eljaras-a-heves-megyei-piacok-miatt/",
+      "date": "perc",
+      "excerpt": "444: Kiscsoportos óvodásnak nézi a választópolgárokat a kormány Egészen új szintet képvisel a kormány új „tájékoztatási” plakátkampánya: most már dühös...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Baranya county, 03. no. constituency",
+  "search_name_used": "Hargitai János"
+}

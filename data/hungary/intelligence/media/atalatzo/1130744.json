@@ -1,0 +1,34 @@
+{
+  "kpn_id": 1130744,
+  "candidate_name": "DR. RUZSA DIÁNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:30:56.100678+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "„Jól már nem tudtam csinálni, rosszul meg nem akartam” – több ezer tanár hagyhatja el a pályát a státusztörvény miatt",
+      "url": "https://atlatszo.hu/kozugy/2023/07/14/jol-mar-nem-tudtam-csinalni-rosszul-meg-nem-akartam-tobb-ezer-tanar-hagyhatja-el-a-palyat-a-statusztorveny-miatt/",
+      "date": "perc",
+      "excerpt": "Pályaelhagyó pedagógusokkal beszélgettünk arról, miért döntöttek úgy, hogy abbahagyják a tanítást.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Izrael párizsi nagykövetsége megpróbálta letiltani a francia köztévé gázai riportját",
+      "url": "https://atlatszo.hu/vilagterkep/2018/10/18/izrael-parizsi-nagykovetsege-megprobalta-letiltani-a-francia-kozteve-gazai-riportjat/",
+      "date": "perc",
+      "excerpt": "Különös polémia kerekedett múlt héten a francia köztévé egyik műsora miatt, amelynek gázai riportját néhány zsidó szervezet mellett Izrael párizsi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Baranya county, 01. no. constituency",
+  "search_name_used": "Ruzsa Diána"
+}

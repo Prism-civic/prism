@@ -1,0 +1,22 @@
+{
+  "kpn_id": 6799946,
+  "candidate_name": "PORCHER ÁRON",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-21T20:04:07.296355+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Orbán előbb túlment minden határon, majd új feltételeket szabott",
+      "url": "https://hvg.hu/eurologus/20260321_euforia-podcast-gyurkeri-mercedesz-eu-csucs-ep2026",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 15. no. constituency",
+  "search_name_used": "Porcher Áron"
+}

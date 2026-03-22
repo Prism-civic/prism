@@ -1,0 +1,22 @@
+{
+  "kpn_id": 309206,
+  "candidate_name": "NOVÁK ELŐD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:40:28.093999+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Az egyik honvédségi luxusrepülő és két NER-es magángép is Katarba ment, ahol ma lesz a  foci vb elsőelődöntője",
+      "url": "https://atlatszo.hu/kozugy/2022/12/13/az-egyik-honvedsegi-luxusrepulo-es-ket-ner-es-magangep-is-katarba-ment-ahol-ma-lesz-a-foci-vb-elso-elodontoje/",
+      "date": "perc",
+      "excerpt": "Ma kezdődnek az országban a foci vbelődöntői, amiket Orbán Viktor magyar miniszterelnök elvileg a helyszínen tekint meg.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Budapest capital, 10. no. constituency",
+  "search_name_used": "Novák Előd"
+}

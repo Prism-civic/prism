@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4480629,
+  "candidate_name": "BALLA PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:52:57.975836+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Itt a névsor, velük evett meg 5,5 millió forintot SzijjártóPétera Kairó-Manáma repülőúton",
+      "url": "https://atlatszo.hu/kozadat/2023/04/25/itt-a-nevsor-veluk-evett-meg-55-millio-forintot-szijjarto-peter-a-kairo-manama-repulouton/",
+      "date": "perc",
+      "excerpt": "Megszereztük a külügyminiszterrel utazó 49 fős üzleti delegáció névsorát. Egyikük még ki is posztolt egy fotót az őket szállító honvédségi repülőről.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Heves county, 01. no. constituency",
+  "search_name_used": "Balla Péter"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7818324,
+  "candidate_name": "DR. SÁROSI JÓZSEF",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:38:24.117179+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kormánypárti drogkutatókra is jutott Rogánék álcivil házipénztárából",
+      "url": "https://atlatszo.hu/kozpenz/2021/10/01/kormanyparti-drogkutatokra-is-jutott-roganek-alcivil-hazipenztarabol/",
+      "date": "perc",
+      "excerpt": "A kormány politikai döntését tudománytalan, kváziszakmai ideológiával támogatja a kormányoldali sajtóban is futtatott Drogkutató Intézet. A szervezetet Rogán Antal álcivil...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Rejtett univerzumok, belső valóságok – tudományos konferenciát tartottak a drogokról",
+      "url": "https://atlatszo.hu/2018/11/23/rejtett-univerzumok-belso-valosagok-tudomanyos-konferenciat-tartottak-a-drogokrol/",
+      "date": "perc",
+      "excerpt": "November 13-14-én a Nyíregyházi Egyetem Történettudományi és Filozófia Intézete, valamint a Magyar Történelmi Társulat Szabolcs-Szatmár-Bereg Megyei Csoportja és nyíregyházi Jósa...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Fákat vágtak ki az újabb sportpályáknak, az Omszk park elvesztette közpark jellegét",
+      "url": "https://atlatszo.hu/2018/11/19/fakat-vagtak-ki-az-ujabb-sportpalyaknak-az-omszk-park-elvesztette-kozpark-jelleget/",
+      "date": "perc",
+      "excerpt": "Fákat taroltak le, keskeny, műanyagösvényt hagytak meg a helyieknek és a kirándulóknak a budakalászi Omszk parkban. Persze hogy tao-pénzek és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Tolna county, 01. no. constituency",
+  "search_name_used": "Sárosi József"
+}

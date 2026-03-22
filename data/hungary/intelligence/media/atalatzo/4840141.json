@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4840141,
+  "candidate_name": "MEZEI ZSOLT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:51:57.983861+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Különadóból fizetett rezsistop, kenőpénz kérésével gyanúsított DK-s alpolgármester",
+      "url": "https://atlatszo.hu/mutyimondo/2026/01/30/kulonadobol-fizetett-rezsistop-kenopenz-keresevel-gyanusitott-dk-s-alpolgarmester/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kinyitottuk a nokiás dobozt, és Lázár volt benne!",
+      "url": "https://atlatszo.hu/category/egyeb/",
+      "date": "perc",
+      "excerpt": "Ezekről ne maradj le! Mégsem volt nokiás doboz a BKV-nál (HVG) Végre nyilvánosak lesznek Lázár hotelszámlái (Direkt36) Az ovi és...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Hatvanpuszta mint az alcsúti édenkert egy közel 200 éves újságcikkben",
+      "url": "https://atlatszo.hu/kozugy/2025/09/01/hatvanpuszta-mint-az-alcsuti-edenkert-egy-kozel-200-eves-ujsagcikkben/",
+      "date": "perc",
+      "excerpt": "Az arisztokratákat elvarázsolni igyekvő Honderű című lap írása szerint a birtokon „saját gazdasági cselédség nyüzsg és forg ura iránti szeretettel a munka körül”.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Fejér county, 05. no. constituency",
+  "search_name_used": "Mezei Zsolt"
+}

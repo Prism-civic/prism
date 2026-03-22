@@ -1,0 +1,45 @@
+{
+  "kpn_id": 9276434,
+  "candidate_name": "CSATÓ DÁNIEL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:02.017933+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "2,5 milliárdot költhet el kommunikációra Balásy cégeinél Schmidt Mária alapítványa",
+      "url": "https://atlatszo.hu/kozpenz/2026/01/22/25-milliardot-kolthet-el-kommunikaciora-balasy-cegeinel-schmidt-maria-alapitvanya/",
+      "date": "perc",
+      "excerpt": "A Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány korábban is a New Land Media Kft.-vel szerződött, így nem történt meglepetés.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Szabó Andrea választási szakértő: A szavazók 10-15 százalékáért folyik a választási küzdelem",
+      "url": "https://atlatszo.hu/orszagszerte/2025/11/12/szabo-andrea-valasztasi-szakerto-a-szavazok-10-15-szazalekaert-folyik-a-valasztasi-kuzdelem/",
+      "date": "perc",
+      "excerpt": "Szabó Andrea választásszociológussal beszélgettünk arról, ellensúlyozza-e a Fidesz kommunikációs szőnyegbombázása a gazdasági válságot, és kik dönthetik el a választás eredményét jövőre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészárosék közpénzbajnok családi cége a hatvanpusztai majorság generálkivitelezője",
+      "url": "https://atlatszo.hu/kozpenz/2025/09/12/meszarosek-kozpenzbajnok-csaladi-cege-a-hatvanpusztai-majorsag-generalkivitelezoje/",
+      "date": "perc",
+      "excerpt": "A Fejér-B.Á.L. Zrt. a hatvanpusztai majorság generálkivitelezője, egyik alvállalkozója pedig a Boldog István-féle közbeszerzési korrupciós ügyben érintett cég lehet az Átlátszóhoz eljutott dokumentum szerint.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Tolna county, 02. no. constituency",
+  "search_name_used": "Csató Dániel"
+}

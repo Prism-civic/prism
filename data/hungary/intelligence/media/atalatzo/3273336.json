@@ -1,0 +1,34 @@
+{
+  "kpn_id": 3273336,
+  "candidate_name": "IPACS SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:12.107300+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A választás napja: „Nem akarom, hogy a gyerekem buzi legyen!”",
+      "url": "https://atlatszo.hu/orszagszerte/2022/04/04/a-valasztas-napja-nem-akarom-hogy-a-gyerekem-buzi-legyen/",
+      "date": "perc",
+      "excerpt": "Mindenki ellenzéki győzelmet várt a Baranya 2. sz. választókerületben, hiszen 2018-ban az akkor még külön induló ellenzéki jelöltek 8762 szavazattal többet kaptak összesen, mint a győztes fideszes Hoppál Péter.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Heti Mutyimondó: Simicska-sikoly és egyéb festmények",
+      "url": "https://atlatszo.hu/mutyimondo/2014/05/19/heti-mutyimondo-simicska-sikoly-es-egyeb-festmenyek/",
+      "date": "perc",
+      "excerpt": "Lázár titkos kiküldetései, Hunvald helye a pokol térképén, Stumpf István és az utolsó ítélet, valamint Kovács Béla, a kaméleonszakértő. Az...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Baranya county, 03. no. constituency",
+  "search_name_used": "Ipacs Sándor"
+}

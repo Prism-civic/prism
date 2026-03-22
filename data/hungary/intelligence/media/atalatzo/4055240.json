@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4055240,
+  "candidate_name": "PAPP DÁVID",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:59:01.969406+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "„Csibészek voltunk, de nem gyilkosok” – Koszi Pista a maffiakorszakról",
+      "url": "https://atlatszo.hu/kozugy/2025/12/20/csibeszek-voltunk-de-nem-gyilkosok-koszi-pista-a-maffiakorszakrol/",
+      "date": "perc",
+      "excerpt": "A jogerős ítélet szerint bűnszervezetet vezetett, ő viszont a börtönbüntetése letöltése után is tagadja, hogy bármi köze lenne a két ember halálával járó leszámoláshoz. Interjú.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Öten hívják ki a lombkoronás polgármestert, Filemon megint dühbe jött az Átlátszótól – választási riport Nyírmártonfalváról",
+      "url": "https://atlatszo.hu/orszagszerte/2024/06/08/oten-hivjak-ki-a-lombkoronas-polgarmestert-filemon-megint-duhbe-jott-az-atlatszotol-valasztasi-riport-nyirmartonfalvarol/",
+      "date": "perc",
+      "excerpt": "A regnáló polgármestert kihívó jelöltek egyetértenek abban, hogy a falu lakóinak félelemben tartása, a szabad véleménynyilvánítás ellehetetlenítése a legfőbb probléma a településen.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az Átlátszónak nem adhatott interjút Jozef Roháč, a börtönben írt könyve viszont megjelenhetett",
+      "url": "https://atlatszo.hu/kult/2024/01/21/az-atlatszonak-nem-adhatott-interjut-jozef-rohac-a-bortonben-irt-konyve-viszont-megjelenhetett/",
+      "date": "perc",
+      "excerpt": "Korábban két újságíró is csinálhatott vele interjút, nem sokkal az Átlátszó újságírójának elutasított interjúkérelme után pedig Roháč által írt, az életéről szóló könyv jelent meg Szlovákiában.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Bács-Kiskun county, 01. no. constituency",
+  "search_name_used": "Papp Dávid"
+}

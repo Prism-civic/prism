@@ -1,0 +1,72 @@
+{
+  "kpn_id": 3009715,
+  "candidate_name": "KISS FERENC",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:48:26.035143+00:00",
+  "item_count": 6,
+  "items": [
+    {
+      "title": "KőszegFerenc: Reichstagtűz Budapesten",
+      "url": "https://atlatszo.hu/kozugy/2020/03/29/koszeg-ferenc-reichstagtuz-budapesten/",
+      "date": "perc",
+      "excerpt": "Hatalomra kerülése előtt Hitler pártja a legjobb választási eredményt 1932. július 20-án érte el: ekkor a nácik a 37, 4...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A NER Soros-ügynökei I. – HankissÁgnes",
+      "url": "https://atlatszo.hu/kozugy/2019/04/20/a-ner-soros-ugynokei-i-hankiss-agnes/",
+      "date": "perc",
+      "excerpt": "A NER legnagyobb túlélői után ismét sorozatot indítunk, a NER Soros-ügynökei címmel. Mert Soros György és az ő hálózata kőkeményen...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Kártérítésért perli KőszegFerenca Párizsi Udvar ingatlanberuházóit",
+      "url": "https://atlatszo.hu/kozugy/2017/06/28/karteritesert-perli-koszeg-ferenc-a-parizsi-udvar-ingatlanberuhazoit/",
+      "date": "perc",
+      "excerpt": "700 ezer forint kártérítésre perli a héten kezdődő eljárásban „szomszéd lakó” minőségben KőszegFerencvolt SZDSZ-es politikus az Orbán-rezsim...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Narancsbőr –Ferenczi Krisztina új könyve az Orbán-vagyonokról, részlet",
+      "url": "https://atlatszo.hu/kozpenz/2014/03/06/narancsbor-ferenczi-krisztina-uj-konyve-az-orban-vagyonokrol-reszlet/",
+      "date": "perc",
+      "excerpt": "Már a nyomdában van külső szerzőnk,Ferenczi Krisztina „Narancsbőr – Az Orbán-vagyonok nyomában” című új könyve, amelyben meglepő módon továbbra...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Erkölcstan rosszul – elemzés BánhegyiFerenctankönyvéről 2. rész",
+      "url": "https://atlatszo.hu/oktatas/2013/09/12/erkolcstan_rosszul_elemzes_banhegyi_ferenc_tankonyverol_2_resz/",
+      "date": "perc",
+      "excerpt": "Tegnapi cikkünk folytatása. A tegnapi írás inkább a tankönyv szakmai minőségét taglalta, ez pedig rátér az erkölcstankönyv erkölcsi problémáira.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "235 millió forintért vásárol meg egy magángyűjteményt a Nemzeti Bank",
+      "url": "https://atlatszo.hu/kozugy/2016/12/05/235-millio-forintert-vasarol-meg-egy-magangyujtemenyt-a-nemzeti-bank/",
+      "date": "perc",
+      "excerpt": "A korábbi hasonló vásárlások után most aKissFerenc-gyűjteményt veszi meg a jegybank 235 millió forintért.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Zala county, 02. no. constituency",
+  "search_name_used": "Kiss Ferenc"
+}

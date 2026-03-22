@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2677053,
+  "candidate_name": "TÜRK ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:10.096228+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Soros György, mint a liberális Blofeld",
+      "url": "https://atlatszo.hu/kozugy/2016/05/29/soros-gyorgy-mint-a-liberalis-blofeld/",
+      "date": "perc",
+      "excerpt": "Orbán Viktornak a szokásos rádióinterjúban Soros Györgyre tett megjegyzéseit nem azok tartalma, hanem a kijelentést tévő személye teszi relevánssá....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Csúcsragadozó a paranoiadzsungelben I. – A Nagy Őszödi Konteó",
+      "url": "https://atlatszo.hu/kozpenz/2013/01/03/csucsragadozo-a-paranoiadzsungelben-i-a-nagy-oszodi-konteo/",
+      "date": "perc",
+      "excerpt": "Debreczeni József A 2006-os ősz című kötetét (DE.HUKÖNYV Kft. kiadása, 2012., 280 oldal) elsőre nehéz műfajilag belőni. Belelapozás után a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az orosz-ukrán háború miatt drágult 1,2 milliárddal a piliscsabai könyvtár-raktár",
+      "url": "https://atlatszo.hu/orszagszerte/2024/08/29/az-orosz-ukran-haboru-miatt-dragult-12-milliarddal-a-piliscsabai-konyvtar-raktar/",
+      "date": "perc",
+      "excerpt": "A kivitelező két erősen NER-közeli cég volt, az épület 2 héttel a júliusi átadása után drágult meg majdnem 19 milliárdra „a háborús konfliktus miatt”.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 01. no. constituency",
+  "search_name_used": "Türk Attila"
+}

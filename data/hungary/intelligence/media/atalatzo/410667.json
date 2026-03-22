@@ -1,0 +1,32 @@
+{
+  "kpn_id": 410667,
+  "candidate_name": "URBÁN IMRE",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:53:13.978529+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Hiányos a blogbirodalmi adatsor: „Urbánus” Szita Károly az MTVA által közölt összeg tízszeresét vette fel a vagyonnyilatkozata szerint",
+      "url": "https://atlatszo.hu/2019/04/16/hianyos-a-blogbirodalmi-adatsor-urbanus-szita-karoly-az-mtva-altal-kozolt-osszeg-tizszereset-vette-fel-a-vagyonnyilatkozata-szerint/",
+      "date": "perc",
+      "excerpt": "Az Átlátszó nemrégiben közérdekű adatigénylésben kérte ki a közmédia kebelében felépített blogbirodalom kormányközeli tartalom-előállítóinak javadalmazását. Szita Károly kaposvári polgármester azonban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "FAÉK 2016 – miért ugrott egymásnak a népi és azurbánus tábor a rendszerváltás után?",
+      "url": "https://atlatszo.hu/impakt/2018/08/24/faek-2016-miert-ugrott-egymasnak-a-nepi-es-az-urbanus-tabor-a-rendszervaltas-utan/",
+      "date": "perc",
+      "excerpt": "Huth Gergelynek ismét sikerült közpénzből egy – finoman szólva – sajátos ténykezelésű filmet rendezni. Korábbi alkotása, a Lejáratás és bomlasztás...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "DK",
+  "constituency": "Jász-Nagykun-Szolnok county, 02. no. constituency",
+  "search_name_used": "Urbán Imre"
+}

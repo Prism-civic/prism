@@ -1,0 +1,32 @@
+{
+  "kpn_id": 8129158,
+  "candidate_name": "ÁCS JÓZSEF",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:41:16.123420+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Ráindulás és Peppa malac veszélyezteti az ellenzéki összefogás maradékátJózsefvárosban",
+      "url": "https://atlatszo.hu/kozugy/2025/11/05/raindulas-es-peppa-malac-veszelyezteti-az-ellenzeki-osszefogas-maradekat-jozsefvarosban/",
+      "date": "perc",
+      "excerpt": "Pikóék a kormánypárttal való összejátszással vádolják az MSZP-t, mert ráindítottak valakit a jelöltjükre a hétvégijózsefvárosi időközin.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "„Intézményesített földrablás” – ÁngyánJózsefösszegzése az állami földeladásokról",
+      "url": "https://atlatszo.hu/orszagszerte/2024/05/24/intezmenyesitett-foldrablas-angyan-jozsef-osszegzese-az-allami-foldeladasokrol/",
+      "date": "perc",
+      "excerpt": "Az Orbán-kormány egykori államtitkára összegezte a 2015-2016-os földárverések tapasztalatait. Szerinte felmerül az intézményesített korrupció gyanúja.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Baranya county, 04. no. constituency",
+  "search_name_used": "Ács József"
+}

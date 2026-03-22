@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6124857,
+  "candidate_name": "DR. JAKAB ZSUZSANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:30:32.093679+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Hárommillió embert érint a lakhatási szegénység Magyarországon",
+      "url": "https://atlatszo.hu/kozugy/2026/02/13/harommillio-embert-erint-a-lakhatasi-szegenyseg-magyarorszagon/",
+      "date": "perc",
+      "excerpt": "Bemutatta lakáspolitikai javaslatait a Lakhatási Koalíció, amely abban bízik, sok évtized után végre a politikusok is meghallgatják a javaslataikat.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Itt a névsor, velük evett meg 5,5 millió forintot Szijjártó Péter a Kairó-Manáma repülőúton",
+      "url": "https://atlatszo.hu/kozadat/2023/04/25/itt-a-nevsor-veluk-evett-meg-55-millio-forintot-szijjarto-peter-a-kairo-manama-repulouton/",
+      "date": "perc",
+      "excerpt": "Megszereztük a külügyminiszterrel utazó 49 fős üzleti delegáció névsorát. Egyikük még ki is posztolt egy fotót az őket szállító honvédségi repülőről.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az uniós pénzek kiosztásában is részt vehettek a Fidesz kedvenc civiljei",
+      "url": "https://atlatszo.hu/kozpenz/2021/09/24/az-unios-penzek-kiosztasaban-is-reszt-vehettek-a-fidesz-kedvenc-civiljei/",
+      "date": "perc",
+      "excerpt": "Az EU által finanszírozott úgynevezett CLLD-típusú programok az állami civil támogatásoknál célzottabbak és átláthatóbbak, azonban ezek kezdvezményezettjei között is találkozhatunk...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 12. no. constituency",
+  "search_name_used": "Jakab Zsuzsanna"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2153880,
+  "candidate_name": "WITZMANN MIHÁLY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:27:48.097136+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Kitették a kollégiumból a mémet készítő diákot, titkolóznak a taszári reptér vevőjéről",
+      "url": "https://atlatszo.hu/orszagszerte/2023/05/21/kitettek-a-kollegiumbol-a-memet-keszito-diakot-titkoloznak-a-taszari-repter-vevojerol/",
+      "date": "perc",
+      "excerpt": "Erről írtak a független vidéki portálok a héten. Lapszemle.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Előválasztás Somogyban: a kezdőrúgás előtt akár le is fújhatják a mérkőzést",
+      "url": "https://atlatszo.hu/orszagszerte/2021/06/30/elovalasztas-somogyban-a-kezdorugas-elott-akar-le-is-fujhatjak-a-merkozest/",
+      "date": "perc",
+      "excerpt": "Somogyban is épp csak megkezdték az előkészületeket az ellenzéki előválasztás párt-paritásos alapon szerveződött bizottságai, miközben egyre kétségesebb, hogy lehet-e egyáltalán...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Kiválasztott cégekkel dübörög a Nemzeti Sportparképítési Program az országban",
+      "url": "https://atlatszo.hu/kozpenz/2021/06/14/kivalasztott-cegekkel-duborog-a-nemzeti-sportparkepitesi-program-az-orszagban/",
+      "date": "perc",
+      "excerpt": "2016-ban indította el a kormány a Nemzeti Szabadidős-Egészség Sportpark Programot, amelynek 2019 elejétől a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Somogy county, 04. no. constituency",
+  "search_name_used": "Witzmann Mihály"
+}

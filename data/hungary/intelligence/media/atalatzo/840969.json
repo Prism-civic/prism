@@ -1,0 +1,45 @@
+{
+  "kpn_id": 840969,
+  "candidate_name": "FÜLÖP LÁSZLÓNÉ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:46.039181+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Paks II: Már az eredeti építési költségek duplájával kalkulálhatnak az oroszok",
+      "url": "https://atlatszo.hu/kozpenz/2026/02/25/paks-ii-mar-az-eredeti-epitesi-koltsegek-duplajaval-kalkulalhatnak-az-oroszok/",
+      "date": "perc",
+      "excerpt": "Alekszej Lihacsov, a Roszatom vezérigazgatója egy sajtótájékoztatón érdekes számokat mondott. Szijjártó Péter és a magyar kormány nem mond semmit.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Százmilliók a Fidesz holdudvarának – összegyűjtöttük a kormányközeli szervezetek német támogatásait",
+      "url": "https://atlatszo.hu/kozugy/2025/03/31/szazmilliok-a-fidesz-holdudvaranak-osszegyujtottuk-a-kormanykozeli-szervezetek-nemet-tamogatasait/",
+      "date": "perc",
+      "excerpt": "A kormánypártok és a NER szervezetei az elmúlt időszakban nem győzték eltüntetni a honlapjaikról a külföldi támogatóik névsorát, de ez a munka nem volt teljesen sikeres.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Tavasszal majd meglátjuk, hogy ki élte túl a telet”  – állami segítség nélkül maradtak a bajba jutott tanodák",
+      "url": "https://atlatszo.hu/oktatas/2022/12/21/tavasszal-majd-meglatjuk-hogy-ki-elte-tul-a-telet-allami-segitseg-nelkul-maradtak-a-bajba-jutott-tanodak/",
+      "date": "perc",
+      "excerpt": "Az elszálló energia-, benzin-, és élelmiszerárak a tanodákat is nehéz helyzetbe hozzák, az állami finanszírozás nem elég a működési költségekre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Veszprém county, 03. no. constituency",
+  "search_name_used": "Fülöp Lászlóné"
+}

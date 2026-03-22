@@ -1,0 +1,32 @@
+{
+  "kpn_id": 7497153,
+  "candidate_name": "FAZEKAS CSILLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T19:55:37.094579+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Fazekastanácsadójának családja és a kunok taroltak a hortobágyi földbérlet-pályázatokon",
+      "url": "https://atlatszo.hu/kozpenz/2015/06/29/fazekas-tanacsadojanak-csaladja-es-a-kunok-taroltak-a-hortobagyi-foldberlet-palyazatokon/",
+      "date": "perc",
+      "excerpt": "A 2013-ban indult földbérlet-pályázatok a Hortobágyi Nemzeti Park kezelésében lévő területek esetén sikerültek a leginkább botrányosra. Évtizedek óta a területen...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Miért kell ennyi föld egy óvónőnek Magyarországon?",
+      "url": "https://atlatszo.hu/mutyimondo/2016/02/22/miert-kell-ennyi-fold-egy-ovononek-magyarorszagon/",
+      "date": "perc",
+      "excerpt": "Ezekről ne maradj le! Lassan kibontakoznak Habony bimbózó Szépművészetis kapcsolatai (444) Saját csapatának épít állami pénzből a stadionépítés egyikcsillaga...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 01. no. constituency",
+  "search_name_used": "Fazekas Csilla"
+}

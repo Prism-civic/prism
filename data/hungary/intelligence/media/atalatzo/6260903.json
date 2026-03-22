@@ -1,0 +1,22 @@
+{
+  "kpn_id": 6260903,
+  "candidate_name": "CZEGLÉDI JÁNOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:40:12.132391+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "A debreceni polgármester az Átlátszót szidta, LázárJánospedig Mészáros Lőrincet",
+      "url": "https://atlatszo.hu/orszagszerte/2024/11/04/a-debreceni-polgarmester-az-atlatszot-szidta-lazar-janos-pedig-meszaros-lorincet/",
+      "date": "perc",
+      "excerpt": "Nagy indulatokat váltott ki a fideszes politikusokból a debreceni vízfejlesztési tender eredménytelenségéről beszámoló cikkünk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Budapest capital, 07. no. constituency",
+  "search_name_used": "Czeglédi János"
+}

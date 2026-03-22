@@ -1,0 +1,45 @@
+{
+  "kpn_id": 397711,
+  "candidate_name": "DR. PÁSZTOR ESZTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:00:17.980291+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Titkolja az egyházközség, hogy tényleg a kemecsei polgármester fiának cége építi-e a bölcsődét",
+      "url": "https://atlatszo.hu/orszagszerte/2023/06/26/titkolja-az-egyhazkozseg-hogy-tenyleg-a-kemecsei-polgarmester-fianak-cege-epiti-e-a-bolcsodet/",
+      "date": "perc",
+      "excerpt": "Kollektív amnézia: hat érintettből egy sem volt hajlandó elárulni, melyik cég végzi a munkát.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Így lett a nemzetközi ultrakatolikus hálózat magyar emberéből a kormánymédia homofób beszélő feje",
+      "url": "https://atlatszo.hu/kozpenz/2021/01/06/igy-lett-a-nemzetkozi-ultrakatolikus-halozat-magyar-emberebol-a-kormanymedia-homofob-beszelo-feje/",
+      "date": "perc",
+      "excerpt": "Nemzetközi hátterű, abortusz- és melegellenes szervezetek hálózata építkezne Magyarországon — egy pénzügyi vita óta a terveket egyelőre jegelik. Az alapítvány...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Emberek, nem tudunk semmit” – megkezdték a tömeges teszteléseket Csehországban",
+      "url": "https://atlatszo.hu/vilagterkep/2020/05/01/emberek-nem-tudunk-semmit-megkezdtek-a-tomeges-teszteleseket-csehorszagban/",
+      "date": "perc",
+      "excerpt": "Átállt Csehország a tömeges tesztelésekre. Az országos akció április végén zárul. Eredmények május elején. Hiába reagáltak a csehek időben a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Fejér county, 01. no. constituency",
+  "search_name_used": "Pásztor Eszter"
+}

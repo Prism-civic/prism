@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1367994,
+  "candidate_name": "DR. SZÉLES DIÁNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:24.093473+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "850 millióba kerül a Gondosórával kapcsolatos kampány, ennek a része lehet a kormányt dicsérő hírlevél ajánlása is",
+      "url": "https://atlatszo.hu/kozpenz/2025/07/10/850-millioba-kerul-a-gondosoraval-kapcsolatos-kampany-ennek-a-resze-lehet-a-kormanyt-dicsero-hirlevel-ajanlasa-is/",
+      "date": "perc",
+      "excerpt": "Olyan közéleti hírlevelet ajánlanak a Gondosóra használóinak egy emailben, amely a kormány eredményeit dicséri. Mindezt közpénzből.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Járványadatok helyett karitatív akciókról tájékoztatott az önkormányzati tévé napi híradója",
+      "url": "https://atlatszo.hu/2020/12/28/jarvanyadatok-helyett-karitativ-akciokrol-tajekoztatott-az-onkormanyzati-teve-napi-hiradoja/",
+      "date": "perc",
+      "excerpt": "Egy hónapon keresztül vizsgáltuk a debreceni önkormányzati televízió esti híradóját. Azt találtuk, hogy harminc adásból 29-ben mutattak be valamilyen adományozást,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Debrecen: vége van-e a Kósa-korszaknak?",
+      "url": "https://atlatszo.hu/kozpenz/2015/05/05/debrecen-vege-van-e-a-kosa-korszaknak/",
+      "date": "perc",
+      "excerpt": "Az előző ciklusban Kósa Lajos alpolgármestereként tevékenykedő Papp László októberi megválasztása után nem nagyon kavarodott fel az állóvíz Debrecenben. Igaz,...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Hajdú-Bihar county, 02. no. constituency",
+  "search_name_used": "Széles Diána"
+}

@@ -1,0 +1,32 @@
+{
+  "kpn_id": 5792895,
+  "candidate_name": "FODOR LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:15:38.021508+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A NER legnagyobb túlélői VI. –FodorGábor",
+      "url": "https://atlatszo.hu/kozugy/2016/08/20/a-ner-legnagyobb-tuleloi-vi-fodor-gabor/",
+      "date": "perc",
+      "excerpt": "Bizonyos, a NER-rezsimet a nyilvánosság fórumain oly hevesen támadó és/vagy korábban a szoclib holdudvarhoz tartozó emberek nagyon is egyezkednek...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A helység kalapácsa: Média és birodalom Debrecenben, KósaLajosvárosában",
+      "url": "https://atlatszo.hu/kozpenz/2013/02/05/a-helyseg-kalapacsa-media-es-birodalom-debrecenben/",
+      "date": "perc",
+      "excerpt": "KósaLajoslassan tizenöt éve irányítja Debrecent, és egyelőre komolyan vehető kihívója sincs. Bár a város adóssága tíz év alatt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Pest county, 10. no. constituency",
+  "search_name_used": "Fodor Lajos"
+}

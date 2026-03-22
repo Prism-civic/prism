@@ -1,0 +1,23 @@
+{
+  "kpn_id": 6424716,
+  "candidate_name": "BOTLÓ KORNÉL",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:46:10.422591+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Ételért és borért vásárolt szavazatok, szegények buszoztatása, láncszavazás – országszerte előfordult választási csalás",
+      "url": "https://atlatszo.hu/kozugy/2022/04/05/etelert-es-borert-vasarolt-szavazatok-szegenyek-buszoztatasa-lancszavazas-orszagszerte-elofordult-valasztasi-csalas/",
+      "date": "perc",
+      "excerpt": "Országszerte több, választási csalás gyanúját felvető történést rögzítettek külső megfigyelők a vasárnapi országgyűlési választásokon. A legtöbb esetben szavazatvásárlás gyanúja merült fel, érkeztek hírek szegény, általában roma szavazók utaztatásáról és kifizetéséről. Komolyabb, rendszerszintű rend",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 10. no. constituency",
+  "search_name_used": "Botló Kornél"
+}

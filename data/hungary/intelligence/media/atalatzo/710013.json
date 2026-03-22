@@ -1,0 +1,23 @@
+{
+  "kpn_id": 710013,
+  "candidate_name": "TERNYÁK ANDRÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:49:10.085884+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Körömben is közpénzmilliárdokból építhet iskolát a katolikus egyház",
+      "url": "https://atlatszo.hu/orszagszerte/2023/07/18/koromben-is-kozpenzmilliardokbol-epithet-iskolat-a-katolikus-egyhaz/",
+      "date": "perc",
+      "excerpt": "Debrecenben csak a költségek felét, itt a teljes büdzsét állja az állam. A 16 tantermes iskola nettó 2,2 milliárd forintba kerül.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Budapest capital, 08. no. constituency",
+  "search_name_used": "Ternyák András"
+}

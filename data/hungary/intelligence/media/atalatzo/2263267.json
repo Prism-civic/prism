@@ -1,0 +1,23 @@
+{
+  "kpn_id": 2263267,
+  "candidate_name": "SERMER ÁDÁM",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:51:26.055262+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Régi-új liberálisok: Egy kis pártalapítvány költései",
+      "url": "https://atlatszo.hu/kozugy/2015/03/31/regi-uj-liberalisok-egy-kis-partalapitvany-koltesei/",
+      "date": "perc",
+      "excerpt": "A legkisebb, parlamenti képviselővel is rendelkező párt alapítványának fizetési listáján ismert eszdéeszes nevek köszönnek vissza. A liberális világkép terjesztésére a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Borsod-Abaúj-Zemplén county, 07. no. constituency",
+  "search_name_used": "Sermer Ádám"
+}

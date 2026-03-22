@@ -1,0 +1,42 @@
+{
+  "kpn_id": 863565,
+  "candidate_name": "SZELES SZABOLCS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:25:00.091032+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Köddé váltakSzabolcsukrajnai fantomszavazói – a háború miatt elmaradt a tömeges buszoztatás a határon",
+      "url": "https://atlatszo.hu/adat/2022/04/20/kodde-valtak-szabolcs-ukrajnai-fantomszavazoi-a-haboru-miatt-elmaradt-a-tomeges-buszoztatas-a-hataron/",
+      "date": "perc",
+      "excerpt": "A választás napján a helyszínen hiába kerestünk Ukrajnából csoportosan buszoztatott voksturistákra utaló jeleket, ezért a statisztikákhoz fordultunk, hogy megtudjuk: tényleg köddé váltak-eSzabolcs-Szatmár-Bereg megye fiktív lakói.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "PanyiSzabolcsnyerte az idei Transparency-Soma Díjat a Fudan Egyetemről szóló cikksorozatáért",
+      "url": "https://atlatszo.hu/kozugy/2022/01/12/panyi-szabolcs-nyerte-az-idei-transparency-soma-dijat-a-fudan-egyetemrol-szolo-cikksorozataert/",
+      "date": "perc",
+      "excerpt": "A díjjal már korábban is elismert PanyiSzabolcs, a Direkt36 újságírója kapta az idei Transparency-Soma Díjat. A tényfeltáró újságírók számára...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ángyán:Szabolcs-Szatmár-Bereg megyében is a kormányzó elithez való jó viszony segíthetett a nagy földek megszerzésében",
+      "url": "https://atlatszo.hu/kozugy/2021/09/10/angyan-szabolcs-szatmar-bereg-megyeben-is-a-kormanyzo-elithez-valo-jo-viszony-segithetett-a-nagy-foldek-megszerzeseben/",
+      "date": "perc",
+      "excerpt": "Ángyán József, a második Orbán-kormány egykori államtitkára megyénkénti bontásban elemzi az árveréses földértékesítési eljárásokat, és tárja fel a Földet a...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Győr-Moson-Sopron county, 01. no. constituency",
+  "search_name_used": "Szeles Szabolcs"
+}

@@ -1,0 +1,32 @@
+{
+  "kpn_id": 5972096,
+  "candidate_name": "DEÁK LAJOS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:18:26.015403+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Nem voltam hajlandó ezekre a mutyikra – kitálalt KósaLajosvolt fideszes polgármester",
+      "url": "https://atlatszo.hu/kozpenz/2021/07/27/nem-voltam-hajlando-ezekre-a-mutyikra-kitalalt-kosa-lajos-volt-fideszes-polgarmester/",
+      "date": "perc",
+      "excerpt": "„Rendszeresen azt hallgattuk, hogy a fürdőben a nagy emberek azt mondták, hogy neki kell nyernie, mert akkor turisztikai fejlesztésre nagyon...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A szabadság és a szuverenitás ígérete csapott össze március 15-én Budapest utcáin",
+      "url": "https://atlatszo.hu/kozugy/2026/03/16/a-szabadsag-es-a-szuverenitas-igerete-csapott-ossze-marcius-15-en-budapest-utcain/",
+      "date": "perc",
+      "excerpt": "Az országgyűlési választás előtt pontosan négy héttel, az 1848-as forradalom évfordulóján a két nagy politikai front vonult végig Budapest belvárosán: a Fidesz Békemenete a Margit hídtól a Kossuth térre, a Tisza Nemzeti Menete aDeáktértől a Hősök terére tartott.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Vas county, 03. no. constituency",
+  "search_name_used": "Deák Lajos"
+}

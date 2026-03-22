@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2621953,
+  "candidate_name": "DÚRÓ DÓRA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:47:37.969903+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Ákos-film készül közpénzből, nyilvánosak a képviselők friss vagyonnyilatkozatai",
+      "url": "https://atlatszo.hu/mutyimondo/2024/02/02/akos-film-keszul-kozpenzbol-nyilvanosak-a-kepviselok-friss-vagyonnyilatkozatai/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ki is van itt megőrülve? – Középpontban a gendertéma",
+      "url": "https://atlatszo.hu/kult/2023/04/15/ki-is-van-itt-megorulve-kozeppontban-a-gendertema/",
+      "date": "perc",
+      "excerpt": "Kováts Eszter Genderőrületek Németországban és Magyarországon című könyve vicces, de egy kicsit ijesztő olvasmány is.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Fradi-szív és Yozsefváros – kiélezett ellenzéki küzdelem a fővárosi 6-os körzetben",
+      "url": "https://atlatszo.hu/adat/2021/09/16/fradi-sziv-es-yozsefvaros-kielezett-ellenzeki-kuzdelem-a-fovarosi-6-os-korzeteben/",
+      "date": "perc",
+      "excerpt": "Néhai kocsisor és Fazekas gimnázium, Müpa és Fradi-pálya, gengszterrap és Duna-part, Páva utcai zsinagóga és Teleki tér. Két ezerarcú kerületből...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Tolna county, 02. no. constituency",
+  "search_name_used": "Dúró Dóra"
+}

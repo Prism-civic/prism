@@ -1,0 +1,22 @@
+{
+  "kpn_id": 4899462,
+  "candidate_name": "TARR ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:30:52.115556+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Újabb céget vett a nevére CsíkZoltántól a felcsúti polgármester",
+      "url": "https://atlatszo.hu/kozugy/2017/03/21/ujabb-ceget-vett-a-nevere-csik-zoltantol-a-felcsuti-polgarmester/",
+      "date": "perc",
+      "excerpt": "A cégadatbázis szerint a Mészáros és Mészáros Kft. 2017. január végén vásárolta meg a Wellnesshotel Építő Kft.-t, melynek egyetlen...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Tarr Zoltán"
+}

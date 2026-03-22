@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4368272,
+  "candidate_name": "DANKÓ BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:23:40.086602+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Aláírás-mátrix: rengeteg kamu ajánlást jelentettek, már 80 büntetőeljárás indult",
+      "url": "https://atlatszo.hu/kozugy/2026/03/20/alairas-matrix-rengeteg-kamu-ajanlast-jelentettek-mar-80-buntetoeljaras-indult/",
+      "date": "perc",
+      "excerpt": "Több mint húsz emberrel beszéltünk, akiknek olyan jelöltek ajánlóívein szerepel az aláírásuk, akikről még csak nem is hallottak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Központosítás a Szent István Egyetemen – rektori irányítás alatt álló intézetek jönnek létre",
+      "url": "https://atlatszo.hu/oktatas/2020/02/12/kozpontositas-a-szent-istvan-egyetemen/",
+      "date": "perc",
+      "excerpt": "A Szent István Egyetem minden karán intézetek kerültek kialakításra az egyetem közleménye szerint. A létrejött intézetekből öt intézmény közvetlen rektori...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Havi 300 ezer forint közpénzért bérelnek budapesti lakást képviselőknek, akik 30-40 kilométerre laknak a fővárostól",
+      "url": "https://atlatszo.hu/kozugy/2018/10/01/havi-300-ezer-forint-kozpenzert-berelnek-budapesti-lakast-kepviseloknek-akik-30-40-kilometerre-laknak-a-fovarostol/",
+      "date": "perc",
+      "excerpt": "Nemcsak a képviselők fizetését emelte meg 750 ezer forintról majdnem 1 millió forintra a parlament, a budapesti albérletre elkölthető keret...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Békés county, 02. no. constituency",
+  "search_name_used": "Dankó Béla"
+}

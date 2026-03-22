@@ -1,0 +1,22 @@
+{
+  "kpn_id": 1801507,
+  "candidate_name": "VARGHA TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:24:40.089886+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Azért rendelt turulszobrokat a honvédség, mert „nem jegesmedve a címerállatuk”",
+      "url": "https://atlatszo.hu/impakt/2025/03/13/azert-rendelt-turulszobrokat-a-honvedseg-mert-nem-jegesmedve-a-cimerallatuk/",
+      "date": "perc",
+      "excerpt": "Vadai Ágnes parlamenti képviselő kérdezett,VarghaTamásállamtitkár pedig válaszolt. Érdemi információkat azonban ezúttal sem tudtunk meg.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Fejér county, 01. no. constituency",
+  "search_name_used": "Vargha Tamás"
+}

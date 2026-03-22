@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6371043,
+  "candidate_name": "FARAGÓ TAMÁS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:30.011386+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Így egyesíti erőit Orbán Viktor és a csalónak tartott ex-pólóbíró",
+      "url": "https://atlatszo.hu/kozugy/2015/10/30/igy-egyesiti-eroit-orban-viktor-es-a-csalonak-tartott-ex-polobiro/",
+      "date": "perc",
+      "excerpt": "A vizes-vb utáni kutakodásunk közben egy érdekes múltbéli történet jelenkori pikáns felbukkanását vettük észre. Azon a képen, amely a márciusi...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Népes társaság lenne a megoldatlan gyilkosságok szabadlábon lévő tetteseiből” – börtöninterjú Czibere Attilával",
+      "url": "https://atlatszo.hu/kozugy/2025/05/14/nepes-tarsasag-lenne-a-megoldatlan-gyilkossagok-szabadlabon-levo-tetteseibol-bortoninterju-czibere-attilaval/",
+      "date": "perc",
+      "excerpt": "A diósdi kettős gyilkosság ügyében 2010-ben húsz évre ítélt férfinek számos kérdést tettünk fel a Hidegre vagy hűvösre című, tavaly megjelent könyvének apropóján.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Csalódott ellenzékieket sodor a Tisza – mutatjuk, melyik párt hány szavazót bukott",
+      "url": "https://atlatszo.hu/adat/2024/06/19/csalodott-ellenzekieket-sodor-a-tisza-mutatjuk-melyik-part-hany-szavazot-bukott/",
+      "date": "perc",
+      "excerpt": "A Tisza támogatottságát illetően többnyire vágyvezérelt állítások hallhatóak, pedig van olyan adat, amelyik megmutatja, honnan jöttek a szavazói.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Heves county, 03. no. constituency",
+  "search_name_used": "Faragó Tamás"
+}

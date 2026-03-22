@@ -1,0 +1,45 @@
+{
+  "kpn_id": 5428033,
+  "candidate_name": "BÓNA SZABOLCS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:34:12.109871+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Sztorik a régióból az uniós gabonaimport-csalásoktól a szlovák dezinformáció által generált bevételig",
+      "url": "https://atlatszo.hu/vilagterkep/2023/12/18/sztorik-a-regiobol-az-unios-gabonaimport-csalasoktol-a-szlovak-dezinformacio-altal-generalt-bevetelig/",
+      "date": "perc",
+      "excerpt": "A The Organised Crime and Corruption Reporting Project (OCCRP) hét oknyomozó újságíró központjának regionális hírlevele.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Intézményesített földrablás” – Ángyán József összegzése az állami földeladásokról",
+      "url": "https://atlatszo.hu/orszagszerte/2024/05/24/intezmenyesitett-foldrablas-angyan-jozsef-osszegzese-az-allami-foldeladasokrol/",
+      "date": "perc",
+      "excerpt": "Az Orbán-kormány egykori államtitkára összegezte a 2015-2016-os földárverések tapasztalatait. Szerinte felmerül az intézményesített korrupció gyanúja.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A méhészek Nagy István agrárminiszter korábbi munkaadóját sejtik az ukrán méz importtilalmának eltörlése mögött",
+      "url": "https://atlatszo.hu/orszagszerte/2024/02/27/a-meheszek-nagy-istvan-agrarminiszter-korabbi-munkaadojat-sejtik-az-ukran-mez-importtilalmanak-eltorlese-mogott/",
+      "date": "perc",
+      "excerpt": "Nagy István régen az Aranynektár Kft. mézfelvásárlójaként dolgozott, a cég 2022-ben közel 1 milliárd forint támogatást kapott a kormánytól.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Győr-Moson-Sopron county, 03. no. constituency",
+  "search_name_used": "Bóna Szabolcs"
+}

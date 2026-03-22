@@ -1,0 +1,45 @@
+{
+  "kpn_id": 284229,
+  "candidate_name": "STEINER ATTILA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T19:55:45.177115+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Fideszes álcivilek agytrösztje kampányol több mint 2,5 milliárd forint közpénzből a kereszténykonzervatív Budapestért",
+      "url": "https://atlatszo.hu/kozpenz/2025/08/07/fideszes-alcivilek-agytrosztje-kampanyol-tobb-mint-25-milliard-forint-kozpenzbol-a-keresztenykonzervativ-budapestert/",
+      "date": "perc",
+      "excerpt": "Feltörekvő Fidesz-káderek nyüzsögnek a milliárdos támogatásból életre hívott BP Műhely háza táján.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Akár 32 Celsius-fokra is hevíthetné a Dunát a Paksi Atomerőmű egy új javaslat szerint",
+      "url": "https://atlatszo.hu/kornyezet/2025/07/24/akar-32-celsius-fokra-is-hevithetne-a-dunat-a-paksi-atomeromu-egy-uj-javaslat-szerint/",
+      "date": "perc",
+      "excerpt": "Ez már lényegében termálfürdő-kategória: a budapesti Lukács Gyógyfürdő gyógymedencéje például 32, külső élménymedencéje 32-33 Celsius-fok meleg.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A magyar fizetések szinte a legrosszabbak az EU-ban, így még az olcsó rezsi is drága",
+      "url": "https://atlatszo.hu/adat/2022/10/20/a-magyar-fizetesek-szinte-a-legrosszabbak-az-eu-ban-igy-meg-az-olcso-rezsi-is-draga/",
+      "date": "perc",
+      "excerpt": "Hiába alacsony Magyarországon a villany és a földgáz ára, ha közben a fizetésünk is az egyik legkisebb Európában.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 03. no. constituency",
+  "search_name_used": "Steiner Attila"
+}

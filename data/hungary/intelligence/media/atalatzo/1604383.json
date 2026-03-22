@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1604383,
+  "candidate_name": "PAPP ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:56:54.009575+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Hős utcaiak elhelyezésére vásárolt lakások több mint fele üresen áll",
+      "url": "https://atlatszo.hu/kozpenz/2021/10/15/a-hos-utcaiak-elhelyezesere-vasarolt-lakasok-tobb-mint-fele-uresen-all/",
+      "date": "perc",
+      "excerpt": "Két hónapja, június 29-én járt le a Belügyminisztérium által a Hős utca rendbetételére adott 2,1 milliárd forintos támogatás felhasználásának második...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Jozef Roháč elismerte, hogy ő robbantott Torgyán és Szájer lakásánál, és a Fidesz-székháznál 1998-ban",
+      "url": "https://atlatszo.hu/kozugy/2026/03/12/jozef-rohac-elismerte-hogy-o-robbantott-torgyan-es-szajer-lakasanal-es-a-fidesz-szekhaznal-1998-ban/",
+      "date": "perc",
+      "excerpt": "Az Aranykéz utcai robbantásért és a Fenyő-gyilkosságért elítélt szlovák férfi ügyvédjén keresztül közölte: ő volt a robbantások végrehajtója, neki azt mondták, hogy ezek \"a Fidesz érdekében\" történtek.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "400 milliót adott rá az állam, mégsem sikerül befejezni a hévízi orosz templomot",
+      "url": "https://atlatszo.hu/orszagszerte/2025/06/26/400-milliot-adott-ra-az-allam-megsem-sikerul-befejezni-a-hevizi-orosz-templomot/",
+      "date": "perc",
+      "excerpt": "A templomot 2021-ben kezdték építeni közpénzből, mert a fürdővárosban annyira sok volt az oroszajkú, ortodox vallású. A beruházás azonban elakadt.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Zala county, 01. no. constituency",
+  "search_name_used": "Papp Zoltán"
+}

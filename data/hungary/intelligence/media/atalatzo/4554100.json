@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4554100,
+  "candidate_name": "PÁL BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:45:38.339568+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A belarusz migrációs válságról szóló film kapta a BIDF „Hétköznapi félelmek” díját",
+      "url": "https://atlatszo.hu/kult/2025/02/03/a-belarusz-migracios-valsagrol-szolo-film-kapta-a-bidf-hetkoznapi-felelmek-dijat/",
+      "date": "perc",
+      "excerpt": "A lengyel rendező dokumentumfilmje egy nagyon időszerű problémát dolgoz fel: a hagyományos erkölcsiség és a mindennapi politika között feszülő ellentétet.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Másfél év alatt közel 200 millió forintot költöttek a MotoGPpályaépítésért felelős cégek vezetőinek bérére",
+      "url": "https://atlatszo.hu/kozpenz/2022/09/30/masfel-ev-alatt-kozel-200-millio-forintot-koltottek-a-motogp-palyaepitesert-felelos-cegek-vezetoinek-berere/",
+      "date": "perc",
+      "excerpt": "Összesítettük, hogy a MotoGPpályaépítésért felelős cégek vezetői mennyi fizetést kaptak, és mennyit közpénz ment el eddig a beruházásra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "HoppálPéter feleségének munkáját keresi a vizsgálóbizottság, eladó az MSZP irodája",
+      "url": "https://atlatszo.hu/orszagszerte/2022/03/13/hoppal-peter-felesegenek-munkajat-keresi-a-vizsgalobizottsag-elado-az-mszp-irodaja/",
+      "date": "perc",
+      "excerpt": "7300.hu: 36 millióért most bárki megveheti a volt komlói MSZP irodát Március másodika óta árulják a helyi MSZP irodáját 36...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Mi Hazánk",
+  "constituency": "Pest county, 04. no. constituency",
+  "search_name_used": "Pál Béla"
+}

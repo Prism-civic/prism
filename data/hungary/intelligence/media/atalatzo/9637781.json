@@ -1,0 +1,45 @@
+{
+  "kpn_id": 9637781,
+  "candidate_name": "MOLNÁR BÁLINT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:56:50.107234+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Félkész, életveszélyes házat kapott az olimpikon 91 millióért – egyre többen panaszkodnak az Imperial cégcsoportra",
+      "url": "https://atlatszo.hu/orszagszerte/2026/02/05/felkesz-eletveszelyes-hazat-kapott-az-olimpikon-91-millioert-egyre-tobben-panaszkodnak-az-imperial-cegcsoportra/",
+      "date": "perc",
+      "excerpt": "Cikksorozatunk második részében további Imperial-panaszosok történetét mutatjuk be. Többen feljelentést tettek, ám a cég szerint minden rendben van.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Sokkal nagyobb a baj, mint gondolnánk” – szakértők a magyar médiarendszerről",
+      "url": "https://atlatszo.hu/kozugy/2025/11/26/sokkal-nagyobb-a-baj-mint-gondolnank-szakertok-a-magyar-mediarendszerrol/",
+      "date": "perc",
+      "excerpt": "A mai magyar médiarendszerről tartottak konferenciát november 25-én a CEU épületében. Helyszíni beszámoló.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nyolc település közösen tiltakozik a sóskúti akkufeldolgozó létesítése ellen",
+      "url": "https://atlatszo.hu/orszagszerte/2025/03/28/nyolc-telepules-kozosen-tiltakozik-a-soskuti-akkufeldolgozo-letesitese-ellen/",
+      "date": "perc",
+      "excerpt": "Az önkormányzatok egységesen állnak ki amellett, hogy a lakosok megkérdezése nélkül se akkufeldolgozó, se más veszélyes üzem ne épülhessen a településükön.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Veszprém county, 04. no. constituency",
+  "search_name_used": "Molnár Bálint"
+}

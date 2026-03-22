@@ -1,0 +1,32 @@
+{
+  "kpn_id": 5975194,
+  "candidate_name": "VÁRKONYI ZOLTÁN",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:57.984678+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Rogán bizalmasai a Vodafone vezetésében,VárkonyiAndrea az autópályakoncessziónál",
+      "url": "https://atlatszo.hu/mutyimondo/2023/02/17/rogan-bizalmasai-a-vodafone-vezeteseben-varkonyi-andrea-az-autopalyakoncesszional/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Luxusfeleségek: az üzleti életben is sikeresek a NER nagyasszonyai",
+      "url": "https://atlatszo.hu/kozpenz/2022/06/08/luxusfelesegek-az-uzleti-eletben-is-sikeresek-a-ner-nagyasszonyai/",
+      "date": "perc",
+      "excerpt": "Szijjártó-Nagy Szilvia,VárkonyiAndrea és Rogán-Gaál Cecília cége is jól prosperált tavaly, pörögtek a milliárdok.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Budapest capital, 01. no. constituency",
+  "search_name_used": "Várkonyi Zoltán"
+}

@@ -1,0 +1,45 @@
+{
+  "kpn_id": 7222662,
+  "candidate_name": "BAKAI-NAGY ZITA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:55:22.012222+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Megkapta a Déli Körvasút folytatása a környezetvédelmi engedélyt, több száz fát vágnak ki",
+      "url": "https://atlatszo.hu/kornyezet/2023/10/17/megkapta-a-deli-korvasut-folytatasa-a-kornyezetvedelmi-engedelyt-tobb-szaz-fat-vagnak-ki/",
+      "date": "perc",
+      "excerpt": "A Déli Körvasút ötödik eleme lakóházak közvetlen közelében haladna el, a vonalon a Budapest–Belgrád vasútvonal teherforgalma menne Nyugat-Európa felé.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A főváros és Újbuda árul egy hatalmas ingatlant a Bikás parknál, a lakosok 9 emeletes irodaszörnytől tartanak",
+      "url": "https://atlatszo.hu/kozpenz/2021/11/09/a-fovaros-es-ujbuda-arul-egy-hatalmas-ingatlant-a-bikas-parknal-a-lakosok-9-emeletes-irodaszornytol-tartanak/",
+      "date": "perc",
+      "excerpt": "A főváros minél drágábban szeretné eladni a Bikás parknál lévő Tétényi úti Üzletközpontot. A kiírt pályázat szerint a jelenlegi kétszintes...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A fideszesek vagy az ellenzékiek keresnek jobban a budapesti önkormányzatokban? Kiszámoltuk!",
+      "url": "https://atlatszo.hu/kozpenz/2020/02/03/a-fideszesek-vagy-az-ellenzekiek-keresnek-jobban-a-budapesti-onkormanyzatokban-kiszamoltuk/",
+      "date": "perc",
+      "excerpt": "Összegyűjtöttük, hogy melyik fővárosi kerületben mennyit keresnek az alpolgármesterek, a képviselők, és a bizottsági tagok. Alpolgármesterekre átlagosan havi 2,4 millió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "DK",
+  "constituency": "Somogy county, 04. no. constituency",
+  "search_name_used": "Bakai-nagy Zita"
+}

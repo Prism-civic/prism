@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1516318,
+  "candidate_name": "DR. TARNAI RICHÁRD",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:30.158092+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Telex értesülése szerint a gödi Samsung-gyár vezetősége az Átlátszó betiltásáért lobbizott a kormánynál",
+      "url": "https://atlatszo.hu/kozugy/2026/02/12/a-telex-ertesulese-szerint-a-godi-samsung-gyar-vezetosege-az-atlatszo-betiltasaert-lobbizott-a-kormanynal/",
+      "date": "perc",
+      "excerpt": "A cégnél a kormánytól várták volna el, hogy valamilyen módon korlátozza az Átlátszó munkáját.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros Lőrinc autókereskedésében nyílt kormányablak, a bérleti díjat az állam fizeti",
+      "url": "https://atlatszo.hu/kozpenz/2025/09/22/meszaros-lorinc-autokereskedeseben-nyilt-kormanyablak-a-berleti-dijat-az-allam-fizeti/",
+      "date": "perc",
+      "excerpt": "A Gépjármű Ügyintézési Pont a Mészáros M1 Kft. budaörsi telephelyén nyílt meg. Ez az egyetlen olyan pont az országban, aminek magáncég ad otthont.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Nyolc település közösen tiltakozik a sóskúti akkufeldolgozó létesítése ellen",
+      "url": "https://atlatszo.hu/orszagszerte/2025/03/28/nyolc-telepules-kozosen-tiltakozik-a-soskuti-akkufeldolgozo-letesitese-ellen/",
+      "date": "perc",
+      "excerpt": "Az önkormányzatok egységesen állnak ki amellett, hogy a lakosok megkérdezése nélkül se akkufeldolgozó, se más veszélyes üzem ne épülhessen a településükön.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 08. no. constituency",
+  "search_name_used": "Tarnai Richárd"
+}

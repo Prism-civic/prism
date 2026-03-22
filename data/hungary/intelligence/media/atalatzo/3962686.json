@@ -1,0 +1,32 @@
+{
+  "kpn_id": 3962686,
+  "candidate_name": "SZATMÁRY KRISTÓF",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:04:57.982698+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Hektáronként vásárolják fel a Balaton környékét NER-lovagok és kormányközeli vállalkozók",
+      "url": "https://atlatszo.hu/orszagszerte/2022/08/26/hektaronkent-vasaroljak-fel-a-balaton-kornyeket-ner-lovagok-es-kormanykozeli-vallalkozok/",
+      "date": "perc",
+      "excerpt": "Az ifj. Mészáros Lőrinc,SzatmáryKristóffideszes országgyűlési képviselő, és néhány további kormányközeli vállalkozó földvásárlásairól kifüggesztett adásvételi szerződések árulkodnak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Badacsonytomaj 364 millióért újíttatja fel a NER-elit ingatlanaihoz vezető utakat",
+      "url": "https://atlatszo.hu/2021/03/23/badacsonytomaj-364-millioert-ujittatja-fel-a-ner-elit-ingatlanaihoz-vezeto-utakat/",
+      "date": "perc",
+      "excerpt": "A Balaton-parti település külterületénSzatmáryKristófkormánypárti országgyűlési képviselőnek borászata van, annak szomszédságában pedig Rákay Philip Fidesz-közeli kommunikátor villája áll....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Budapest capital, 14. no. constituency",
+  "search_name_used": "Szatmáry Kristóf"
+}

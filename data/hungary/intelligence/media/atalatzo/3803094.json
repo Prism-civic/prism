@@ -1,0 +1,45 @@
+{
+  "kpn_id": 3803094,
+  "candidate_name": "JUHÁSZ VERONIKA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:04:50.042632+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Focipályaépítési program Budapesten: az MLSZ diktálja az árat és választja a kivitelezőt",
+      "url": "https://atlatszo.hu/kozpenz/2020/11/12/focipalyaepitesi-program-budapesten-az-mlsz-diktalja-az-arat-es-valasztja-a-kivitelezot/",
+      "date": "perc",
+      "excerpt": "Kikértük a fővárosi kerületektől, hogy 2015 óta milyen megállapodásokat kötöttek a Magyar Labdarúgó Szövetséggel (MLSZ) focipályák és öltözők létrehozására, valamint...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "A Mahart-ház és a Heinrich-udvar után a Radetzky-laktanyát is kormányközeli befektetők bonthatják",
+      "url": "https://atlatszo.hu/kozpenz/2020/10/13/a-mahart-haz-es-a-heinrich-udvar-utan-a-radetzky-laktanyat-is-kormanykozeli-befektetok-bonthatjak/",
+      "date": "perc",
+      "excerpt": "Kiadták a szinte teljes bontásra szóló engedélyt a közelmúltig műemlékként védett Radetzky-laktanyára – árulta el a beruházó cég a napokban...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Az MKKP képviselője megakadályozott egy irreálisan drága MLSZ-projektet a II. kerületben",
+      "url": "https://atlatszo.hu/kozugy/2020/09/28/az-mkkp-kepviseloje-megakadalyozott-egy-irrealisan-draga-mlsz-projektet-a-ii-keruletben/",
+      "date": "perc",
+      "excerpt": "A II. kerületi önkormányzat egy olyan megállapodást akart kötni a Magyar Labdarúgó Szövetséggel (MLSZ), hogy felújítanának egy 350 négyzetméteres fociöltözőt...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Zala county, 01. no. constituency",
+  "search_name_used": "Juhász Veronika"
+}

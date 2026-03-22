@@ -1,0 +1,45 @@
+{
+  "kpn_id": 6820725,
+  "candidate_name": "DR. BÓDIS PÉTER",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:34:56.105527+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "A Direkt36 újságírói nyerték a Soma-díjat, a lombkorona-sétányos anyagunk a legjobbak között",
+      "url": "https://atlatszo.hu/kozugy/2024/01/12/a-direkt36-ujsagiroi-nyertek-a-soma-dijat-a-lombkorona-setanyos-anyagunk-a-legjobbak-kozott/",
+      "date": "perc",
+      "excerpt": "A lomb nélküli lombkorona-sétányt feltáró cikksorozatunk bekerült az év legjobb oknyomozói anyagai közé.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "„Lincshangulat alakult ki az egyes egységekben” – petícióban követelnek béremelést a Pécsi Tudományegyetem dolgozói",
+      "url": "https://atlatszo.hu/oktatas/2023/03/17/lincshangulat-alakult-ki-az-egyes-egysegekben-peticioban-kovetelnek-beremelest-a-pecsi-tudomanyegyetem-dolgozoi/",
+      "date": "perc",
+      "excerpt": "Petícióban követelnek azonnali, inflációkövető béremelést a Pécsi Tudományegyetem nem oktatói státuszú dolgozói.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Panyi Szabolcs nyerte az idei Transparency-Soma Díjat a Fudan Egyetemről szóló cikksorozatáért",
+      "url": "https://atlatszo.hu/kozugy/2022/01/12/panyi-szabolcs-nyerte-az-idei-transparency-soma-dijat-a-fudan-egyetemrol-szolo-cikksorozataert/",
+      "date": "perc",
+      "excerpt": "A díjjal már korábban is elismert Panyi Szabolcs, a Direkt36 újságírója kapta az idei Transparency-Soma Díjat. A tényfeltáró újságírók számára...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Heves county, 01. no. constituency",
+  "search_name_used": "Bódis Péter"
+}

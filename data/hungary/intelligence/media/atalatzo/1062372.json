@@ -1,0 +1,42 @@
+{
+  "kpn_id": 1062372,
+  "candidate_name": "SZENTGYÖRGYI TIBOR VIKTOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:07:10.049626+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "OrbánViktorvalószínűleg honvédségi luxusgéppel ment nyaralni Horvátországba",
+      "url": "https://atlatszo.hu/kozugy/2022/08/09/orban-viktor-valoszinuleg-honvedsegi-luxusgeppel-ment-nyaralni-horvatorszagba/",
+      "date": "perc",
+      "excerpt": "A 607-es Falcon hazajött Amerikából, és már ment is Horvátországba, ahol nem sokkal később feltűnt a miniszterelnök egy tarkabarka ingben.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "OrbánViktoraz egyik honvédségi repülőgéppel mehetett Milánóba operaelőadásra csütörtökön",
+      "url": "https://atlatszo.hu/kozugy/2018/11/17/orban-viktor-az-egyik-honvedsegi-repulogeppel-mehetett-milanoba-operaeloadasra-csutortokon/",
+      "date": "perc",
+      "excerpt": "A miniszterelnök csütörtökön a híres milánói operaházban, a Scalában járt a feleségével. Arról sem a Facebook-oldalán, sem a sajtófőnökén keresztül...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Mészáros Lőrinc és KunaTiborcégei, a Puskás Akadémia ügyvédje is szerződött tavaly a MÁV-val",
+      "url": "https://atlatszo.hu/kozugy/2016/02/11/meszaros-lorinc-es-kuna-tibor-cegei-a-puskas-akademia-ugyvede-is-szerzodott-tavaly-a-mav-val/",
+      "date": "perc",
+      "excerpt": "Meghallották az idők szavát a Magyar Államvasutak (MÁV) Zrt-nél, legalább is erre lehet következtetni abból, hogy 2015-ben többek között Mészáros...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Bács-Kiskun county, 02. no. constituency",
+  "search_name_used": "Szentgyörgyi Tibor Viktor"
+}

@@ -1,0 +1,122 @@
+{
+  "kpn_id": 4782137,
+  "candidate_name": "MAGYAR GÁBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:59:26.139906+00:00",
+  "item_count": 11,
+  "items": [
+    {
+      "title": "„A felelősség a mindenkorimagyarkormányé, de vajon az Unió is megtesz minden tőle telhetőt?” – VonaGáboraz EU-s források felhasználásáról",
+      "url": "https://atlatszo.hu/kozpenz/2023/08/15/a-felelosseg-a-mindenkori-magyar-kormanye-de-vajon-az-unio-is-megtesz-minden-tole-telhetot-vona-gabor-az-eu-s-forrasok-felhasznalasarol/",
+      "date": "perc",
+      "excerpt": "Folytatódik az Átlátszó sorozata az uniós pénzek felhasználásáról. Interjú VonaGáborral az EU-s beruházásokról készített vándorkiállításról.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Akkugyár az Átlátszó ellen, szexvideóMagyarPéterről",
+      "url": "https://atlatszo.hu/mutyimondo/2026/02/13/akkugyar-az-atlatszo-ellen-szexvideo-magyar-peterrol/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "120 millióból kutatják amagyarlakosság véleményét a mesterséges intelligenciáról",
+      "url": "https://atlatszo.hu/kozpenz/2025/12/10/120-milliobol-kutatjak-a-magyar-lakossag-velemenyet-a-mesterseges-intelligenciarol/",
+      "date": "perc",
+      "excerpt": "Miközben a pártokról és politikusokról egyre több AI-anyag jelenik meg, közpénzből készül felmérés amagyarok hozzáállásáról a mesterséges intelligenciával kapcsolatban.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "„Sokkal nagyobb a baj, mint gondolnánk” – szakértők amagyarmédiarendszerről",
+      "url": "https://atlatszo.hu/kozugy/2025/11/26/sokkal-nagyobb-a-baj-mint-gondolnank-szakertok-a-magyar-mediarendszerrol/",
+      "date": "perc",
+      "excerpt": "A maimagyarmédiarendszerről tartottak konferenciát november 25-én a CEU épületében. Helyszíni beszámoló.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Amagyarországi arisztokrácia tündöklése és bukása",
+      "url": "https://atlatszo.hu/kult/2025/10/18/a-magyarorszagi-arisztokracia-tundoklese-es-bukasa/",
+      "date": "perc",
+      "excerpt": "GyániGáborés Szilágyi Adrienn saccra közel 2 kilós kötete kifejezetten olvasmányos módon mutatja be amagyarországi főnemesek életét.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Magyartámogatással, 5,2 milliárd forint értékben épülhet fociakadémia Kassán",
+      "url": "https://atlatszo.hu/kozpenz/2025/08/25/magyar-tamogatassal-52-milliard-forint-ertekben-epulhet-fociakademia-kassan/",
+      "date": "perc",
+      "excerpt": "A beruházásra a BethlenGáborAlapkezelő Zrt. ad vissza nem térítendő támogatást, a kivitelező egy szlovák cég, az AVA-stav s.r.o lehet.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "A külföldön tanuló egyetemistákat is megfigyelte amagyarállambiztonság",
+      "url": "https://atlatszo.hu/kult/2025/05/09/a-kulfoldon-tanulo-egyetemistakat-is-megfigyelte-a-magyar-allambiztonsag/",
+      "date": "perc",
+      "excerpt": "Egy nemrég megjelent tanulmánykötet az 1990 előtt emigráltak sorsát mutatja be Svájctól Amerikáig.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Egyelőre mégsem épülmagyarközpénzből fociakadémia Kassán, túl drága ajánlatok érkeztek",
+      "url": "https://atlatszo.hu/kozpenz/2025/03/17/egyelore-megsem-epul-magyar-kozpenzbol-fociakademia-kassan-tul-draga-ajanlatok-erkeztek/",
+      "date": "perc",
+      "excerpt": "Eredménytelen lett a Kassai Labdarúgó Akadémiai központ kialakítására kiírt tender. A szlovákiai beruházást amagyarkormány támogatja.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Fideszes fellegvárakban is alakultak TISZA-szigetek, Észak-Kelet-Magyarország a legnehezebb terepMagyarPéter pártjának",
+      "url": "https://atlatszo.hu/adat/2025/01/23/fideszes-fellegvarakban-is-alakultak-tisza-szigetek-eszak-kelet-magyarorszag-a-legnehezebb-terep-magyar-peter-partjanak/",
+      "date": "perc",
+      "excerpt": "Az ellenzéki pártok régi, eddig nagyrészt sikertelen célja \"lemenni vidékre\" - megnéztük, hogy állnak ezzelMagyarPéterék, és térképre tettük az ismert TISZA-szigeteket.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "1,4 milliárdért újítják fel az Orbán Balázs alá tartozóMagyarKülügyi Intézet villáját",
+      "url": "https://atlatszo.hu/kozpenz/2024/11/21/14-milliardert-ujitjak-fel-az-orban-balazs-ala-tartozo-magyar-kulugyi-intezet-villajat/",
+      "date": "perc",
+      "excerpt": "A beruházás kivitelezője az EURO CAMPUS Kft. lehet, miután ők adták a legolcsóbb, nettó 1,39 milliárd forintos ajánlatot.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Európába is megérkezett a műhús,Magyarország betiltaná",
+      "url": "https://atlatszo.hu/orszagszerte/2024/08/06/europaba-is-megerkezett-a-muhus-magyarorszag-betiltana/",
+      "date": "perc",
+      "excerpt": "A műhússal kapcsolatban számos érv és ellenérv merül fel, amagyaragrárminiszter azonban leginkább a hagyományos ételek sorsa miatt aggódik.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Békés county, 03. no. constituency",
+  "search_name_used": "Magyar Gábor"
+}

@@ -1,0 +1,22 @@
+{
+  "kpn_id": 5045489,
+  "candidate_name": "HORVÁT IMRÉNÉ",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:13:10.008821+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Orosz hátterű cégháló az INA korrupciós ügye körül",
+      "url": "https://atlatszo.hu/kozpenz/2013/12/12/ceghalo-az-ina-korrupcios-ugye-korul/",
+      "date": "perc",
+      "excerpt": "A Mol orosz hátterű üzleti partnere egy bonyolult céghálón keresztül kapcsolódik ahorvátINA korrupciós ügyében érintett ciprusi offshore cégekhez....",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "Középpárt",
+  "constituency": "Hajdú-Bihar county, 05. no. constituency",
+  "search_name_used": "Horvát Imréné"
+}

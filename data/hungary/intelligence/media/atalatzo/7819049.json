@@ -1,0 +1,32 @@
+{
+  "kpn_id": 7819049,
+  "candidate_name": "SZÉKELY SÁNDOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:17.970976+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "A MET Holding és a Külügyminisztérium szponzorálta aszékelygyermekkórus svájci utazását",
+      "url": "https://atlatszo.hu/kozpenz/2015/06/19/a-met-holding-es-a-kulugyminiszterium-szponzoralta-a-szekely-gyermekkorus-svajci-utazasat/",
+      "date": "perc",
+      "excerpt": "A svájci magyar nagykövet meghívására, a Külügyminisztérium és a MET Holding támogatásával utazott tavaly Svájcba az aszékelygyermekkórus, aminek...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Ízlés nélkül nincsen táj – avagy miért betegek már a naplementék is?",
+      "url": "https://atlatszo.hu/kult/2023/02/25/izles-nelkul-nincsen-taj-avagy-miert-betegek-mar-a-naplementek-is/",
+      "date": "perc",
+      "excerpt": "RadnótiSándorA táj keletkezéstörténetei című kötete művészet-, kultúr- és filozófiatörténeti munka a tájról és az azt alakító emberről.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Székely Sándor"
+}

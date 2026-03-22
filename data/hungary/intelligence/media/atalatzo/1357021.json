@@ -1,0 +1,45 @@
+{
+  "kpn_id": 1357021,
+  "candidate_name": "BERECZKI MIKLÓS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:06:30.254050+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Rejtély, hogy mi festette türkizkékre a Gyáli-patak vizét Budapesten",
+      "url": "https://atlatszo.hu/kozugy/2020/11/30/rejtely-hogy-mi-festette-turkizkekre-a-gyali-patak-vizet-budapesten/",
+      "date": "perc",
+      "excerpt": "A lakosok figyeltek fel arra, hogy a Gyáli-patak vizét valamilyen anyag türkizkék színűre festette. A környezetszennyezést jelentették a Fővárosi Csatornázási Műveknek (FCSM),...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Ráindulás és Peppa malac veszélyezteti az ellenzéki összefogás maradékát Józsefvárosban",
+      "url": "https://atlatszo.hu/kozugy/2025/11/05/raindulas-es-peppa-malac-veszelyezteti-az-ellenzeki-osszefogas-maradekat-jozsefvarosban/",
+      "date": "perc",
+      "excerpt": "Pikóék a kormánypárttal való összejátszással vádolják az MSZP-t, mert ráindítottak valakit a jelöltjükre a hétvégi józsefvárosi időközin.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Mészáros Lőrinc borászának luxusvillája és a felfüggeszthető állampolgárság",
+      "url": "https://atlatszo.hu/mutyimondo/2025/04/04/meszaros-lorinc-boraszanak-luxusvillaja-es-a-felfuggesztheto-allampolgarsag/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Független jelölt",
+  "constituency": "Budapest capital, 16. no. constituency",
+  "search_name_used": "Bereczki Miklós"
+}

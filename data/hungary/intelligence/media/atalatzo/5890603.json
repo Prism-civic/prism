@@ -1,0 +1,23 @@
+{
+  "kpn_id": 5890603,
+  "candidate_name": "GÖNCZI GYÖRGY",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:09:57.956017+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "„Amíg Európában akadálymentesítenek, itt lezárnak, akadályoznak” – riport Kányból",
+      "url": "https://atlatszo.hu/orszagszerte/2021/11/22/amig-europaban-akadalymentesitenek-itt-lezarnak-akadalyoznak-riport-kanybol/",
+      "date": "perc",
+      "excerpt": "Nagyjából három évvel ezelőtt adta el a 100 főnél is kevesebb lakosú Kány önkormányzata azt az telket, amelyen korábban egy...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Borsod-Abaúj-Zemplén county, 07. no. constituency",
+  "search_name_used": "Gönczi György"
+}

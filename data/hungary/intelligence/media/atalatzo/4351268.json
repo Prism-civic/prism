@@ -1,0 +1,45 @@
+{
+  "kpn_id": 4351268,
+  "candidate_name": "ADORJÁN BÉLA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:17:18.313749+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Milliárdok hiányoznak a mentőállomások fejlesztéséhez, elakadtak a beruházások",
+      "url": "https://atlatszo.hu/orszagszerte/2025/02/13/milliardok-hianyoznak-a-mentoallomasok-fejlesztesehez-elakadtak-a-beruhazasok/",
+      "date": "perc",
+      "excerpt": "A beruházások jelentős részét a helyreállítási alapból tervezték megvalósítani, de mivel az uniós forrásokat befagyasztották, úgy látszik, nincs pénz a munkálatokra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Köddé váltak Szabolcs ukrajnai fantomszavazói – a háború miatt elmaradt a tömeges buszoztatás a határon",
+      "url": "https://atlatszo.hu/adat/2022/04/20/kodde-valtak-szabolcs-ukrajnai-fantomszavazoi-a-haboru-miatt-elmaradt-a-tomeges-buszoztatas-a-hataron/",
+      "date": "perc",
+      "excerpt": "A választás napján a helyszínen hiába kerestünk Ukrajnából csoportosan buszoztatott voksturistákra utaló jeleket, ezért a statisztikákhoz fordultunk, hogy megtudjuk: tényleg köddé váltak-e Szabolcs-Szatmár-Bereg megye fiktív lakói.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Unhack Democracy Europe: így csalhatott a Fidesz a 2018-as választásokon",
+      "url": "https://atlatszo.hu/kozugy/2019/05/24/unhack-democracy-europe-igy-csalhatott-a-fidesz-a-2018-as-valasztasokon/",
+      "date": "perc",
+      "excerpt": "A tavaly áprilisi parlamenti választásokon tapasztalt furcsaságok és szabálytalanságok megkérdőjelezik a néhány nap múlva esedékes EP-választások tisztaságát – állítja jelentésében...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "Jobbik",
+  "constituency": "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
+  "search_name_used": "Adorján Béla"
+}

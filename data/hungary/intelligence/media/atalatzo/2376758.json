@@ -1,0 +1,45 @@
+{
+  "kpn_id": 2376758,
+  "candidate_name": "KATUS NORBERT",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:26:56.118751+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Fidesz-KDNP-közeli szervezetek tarolnak a Nemzeti Együttműködési Alap pályázatain",
+      "url": "https://atlatszo.hu/adat/2026/01/19/fidesz-kdnp-kozeli-szervezetek-tarolnak-a-nemzeti-egyuttmukodesi-alap-palyazatain/",
+      "date": "perc",
+      "excerpt": "A legtöbb pénzt elnyert 10 szervezet jelentős része valamilyen módon kötődik a kormánypártokhoz.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Civil Zrt., Valton, ESG Holding: taroltak a kormányközeli őrző-védő cégek a KEF 200 és 88 milliárdos tenderén",
+      "url": "https://atlatszo.hu/kozpenz/2025/11/14/civil-zrt-valton-esg-holding-taroltak-a-kormanykozeli-orzo-vedo-cegek-a-kef-200-es-88-milliardos-tenderen/",
+      "date": "perc",
+      "excerpt": "A vagyonvédelemre kiírt közbeszerzési eljárásokat megtámadták a Közbeszerzési Döntőbizottságnál, amely 30 millió forintos bírságot szabott ki a Közbeszerzési és Ellátási Főigazgatóságra.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Boszorkányüldözést emleget a milliókra bírságolt Somlószőlős polgármestere",
+      "url": "https://atlatszo.hu/orszagszerte/2025/02/20/boszorkanyuldozest-emleget-a-milliokra-birsagolt-somloszolos-polgarmestere/",
+      "date": "perc",
+      "excerpt": "A Közbeszerzési Döntőbizottság szerint a település önkormányzata jogsértő módon járt el több olyan közbeszerzés kapcsán is, ahol uniós forrásokat használtak fel.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Pest county, 07. no. constituency",
+  "search_name_used": "Katus Norbert"
+}

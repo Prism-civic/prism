@@ -1,0 +1,42 @@
+{
+  "kpn_id": 6970268,
+  "candidate_name": "DR. NAVRACSICS TIBOR",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:29:00.102857+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "title": "Plusz 4 milliárd kormánykommunikációra, és új minisztériumNavracsicsTibornak",
+      "url": "https://atlatszo.hu/mutyimondo/2023/11/17/plusz-4-milliard-kormanykommunikaciora-es-uj-miniszterium-navracsics-tibornak/",
+      "date": "perc",
+      "excerpt": "Heti lapszemlénk.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Navracsicsminisztériuma hallgat, hogy a falvaktól 3 éve visszakért uniós pénzekről miért nincs feldolgozott adat",
+      "url": "https://atlatszo.hu/kozadat/2026/01/12/navracsics-miniszteriuma-hallgat-hogy-a-falvaktol-3-eve-visszakert-unios-penzekrol-miert-nincs-feldolgozott-adat/",
+      "date": "perc",
+      "excerpt": "Sem az illetékes állami szervezet, sem az azt felügyelő minisztérium nem tud érdemi választ adni kérdéseinkre.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Navracsicsa Balaton Fejlesztési Tanács élén, Debrecen ingatlanokat ad el, hogy legyen bevétele",
+      "url": "https://atlatszo.hu/orszagszerte/2021/02/21/navracsics-a-balaton-fejlesztesi-tanacs-elen-debrecen-ingatlanokat-ad-el-hogy-legyen-bevetele/",
+      "date": "perc",
+      "excerpt": "Balatontipp.hu: Balaton Fejlesztési Tanács –NavracsicsTiborlett Bóka István párja a szervezet élén Eddig a tanács illetékességi területén működő...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Veszprém county, 03. no. constituency",
+  "search_name_used": "Navracsics Tibor"
+}

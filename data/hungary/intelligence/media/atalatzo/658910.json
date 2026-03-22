@@ -1,0 +1,82 @@
+{
+  "kpn_id": 658910,
+  "candidate_name": "MÜLLER ANNA",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T20:30:36.083398+00:00",
+  "item_count": 7,
+  "items": [
+    {
+      "title": "„Megmagyarázta”MüllerCecília, miért hiányzik 1630 elhunyt a központi adatbázisukból",
+      "url": "https://atlatszo.hu/adat/2022/05/30/megmagyarazta-muller-cecilia-miert-hianyzik-1630-elhunyt-a-kozponti-adatbazisukbol/",
+      "date": "perc",
+      "excerpt": "A koronavirus.gov.hu megbízhatóságát aknázná alá, ha kiderülne, valóban jelentős az eltérés az NNK adatai és a hivatalosan közzétett adatok között.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Közel 200 oltópont kapott koronavírus-vakcinát, de a megyei eloszlásban jelentős különbségek vannak",
+      "url": "https://atlatszo.hu/adat/2022/05/18/kozel-200-oltopont-kapott-koronavirus-vakcinat-de-a-megyei-eloszlasban-jelentos-kulonbsegek-vannak/",
+      "date": "perc",
+      "excerpt": "Megkaptuk az NNK-tól az oltópontokra kiszállított koronavírus-vakcinákat tartalmazó táblázatot, és a selejtezésre került vakcinákról is tájékoztattak.",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "90 nap után átláthatatlan diagramot és Word-dokumentumba ömlesztett számokat kaptunkMüllerCecíliáéktól",
+      "url": "https://atlatszo.hu/kozadat/2022/05/04/90-nap-utan-atlathatatlan-diagramot-es-word-dokumentumba-omlesztett-szamokat-kaptunk-muller-ceciliaektol/",
+      "date": "perc",
+      "excerpt": "Újabb, sikeresnek nem igazán mondható adatigénylés követte a próbálkozásunkat, hogy többet tudjunk meg a koronavírus-járvány terjedéséről, illetve az oltásokról. Ezúttal...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "MüllerCecília elárulta nekünk, hogy mekkora az oltottak száma az új regisztrált fertőzöttek között, de a lényeges adatokra még várunk",
+      "url": "https://atlatszo.hu/adat/2021/11/10/muller-cecilia-elarulta-nekunk-hogy-mekkora-az-oltottak-szama-az-uj-regisztralt-fertozottek-kozott-de-a-lenyeges-adatokra-meg-varunk/",
+      "date": "perc",
+      "excerpt": "Emelkednek az esetszámok a koronavírus járvány negyedik hullámában, így természetes, hogy egyre több embert érdekel, mennyire hatásos a védőoltás, mennyien...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "90 nap kellMüllerCecíliának, hogy megmondja, milyen nyilvántartást vezetnek az oltottakról",
+      "url": "https://atlatszo.hu/kozugy/2021/06/23/90-nap-kell-muller-cecilianak-ahhoz-hogy-milyen-nyilvantartast-vezetnek-az-oltottakrol/",
+      "date": "perc",
+      "excerpt": "Továbbra sem tudunk semmit arról, hogyan állnak az egyes települések a koronavírus elleni vakcina beadásával. A Nemzeti Népegészségügyi Központ (NNK)...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Az érdi járás tisztifőorvosa szerint jogellenes,MüllerCecília viszont kiadta az adatokat",
+      "url": "https://atlatszo.hu/2020/06/04/az-erdi-jaras-tisztifoorvosa-szerint-jogellenes-muller-cecilia-viszont-kiadta-az-adatokat/",
+      "date": "perc",
+      "excerpt": "Az érdi járás tisztifőorvosa szerint jogosulatlan adatkezelésnek minősülne, ha kiadná az érdi koronavírusos halottak számát. Az országos tisztifőorvos viszont közölte...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    },
+    {
+      "title": "Niedermüllera veszélyhelyzetre hivatkozva is kötött egy szerződést Czeglédy ügyvédi irodájával",
+      "url": "https://atlatszo.hu/kozugy/2020/04/20/niedermuller-a-veszelyhelyzetre-hivatkozva-is-kotott-egy-szerzodest-czegledy-ugyvedi-irodajaval/",
+      "date": "perc",
+      "excerpt": "A VII. kerület ellenzéki, DK-s polgármestere a veszélyhelyzetben érvényes jogkörével élve egymaga döntött arról, hogy az önkormányzat nettó 29 millió...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "high",
+      "tags": []
+    }
+  ],
+  "party": "TISZA",
+  "constituency": "Budapest capital, 13. no. constituency",
+  "search_name_used": "Müller Anna"
+}

@@ -1,0 +1,34 @@
+{
+  "kpn_id": 9435416,
+  "candidate_name": "SOMODY FERENC BALÁZS",
+  "source": "https://atlatszo.hu",
+  "scraped_at": "2026-03-21T21:03:18.127435+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Régi politikusok, hírességek és kutatók is helyet kaptak a fővárosi cégek felügyelőbizottságaiban",
+      "url": "https://atlatszo.hu/kozugy/2020/02/13/regi-politikusok-hiressegek-es-kutatok-is-helyet-kaptak-a-fovarosi-cegek-felugyelobizottsagaiban/",
+      "date": "perc",
+      "excerpt": "A Fővárosi Közgyűlés november 5-i, november 27-i illetve december 11-i ülésein több tucat önkormányzati cég és kulturális intézmény igazgatósági és felügyelőbizottsági tagjairól...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    },
+    {
+      "title": "Veszélyben a pécsi jogi kar?",
+      "url": "https://atlatszo.hu/oktatas/2013/11/05/veszelyben_a_pecsi_jogi_kar/",
+      "date": "perc",
+      "excerpt": "Nyílt levélben tiltakoznak jogászok, a Pécsi Tudományegyetem volt és jelenlegi tanárai, illetve egy sor további értelmiségi a tervezett tömeges elbocsátások...",
+      "source": "atlatszo.hu",
+      "weight": "high",
+      "confidence": "low",
+      "tags": [],
+      "note": "name match not confirmed — proximity result"
+    }
+  ],
+  "party": "MKKP",
+  "constituency": "Pest county, 09. no. constituency",
+  "search_name_used": "Somody Ferenc Balázs"
+}
