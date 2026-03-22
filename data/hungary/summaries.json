@@ -1,11 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T11:45:00Z",
+    "generated_at": "2026-03-22T14:20:00Z",
     "model": "claude-sonnet-4-6",
     "observer": "BaraBonc-P52 (HU pilot observer)",
-    "total_summaries": 23
+    "total_summaries": 24
   },
   "summaries": [
+    {
+      "url": "https://www.rferl.org/search?query=hungary+2026+election",
+      "title": "Hungary 2026 parliamentary election — what you need to know",
+      "source_name": "Radio Free Europe / RFE-RL",
+      "source_domain": "rferl.org",
+      "summary_en": "Hungary heads to the polls on April 12, 2026 in what analysts call the most competitive election since Orbán's Fidesz party took power in 2010. Péter Magyar's Tisza (TISZA) alliance has consistently led Fidesz in polls. The race is complicated by a highly gerrymandered electoral system favouring incumbents. Key issues: EU relations, Ukraine policy, rule of law, press freedom. RFE-RL's ongoing coverage tracks campaign developments, candidate positions, and international reaction.",
+      "summary_hu": "Magyarország 2026. április 12-én választ parlamentet, a 2010 óta legszorosabb versenyben. Magyar Péter Tisza-szövetsége közvélemény-kutatásokban előzi a Fideszt. A gerrymandering miatt az ellenzéknek nehéz a győzelem. Kulcskérdések: EU-kapcsolatok, ukrán politika, jogállamiság, sajtószabadság.",
+      "word_count": 120,
+      "fetch_failed": true,
+      "is_curated": true,
+      "generated_at": "2026-03-22T14:20:00Z",
+      "model_used": "atlas-handcrafted",
+      "url_hash": "curated_rferl_001"
+    },
     {
       "url": "https://www.theguardian.com/artanddesign/2026/feb/27/dora-maurer-obituary",
       "title": "Dóra Maurer obituary",

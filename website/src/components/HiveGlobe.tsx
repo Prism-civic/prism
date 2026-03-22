@@ -2,9 +2,30 @@
 
 import { useEffect, useRef, useState, useCallback } from 'react';
 import * as THREE from 'three';
+import * as topojson from 'topojson-client';
 import styles from './HiveGlobe.module.css';
 
 // ─── Types ────────────────────────────────────────────────────────────────────
+
+interface GeoJSONFeature {
+  type: string;
+  geometry: {
+    type: string;
+    coordinates: number[][][] | number[][][][];
+  } | null;
+  properties: Record<string, unknown> | null;
+}
+
+interface TopoJSON {
+  type: string;
+  objects: {
+    countries?: { type: string; geometries: unknown[] };
+    land?: { type: string; geometries: unknown[] };
+    [key: string]: { type: string; geometries: unknown[] } | undefined;
+  };
+  arcs: number[][][];
+  transform?: { scale: [number, number]; translate: [number, number] };
+}
 
 interface HiveNode {
   id: string;
@@ -320,6 +341,60 @@ export function HiveGlobe({ mockMode = false }: Props) {
     });
     globe.add(new THREE.Mesh(sphereGeo, sphereMat));
 
+    // ── Country border polygons (async fetch from TopoJSON) ──────────────────
+    const BORDER_R = 1.002; // just above surface
+
+    function addCountryBorders(geojson: { type: string; features: GeoJSONFeature[] }) {
+      const points: THREE.Vector3[] = [];
+
+      for (const feature of geojson.features) {
+        const geom = feature.geometry;
+        if (!geom) continue;
+
+        const polys: number[][][][] =
+          geom.type === 'Polygon'
+            ? [geom.coordinates as number[][][]]
+            : geom.type === 'MultiPolygon'
+            ? (geom.coordinates as number[][][][])
+            : [];
+
+        for (const poly of polys) {
+          for (const ring of poly) {
+            for (let i = 0; i < ring.length - 1; i++) {
+              const [lng0, lat0] = ring[i];
+              const [lng1, lat1] = ring[i + 1];
+              points.push(latLngToVec3(lat0, lng0, BORDER_R));
+              points.push(latLngToVec3(lat1, lng1, BORDER_R));
+            }
+          }
+        }
+      }
+
+      if (points.length === 0) return;
+      const geo = new THREE.BufferGeometry().setFromPoints(points);
+      const mat = new THREE.LineBasicMaterial({
+        color: 0x38bdf8,
+        transparent: true,
+        opacity: 0.35,
+      });
+      globe.add(new THREE.LineSegments(geo, mat));
+    }
+
+    // Async fetch — doesn't block render loop
+    fetch('/countries-110m.json')
+      .then(r => r.json())
+      .then((topo: TopoJSON) => {
+        if (topo.objects?.countries) {
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          const geojson = (topojson as any).feature(topo, topo.objects.countries) as {
+            type: string;
+            features: GeoJSONFeature[];
+          };
+          addCountryBorders(geojson);
+        }
+      })
+      .catch(e => console.warn('Globe: could not load country borders', e));
+
     // ── Geographic graticule lines ────────────────────────────────────────────
     // Latitude lines every 30° (equator + 30/60 N/S)
     const graticulePoints: THREE.Vector3[] = [];
@@ -348,7 +423,7 @@ export function HiveGlobe({ mockMode = false }: Props) {
     const graticuleGeo = new THREE.BufferGeometry().setFromPoints(graticulePoints);
     const gratic = new THREE.LineSegments(
       graticuleGeo,
-      new THREE.LineBasicMaterial({ color: 0x0ea5e9, transparent: true, opacity: 0.12 })
+      new THREE.LineBasicMaterial({ color: 0x0ea5e9, transparent: true, opacity: 0.07 })
     );
     globe.add(gratic);
 
