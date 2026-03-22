@@ -80,7 +80,7 @@ const CURATED_FALLBACK = [
     source_name: 'Radio Free Europe / RFE-RL', source_domain: 'rferl.org',
     title: 'Hungary 2026 parliamentary election — what you need to know',
     snippet: 'On April 12, Hungarians go to the polls. RFE-RL covers the race between Fidesz and the Tisza opposition.',
-    url: 'https://www.rferl.org/z/631', content_type: 'press', published: new Date().toISOString(), fetched_at: new Date().toISOString(), is_curated: true,
+    url: 'https://www.rferl.org/search?query=hungary+2026+election', content_type: 'press', published: new Date().toISOString(), fetched_at: new Date().toISOString(), is_curated: true,
   },
   {
     id: 'c_002', topic: 'rule_of_law', weight: 'high', language: 'en', source_country: 'UK',

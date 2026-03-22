@@ -3,6 +3,19 @@
 import { useState, useEffect, useCallback } from 'react';
 import styles from './NewsFeed.module.css';
 
+// ── Article reader types ───────────────────────────────────────────────────────
+
+interface ArticleSummary {
+  url: string;
+  title: string;
+  summary_en: string;
+  summary_hu: string;
+  source_name: string;
+  word_count?: number;
+  cached_at?: string;
+  error?: string;
+}
+
 // ── Types ─────────────────────────────────────────────────────────────────────
 
 interface FeedItem {
@@ -98,6 +111,10 @@ export function NewsFeed({ lang = 'en' }: Props) {
   const [localRegion, setLocalRegion] = useState<string | null>(null);
   const [localSearch, setLocalSearch] = useState('');
   const [loading, setLoading]       = useState(true);
+  // Article reader
+  const [activeArticle, setActiveArticle] = useState<FeedItem | null>(null);
+  const [articleData, setArticleData]     = useState<ArticleSummary | null>(null);
+  const [articleLoading, setArticleLoading] = useState(false);
 
   // Derived
   const likedTopics = useCallback((p: UserPrefs, its: FeedItem[]) => {
@@ -168,6 +185,26 @@ export function NewsFeed({ lang = 'en' }: Props) {
     save(LOCAL_REGION_KEY, null);
     fetchFeed(activeTopic, null);
   };
+
+  const openArticle = useCallback(async (item: FeedItem) => {
+    if (item.is_local_prompt) { setShowCog(true); return; }
+    setActiveArticle(item);
+    setArticleData(null);
+    setArticleLoading(true);
+    try {
+      const res = await fetch(`/api/article?url=${encodeURIComponent(item.url)}&lang=${lang}`);
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({ error: `HTTP ${res.status}` }));
+        setArticleData({ url: item.url, title: item.title, summary_en: '', summary_hu: '', source_name: item.source_name, error: err.error ?? 'Failed to load' });
+      } else {
+        setArticleData(await res.json());
+      }
+    } catch (e) {
+      setArticleData({ url: item.url, title: item.title, summary_en: '', summary_hu: '', source_name: item.source_name, error: e instanceof Error ? e.message : 'Network error' });
+    } finally {
+      setArticleLoading(false);
+    }
+  }, [lang]);
 
   const preferred = likedTopics(prefs, items);
 
@@ -368,16 +405,13 @@ export function NewsFeed({ lang = 'en' }: Props) {
                 )}
               </div>
 
-              {/* Title */}
-              <a
-                href={item.is_local_prompt ? undefined : item.url}
-                onClick={item.is_local_prompt ? () => setShowCog(true) : undefined}
-                target={item.is_local_prompt ? undefined : '_blank'}
-                rel="noopener noreferrer"
-                className={`${styles.titleLink} ${item.is_local_prompt ? styles.titleLinkPrompt : ''}`}
+              {/* Title — opens in-app reader */}
+              <button
+                onClick={() => openArticle(item)}
+                className={`${styles.titleLink} ${item.is_local_prompt ? styles.titleLinkPrompt : ''} text-left w-full`}
               >
                 <h3 className={styles.itemTitle}>{item.title}</h3>
-              </a>
+              </button>
               {item.snippet && <p className={styles.snippet}>{item.snippet}</p>}
 
               {/* Reactions */}
@@ -411,6 +445,94 @@ export function NewsFeed({ lang = 'en' }: Props) {
           {likedCount > 0 && hiddenTopics > 0 && ' · '}
           {hiddenTopics > 0 && tl(`${hiddenTopics} topic${hiddenTopics !== 1 ? 's' : ''} hidden`, `${hiddenTopics} téma elrejtve`)}
         </p>
+      )}
+
+      {/* ── Article Reader Panel ── */}
+      {activeArticle && (
+        <div
+          className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4"
+          role="dialog"
+          aria-modal="true"
+          aria-label={activeArticle.title}
+        >
+          {/* Backdrop */}
+          <div
+            className="absolute inset-0 bg-black/70 backdrop-blur-sm"
+            onClick={() => { setActiveArticle(null); setArticleData(null); }}
+          />
+
+          {/* Panel */}
+          <div className="relative z-10 w-full sm:max-w-2xl max-h-[90vh] overflow-y-auto rounded-t-[2rem] sm:rounded-[2rem] bg-panel border border-line/80 flex flex-col">
+            {/* Header */}
+            <div className="sticky top-0 z-10 flex items-start justify-between gap-4 px-5 py-4 border-b border-line/40 bg-panel/95 backdrop-blur rounded-t-[2rem]">
+              <div className="flex-1 min-w-0">
+                <p className="text-[10px] text-muted/60 uppercase tracking-wider mb-1">{activeArticle.source_name}</p>
+                <h2 className="text-base font-semibold text-foreground leading-snug">{activeArticle.title}</h2>
+              </div>
+              <button
+                onClick={() => { setActiveArticle(null); setArticleData(null); }}
+                className="shrink-0 rounded-full p-2 text-muted hover:text-foreground hover:bg-white/5 transition"
+                aria-label={tl('Close', 'Bezárás')}
+              >
+                ✕
+              </button>
+            </div>
+
+            {/* Body */}
+            <div className="px-5 py-5 space-y-4 flex-1">
+              {articleLoading && (
+                <div className="space-y-3">
+                  <div className="text-xs text-muted/60 animate-pulse">🧠 {tl('Generating clean summary…', 'Összefoglaló generálása…')}</div>
+                  {[...Array(4)].map((_, i) => (
+                    <div key={i} className="h-4 bg-white/5 rounded animate-pulse" style={{ width: `${85 + (i % 3) * 5}%` }} />
+                  ))}
+                </div>
+              )}
+
+              {!articleLoading && articleData?.error && (
+                <div className="space-y-3">
+                  <p className="text-sm text-red-300/80">
+                    {tl('Could not load this article.', 'Ezt a cikket nem sikerült betölteni.')}
+                    {' '}{articleData.error}
+                  </p>
+                  <p className="text-xs text-muted/60">{tl('The source may block automated access or require a subscription.', 'A forrás blokkolhatja az automatikus hozzáférést, vagy előfizetés szükséges.')}</p>
+                </div>
+              )}
+
+              {!articleLoading && articleData && !articleData.error && (
+                <div className="space-y-4">
+                  {(lang === 'hu' && articleData.summary_hu ? articleData.summary_hu : articleData.summary_en)
+                    .split('\n\n')
+                    .filter(Boolean)
+                    .map((para, i) => (
+                      <p key={i} className="text-sm leading-7 text-foreground/85">{para}</p>
+                    ))
+                  }
+                  {articleData.word_count && (
+                    <p className="text-[10px] text-muted/40 pt-2">
+                      {tl(`Original: ~${articleData.word_count} words`, `Eredeti: ~${articleData.word_count} szó`)}
+                    </p>
+                  )}
+                </div>
+              )}
+            </div>
+
+            {/* Footer — source link */}
+            <div className="sticky bottom-0 px-5 py-4 border-t border-line/40 bg-panel/95 backdrop-blur rounded-b-[2rem] flex items-center justify-between gap-3">
+              <p className="text-[10px] text-muted/50">
+                🧠 {tl('AI summary · Verify with original', 'AI összefoglaló · Ellenőrizze az eredetit')}
+              </p>
+              <a
+                href={activeArticle.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-full border border-white/10 px-4 py-2 text-xs font-medium text-muted hover:text-foreground hover:border-white/25 hover:bg-white/5 transition"
+              >
+                {tl('Read original →', 'Eredeti cikk →')}
+              </a>
+            </div>
+          </div>
+        </div>
       )}
     </section>
   );
