@@ -46,23 +46,44 @@ Prism turns that into structured issues, researches public evidence, and returns
 
 ## How It Works
 
+Prism has four layers. Each has a specific job. None of them overlap.
+
 ```
-Layer A — Local Assistant
-  Runs on phone or desktop. Captures priorities and concerns.
-  Processes on-device. Only uploads sanitized, permissioned summaries.
-
-Layer B — Distributed Ingestion Network
-  Public-source crawlers, claim extractors, deduplication workers.
-  Evidence indexers run across multiple nodes and regions.
-
-Layer C — Verification & Transparency
-  Independent verifier nodes re-run analysis, validate source hashes.
-  Results published to an append-only, public transparency log.
-
-Layer D — Delivery
-  APIs and website: explainers, alignment views, issue maps,
-  methodology pages, and public dashboards.
+┌─────────────────────────────────────────────────────────────────┐
+│  WORLD MIND  (frontier reasoning)                               │
+│  Cross-country synthesis · international law · geopolitics      │
+│  Multiple nodes, multiple continents, no single point of failure│
+├─────────────────────────────────────────────────────────────────┤
+│  COUNTRY MIND  (national intelligence)                          │
+│  Ingests parliament records, manifestos, voting histories        │
+│  Scores candidates · generates evidence packs · signs output    │
+│  Multiple redundant nodes per country, community-operated       │
+├─────────────────────────────────────────────────────────────────┤
+│  LOCAL NODE  (optional, volunteer-run — a spare Raspberry Pi)   │
+│  Scrapes genuinely hyperlocal sources: council portals,         │
+│  parish minutes, local crime data, community forums             │
+│  Pushes hyperlocal intelligence up to the country mind          │
+├─────────────────────────────────────────────────────────────────┤
+│  YOUR PHONE  (private — nothing leaves without your consent)    │
+│  Local AI model re-ranks your feed using your preference        │
+│  profile — stored only on your device, never on a server        │
+│  Offline Q&A from cached evidence packs                         │
+│  Synthesises a local briefing for your town / constituency      │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+### The privacy guarantee
+
+Everything personal stays on your phone. The country mind sends a batch of articles and evidence. Your phone's local AI model decides what to show you first — based on a profile that never leaves your device. No server knows what you read, what you care about, or where you live.
+
+This is not a privacy policy. It is an architectural guarantee. You cannot extract data that is never collected.
+
+### The local node — why it matters
+
+BBC and Reuters cannot cover every parish council meeting, every local planning dispute, every community issue in every town. But a volunteer in that town can. Any Prism local node — a Raspberry Pi, a spare laptop — can scrape hyperlocal sources and contribute that intelligence to the country mind, which distributes it to all users in that area. The more volunteers, the more complete the picture.
+
+Full architecture: [`docs/AI_ARCHITECTURE.md`](docs/AI_ARCHITECTURE.md)
+Local intelligence deep-dive: [`docs/LOCAL_INTELLIGENCE.md`](docs/LOCAL_INTELLIGENCE.md)
 
 ## UK Country Mind Dev Status
 

@@ -28,16 +28,20 @@ const contributionLinks = [
 
 const howItWorks = [
   {
-    title: "You",
-    body: "You tell Prism what you care about in your own words. Rent. Healthcare. Schools. Corruption. Whatever is real to you. Your words stay on your phone by default while a small local model turns them into topics and evidence requests.",
+    title: "Your Phone",
+    body: "A small AI model runs entirely on your device. It re-ranks your news feed and answers civic questions using your preference profile — stored only on your phone. No server ever sees what you read, where you live, or what you care about. This is an architectural guarantee, not a privacy policy.",
   },
   {
-    title: "The Network",
-    body: "A Prism node has already processed public sources on that topic: parliamentary records, policy outcomes, voting histories, verified data, and source snapshots. The network returns the evidence, not a hidden profile of you.",
+    title: "Country Mind",
+    body: "A community-run server processes national sources: parliament records, manifestos, voting histories, independent press. It generates signed evidence packs and sends them to your phone. Multiple redundant nodes per country — if one goes down, others absorb it.",
   },
   {
-    title: "The Answer",
-    body: "Prism shows which positions align with your priorities, how strong the evidence is, and where uncertainty remains. It shows its sources. It tells you when it does not know. It never tells you how to vote.",
+    title: "Local Node",
+    body: "Anyone can run a local node — a Raspberry Pi or spare laptop in their town. It scrapes genuinely hyperlocal sources: council planning portals, parish minutes, local crime data. This intelligence flows up to the country mind and down to every user in that area. No application. No approval. Just plug in and contribute.",
+  },
+  {
+    title: "World Mind",
+    body: "A frontier-class reasoning layer synthesises cross-country intelligence: international law, foreign policy comparisons, geopolitical context. Multiple nodes on multiple continents. When a country mind asks what the world thinks about a local issue, the world mind answers — from all perspectives, with sources.",
   },
 ];
 
@@ -132,14 +136,21 @@ export default async function Home() {
         <div className="section-card rounded-[2rem] p-6 sm:p-8">
           <p className="eyebrow text-xs font-medium text-muted">How it works</p>
           <h2 className="mt-3 text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Honest by default.
+            Private by architecture.
           </h2>
           <p className="mt-4 max-w-lg text-base leading-8 text-muted">
-            The website explains the system in plain language. It is deliberately restrained: what Prism can do, what it cannot do, and where the evidence comes from.
+            Four layers. Each with a specific job. Your phone personalises your feed locally — no server ever sees your preferences. The country mind processes national evidence. Local nodes cover what national scrapers miss. The world mind synthesises the rest.
           </p>
+          <a
+            href="https://github.com/Prism-civic/prism/blob/main/docs/LOCAL_INTELLIGENCE.md"
+            className="mt-5 inline-block text-sm text-cyan-400 hover:text-cyan-300 transition-colors"
+            target="_blank" rel="noopener noreferrer"
+          >
+            Read the full architecture →
+          </a>
         </div>
 
-        <div className="grid gap-5 md:grid-cols-3">
+        <div className="grid gap-5 md:grid-cols-2">
           {howItWorks.map((panel) => (
             <article
               key={panel.title}

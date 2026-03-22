@@ -47,15 +47,21 @@ The architecture is **Retrieval-Augmented Generation (RAG)** at every tier. The 
 ## Tier 1 — The Phone Brain
 
 ### Role
-The phone model is the **interface intelligence** — not the analytical brain. It understands the user, structures their concern, and presents results in plain language. Heavy reasoning happens upstream.
+The phone model is the **private intelligence layer** — not the analytical brain. Its primary purpose is to keep your civic data on your device. It understands you, personalises your feed locally, answers civic questions from cache, and presents upstream results in plain language. Heavy reasoning happens upstream; privacy happens here.
+
+Full explanation: [`docs/LOCAL_INTELLIGENCE.md`](LOCAL_INTELLIGENCE.md)
 
 ### Responsibilities
-- Parse natural language concerns into structured topics and priorities
-- Show the user the extracted interpretation before anything is sent upstream
-- Summarise pre-fetched evidence packs into readable explainers
-- Answer follow-up questions using cached evidence packs (no network required)
-- Manage the local values profile and priority weighting
-- Honest about its limits — escalates to country mind when needed
+- **Private re-ranking** — re-orders the country mind's batch of articles/packs using a preference profile stored only on-device
+- **Local synthesis** — generates a "your briefing" summary contextualised for your location and priorities, without your location ever leaving the device
+- **Offline Q&A** — answers civic questions from cached evidence packs (no network required)
+- **Intent parsing** — converts natural language concerns into structured topics before sending upstream
+- **Honest escalation** — clearly indicates when data is stale or a question exceeds local capability
+
+### Why local, not cloud
+Every alternative (cloud re-ranking, cloud personalisation) requires a server to know what you read, where you are, and what you care about. The local model makes personalisation a device computation, not a server computation. No server sees your preferences. Ever.
+
+This is an architectural guarantee, not a privacy policy.
 
 ### Model Candidates
 | Model | Size | Notes |
@@ -79,6 +85,27 @@ The phone must work without a network connection. It operates on cached evidence
 
 If no evidence packs are cached and no network is available, it shows honestly:
 *"No data available. Connect to sync."*
+
+---
+
+## Tier 1b — The Local Node (Optional, Community-Run)
+
+The local node is **not an LLM**. It is a lightweight scraper run by a volunteer in a town or neighbourhood.
+
+Its job: scrape genuinely hyperlocal sources that no central scraper could maintain at scale — council planning portals, parish minutes, community forums, local crime data. It indexes and summarises this content and contributes it upward to the country mind.
+
+**The data flow:**
+```
+Local volunteer node (Bedford, UK)
+  → scrapes Bedford Borough Council portal
+  → scrapes local Ofsted reports
+  → summarises (optionally small model, often just structured parsing)
+  → pushes intelligence to UK Country Mind
+  → country mind distributes to all Bedford users
+  → phone local model personalises it for each user privately
+```
+
+Anyone with a Raspberry Pi or spare home server can become the civic intelligence source for their town. No application, no approval — just run the reference implementation and connect to the network. See [`docs/LOCAL_INTELLIGENCE.md`](LOCAL_INTELLIGENCE.md).
 
 ---
 
