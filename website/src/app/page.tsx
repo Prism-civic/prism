@@ -1,8 +1,7 @@
 import { HiveGlobeClient } from "@/components/HiveGlobeClient";
-import { NewsFeed } from "@/components/NewsFeed";
 import { StatsBar } from "@/components/stats-bar";
-import { ContributionMap } from "@/components/ContributionMap";
 import { getPublicNetworkStats } from "@/lib/network-stats";
+import Link from "next/link";
 
 const contributionLinks = [
   {
@@ -67,15 +66,18 @@ export default async function Home() {
           <a className="rounded-full px-3 py-2 hover:bg-white/5 hover:text-foreground" href="#how-it-works">
             How it works
           </a>
-          <a className="rounded-full px-3 py-2 hover:bg-white/5 hover:text-foreground" href="#contribute">
-            Contribute
-          </a>
-          <a
+          <Link className="rounded-full px-3 py-2 hover:bg-white/5 hover:text-foreground" href="/news">
+            News
+          </Link>
+          <Link className="rounded-full px-3 py-2 hover:bg-white/5 hover:text-foreground" href="/network">
+            Network
+          </Link>
+          <Link
             className="rounded-full border border-white/10 px-3 py-2 text-xs font-medium hover:bg-white/5 hover:text-foreground hover:border-white/20 transition"
             href="/hu"
           >
             🇭🇺 Hungary 2026
-          </a>
+          </Link>
         </nav>
       </header>
 
@@ -92,19 +94,25 @@ export default async function Home() {
               </p>
             </div>
 
-            <div className="flex flex-col gap-3 sm:flex-row">
+            <div className="flex flex-wrap gap-3">
               <a
                 href="#how-it-works"
                 className="rounded-full bg-foreground px-5 py-3 text-center text-sm font-semibold text-background transition hover:bg-ice"
               >
                 How it works
               </a>
-              <a
-                href="#contribute"
+              <Link
+                href="/news"
                 className="rounded-full border border-white/15 px-5 py-3 text-center text-sm font-semibold text-foreground transition hover:border-white/30 hover:bg-white/5"
               >
-                Run a node
-              </a>
+                Read the news
+              </Link>
+              <Link
+                href="/network"
+                className="rounded-full border border-white/15 px-5 py-3 text-center text-sm font-semibold text-foreground transition hover:border-white/30 hover:bg-white/5"
+              >
+                The network
+              </Link>
             </div>
 
             <p className="max-w-lg text-sm leading-7 text-muted">
@@ -124,11 +132,6 @@ export default async function Home() {
       </section>
 
       <StatsBar initialSnapshot={initialStats} />
-
-      {/* Live news feed — demonstrates real Prism output before any interaction */}
-      <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
-        <NewsFeed lang="en" />
-      </section>
 
       <section
         id="how-it-works"
@@ -164,8 +167,6 @@ export default async function Home() {
         </div>
       </section>
 
-      <ContributionMap lang="en" />
-
       <section
         id="contribute"
         className="grid gap-5 lg:grid-cols-[0.95fr_1.05fr]"
@@ -191,12 +192,12 @@ export default async function Home() {
             >
               Read the docs
             </a>
-            <a
-              href="https://github.com/Prism-civic/prism/issues/1"
+            <Link
+              href="/network"
               className="rounded-full border border-white/15 px-5 py-3 text-center text-sm font-semibold text-foreground transition hover:border-white/30 hover:bg-white/5"
             >
-              Run a node
-            </a>
+              The network
+            </Link>
           </div>
         </div>
 

@@ -312,22 +312,66 @@ export function HiveGlobe({ mockMode = false }: Props) {
     scene.add(globe);
     globeRef.current = globe;
 
-    // Globe sphere (subtle wireframe sphere for depth)
-    const sphereGeo = new THREE.SphereGeometry(1.0, 48, 32);
+    // Globe sphere (solid dark base)
+    const sphereGeo = new THREE.SphereGeometry(1.0, 64, 40);
     const sphereMat = new THREE.MeshBasicMaterial({
-      color:       0x0ea5e9,
-      wireframe:   true,
-      transparent: true,
-      opacity:     0.04,
+      color:       0x020d1a,
+      transparent: false,
     });
     globe.add(new THREE.Mesh(sphereGeo, sphereMat));
+
+    // ── Geographic graticule lines ────────────────────────────────────────────
+    // Latitude lines every 30° (equator + 30/60 N/S)
+    const graticulePoints: THREE.Vector3[] = [];
+    const GLOBE_R = 1.001; // slightly above surface
+
+    // Latitude parallels
+    for (const lat of [-60, -30, 0, 30, 60]) {
+      const segments = 128;
+      for (let i = 0; i <= segments; i++) {
+        const lng = (i / segments) * 360 - 180;
+        graticulePoints.push(latLngToVec3(lat, lng, GLOBE_R));
+        if (i > 0 && i < segments) graticulePoints.push(latLngToVec3(lat, lng, GLOBE_R));
+      }
+    }
+
+    // Longitude meridians every 30°
+    for (let lng = -180; lng < 180; lng += 30) {
+      const segments = 64;
+      for (let i = 0; i <= segments; i++) {
+        const lat = (i / segments) * 180 - 90;
+        graticulePoints.push(latLngToVec3(lat, lng, GLOBE_R));
+        if (i > 0 && i < segments) graticulePoints.push(latLngToVec3(lat, lng, GLOBE_R));
+      }
+    }
+
+    const graticuleGeo = new THREE.BufferGeometry().setFromPoints(graticulePoints);
+    const gratic = new THREE.LineSegments(
+      graticuleGeo,
+      new THREE.LineBasicMaterial({ color: 0x0ea5e9, transparent: true, opacity: 0.12 })
+    );
+    globe.add(gratic);
+
+    // Equator — slightly brighter
+    const equatorPoints: THREE.Vector3[] = [];
+    const EQ_SEGS = 256;
+    for (let i = 0; i <= EQ_SEGS; i++) {
+      const lng = (i / EQ_SEGS) * 360 - 180;
+      equatorPoints.push(latLngToVec3(0, lng, GLOBE_R));
+      if (i > 0 && i < EQ_SEGS) equatorPoints.push(latLngToVec3(0, lng, GLOBE_R));
+    }
+    const equatorGeo = new THREE.BufferGeometry().setFromPoints(equatorPoints);
+    globe.add(new THREE.LineSegments(
+      equatorGeo,
+      new THREE.LineBasicMaterial({ color: 0x38bdf8, transparent: true, opacity: 0.25 })
+    ));
 
     // Atmosphere glow ring
     const atmGeo = new THREE.SphereGeometry(1.06, 48, 32);
     const atmMat = new THREE.MeshBasicMaterial({
       color:       0x38bdf8,
       transparent: true,
-      opacity:     0.05,
+      opacity:     0.06,
       side:        THREE.BackSide,
     });
     globe.add(new THREE.Mesh(atmGeo, atmMat));

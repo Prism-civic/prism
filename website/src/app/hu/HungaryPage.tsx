@@ -7,8 +7,7 @@ import candidatesData from "../../data/hungary/candidates.json";
 import { CandidateDrawer } from "../../components/CandidateDrawer";
 import { AlignmentQuiz, loadUserProfile } from "../../components/AlignmentQuiz";
 import { AlignmentRadar } from "../../components/AlignmentRadar";
-import { NewsFeed } from "../../components/NewsFeed";
-import { ContributionMap } from "../../components/ContributionMap";
+
 import { HexProfileCard } from "../../components/HexProfileCard";
 import type { TraitScores } from "../../components/AlignmentRadar";
 import partyPositions from "../../data/hu-party-positions.json";
@@ -175,12 +174,6 @@ export function HungaryPage() {
     }
   }, []);
 
-  function toggleLang() {
-    const next: Lang = lang === "hu" ? "en" : "hu";
-    setLang(next);
-    try { localStorage.setItem("prism-lang-hu", next); } catch { /* ignore */ }
-  }
-
   const t = strings[lang];
   const parties = partiesData.parties as Party[];
   const constituencies = candidatesData.constituencies as ConstituencyWithCandidates[];
@@ -219,13 +212,29 @@ export function HungaryPage() {
         <Link href="/" className="text-sm text-muted hover:text-foreground transition">
           {t.back_home}
         </Link>
-        <button
-          onClick={toggleLang}
-          className="rounded-full border border-white/15 px-3 py-1.5 text-xs font-medium text-foreground hover:border-white/30 hover:bg-white/5 transition"
-          aria-label="Toggle language"
-        >
-          {t.lang_toggle}
-        </button>
+        <nav className="flex items-center gap-1 text-sm text-muted">
+          <Link href="/news" className="rounded-full px-3 py-1.5 text-xs hover:bg-white/5 hover:text-foreground transition">
+            {lang === "hu" ? "Hírek" : "News"}
+          </Link>
+          <Link href="/network" className="rounded-full px-3 py-1.5 text-xs hover:bg-white/5 hover:text-foreground transition">
+            {lang === "hu" ? "Hálózat" : "Network"}
+          </Link>
+          {/* Language selector */}
+          <div className="flex items-center rounded-full border border-white/10 overflow-hidden ml-1">
+            <button
+              onClick={() => { setLang("hu"); try { localStorage.setItem("prism-lang-hu", "hu"); } catch { /* ignore */ } }}
+              className={`px-3 py-1.5 text-xs font-medium transition ${lang === "hu" ? "bg-white/10 text-foreground" : "text-muted hover:text-foreground"}`}
+            >
+              🇭🇺 HU
+            </button>
+            <button
+              onClick={() => { setLang("en"); try { localStorage.setItem("prism-lang-hu", "en"); } catch { /* ignore */ } }}
+              className={`px-3 py-1.5 text-xs font-medium transition ${lang === "en" ? "bg-white/10 text-foreground" : "text-muted hover:text-foreground"}`}
+            >
+              🇬🇧 EN
+            </button>
+          </div>
+        </nav>
       </header>
 
       {/* Hero */}
@@ -286,7 +295,7 @@ export function HungaryPage() {
                       <HexProfileCard
                         partyId={p.id}
                         partyColour={p.colour}
-                        size={52}
+                        size={72}
                         alt={p.name}
                         userScores={userProfile}
                         partyScores={(partyPositions.parties as Record<string, TraitScores>)[p.id] ?? null}
@@ -321,10 +330,27 @@ export function HungaryPage() {
         </div>
       </section>
 
-      {/* News Feed */}
-      <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
-        <NewsFeed lang={lang as 'en' | 'hu'} />
-      </section>
+      {/* News + Network quick links */}
+      <div className="flex flex-wrap gap-3">
+        <a
+          href="/news"
+          className="flex-1 min-w-[140px] section-card rounded-[1.5rem] px-5 py-4 hover:-translate-y-0.5 hover:border-white/25 transition group"
+        >
+          <p className="eyebrow text-xs font-medium text-muted">{lang === "hu" ? "Hírek" : "News"}</p>
+          <p className="mt-1 text-sm text-foreground/80 group-hover:text-foreground transition">
+            {lang === "hu" ? "Független forrásokból →" : "From independent sources →"}
+          </p>
+        </a>
+        <a
+          href="/network"
+          className="flex-1 min-w-[140px] section-card rounded-[1.5rem] px-5 py-4 hover:-translate-y-0.5 hover:border-white/25 transition group"
+        >
+          <p className="eyebrow text-xs font-medium text-muted">{lang === "hu" ? "Hálózat" : "Network"}</p>
+          <p className="mt-1 text-sm text-foreground/80 group-hover:text-foreground transition">
+            {lang === "hu" ? "Prism részvétel →" : "Observer network →"}
+          </p>
+        </a>
+      </div>
 
       {/* Constituency + Candidate Lookup */}
       <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
@@ -388,7 +414,7 @@ export function HungaryPage() {
                           photoId={cand.photo_id}
                           partyId={cand.party_id}
                           partyColour={cand.party_id ? PARTY_COLOURS[cand.party_id] ?? "#666" : "#666"}
-                          size={44}
+                          size={64}
                           alt={cand.name}
                           userScores={userProfile}
                           partyScores={cand.party_id ? (partyPositions.parties as Record<string, TraitScores>)[cand.party_id] ?? null : null}
@@ -429,7 +455,7 @@ export function HungaryPage() {
         userProfile={userProfile}
       />
 
-      <ContributionMap lang={lang as "en" | "hu"} />
+      {/* ContributionMap moved to /network */}
 
       {/* Footer */}
       <footer className="mb-4 rounded-[1.75rem] border border-line/80 bg-panel/70 px-5 py-5 text-xs text-muted backdrop-blur space-y-2">

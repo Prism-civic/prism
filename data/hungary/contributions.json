@@ -1,12 +1,13 @@
 {
   "meta": {
     "generated_at": "2026-03-22T09:00:00Z",
-    "total_contributors": 847,
-    "total_verifications": 2341,
-    "total_reports": 1203,
+    "total_contributors": 197,
+    "total_verifications": 634,
+    "total_reports": 437,
     "total_translations": 89,
-    "total_flags": 312,
-    "last_contribution": "2026-03-22T08:54:00Z"
+    "total_flags": 437,
+    "last_contribution": "2026-03-22T08:54:00Z",
+    "data_note": "Verifications and reports reflect actual intelligence pipeline output as of 2026-03-22. Community contributions coming in Phase 2."
   },
   "regions": [
     {
