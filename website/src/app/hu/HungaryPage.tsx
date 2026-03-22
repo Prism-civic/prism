@@ -5,7 +5,7 @@ import Link from "next/link";
 import partiesData from "../../data/hungary/parties.json";
 import candidatesData from "../../data/hungary/candidates.json";
 import { CandidateDrawer } from "../../components/CandidateDrawer";
-import { AlignmentQuiz, loadUserProfile } from "../../components/AlignmentQuiz";
+import { AlignmentQuizInline, loadUserProfile } from "../../components/AlignmentQuiz";
 import { AlignmentRadar } from "../../components/AlignmentRadar";
 
 import { HexProfileCard } from "../../components/HexProfileCard";
@@ -147,8 +147,8 @@ export function HungaryPage() {
   const [lang, setLang] = useState<Lang>("hu");
   const [selectedCounty, setSelectedCounty] = useState<string>("");
   const [selectedCandidate, setSelectedCandidate] = useState<Candidate | null>(null);
-  const [showQuiz, setShowQuiz] = useState(false);
   const [userProfile, setUserProfile] = useState<TraitScores | null>(null);
+  const [quizOpen, setQuizOpen] = useState(false);
   const closeDrawer = useCallback(() => setSelectedCandidate(null), []);
 
   useEffect(() => {
@@ -168,9 +168,9 @@ export function HungaryPage() {
     const profile = loadUserProfile();
     if (profile) {
       setUserProfile(profile);
+      setQuizOpen(false);
     } else {
-      const t = setTimeout(() => setShowQuiz(true), 1200);
-      return () => clearTimeout(t);
+      setQuizOpen(true);
     }
   }, []);
 
@@ -199,13 +199,6 @@ export function HungaryPage() {
 
   return (
     <>
-      {showQuiz && (
-        <AlignmentQuiz
-          lang={lang}
-          onComplete={(scores) => { setUserProfile(scores); setShowQuiz(false); }}
-          onSkip={() => setShowQuiz(false)}
-        />
-      )}
     <main className="mx-auto flex w-full max-w-7xl flex-1 flex-col gap-10 px-4 py-6 sm:px-6 lg:px-8">
       {/* Header */}
       <header className="flex items-center justify-between rounded-full border border-line/80 bg-panel-strong/90 px-4 py-3 backdrop-blur sm:px-6">
@@ -248,85 +241,118 @@ export function HungaryPage() {
           </h1>
           <p className="text-lg leading-8 text-muted">{t.hero_subtitle}</p>
 
-          {/* Profile active indicator */}
           {userProfile && (
             <div className="flex items-center gap-2 mt-2">
               <span className="inline-flex items-center gap-1.5 rounded-full border border-cyan-500/30 bg-cyan-950/30 px-3 py-1 text-xs text-cyan-300">
                 <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse" />
                 {lang === "hu" ? "Személyes profil aktív — a radar az Ön értékeit mutatja" : "Your profile is active — radar shows your alignment"}
               </span>
-              <button
-                onClick={() => setShowQuiz(true)}
-                className="text-xs text-muted/50 hover:text-muted transition underline"
-              >
-                {lang === "hu" ? "módosítás" : "edit"}
-              </button>
             </div>
-          )}
-          {!userProfile && (
-            <button
-              onClick={() => setShowQuiz(true)}
-              className="mt-2 inline-flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-muted hover:border-white/20 hover:text-foreground transition"
-            >
-              ✦ {lang === "hu" ? "Töltse ki a kérdőívet az igazodási radar megjelenítéséhez" : "Take the quiz to see your alignment radar"}
-            </button>
           )}
         </div>
       </section>
 
-      {/* Party Comparison */}
+      {/* Party Comparison + inline quiz */}
       <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
         <div className="mb-6 space-y-1">
           <p className="eyebrow text-xs font-medium text-muted">{t.party_title}</p>
           <p className="text-sm text-muted">{t.party_subtitle}</p>
         </div>
-        <div className="overflow-x-auto -mx-1 px-1">
-          <table className="w-full min-w-[700px] border-collapse text-sm">
-            <thead>
-              <tr>
-                <th className="w-36 py-3 pr-4 text-left text-xs font-medium text-muted" />
-                {parties.map((p) => (
-                  <th
-                    key={p.id}
-                    className="py-3 px-3 text-center text-xs font-semibold text-foreground"
-                    style={{ borderTop: `3px solid ${p.colour}` }}
-                  >
-                    <div className="flex flex-col items-center gap-1.5">
-                      <HexProfileCard
-                        partyId={p.id}
-                        partyColour={p.colour}
-                        size={72}
-                        alt={p.name}
-                        userScores={userProfile}
-                        partyScores={(partyPositions.parties as Record<string, TraitScores>)[p.id] ?? null}
-                        lang={lang as "en" | "hu"}
-                        showRadar={!!userProfile}
-                      />
-                      <div>{p.name}</div>
-                      <div className="font-normal text-muted">{p.leader}</div>
-                    </div>
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {ISSUE_KEYS.map((key, i) => (
-                <tr key={key} className={i % 2 === 0 ? "bg-white/[0.02]" : ""}>
-                  <td className="py-3 pr-4 text-xs font-medium text-muted align-top">
-                    {t.issues[key]}
-                  </td>
-                  {parties.map((p) => (
-                    <td
-                      key={p.id}
-                      className="py-3 px-3 text-xs leading-6 text-foreground/80 align-top border-t border-line/40"
-                    >
-                      {p.key_positions[key]}
-                    </td>
-                  ))}
-                </tr>
+
+        {/* Two-column: quiz left, party hexes right */}
+        <div className="flex flex-col lg:flex-row gap-6 lg:gap-8">
+
+          {/* ── Inline quiz panel ── */}
+          <div className="lg:w-72 xl:w-80 shrink-0">
+            <div className="rounded-2xl border border-cyan-500/20 bg-cyan-950/15 px-4 py-5 space-y-3">
+              <div className="flex items-center justify-between">
+                <p className="text-xs font-semibold text-cyan-300">
+                  {lang === "hu" ? "🎯 Az Ön álláspontjai" : "🎯 Your positions"}
+                </p>
+                <button
+                  onClick={() => setQuizOpen(!quizOpen)}
+                  className="text-[10px] text-white/30 hover:text-white/60 transition"
+                >
+                  {quizOpen
+                    ? (lang === "hu" ? "▲ csukja be" : "▲ collapse")
+                    : (lang === "hu" ? "▼ nyissa ki" : "▼ expand")}
+                </button>
+              </div>
+              <p className="text-[11px] text-white/45 leading-relaxed">
+                {lang === "hu"
+                  ? "Állítsa be az egyes csúszkákat — a hatszögek azonnal frissülnek."
+                  : "Adjust the sliders — the hexagons update live."}
+              </p>
+              {quizOpen && (
+                <AlignmentQuizInline
+                  lang={lang as "hu" | "en"}
+                  initialScores={userProfile}
+                  onChange={(scores) => setUserProfile(scores)}
+                />
+              )}
+              {!quizOpen && userProfile && (
+                <button
+                  onClick={() => setQuizOpen(true)}
+                  className="text-[11px] text-cyan-400/70 hover:text-cyan-300 transition underline"
+                >
+                  {lang === "hu" ? "Profil szerkesztése →" : "Edit profile →"}
+                </button>
+              )}
+            </div>
+          </div>
+
+          {/* ── Party hexagons ── */}
+          <div className="flex-1 min-w-0">
+            {/* Party hex row */}
+            <div className="flex flex-wrap gap-4 justify-start mb-6">
+              {parties.map((p) => (
+                <div key={p.id} className="flex flex-col items-center gap-2" style={{ borderTop: `3px solid ${p.colour}`, paddingTop: "8px" }}>
+                  <HexProfileCard
+                    partyId={p.id}
+                    partyColour={p.colour}
+                    size={144}
+                    alt={p.name}
+                    userScores={userProfile}
+                    partyScores={(partyPositions.parties as Record<string, TraitScores>)[p.id] ?? null}
+                    lang={lang as "en" | "hu"}
+                    showRadar={!!userProfile}
+                  />
+                  <div className="text-center max-w-[144px]">
+                    <p className="text-xs font-semibold text-foreground leading-tight">{p.name}</p>
+                    <p className="text-[10px] text-muted mt-0.5">{p.leader}</p>
+                  </div>
+                </div>
               ))}
-            </tbody>
-          </table>
+            </div>
+
+            {/* Policy comparison table — scrollable on small screens */}
+            <div className="overflow-x-auto -mx-1 px-1">
+              <table className="w-full min-w-[600px] border-collapse text-sm">
+                <thead>
+                  <tr>
+                    <th className="w-28 py-2 pr-4 text-left text-xs font-medium text-muted" />
+                    {parties.map((p) => (
+                      <th key={p.id} className="py-2 px-2 text-center text-[10px] font-semibold text-foreground/70" style={{ color: p.colour }}>
+                        {p.name}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {ISSUE_KEYS.map((key, i) => (
+                    <tr key={key} className={i % 2 === 0 ? "bg-white/[0.02]" : ""}>
+                      <td className="py-2.5 pr-4 text-xs font-medium text-muted align-top whitespace-nowrap">{t.issues[key]}</td>
+                      {parties.map((p) => (
+                        <td key={p.id} className="py-2.5 px-2 text-xs leading-5 text-foreground/75 align-top border-t border-line/30">
+                          {p.key_positions[key]}
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -393,50 +419,39 @@ export function HungaryPage() {
                   </span>
                 </div>
 
-                {/* Candidate list */}
+                {/* Candidate grid */}
                 {con.candidates.length === 0 ? (
                   <p className="text-xs text-muted/60 italic">{t.no_candidates}</p>
                 ) : (
-                  <ul className="space-y-2">
+                  <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-3 mt-2">
                     {con.candidates.map((cand) => (
                       <li
                         key={cand.nvi_id}
-                        className="flex items-center gap-3 rounded-xl border border-line/40 bg-panel/60 px-3 py-2.5 cursor-pointer hover:border-line/70 hover:bg-panel/80 transition group"
-                        style={partyBadgeStyle(cand.party_id)}
+                        className="flex flex-col items-center gap-2 rounded-2xl border border-line/40 bg-panel/60 px-3 py-4 cursor-pointer hover:border-line/80 hover:bg-panel/90 transition group text-center"
                         onClick={() => setSelectedCandidate(cand)}
                         role="button"
                         tabIndex={0}
                         onKeyDown={(e) => e.key === "Enter" && setSelectedCandidate(cand)}
                         aria-label={`${cand.name} — ${t.view_record}`}
+                        style={{ borderTop: `3px solid ${cand.party_id ? PARTY_COLOURS[cand.party_id] ?? "#555" : "#555"}` }}
                       >
-                        {/* Hex profile photo with radar overlay */}
                         <HexProfileCard
                           photoId={cand.photo_id}
                           partyId={cand.party_id}
                           partyColour={cand.party_id ? PARTY_COLOURS[cand.party_id] ?? "#666" : "#666"}
-                          size={64}
+                          size={120}
                           alt={cand.name}
                           userScores={userProfile}
                           partyScores={cand.party_id ? (partyPositions.parties as Record<string, TraitScores>)[cand.party_id] ?? null : null}
                           lang={lang as "en" | "hu"}
                           showRadar={!!userProfile && !!cand.party_id}
                         />
-
-                        {/* Name + party */}
-                        <div className="flex-1 min-w-0">
-                          <p className="text-sm font-medium text-foreground truncate">
-                            {cand.name}
-                          </p>
-                          <p className="text-xs text-muted">{cand.party}</p>
+                        <div className="space-y-0.5 w-full">
+                          <p className="text-xs font-semibold text-foreground leading-tight line-clamp-2">{cand.name}</p>
+                          <p className="text-[10px] text-muted">{cand.party}</p>
+                          <p className="text-[9px] text-muted/40">#{cand.ballot_number}</p>
                         </div>
-
-                        {/* Ballot number + view cue */}
-                        <div className="shrink-0 flex flex-col items-end gap-1">
-                          <span className="text-[10px] text-muted/40">#{cand.ballot_number}</span>
-                          <span className="text-xs text-muted/40 group-hover:text-muted/70 transition">
-                            {t.view_record_icon}
-                          </span>
-                        </div>
+                        <span className="text-[10px] text-muted/30 group-hover:text-muted/60 transition">{t.view_record_icon}</span>
                       </li>
                     ))}
                   </ul>
@@ -481,6 +496,6 @@ export function HungaryPage() {
         </div>
       </footer>
     </main>
-  </>
+    </>
   );
 }

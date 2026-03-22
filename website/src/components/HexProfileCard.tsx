@@ -1,14 +1,13 @@
 "use client";
 
 import React from "react";
-import { AlignmentRadar } from "./AlignmentRadar";
 import type { TraitScores } from "./AlignmentRadar";
 
 /**
  * HexProfileCard — hexagonal photo with radar overlay.
  *
- * Used for both candidates (NVI photo) and parties (local logo).
- * Radar overlay renders the user's alignment against the party/candidate.
+ * Inverse mask overlay: the area OUTSIDE the trait polygon is dimmed to
+ * greyscale, making the trait shape pop clearly against any background.
  *
  * NVI photo URL pattern (reverse-engineered from vtr.valasztas.hu JS bundle):
  *   /kepek/${n[-2]}/${n[-1]}/Kep-${photoId}.JPG
@@ -23,80 +22,67 @@ function nviPhotoUrl(photoId: number): string {
   return `${NVI_PHOTO_BASE}/${secondLast}/${last}/Kep-${photoId}.JPG`;
 }
 
-// Hexagonal SVG clip path — pointy-top orientation
-const HEX_CLIP_ID = "hex-clip-prism";
+// ── Hex geometry helpers ──────────────────────────────────────────────────────
 
-function HexClipDef({ id, size }: { id: string; size: number }) {
-  const w = size;
-  const h = size;
-  // Flat-top hex points, normalized to size
-  const cx = w / 2;
-  const cy = h / 2;
-  const r = Math.min(w, h) / 2;
-  const points = Array.from({ length: 6 }, (_, i) => {
+function hexPoints(cx: number, cy: number, r: number): string {
+  return Array.from({ length: 6 }, (_, i) => {
     const angle = (Math.PI / 3) * i - Math.PI / 6;
     return `${cx + r * Math.cos(angle)},${cy + r * Math.sin(angle)}`;
   }).join(" ");
-
-  return (
-    <defs>
-      <clipPath id={id} clipPathUnits="userSpaceOnUse">
-        <polygon points={points} />
-      </clipPath>
-    </defs>
-  );
 }
 
+// ── Radar path helper (mirrors AlignmentRadar logic) ─────────────────────────
+
+const TRAITS = ["eu", "migracio", "gazdasag", "jogallamisag", "ukrajna", "kornyezet"] as const;
+type Trait = typeof TRAITS[number];
+
+const TRAIT_LABELS: Record<Trait, { hu: string; en: string }> = {
+  eu:           { hu: "EU",          en: "EU" },
+  migracio:     { hu: "Migráció",    en: "Migration" },
+  gazdasag:     { hu: "Gazdaság",    en: "Economy" },
+  jogallamisag: { hu: "Jogáll.",     en: "Law" },
+  ukrajna:      { hu: "Ukrajna",     en: "Ukraine" },
+  kornyezet:    { hu: "Klíma",       en: "Climate" },
+};
+
+function calcAlignment(user: number, party: number): number {
+  return (5 - Math.abs(user - party) - 1) / 4;
+}
+
+function radarPath(
+  userScores: TraitScores,
+  partyScores: TraitScores,
+  cx: number,
+  cy: number,
+  maxR: number
+): string {
+  const n = TRAITS.length;
+  const angles = TRAITS.map((_, i) => -Math.PI / 2 + (2 * Math.PI * i) / n);
+  const pts = TRAITS.map((t, i) => {
+    const v = calcAlignment(userScores[t], partyScores[t]);
+    return {
+      x: cx + v * maxR * Math.cos(angles[i]),
+      y: cy + v * maxR * Math.sin(angles[i]),
+    };
+  });
+  return pts.map((p, i) => `${i === 0 ? "M" : "L"}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(" ") + " Z";
+}
+
+// ── Props ─────────────────────────────────────────────────────────────────────
+
 type Props = {
-  /** Candidate NVI photo_id — if provided, fetches from vtr.valasztas.hu */
   photoId?: number | null;
-  /** Party id — used to load /parties/{id}.png logo */
   partyId?: string | null;
-  /** Party accent colour */
   partyColour?: string;
-  /** Size in px (both width and height) */
   size?: number;
-  /** Alt text */
   alt?: string;
-  /** User alignment scores (for radar overlay) */
   userScores?: TraitScores | null;
-  /** Party scores (for radar overlay) */
   partyScores?: TraitScores | null;
-  /** Lang for radar labels */
   lang?: "en" | "hu";
-  /** Show radar overlay */
   showRadar?: boolean;
 };
 
-/**
- * Fallback — initials or party colour placeholder.
- */
-function HexPlaceholder({
-  size,
-  colour,
-  initial,
-}: {
-  size: number;
-  colour: string;
-  initial?: string;
-}) {
-  return (
-    <div
-      className="flex items-center justify-center rounded-sm text-white font-bold select-none"
-      style={{
-        width: size,
-        height: size,
-        background: `linear-gradient(135deg, ${colour}44, ${colour}22)`,
-        border: `1.5px solid ${colour}66`,
-        clipPath:
-          "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)",
-        fontSize: size * 0.28,
-      }}
-    >
-      {initial ?? "?"}
-    </div>
-  );
-}
+// ── Component ─────────────────────────────────────────────────────────────────
 
 export function HexProfileCard({
   photoId,
@@ -117,98 +103,172 @@ export function HexProfileCard({
     ? `/parties/${partyId}.png`
     : null;
 
-  const clipId = `${HEX_CLIP_ID}-${size}`;
   const hasRadar = showRadar && userScores && partyScores;
-  const radarSize = Math.round(size * 1.15);
+
+  // Unique IDs for SVG defs (per size + partyId to avoid conflicts on the same page)
+  const uid = `${partyId ?? photoId ?? "p"}-${size}`;
+  const clipId    = `hpc-clip-${uid}`;
+  const maskId    = `hpc-mask-${uid}`;
+  const filterId  = `hpc-gray-${uid}`;
+
+  const cx = size / 2;
+  const cy = size / 2;
+  const r  = size / 2 - 1;
+  const hexPts = hexPoints(cx, cy, r);
+
+  // Radar geometry (drawn inside the hex)
+  const maxR  = size * 0.38;
+  const labelR = size * 0.47;
+  const n = TRAITS.length;
+  const angles = TRAITS.map((_, i) => -Math.PI / 2 + (2 * Math.PI * i) / n);
+  const rPath = hasRadar ? radarPath(userScores!, partyScores!, cx, cy, maxR) : "";
+
+  // Hex inner ring for colour border (slightly smaller)
+  const rRing = hexPoints(cx, cy, r - 1);
 
   return (
     <div className="relative flex-shrink-0" style={{ width: size, height: size }}>
-      {/* Hex photo */}
       <svg
         width={size}
         height={size}
-        style={{ position: "absolute", top: 0, left: 0 }}
+        viewBox={`0 0 ${size} ${size}`}
         aria-hidden="true"
+        overflow="visible"
       >
-        <HexClipDef id={clipId} size={size} />
+        <defs>
+          {/* Hex clip — confines image to hex shape */}
+          <clipPath id={clipId} clipPathUnits="userSpaceOnUse">
+            <polygon points={hexPts} />
+          </clipPath>
 
-        {/* Party colour ring */}
-        <polygon
-          points={(() => {
-            const w = size;
-            const h = size;
-            const cx = w / 2;
-            const cy = h / 2;
-            const r = Math.min(w, h) / 2;
-            return Array.from({ length: 6 }, (_, i) => {
-              const angle = (Math.PI / 3) * i - Math.PI / 6;
-              return `${cx + r * Math.cos(angle)},${cy + r * Math.sin(angle)}`;
-            }).join(" ");
-          })()}
-          fill="none"
-          stroke={partyColour}
-          strokeWidth="2"
-          opacity="0.7"
-        />
+          {/* Greyscale + dim filter for "outside" overlay */}
+          <filter id={filterId} x="0" y="0" width="100%" height="100%">
+            <feColorMatrix type="saturate" values="0" result="grey" />
+            <feComponentTransfer in="grey">
+              <feFuncR type="linear" slope="0.35" />
+              <feFuncG type="linear" slope="0.35" />
+              <feFuncB type="linear" slope="0.35" />
+            </feComponentTransfer>
+          </filter>
 
+          {/* Mask: white = show filtered (outside), black = show original (inside trait shape) */}
+          {hasRadar && (
+            <mask id={maskId}>
+              {/* White fills the whole hex — everything gets filter by default */}
+              <polygon points={hexPts} fill="white" />
+              {/* Black = trait shape = exclude from filter (stays vivid) */}
+              <path d={rPath} fill="black" />
+            </mask>
+          )}
+        </defs>
+
+        {/* ── Photo / placeholder ── */}
         {imgSrc && !imgError ? (
-          <image
-            href={imgSrc}
-            x="0"
-            y="0"
-            width={size}
-            height={size}
-            preserveAspectRatio="xMidYMid slice"
-            clipPath={`url(#${clipId})`}
-            onError={() => setImgError(true)}
-          />
+          <>
+            {/* Vivid layer — clipped to hex, only shows through where mask is black (inside trait) */}
+            <image
+              href={imgSrc}
+              x="0" y="0"
+              width={size} height={size}
+              preserveAspectRatio="xMidYMid slice"
+              clipPath={`url(#${clipId})`}
+              onError={() => setImgError(true)}
+            />
+            {/* Greyscale+dim layer — only shows where mask is white (outside trait) */}
+            {hasRadar && (
+              <image
+                href={imgSrc}
+                x="0" y="0"
+                width={size} height={size}
+                preserveAspectRatio="xMidYMid slice"
+                clipPath={`url(#${clipId})`}
+                filter={`url(#${filterId})`}
+                mask={`url(#${maskId})`}
+              />
+            )}
+          </>
         ) : (
           <polygon
-            points={(() => {
-              const w = size;
-              const h = size;
-              const cx = w / 2;
-              const cy = h / 2;
-              const r = Math.min(w, h) / 2 - 1;
-              return Array.from({ length: 6 }, (_, i) => {
-                const angle = (Math.PI / 3) * i - Math.PI / 6;
-                return `${cx + r * Math.cos(angle)},${cy + r * Math.sin(angle)}`;
-              }).join(" ");
-            })()}
+            points={hexPts}
             fill={`${partyColour}22`}
           />
         )}
+
+        {/* ── Initials fallback ── */}
+        {(!imgSrc || imgError) && (
+          <text
+            x={cx} y={cy}
+            textAnchor="middle"
+            dominantBaseline="middle"
+            fontSize={size * 0.28}
+            fill="rgba(255,255,255,0.6)"
+            fontWeight="bold"
+          >
+            {alt.charAt(0)}
+          </text>
+        )}
+
+        {/* ── Radar overlay ── */}
+        {hasRadar && (
+          <>
+            {/* Grid rings */}
+            {[0.25, 0.5, 0.75, 1].map((frac) => {
+              const pts = angles.map((a) => ({
+                x: cx + frac * maxR * Math.cos(a),
+                y: cy + frac * maxR * Math.sin(a),
+              }));
+              const d = pts.map((p, i) => `${i === 0 ? "M" : "L"}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(" ") + " Z";
+              return <path key={frac} d={d} fill="none" stroke="rgba(255,255,255,0.18)" strokeWidth="0.5" />;
+            })}
+            {/* Axis lines */}
+            {angles.map((a, i) => (
+              <line
+                key={i}
+                x1={cx} y1={cy}
+                x2={(cx + maxR * Math.cos(a)).toFixed(1)}
+                y2={(cy + maxR * Math.sin(a)).toFixed(1)}
+                stroke="rgba(255,255,255,0.18)"
+                strokeWidth="0.5"
+              />
+            ))}
+            {/* Trait fill */}
+            <path
+              d={rPath}
+              fill="rgba(99,179,237,0.28)"
+              stroke="rgba(147,210,255,0.95)"
+              strokeWidth={Math.max(1, size * 0.018)}
+            />
+            {/* Trait labels — only shown if size big enough */}
+            {size >= 100 && TRAITS.map((t, i) => {
+              const lx = cx + labelR * Math.cos(angles[i]);
+              const ly = cy + labelR * Math.sin(angles[i]);
+              return (
+                <text
+                  key={t}
+                  x={lx.toFixed(1)} y={ly.toFixed(1)}
+                  textAnchor="middle"
+                  dominantBaseline="middle"
+                  fontSize={Math.max(6, size * 0.055)}
+                  fill="rgba(255,255,255,0.92)"
+                  fontWeight="600"
+                  style={{ textShadow: "0 1px 3px rgba(0,0,0,0.8)" }}
+                >
+                  {TRAIT_LABELS[t][lang]}
+                </text>
+              );
+            })}
+          </>
+        )}
+
+        {/* ── Party colour ring ── */}
+        <polygon
+          points={rRing}
+          fill="none"
+          stroke={partyColour}
+          strokeWidth={Math.max(1.5, size * 0.025)}
+          opacity="0.8"
+        />
       </svg>
-
-      {/* Initials fallback text when no image */}
-      {(!imgSrc || imgError) && (
-        <div
-          className="absolute inset-0 flex items-center justify-center text-white/60 font-bold pointer-events-none"
-          style={{ fontSize: size * 0.28 }}
-        >
-          {alt.charAt(0)}
-        </div>
-      )}
-
-      {/* Radar overlay — semi-transparent, centered */}
-      {hasRadar && (
-        <div
-          className="absolute pointer-events-none"
-          style={{
-            top: "50%",
-            left: "50%",
-            transform: "translate(-50%, -50%)",
-            opacity: 0.75,
-          }}
-        >
-          <AlignmentRadar
-            userScores={userScores}
-            partyScores={partyScores}
-            size={radarSize}
-            lang={lang}
-          />
-        </div>
-      )}
     </div>
   );
 }
