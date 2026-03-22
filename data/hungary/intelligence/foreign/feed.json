@@ -1,1 +1,453 @@
-{"generated_at":"","item_count":0,"sources":[],"items":[]}
+{
+  "generated_at": "2026-03-22T08:15:53.211628+00:00",
+  "item_count": 23,
+  "sources": [
+    "rferl",
+    "reuters",
+    "politico_eu",
+    "dw_hu",
+    "euractiv",
+    "guardian"
+  ],
+  "items": [
+    {
+      "title": "Dóra Maurer obituary",
+      "url": "https://www.theguardian.com/artanddesign/2026/feb/27/dora-maurer-obituary",
+      "snippet": "Hungarian artist and teacher whose avant-garde works ranged from painting and photography to performanceTalking to the Art Newspaper in 2019, Dóra Maurer made a surprising claim. Her work, she told the interviewer, benefited “from a lack of market”.It seemed an odd thing to say. The Hungarian artist",
+      "published": "Fri, 27 Feb 2026 15:46:08 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "politics",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.211146+00:00"
+    },
+    {
+      "title": "Flinging circus into the 21st century: how the immersive Walk My World became a Budapest must-see",
+      "url": "https://www.theguardian.com/stage/2026/mar/02/walk-my-world-bence-vagis-immersive-show-budapest-circus-dance",
+      "snippet": "Hungarian director Bence Vági’s latest work showcases a modern style of acrobatics where performers soar above as the audience wanders from room to roomImagine an empty 6,000 sq metre warehouse intricately designed to contain 40 smaller performing spaces on multiple levels. On one side lie the falle",
+      "published": "Mon, 02 Mar 2026 08:32:17 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "ukraine_russia",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.209687+00:00"
+    },
+    {
+      "title": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy",
+      "url": "https://www.theguardian.com/world/2026/mar/06/hungary-seizes-millions-euros-cash-gold-ukrainian-convoy",
+      "snippet": "Seven Ukrainians arrested and money-laundering investigation launched in latest spat between Kyiv and BudapestAn increasingly acrimonious spat between Hungary and Ukraine has escalated further, as Budapest impounded two Ukrainian armoured bank vehicles carrying millions of euros of hard cash as well",
+      "published": "Fri, 06 Mar 2026 16:00:40 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.208202+00:00"
+    },
+    {
+      "title": "Hungary ‘demands answers’ over seized Ukrainian gold and cash as Kyiv accuses Budapest of ‘hostage’ situation – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/mar/06/ukraine-russia-hungary-orban-zelenskyy-putin-middle-east-iran-cyprus-europe-latest-news-updates",
+      "snippet": "Ukraine police investigating what foreign ministry calls  a ‘hostage’ situation involving seven employees of Oschadbank stopped by HungaryIcelandic foreign minister Þorgerður Katrín Gunnarsdóttir submitted a government motion for a referendum on resuming accession talks with the European Union, prop",
+      "published": "Fri, 06 Mar 2026 16:29:26 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.206634+00:00"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy accuses Hungary of ‘banditry’ over seized gold and cash",
+      "url": "https://www.theguardian.com/world/2026/mar/11/ukraine-war-briefing-zelenskyy-accuses-hungary-of-banditry-over-82m-of-seized-gold",
+      "snippet": "Hungary PM Viktor Orbán orders cash and gold shipment be held for up to 60 days. Moscow and Kyiv both claim battlefield gains. What we know on day 1,477 Continue reading...",
+      "published": "Wed, 11 Mar 2026 00:36:21 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "ukraine_russia",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.204924+00:00"
+    },
+    {
+      "title": "Hungary’s Orbán claims Ukrainians ‘threatened’ his family as election campaign ramps up",
+      "url": "https://www.theguardian.com/world/2026/mar/12/orban-ukraine-claims-hungary-election",
+      "snippet": "Prime minister makes claim as accusations mount that he is using row with Ukraine for political gain in run-up to electionsHungary’s prime minister, Viktor Orbán, has accused Ukrainians of plotting to attack his family, as an increasingly bitter standoff between Kyiv and Budapest continues.Orbán and",
+      "published": "Thu, 12 Mar 2026 08:33:07 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "elections",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.203343+00:00"
+    },
+    {
+      "title": "‘We are the family’: low-budget thriller highlights Hungary’s election tension",
+      "url": "https://www.theguardian.com/world/2026/mar/17/low-budget-thriller-highlights-hungary-election-divide",
+      "snippet": "Audiences draw parallels between the abduction plot of Feels Like Home and Viktor Orbán’s 16-year reignIt’s seven o’clock on a Tuesday night, and one of the most popular movie theatres in Budapest is full, not an empty seat in sight. The audience is not here for a Hollywood blockbuster, but a Hungar",
+      "published": "Tue, 17 Mar 2026 05:00:40 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "elections",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.201517+00:00"
+    },
+    {
+      "title": "The EU’s Hungary problem won’t be solved even if Viktor Orbán is ousted",
+      "url": "https://www.theguardian.com/world/2026/mar/18/viktor-orban-hungary-parliamentary-election-eu-ukraine",
+      "snippet": "The bloc’s foremost troublemaker could lose April’s election, but the headaches he’s caused will not necessarily disappear with him• Don’t get This Is Europe delivered to your inbox? Sign up hereHow do you solve a problem like Viktor Orbán? By crossing your fingers and hoping it disappears in just o",
+      "published": "Wed, 18 Mar 2026 15:33:35 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "elections",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.199641+00:00"
+    },
+    {
+      "title": "No breakthrough on Hungary’s veto of EU’s €90bn loan to Ukraine – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates",
+      "snippet": "This live blog is now closed, you can read more on this story hereGermany’s chancellor Friedrich Merz also called for de-escalation in the Middle East, welcoming what he said were signals by US president Donald Trump that combat action in Iran could come to an end, which could allow Europe to contri",
+      "published": "Thu, 19 Mar 2026 16:17:36 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.197760+00:00"
+    },
+    {
+      "title": "Concerns raised over ex-Putin interpreter’s key role in monitoring Hungary vote",
+      "url": "https://www.theguardian.com/world/2026/mar/19/concerns-over-role-ex-putin-interpreter-hungary-daria-boyarskaya",
+      "snippet": "Daria Boyarskaya coordinating OSCE mission overseeing vote in which pro-Moscow Viktor Orbán could lose powerHungarian rights groups have raised concerns over the appointment of Vladimir Putin’s former interpreter to a key role in an international election monitoring mission, amid fears of Russian in",
+      "published": "Thu, 19 Mar 2026 17:05:12 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "elections",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.195542+00:00"
+    },
+    {
+      "title": "Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal",
+      "url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe",
+      "snippet": "German chancellor Friedrich Merz described Orbán’s U-turn on the loan Hungary had agreed to in December as ‘a gross act of disloyalty’EU leaders fumed after Hungary’s prime minister, Viktor Orbán, refused to drop his opposition to a vital €90bn (£78bn) loan for Ukraine, accusing him of betrayal and ",
+      "published": "Fri, 20 Mar 2026 00:07:21 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.193298+00:00"
+    },
+    {
+      "title": "Ukraine war briefing: EU president von der Leyen vows to pay loan to Kyiv despite block by Hungary",
+      "url": "https://www.theguardian.com/world/2026/mar/20/ukraine-war-briefing-eu-president-von-der-leyen-vows-to-pay-loan-to-kyiv-despite-block-by-hungary",
+      "snippet": "€90bn loan has been held up by resistance from Hungarian prime minister Viktor Orbán; US and Ukrainian negotiators to meet on Saturday. What we know on day 1,486The EU will find ways to pay out the promised €90bn ($104.2bn) loan to Ukraine despite Hungary’s ongoing resistance, European Commission pr",
+      "published": "Fri, 20 Mar 2026 00:41:04 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.190740+00:00"
+    },
+    {
+      "title": "Hungary officials ‘gave Ukrainian forced injection’ after raid on bank vehicles",
+      "url": "https://www.theguardian.com/world/2026/mar/20/hungary-officials-gave-ukrainian-forced-injection-after-bank-vehicles-raid-sources-say",
+      "snippet": "Kyiv sources say they think injection contained relaxant meant to make people more talkative in interrogationsHungarian security operatives administered a “forced injection” to one of the Ukrainians detained earlier this month during a dramatic raid on bank vehicles carrying gold bars and tens of mi",
+      "published": "Fri, 20 Mar 2026 10:18:53 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "politics",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.188058+00:00"
+    },
+    {
+      "title": "Ukraine war briefing: Children ordered to leave key Ukrainian stronghold as Russians advance",
+      "url": "https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance",
+      "snippet": "Compulsory evacuation of children begins in Sloviansk. Kyiv still expects first tranche of 90bn euro loan despite Hungary veto. What we know on day 1,487 Continue reading...",
+      "published": "Sat, 21 Mar 2026 01:34:50 GMT",
+      "source_key": "guardian",
+      "source_name": "The Guardian",
+      "source_domain": "theguardian.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "UK",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "politics",
+        "investigative"
+      ],
+      "fetched_at": "2026-03-22T08:15:51.184802+00:00"
+    },
+    {
+      "title": "Orbán urges EU to return to ‘old harmony’ with Russia",
+      "url": "https://www.euractiv.com/news/orban-urges-eu-to-return-to-old-harmony-with-russia/",
+      "snippet": "His remarks come as Brussels is struggling to get Budapest on board to approve a €90 billion aid package to Ukraine",
+      "published": "Wed, 18 Mar 2026 12:39:20 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.034768+00:00"
+    },
+    {
+      "title": "LIVE: Summit ends as von der Leyen vows Ukraine funding ‘one way or another’",
+      "url": "https://www.euractiv.com/news/live-eu-leaders-to-discuss-middle-east-energy-prices-and-ukraine/",
+      "snippet": "Speaking after the summit, von der Leyen pointedly called out Budapest: one leader, she said, is “not honouring its word\".",
+      "published": "Wed, 18 Mar 2026 16:38:56 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "ukraine_russia",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.033323+00:00"
+    },
+    {
+      "title": "Operation Orbán Fury",
+      "url": "https://www.euractiv.com/news/rapporteur-operation-orban-fury/",
+      "snippet": "Also, in Thursday’s edition: EUCO, protection for Ukrainians, EU-US deal, Russian Arctic Metagaz tanker",
+      "published": "Thu, 19 Mar 2026 06:31:15 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.031677+00:00"
+    },
+    {
+      "title": "EU pins hopes on Hungary election to unlock €90bn Ukraine loan",
+      "url": "https://www.euractiv.com/news/eu-pins-hopes-on-hungary-election-to-unlock-e90bn-ukraine-loan/",
+      "snippet": "Leaders largely avoided a public showdown with Orbán, eager not to feed his campaign",
+      "published": "Thu, 19 Mar 2026 18:14:58 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "elections",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.030021+00:00"
+    },
+    {
+      "title": "Orbán gets the bashing he craved",
+      "url": "https://www.euractiv.com/news/rapporteur-orban-gets-the-bashing-he-craved/",
+      "snippet": "Also, in Friday’s edition: One Europe, One Market, Ukraine, energy, migration",
+      "published": "Fri, 20 Mar 2026 06:02:53 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.028443+00:00"
+    },
+    {
+      "title": "Editors’ Choice: Orbán’s political theatre isn’t going to last forever",
+      "url": "https://www.euractiv.com/opinion/editors-choice-orbans-political-theatre-isnt-going-to-last-forever/",
+      "snippet": "His veto angers EU leaders, but few doubt Ukraine’s €90 billion loan will come through anyway",
+      "published": "Fri, 20 Mar 2026 16:21:40 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.026635+00:00"
+    },
+    {
+      "title": "Schrödinger’s pipeline: Why the Ukraine-Hungary standoff is no quantum mystery",
+      "url": "https://www.euractiv.com/news/schrodingers-pipeline-why-the-ukraine-hungary-standoff-is-no-quantum-mystery/",
+      "snippet": "Kyiv’s reluctance to fix a vital oil conduit to Budapest is perfectly explicable: it doesn’t need any cash – yet",
+      "published": "Sat, 21 Mar 2026 07:00:47 +0000",
+      "source_key": "euractiv",
+      "source_name": "Euractiv",
+      "source_domain": "euractiv.com",
+      "weight": "medium",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "ukraine_russia",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_policy",
+        "rule_of_law"
+      ],
+      "fetched_at": "2026-03-22T08:15:48.024754+00:00"
+    },
+    {
+      "title": "Trump affirms ‘total endorsement’ of Orbán ahead of Hungary election",
+      "url": "https://www.politico.eu/article/trump-affirms-complete-and-total-endorsement-of-orban-amid-clash-with-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "snippet": "U.S. Vice President JD Vance is reportedly due to visit Budapest in April in support of the Prime Minister Orbán.",
+      "published": "Sat, 21 Mar 2026 16:13:11 +0000",
+      "source_key": "politico_eu",
+      "source_name": "Politico Europe",
+      "source_domain": "politico.eu",
+      "weight": "high",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "elections",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_politics",
+        "rule_of_law",
+        "elections"
+      ],
+      "fetched_at": "2026-03-22T08:15:42.004286+00:00"
+    },
+    {
+      "title": "Did Orbán lure the EU into a trap?",
+      "url": "https://www.politico.eu/article/viktor-orban-hungary-lure-eu-into-a-trap/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "snippet": "Some critics of the Hungarian prime minister worry that EU leaders inadvertently boosted his electoral chances by ganging up on him at last week's summit.",
+      "published": "Sun, 22 Mar 2026 03:01:00 +0000",
+      "source_key": "politico_eu",
+      "source_name": "Politico Europe",
+      "source_domain": "politico.eu",
+      "weight": "high",
+      "language": "en",
+      "source_country": "EU",
+      "topic": "eu_relations",
+      "linked_candidates": [],
+      "topic_tags": [
+        "eu_politics",
+        "rule_of_law",
+        "elections"
+      ],
+      "fetched_at": "2026-03-22T08:15:41.999346+00:00"
+    }
+  ]
+}
