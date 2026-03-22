@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "generated_at": "2026-03-22T09:00:00Z",
+    "total_contributors": 847,
+    "total_verifications": 2341,
+    "total_reports": 1203,
+    "total_translations": 89,
+    "total_flags": 312,
+    "last_contribution": "2026-03-22T08:54:00Z"
+  },
+  "regions": [
+    {
+      "county_code": "01",
+      "county_name_en": "Budapest",
+      "county_name_hu": "Budapest",
+      "contributors": 312,
+      "verifications": 891,
+      "reports": 445,
+      "translations": 67,
+      "flags": 118,
+      "active_today": 47
+    },
+    {
+      "county_code": "02",
+      "county_name_en": "Baranya",
+      "county_name_hu": "Baranya",
+      "contributors": 28,
+      "verifications": 74,
+      "reports": 38,
+      "translations": 2,
+      "flags": 9,
+      "active_today": 4
+    },
+    {
+      "county_code": "03",
+      "county_name_en": "Bács-Kiskun",
+      "county_name_hu": "Bács-Kiskun",
+      "contributors": 34,
+      "verifications": 89,
+      "reports": 41,
+      "translations": 1,
+      "flags": 12,
+      "active_today": 5
+    },
+    {
+      "county_code": "04",
+      "county_name_en": "Békés",
+      "county_name_hu": "Békés",
+      "contributors": 19,
+      "verifications": 48,
+      "reports": 23,
+      "translations": 0,
+      "flags": 6,
+      "active_today": 2
+    },
+    {
+      "county_code": "05",
+      "county_name_en": "Borsod-Abaúj-Zemplén",
+      "county_name_hu": "Borsod-Abaúj-Zemplén",
+      "contributors": 31,
+      "verifications": 82,
+      "reports": 39,
+      "translations": 1,
+      "flags": 11,
+      "active_today": 4
+    },
+    {
+      "county_code": "06",
+      "county_name_en": "Csongrád-Csanád",
+      "county_name_hu": "Csongrád-Csanád",
+      "contributors": 27,
+      "verifications": 71,
+      "reports": 33,
+      "translations": 2,
+      "flags": 8,
+      "active_today": 3
+    },
+    {
+      "county_code": "07",
+      "county_name_en": "Fejér",
+      "county_name_hu": "Fejér",
+      "contributors": 22,
+      "verifications": 58,
+      "reports": 27,
+      "translations": 0,
+      "flags": 7,
+      "active_today": 3
+    },
+    {
+      "county_code": "08",
+      "county_name_en": "Győr-Moson-Sopron",
+      "county_name_hu": "Győr-Moson-Sopron",
+      "contributors": 38,
+      "verifications": 97,
+      "reports": 48,
+      "translations": 3,
+      "flags": 14,
+      "active_today": 6
+    },
+    {
+      "county_code": "09",
+      "county_name_en": "Hajdú-Bihar",
+      "county_name_hu": "Hajdú-Bihar",
+      "contributors": 29,
+      "verifications": 75,
+      "reports": 36,
+      "translations": 1,
+      "flags": 10,
+      "active_today": 4
+    },
+    {
+      "county_code": "10",
+      "county_name_en": "Heves",
+      "county_name_hu": "Heves",
+      "contributors": 16,
+      "verifications": 41,
+      "reports": 19,
+      "translations": 0,
+      "flags": 5,
+      "active_today": 2
+    },
+    {
+      "county_code": "11",
+      "county_name_en": "Jász-Nagykun-Szolnok",
+      "county_name_hu": "Jász-Nagykun-Szolnok",
+      "contributors": 18,
+      "verifications": 46,
+      "reports": 22,
+      "translations": 0,
+      "flags": 6,
+      "active_today": 2
+    },
+    {
+      "county_code": "12",
+      "county_name_en": "Komárom-Esztergom",
+      "county_name_hu": "Komárom-Esztergom",
+      "contributors": 21,
+      "verifications": 54,
+      "reports": 26,
+      "translations": 1,
+      "flags": 7,
+      "active_today": 3
+    },
+    {
+      "county_code": "13",
+      "county_name_en": "Nógrád",
+      "county_name_hu": "Nógrád",
+      "contributors": 11,
+      "verifications": 27,
+      "reports": 13,
+      "translations": 0,
+      "flags": 3,
+      "active_today": 1
+    },
+    {
+      "county_code": "14",
+      "county_name_en": "Pest",
+      "county_name_hu": "Pest",
+      "contributors": 128,
+      "verifications": 354,
+      "reports": 178,
+      "translations": 8,
+      "flags": 47,
+      "active_today": 19
+    },
+    {
+      "county_code": "15",
+      "county_name_en": "Somogy",
+      "county_name_hu": "Somogy",
+      "contributors": 14,
+      "verifications": 35,
+      "reports": 17,
+      "translations": 0,
+      "flags": 4,
+      "active_today": 2
+    },
+    {
+      "county_code": "16",
+      "county_name_en": "Szabolcs-Szatmár-Bereg",
+      "county_name_hu": "Szabolcs-Szatmár-Bereg",
+      "contributors": 23,
+      "verifications": 59,
+      "reports": 28,
+      "translations": 1,
+      "flags": 8,
+      "active_today": 3
+    },
+    {
+      "county_code": "17",
+      "county_name_en": "Tolna",
+      "county_name_hu": "Tolna",
+      "contributors": 12,
+      "verifications": 30,
+      "reports": 14,
+      "translations": 0,
+      "flags": 4,
+      "active_today": 1
+    },
+    {
+      "county_code": "18",
+      "county_name_en": "Vas",
+      "county_name_hu": "Vas",
+      "contributors": 15,
+      "verifications": 39,
+      "reports": 18,
+      "translations": 1,
+      "flags": 5,
+      "active_today": 2
+    },
+    {
+      "county_code": "19",
+      "county_name_en": "Veszprém",
+      "county_name_hu": "Veszprém",
+      "contributors": 20,
+      "verifications": 51,
+      "reports": 24,
+      "translations": 1,
+      "flags": 7,
+      "active_today": 3
+    },
+    {
+      "county_code": "20",
+      "county_name_en": "Zala",
+      "county_name_hu": "Zala",
+      "contributors": 13,
+      "verifications": 33,
+      "reports": 16,
+      "translations": 0,
+      "flags": 4,
+      "active_today": 2
+    }
+  ]
+}

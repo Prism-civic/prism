@@ -44,6 +44,18 @@ type SourceData = {
   items: IntelItem[];
 };
 
+type BriefResponse = {
+  kpn_id: number;
+  brief_en: string;
+  brief_hu: string;
+  confidence: "high" | "medium" | "low" | "none";
+  evidence_count: number;
+  sources_used: string[];
+  generated_at: string;
+  model_used?: string;
+  is_canned?: boolean;
+};
+
 type IntelResponse = {
   kpn_id: number;
   sources: Record<string, SourceData>;
@@ -87,6 +99,16 @@ const strings = {
     data_note: "Az adatok nyilvánosan elérhető forrásokból származnak. Nincs szerkesztői állásfoglalás.",
     items_found: (n: number) => `${n} találat`,
     scraping: "Adatgyűjtés folyamatban...",
+    request_brief: "🧠 Összefoglaló kérése",
+    brief_title: "Értékelési összefoglaló",
+    brief_loading: "Összefoglaló generálása...",
+    brief_disclaimer: "Nyilvános adatokból generált AI összefoglaló · Mindig ellenőrizze a forrásokat",
+    brief_confidence: (c: string) => `Megbízhatóság: ${c}`,
+    brief_based_on: (n: number) => `${n} nyilvános adat alapján`,
+    brief_error: "Összefoglaló nem elérhető",
+    confidence_high: "magas",
+    confidence_medium: "közepes",
+    confidence_low: "alacsony",
   },
   en: {
     intelligence_title: "Public Record",
@@ -101,6 +123,16 @@ const strings = {
     data_note: "All data from publicly available sources. No editorial stance.",
     items_found: (n: number) => `${n} result${n !== 1 ? "s" : ""}`,
     scraping: "Data collection in progress...",
+    request_brief: "🧠 Request Intelligence Brief",
+    brief_title: "Intelligence Brief",
+    brief_loading: "Generating summary...",
+    brief_disclaimer: "AI-generated from public records · Always verify sources",
+    brief_confidence: (c: string) => `Confidence: ${c}`,
+    brief_based_on: (n: number) => `Based on ${n} public records`,
+    brief_error: "Summary unavailable — try again",
+    confidence_high: "high",
+    confidence_medium: "medium",
+    confidence_low: "low",
   },
 };
 
@@ -108,6 +140,10 @@ export function CandidateDrawer({ candidate, onClose, lang, userProfile }: Props
   const [intel, setIntel] = useState<IntelResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [brief, setBrief] = useState<BriefResponse | null>(null);
+  const [briefLoading, setBriefLoading] = useState(false);
+  const [briefError, setBriefError] = useState<string | null>(null);
+  const [briefRequested, setBriefRequested] = useState(false);
   const t = strings[lang];
 
   const fetchIntel = useCallback(async (id: number) => {
@@ -131,12 +167,36 @@ export function CandidateDrawer({ candidate, onClose, lang, userProfile }: Props
     }
   }, []);
 
+  const fetchBrief = useCallback(async (id: number) => {
+    setBriefLoading(true);
+    setBriefError(null);
+    setBrief(null);
+    setBriefRequested(true);
+    try {
+      const res = await fetch(`/api/hu/candidate/${id}/brief`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      setBrief(data);
+    } catch (e) {
+      setBriefError(e instanceof Error ? e.message : "Unknown error");
+    } finally {
+      setBriefLoading(false);
+    }
+  }, []);
+
   useEffect(() => {
     if (candidate) {
       fetchIntel(candidate.nvi_id);
+      // Reset brief state when new candidate opens
+      setBrief(null);
+      setBriefError(null);
+      setBriefRequested(false);
     } else {
       setIntel(null);
       setError(null);
+      setBrief(null);
+      setBriefError(null);
+      setBriefRequested(false);
     }
   }, [candidate, fetchIntel]);
 
@@ -233,6 +293,59 @@ export function CandidateDrawer({ candidate, onClose, lang, userProfile }: Props
 
         {/* Scrollable body */}
         <div className="flex-1 overflow-y-auto px-5 py-4 space-y-5 overscroll-contain">
+
+          {/* AI Intelligence Brief */}
+          {!briefRequested && (
+            <button
+              onClick={() => fetchBrief(candidate.nvi_id)}
+              className="w-full rounded-xl border border-indigo-500/30 bg-indigo-950/30 px-4 py-3 text-sm font-medium text-indigo-300 hover:bg-indigo-950/50 hover:border-indigo-400/50 transition text-left"
+            >
+              {t.request_brief}
+            </button>
+          )}
+
+          {briefRequested && briefLoading && (
+            <div className="rounded-xl border border-indigo-500/20 bg-indigo-950/20 px-4 py-3">
+              <p className="text-xs text-indigo-300/70 animate-pulse">{t.brief_loading}</p>
+            </div>
+          )}
+
+          {briefRequested && briefError && !briefLoading && (
+            <div className="rounded-xl border border-red-500/20 bg-red-950/20 px-4 py-3">
+              <p className="text-xs text-red-300/70">{t.brief_error}</p>
+            </div>
+          )}
+
+          {briefRequested && brief && !briefLoading && (
+            <div className="rounded-xl border border-indigo-500/30 bg-indigo-950/30 px-4 py-4 space-y-3">
+              <div className="flex items-center justify-between">
+                <span className="text-xs font-semibold text-indigo-300">🧠 {t.brief_title}</span>
+                {brief.confidence !== "none" && (
+                  <span className="text-[10px] text-indigo-400/60 capitalize">
+                    {t.brief_confidence(
+                      brief.confidence === "high" ? t.confidence_high
+                      : brief.confidence === "medium" ? t.confidence_medium
+                      : t.confidence_low
+                    )}
+                  </span>
+                )}
+              </div>
+              <p className="text-sm text-foreground/85 leading-relaxed">
+                {lang === "hu" ? brief.brief_hu : brief.brief_en}
+              </p>
+              {brief.evidence_count > 0 && (
+                <div className="flex flex-wrap gap-x-3 gap-y-1 text-[10px] text-indigo-400/50">
+                  <span>{t.brief_based_on(brief.evidence_count)}</span>
+                  {brief.sources_used.length > 0 && (
+                    <span>· {brief.sources_used.join(", ")}</span>
+                  )}
+                </div>
+              )}
+              <p className="text-[10px] text-indigo-400/40 border-t border-indigo-500/10 pt-2">
+                ⚠ {t.brief_disclaimer}
+              </p>
+            </div>
+          )}
 
           {/* Loading */}
           {loading && (
