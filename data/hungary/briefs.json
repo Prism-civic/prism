@@ -1,10 +1,3017 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T00:00:00Z",
+    "generated_at": "2026-03-22T10:13:12.210546+00:00",
     "model": "claude-sonnet-4-6",
     "observer": "BaraBonc-P52 (HU pilot observer)",
-    "total_briefs": 0,
-    "candidates_with_evidence": 0
+    "total_briefs": 197,
+    "candidates_with_evidence": 197
   },
-  "briefs": []
+  "briefs": [
+    {
+      "kpn_id": 5975194,
+      "name": "VÁRKONYI ZOLTÁN",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Várkonyi Zoltán is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Várkonyi Zoltán a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "9d6cca6e47a6"
+    },
+    {
+      "kpn_id": 306982,
+      "name": "NAGY ATTILA",
+      "party": "Mi Hazánk",
+      "brief_en": "Nagy Attila is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Attila a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "04c6a92e7218"
+    },
+    {
+      "kpn_id": 7497153,
+      "name": "FAZEKAS CSILLA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Fazekas Csilla is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (atlatszo.hu, hvg.hu, e-cegjegyzek.hu) returned 21 evidence items. Investigative press coverage was found across 3 source(s), including reports related to public procurement and/or related-party interests. Business registry data shows 20 company-related record(s) associated with this candidate.",
+      "brief_hu": "Fazekas Csilla a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, hvg.hu, e-cegjegyzek.hu) 21 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 3 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. A cégjegyzéki adatok 20 vállalati bejegyzést mutatnak a jelölttel összefüggésben.",
+      "confidence": "high",
+      "evidence_count": 21,
+      "sources_used": [
+        "atlatszo.hu",
+        "e-cegjegyzek.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a4798fcd510c"
+    },
+    {
+      "kpn_id": 6560338,
+      "name": "TANÁCS ZOLTÁN",
+      "party": "TISZA",
+      "brief_en": "Tanács Zoltán is a candidate for TISZA. Public records searches across monitored sources (atlatszo.hu, hvg.hu) returned 8 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Tanács Zoltán a(z) TISZA jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, hvg.hu) 8 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 8,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8b2d4f6c22b9"
+    },
+    {
+      "kpn_id": 4955608,
+      "name": "DR. FERENCZ ORSOLYA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Ferencz Orsolya is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu, e-cegjegyzek.hu) returned 18 evidence items. Business registry data shows 17 company-related record(s) associated with this candidate. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Dr. Ferencz Orsolya a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu, e-cegjegyzek.hu) 18 bizonyítékelemet azonosítottak. A cégjegyzéki adatok 17 vállalati bejegyzést mutatnak a jelölttel összefüggésben. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 18,
+      "sources_used": [
+        "parlament.hu",
+        "e-cegjegyzek.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "92204c80d734"
+    },
+    {
+      "kpn_id": 2371291,
+      "name": "SIMON GYÖRGY",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Simon György is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Public records searches across monitored sources (atlatszo.hu) returned 11 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Simon György a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 11 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 11,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f8979d5e408c"
+    },
+    {
+      "kpn_id": 284229,
+      "name": "STEINER ATTILA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Steiner Attila is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (atlatszo.hu, telex.hu, e-cegjegyzek.hu) returned 19 evidence items. Business registry data shows 19 company-related record(s) associated with this candidate.",
+      "brief_hu": "Steiner Attila a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, telex.hu, e-cegjegyzek.hu) 19 bizonyítékelemet azonosítottak. A cégjegyzéki adatok 19 vállalati bejegyzést mutatnak a jelölttel összefüggésben.",
+      "confidence": "high",
+      "evidence_count": 19,
+      "sources_used": [
+        "e-cegjegyzek.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1c675efda8ec"
+    },
+    {
+      "kpn_id": 4257604,
+      "name": "MAGYAR PÉTER",
+      "party": "TISZA",
+      "brief_en": "Magyar Péter is a candidate for TISZA. Public records searches across monitored sources (atlatszo.hu, telex.hu, hvg.hu) returned 19 evidence items. Investigative press coverage was found across 3 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Magyar Péter a(z) TISZA jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, telex.hu, hvg.hu) 19 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 3 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 19,
+      "sources_used": [
+        "atlatszo.hu",
+        "telex.hu",
+        "hvg.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "16bb6c1c841c"
+    },
+    {
+      "kpn_id": 8165481,
+      "name": "FÜLÖP ATTILA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Fülöp Attila is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu, telex.hu, e-cegjegyzek.hu) returned 22 evidence items. Investigative press coverage was found across 4 source(s), including reports related to public procurement and/or related-party interests. Business registry data shows 19 company-related record(s) associated with this candidate. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Fülöp Attila a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu, telex.hu, e-cegjegyzek.hu) 22 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 4 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. A cégjegyzéki adatok 19 vállalati bejegyzést mutatnak a jelölttel összefüggésben. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 22,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu",
+        "e-cegjegyzek.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8244e3cdc70f"
+    },
+    {
+      "kpn_id": 4600509,
+      "name": "KOVÁCS BALÁZS NORBERT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Kovács Balázs Norbert is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (atlatszo.hu, hvg.hu, e-cegjegyzek.hu) returned 20 evidence items. Business registry data shows 20 company-related record(s) associated with this candidate.",
+      "brief_hu": "Kovács Balázs Norbert a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, hvg.hu, e-cegjegyzek.hu) 20 bizonyítékelemet azonosítottak. A cégjegyzéki adatok 20 vállalati bejegyzést mutatnak a jelölttel összefüggésben.",
+      "confidence": "high",
+      "evidence_count": 20,
+      "sources_used": [
+        "e-cegjegyzek.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f86812f35abb"
+    },
+    {
+      "kpn_id": 4649602,
+      "name": "NAGY DÁVID",
+      "party": "MKKP",
+      "brief_en": "Nagy Dávid is a candidate for MKKP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Dávid a(z) MKKP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "fb4099b56675"
+    },
+    {
+      "kpn_id": 5432240,
+      "name": "DR. HADHÁZY ÁKOS",
+      "party": "Független jelölt",
+      "brief_en": "Dr. Hadházy Ákos is a candidate for Független jelölt. Public records searches across monitored sources (atlatszo.hu) returned 11 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Dr. Hadházy Ákos a(z) Független jelölt jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 11 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 11,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e493199a95c0"
+    },
+    {
+      "kpn_id": 1779607,
+      "name": "DR. KOMÁROMI ZOLTÁN",
+      "party": "DK",
+      "brief_en": "Dr. Komáromi Zoltán is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Komáromi Zoltán a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "d772bbc14a0d"
+    },
+    {
+      "kpn_id": 8244069,
+      "name": "RADICS BÉLA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Radics Béla is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Radics Béla a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1f40eb95f391"
+    },
+    {
+      "kpn_id": 3141282,
+      "name": "KLING OND",
+      "party": "MKKP",
+      "brief_en": "Kling Ond is a candidate for MKKP. Public records searches across monitored sources (atlatszo.hu) returned 5 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Kling Ond a(z) MKKP jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 5 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "cee5642346b9"
+    },
+    {
+      "kpn_id": 2763983,
+      "name": "ARATÓ GERGELY",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Arató Gergely (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Arató Gergely (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8901451ef2ae"
+    },
+    {
+      "kpn_id": 5465147,
+      "name": "KATONA TIBOR",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Katona Tibor is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Katona Tibor a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "743a304d7b07"
+    },
+    {
+      "kpn_id": 32618,
+      "name": "FEKETE GYÖRGY",
+      "party": "Mi Hazánk",
+      "brief_en": "Fekete György is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Fekete György a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f82aebf59fc5"
+    },
+    {
+      "kpn_id": 5766763,
+      "name": "KISS KORNÉL",
+      "party": "MKKP",
+      "brief_en": "Public record searches for Kiss Kornél (MKKP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Kiss Kornél (MKKP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "86c112df9aa5"
+    },
+    {
+      "kpn_id": 7656828,
+      "name": "KIRÁLY NÓRA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Király Nóra (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Király Nóra (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1a95ec63b095"
+    },
+    {
+      "kpn_id": 3518431,
+      "name": "VADAI ATTILA",
+      "party": "DK",
+      "brief_en": "Vadai Attila is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Vadai Attila a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e0c1b05ffc47"
+    },
+    {
+      "kpn_id": 309206,
+      "name": "NOVÁK ELŐD",
+      "party": "Mi Hazánk",
+      "brief_en": "Limited public records were found for Novák Előd (Mi Hazánk). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Novák Előd (Mi Hazánk) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "df97e2a5eac1"
+    },
+    {
+      "kpn_id": 6881910,
+      "name": "MOLNÁR GYULA",
+      "party": "DK",
+      "brief_en": "Molnár Gyula is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Molnár Gyula a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "35df511be7c8"
+    },
+    {
+      "kpn_id": 7367934,
+      "name": "NAGY RICHÁRD GYÖRGY",
+      "party": "DK",
+      "brief_en": "Public record searches for Nagy Richárd György (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Nagy Richárd György (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1cd472371377"
+    },
+    {
+      "kpn_id": 4813660,
+      "name": "BALOG CSABA",
+      "party": "Mi Hazánk",
+      "brief_en": "Balog Csaba is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Balog Csaba a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "7820ebceb2c1"
+    },
+    {
+      "kpn_id": 1682612,
+      "name": "VARJU LÁSZLÓ",
+      "party": "DK",
+      "brief_en": "Varju László is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Varju László a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1ec1577bdd52"
+    },
+    {
+      "kpn_id": 99686,
+      "name": "ZSIGMOND BARNA PÁL",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Zsigmond Barna Pál (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Zsigmond Barna Pál (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c42653404ee2"
+    },
+    {
+      "kpn_id": 8585846,
+      "name": "NAGY DÁVID",
+      "party": "MKKP",
+      "brief_en": "Nagy Dávid is a candidate for MKKP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Dávid a(z) MKKP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8e58193ec185"
+    },
+    {
+      "kpn_id": 658910,
+      "name": "MÜLLER ANNA",
+      "party": "TISZA",
+      "brief_en": "Müller Anna is a candidate for TISZA. Public records searches across monitored sources (atlatszo.hu, hvg.hu) returned 6 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Müller Anna a(z) TISZA jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, hvg.hu) 6 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 6,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2c17fa692331"
+    },
+    {
+      "kpn_id": 4752198,
+      "name": "BARKÓCZI BALÁZS",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Barkóczi Balázs (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Barkóczi Balázs (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f54fe6a76353"
+    },
+    {
+      "kpn_id": 145785,
+      "name": "KOCSIS-CAKE OLIVIO",
+      "party": "DK",
+      "brief_en": "Public record searches for Kocsis-cake Olivio (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Kocsis-cake Olivio (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "21ebf757eb30"
+    },
+    {
+      "kpn_id": 5963825,
+      "name": "SZANYI TIBOR",
+      "party": "Független jelölt",
+      "brief_en": "Szanyi Tibor is a candidate for Független jelölt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Szanyi Tibor a(z) Független jelölt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8005ee0ab7ea"
+    },
+    {
+      "kpn_id": 3962686,
+      "name": "SZATMÁRY KRISTÓF",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Szatmáry Kristóf (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Szatmáry Kristóf (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "fc0cfa093830"
+    },
+    {
+      "kpn_id": 6410374,
+      "name": "VAJDA ZOLTÁN",
+      "party": "Független jelölt",
+      "brief_en": "Vajda Zoltán is a candidate for Független jelölt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Vajda Zoltán a(z) Független jelölt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "78f3590f5ee9"
+    },
+    {
+      "kpn_id": 2248779,
+      "name": "GY. NÉMETH ERZSÉBET",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Gy. Németh Erzsébet (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Gy. Németh Erzsébet (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "0191561768f6"
+    },
+    {
+      "kpn_id": 2354967,
+      "name": "DUNAI MÓNIKA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dunai Mónika (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dunai Mónika (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e92abc68ff89"
+    },
+    {
+      "kpn_id": 8717501,
+      "name": "SZIN RICHÁRD",
+      "party": "MKKP",
+      "brief_en": "Szin Richárd is a candidate for MKKP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Szin Richárd a(z) MKKP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "cf3d6de407c3"
+    },
+    {
+      "kpn_id": 71317,
+      "name": "DR. HILLER ISTVÁN",
+      "party": "Független jelölt",
+      "brief_en": "Dr. Hiller István is a candidate for Független jelölt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Hiller István a(z) Független jelölt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "3dc2fde5093f"
+    },
+    {
+      "kpn_id": 7819049,
+      "name": "SZÉKELY SÁNDOR",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Limited public records were found for Székely Sándor (A SZOLIDARITÁS PÁRTJA-Munkáspárt). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Székely Sándor (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "05500a953ed4"
+    },
+    {
+      "kpn_id": 1476351,
+      "name": "FÖLDESI GYULA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Földesi Gyula (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Földesi Gyula (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f18b3512683a"
+    },
+    {
+      "kpn_id": 6316634,
+      "name": "AUTH ISTVÁN",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Auth István (DK). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Auth István (DK) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8673a4db2bba"
+    },
+    {
+      "kpn_id": 3905334,
+      "name": "DR. SÁNDOR ZOLTÁN",
+      "party": "Mi Hazánk",
+      "brief_en": "Dr. Sándor Zoltán is a candidate for Mi Hazánk. Public records searches across monitored sources (atlatszo.hu) returned 8 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Dr. Sándor Zoltán a(z) Mi Hazánk jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 8 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 8,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "65bd4b4016d8"
+    },
+    {
+      "kpn_id": 7122733,
+      "name": "DR. KOVÁCS ÁRON",
+      "party": "TISZA",
+      "brief_en": "Public record searches for Dr. Kovács Áron (TISZA) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Kovács Áron (TISZA) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "fff716612559"
+    },
+    {
+      "kpn_id": 4357744,
+      "name": "DR. HOPPÁL PÉTER",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Hoppál Péter is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu, telex.hu) returned 5 evidence items. Investigative press coverage was found across 3 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Dr. Hoppál Péter a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu, telex.hu) 5 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 3 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b79a361fcbd3"
+    },
+    {
+      "kpn_id": 8067372,
+      "name": "DR. HARGITAI JÁNOS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Hargitai János (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Hargitai János (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8d1329d23d14"
+    },
+    {
+      "kpn_id": 745536,
+      "name": "NAGY CSABA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Nagy Csaba is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 5 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Nagy Csaba a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 5 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "67baaedea9e6"
+    },
+    {
+      "kpn_id": 695603,
+      "name": "DR. SALACZ LÁSZLÓ",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Salacz László (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Salacz László (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "4bd2b08ab7f4"
+    },
+    {
+      "kpn_id": 2231216,
+      "name": "FONT SÁNDOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Font Sándor is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Font Sándor a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5d7051935082"
+    },
+    {
+      "kpn_id": 3744823,
+      "name": "SARKADI PÁL",
+      "party": "DK",
+      "brief_en": "Public record searches for Sarkadi Pál (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Sarkadi Pál (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "7d75c7868bc6"
+    },
+    {
+      "kpn_id": 3619279,
+      "name": "DR. KOVÁCS GYULA",
+      "party": "TISZA",
+      "brief_en": "Public record searches for Dr. Kovács Gyula (TISZA) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Kovács Gyula (TISZA) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1be1fb9741fb"
+    },
+    {
+      "kpn_id": 239163,
+      "name": "NAGY IMRE",
+      "party": "Független jelölt",
+      "brief_en": "Nagy Imre is a candidate for Független jelölt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Imre a(z) Független jelölt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "4681a58fe0bf"
+    },
+    {
+      "kpn_id": 8296511,
+      "name": "LEZSÁK SÁNDOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Lezsák Sándor is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 6 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Lezsák Sándor a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 6 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 6,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "3ec0e6178eca"
+    },
+    {
+      "kpn_id": 4830994,
+      "name": "BÁNYAI GÁBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Bányai Gábor (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Bányai Gábor (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "ed42eb46b6f0"
+    },
+    {
+      "kpn_id": 1596322,
+      "name": "NÉMETH SZILVESZTER",
+      "party": "Független jelölt",
+      "brief_en": "Public record searches for Németh Szilveszter (Független jelölt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Németh Szilveszter (Független jelölt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "de17ab712501"
+    },
+    {
+      "kpn_id": 8820687,
+      "name": "NAGY SZABOLCS",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Nagy Szabolcs (DK). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Nagy Szabolcs (DK) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2e32f874ad14"
+    },
+    {
+      "kpn_id": 4003520,
+      "name": "SZABADI ISTVÁN",
+      "party": "Mi Hazánk",
+      "brief_en": "Limited public records were found for Szabadi István (Mi Hazánk). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Szabadi István (Mi Hazánk) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5d3214aa2fc1"
+    },
+    {
+      "kpn_id": 5080376,
+      "name": "NAGY GUSZTÁV",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Limited public records were found for Nagy Gusztáv (A SZOLIDARITÁS PÁRTJA-Munkáspárt). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Nagy Gusztáv (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "0d4557ed0d19"
+    },
+    {
+      "kpn_id": 4036630,
+      "name": "SZÉKELY DÁNIEL",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Székely Dániel (DK). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Székely Dániel (DK) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "59e082fad52e"
+    },
+    {
+      "kpn_id": 3019334,
+      "name": "ZSIGÓ RÓBERT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Zsigó Róbert (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Zsigó Róbert (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "362788e50415"
+    },
+    {
+      "kpn_id": 3608174,
+      "name": "DR. FÜLÖP ZOLTÁN",
+      "party": "DK",
+      "brief_en": "Dr. Fülöp Zoltán is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Fülöp Zoltán a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "61915133a724"
+    },
+    {
+      "kpn_id": 2169411,
+      "name": "GERGELY RÓBERT",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Gergely Róbert (DK). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Gergely Róbert (DK) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "09cbbbea4746"
+    },
+    {
+      "kpn_id": 4368272,
+      "name": "DANKÓ BÉLA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dankó Béla (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dankó Béla (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b166f939ee4c"
+    },
+    {
+      "kpn_id": 4782137,
+      "name": "MAGYAR GÁBOR",
+      "party": "MKKP",
+      "brief_en": "Magyar Gábor is a candidate for MKKP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Magyar Gábor a(z) MKKP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "781cb6b8f5b5"
+    },
+    {
+      "kpn_id": 5570774,
+      "name": "SIMONKA GYÖRGY",
+      "party": "Független jelölt",
+      "brief_en": "Simonka György is a candidate for Független jelölt. Public records searches across monitored sources (atlatszo.hu) returned 11 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Simonka György a(z) Független jelölt jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 11 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 11,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "6fcede6a174b"
+    },
+    {
+      "kpn_id": 4888792,
+      "name": "ERDŐS NORBERT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Erdős Norbert (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Erdős Norbert (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c4ac93e1848f"
+    },
+    {
+      "kpn_id": 7689650,
+      "name": "BÉKÉSI SÁNDOR",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Békési Sándor is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Békési Sándor a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "dcc098fd7159"
+    },
+    {
+      "kpn_id": 5388981,
+      "name": "CSÖBÖR KATALIN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Csöbör Katalin (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Csöbör Katalin (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f9894afca61b"
+    },
+    {
+      "kpn_id": 3995293,
+      "name": "KEREKES EDIT",
+      "party": "Jobbik",
+      "brief_en": "Kerekes Edit is a candidate for Jobbik. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Kerekes Edit a(z) Jobbik jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1d38f203348f"
+    },
+    {
+      "kpn_id": 4198655,
+      "name": "JAKAB PÉTER",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Jakab Péter (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Jakab Péter (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "6321bcd8c8f9"
+    },
+    {
+      "kpn_id": 1497217,
+      "name": "SZOLNOKI GÁBOR",
+      "party": "MKKP",
+      "brief_en": "Limited public records were found for Szolnoki Gábor (MKKP). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Szolnoki Gábor (MKKP) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "ba9117859997"
+    },
+    {
+      "kpn_id": 806322,
+      "name": "DOHÁNY ANDRÁS",
+      "party": "Független jelölt",
+      "brief_en": "Public record searches for Dohány András (Független jelölt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dohány András (Független jelölt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b9b1bab46edb"
+    },
+    {
+      "kpn_id": 1784118,
+      "name": "MÁTÉ SÁNDOR",
+      "party": "Középpárt",
+      "brief_en": "Máté Sándor is a candidate for Középpárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Máté Sándor a(z) Középpárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2d0869610d21"
+    },
+    {
+      "kpn_id": 2725386,
+      "name": "DR. CSUZDA GÁBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Csuzda Gábor (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Csuzda Gábor (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "d38feeb43893"
+    },
+    {
+      "kpn_id": 4028259,
+      "name": "DEMETER ZOLTÁN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Demeter Zoltán is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Demeter Zoltán a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "aebb6e8c548f"
+    },
+    {
+      "kpn_id": 139309,
+      "name": "VARGA GERGŐ",
+      "party": "DK",
+      "brief_en": "Public record searches for Varga Gergő (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Varga Gergő (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "11ac4c89167a"
+    },
+    {
+      "kpn_id": 6768164,
+      "name": "DR. KONCZ ZSÓFIA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Dr. Koncz Zsófia (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Koncz Zsófia (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a2c35e4b4e3a"
+    },
+    {
+      "kpn_id": 8117243,
+      "name": "DR. BIHARI ZOLTÁN",
+      "party": "TISZA",
+      "brief_en": "Dr. Bihari Zoltán is a candidate for TISZA. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Bihari Zoltán a(z) TISZA jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "bba4ba5a2899"
+    },
+    {
+      "kpn_id": 7331426,
+      "name": "TÁLLAI ANDRÁS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Tállai András is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Tállai András a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "26261dfe94f0"
+    },
+    {
+      "kpn_id": 5978439,
+      "name": "DR. TIMÁR TAMÁS",
+      "party": "Mi Hazánk",
+      "brief_en": "Public record searches for Dr. Timár Tamás (Mi Hazánk) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Timár Tamás (Mi Hazánk) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "12563cdb823b"
+    },
+    {
+      "kpn_id": 7931647,
+      "name": "TOROCZKAI LÁSZLÓ",
+      "party": "Mi Hazánk",
+      "brief_en": "Toroczkai László is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Toroczkai László a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "30b73d28e4c7"
+    },
+    {
+      "kpn_id": 6975013,
+      "name": "MIHÁLFFY BÉLA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Mihálffy Béla (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Mihálffy Béla (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "27b7930d9fcb"
+    },
+    {
+      "kpn_id": 625182,
+      "name": "SZATMÁRI BÉLA",
+      "party": "Jobbik",
+      "brief_en": "Public record searches for Szatmári Béla (Jobbik) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Szatmári Béla (Jobbik) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "7338d713b3fd"
+    },
+    {
+      "kpn_id": 5231720,
+      "name": "VARGA FERENC",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Varga Ferenc (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Varga Ferenc (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "4c644634dda8"
+    },
+    {
+      "kpn_id": 1801507,
+      "name": "VARGHA TAMÁS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Vargha Tamás (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Vargha Tamás (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1ebffc9f398d"
+    },
+    {
+      "kpn_id": 1758171,
+      "name": "FÖLDI JUDIT",
+      "party": "DK",
+      "brief_en": "Földi Judit is a candidate for DK. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 8 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Földi Judit a(z) DK jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 8 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 8,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "57c2c32648da"
+    },
+    {
+      "kpn_id": 1843428,
+      "name": "TÖRŐ GÁBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Törő Gábor is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Törő Gábor a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "60f6ebd23d9c"
+    },
+    {
+      "kpn_id": 4489749,
+      "name": "TESSELY ZOLTÁN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Tessely Zoltán (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Tessely Zoltán (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5cdeaaf8e4a5"
+    },
+    {
+      "kpn_id": 2276813,
+      "name": "KERTÉSZ ÉVA",
+      "party": "DK",
+      "brief_en": "Kertész Éva is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Kertész Éva a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f6b444f4aa14"
+    },
+    {
+      "kpn_id": 768235,
+      "name": "DR. MÉSZÁROS LAJOS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Mészáros Lajos is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Mészáros Lajos a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "24c31bdb9a54"
+    },
+    {
+      "kpn_id": 2732982,
+      "name": "SZABÓ ZSOLT",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Szabó Zsolt (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Szabó Zsolt (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "9ae8995d2a56"
+    },
+    {
+      "kpn_id": 6835627,
+      "name": "NAGY ERVIN",
+      "party": "TISZA",
+      "brief_en": "Limited public records were found for Nagy Ervin (TISZA). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Nagy Ervin (TISZA) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "ed7d90be15f4"
+    },
+    {
+      "kpn_id": 7737759,
+      "name": "VARGA GÁBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Varga Gábor is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Varga Gábor a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "25db46c315c5"
+    },
+    {
+      "kpn_id": 6105046,
+      "name": "PÓCS MIKLÓS",
+      "party": "Mi Hazánk",
+      "brief_en": "Pócs Miklós is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Pócs Miklós a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a7de3809d0d6"
+    },
+    {
+      "kpn_id": 6267798,
+      "name": "SZILÁGYI JÓZSEF",
+      "party": "Mi Hazánk",
+      "brief_en": "Public record searches for Szilágyi József (Mi Hazánk) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Szilágyi József (Mi Hazánk) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8186ac9310ff"
+    },
+    {
+      "kpn_id": 6939384,
+      "name": "GYOPÁROS ALPÁR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Gyopáros Alpár (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Gyopáros Alpár (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "350ea579794d"
+    },
+    {
+      "kpn_id": 5797822,
+      "name": "NAGY FERENC",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Nagy Ferenc is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Ferenc a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2b5f22bf0295"
+    },
+    {
+      "kpn_id": 3619231,
+      "name": "DR. BARCZA ATTILA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Barcza Attila (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Barcza Attila (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "521a47a3f4d0"
+    },
+    {
+      "kpn_id": 3482273,
+      "name": "CSOMA KRISZTIÁN",
+      "party": "Mi Hazánk",
+      "brief_en": "Csoma Krisztián is a candidate for Mi Hazánk. Public records searches across monitored sources (atlatszo.hu) returned 5 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Csoma Krisztián a(z) Mi Hazánk jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 5 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5be3ff34e607"
+    },
+    {
+      "kpn_id": 2737621,
+      "name": "DR. NAGY ISTVÁN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Nagy István is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 8 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Dr. Nagy István a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 8 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 8,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b5692bf6a5b3"
+    },
+    {
+      "kpn_id": 1023089,
+      "name": "VARGA ZOLTÁN",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Varga Zoltán (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Varga Zoltán (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "4ef176afb338"
+    },
+    {
+      "kpn_id": 6363988,
+      "name": "NAGY FERENC",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Nagy Ferenc is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Ferenc a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "d32dc9b1740d"
+    },
+    {
+      "kpn_id": 7624103,
+      "name": "VÖRÖS JÁNOS",
+      "party": "Mi Hazánk",
+      "brief_en": "Vörös János is a candidate for Mi Hazánk. Public records searches across monitored sources (atlatszo.hu) returned 6 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Vörös János a(z) Mi Hazánk jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 6 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 6,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "99daccaad040"
+    },
+    {
+      "kpn_id": 4033789,
+      "name": "VASZKÓ IMRE",
+      "party": "DK",
+      "brief_en": "Public record searches for Vaszkó Imre (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Vaszkó Imre (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "608008db02d8"
+    },
+    {
+      "kpn_id": 6175889,
+      "name": "ANTAL SZABOLCS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Antal Szabolcs is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Antal Szabolcs a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c99c015cd07f"
+    },
+    {
+      "kpn_id": 5415796,
+      "name": "HUNYADI MÁTÉ",
+      "party": "Mi Hazánk",
+      "brief_en": "Limited public records were found for Hunyadi Máté (Mi Hazánk). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Hunyadi Máté (Mi Hazánk) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "fd1ec69171a0"
+    },
+    {
+      "kpn_id": 1277081,
+      "name": "DR. VITÁNYI ISTVÁN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Dr. Vitányi István (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Vitányi István (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "9a8223bef91f"
+    },
+    {
+      "kpn_id": 5045489,
+      "name": "HORVÁT IMRÉNÉ",
+      "party": "Középpárt",
+      "brief_en": "Public record searches for Horvát Imréné (Középpárt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Horvát Imréné (Középpárt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5c76584791fd"
+    },
+    {
+      "kpn_id": 2598425,
+      "name": "BODÓ SÁNDOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Bodó Sándor is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Bodó Sándor a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "0bc48048fed9"
+    },
+    {
+      "kpn_id": 5318256,
+      "name": "DR. RUSZIN-SZENDI ROMULUSZ",
+      "party": "TISZA",
+      "brief_en": "Dr. Ruszin-szendi Romulusz is a candidate for TISZA. Public records searches across monitored sources (atlatszo.hu) returned 6 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Dr. Ruszin-szendi Romulusz a(z) TISZA jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 6 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 6,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f5670ed813d1"
+    },
+    {
+      "kpn_id": 1831140,
+      "name": "PAPP ZSOLT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Papp Zsolt is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Papp Zsolt a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "94b84d76ee54"
+    },
+    {
+      "kpn_id": 3515612,
+      "name": "DR. PAJTÓK GÁBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Pajtók Gábor (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Pajtók Gábor (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f51b40b53c06"
+    },
+    {
+      "kpn_id": 5895224,
+      "name": "DR. PÁPAI ÁKOS",
+      "party": "Mi Hazánk",
+      "brief_en": "Limited public records were found for Dr. Pápai Ákos (Mi Hazánk). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Pápai Ákos (Mi Hazánk) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "9588dd61dcae"
+    },
+    {
+      "kpn_id": 3593294,
+      "name": "GYŐRFFY PÉTER",
+      "party": "MKKP",
+      "brief_en": "Public record searches for Győrffy Péter (MKKP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Győrffy Péter (MKKP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f69049f21fe9"
+    },
+    {
+      "kpn_id": 7145408,
+      "name": "HORVÁTH LÁSZLÓ",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Horváth László is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Horváth László a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8e0a9e669f1c"
+    },
+    {
+      "kpn_id": 3216193,
+      "name": "NAGY ATTILA TIBOR",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Limited public records were found for Nagy Attila Tibor (A SZOLIDARITÁS PÁRTJA-Munkáspárt). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Nagy Attila Tibor (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5a7d3531ab6f"
+    },
+    {
+      "kpn_id": 1707411,
+      "name": "NAGY TIBOR BALÁZS",
+      "party": "DK",
+      "brief_en": "Nagy Tibor Balázs is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Tibor Balázs a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f133e9516414"
+    },
+    {
+      "kpn_id": 4319209,
+      "name": "SZABÓ ZSOLT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Szabó Zsolt (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Szabó Zsolt (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "958d68f33bff"
+    },
+    {
+      "kpn_id": 324308,
+      "name": "ROST ANDREA",
+      "party": "TISZA",
+      "brief_en": "Rost Andrea is a candidate for TISZA. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Rost Andrea a(z) TISZA jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c228b33e3d4e"
+    },
+    {
+      "kpn_id": 410667,
+      "name": "URBÁN IMRE",
+      "party": "DK",
+      "brief_en": "Urbán Imre is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Urbán Imre a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e39e2b6960af"
+    },
+    {
+      "kpn_id": 3434210,
+      "name": "PINTÉR FERENC",
+      "party": "Független jelölt",
+      "brief_en": "Pintér Ferenc is a candidate for Független jelölt. Public records searches across monitored sources (atlatszo.hu) returned 9 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Pintér Ferenc a(z) Független jelölt jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 9 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 9,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "d84cd2e0579f"
+    },
+    {
+      "kpn_id": 8079839,
+      "name": "PÓCS JÁNOS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Pócs János (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Pócs János (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e6e37924ab34"
+    },
+    {
+      "kpn_id": 3736011,
+      "name": "F. KOVÁCS SÁNDOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for F. Kovács Sándor (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre F. Kovács Sándor (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "ebc456ca6729"
+    },
+    {
+      "kpn_id": 2015558,
+      "name": "HERCZEG ZSOLT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Herczeg Zsolt (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Herczeg Zsolt (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "dbb93b65e1fd"
+    },
+    {
+      "kpn_id": 9510959,
+      "name": "SZEGEDI JÁNOS ATTILA",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Szegedi János Attila (DK). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Szegedi János Attila (DK) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "36b082cdad12"
+    },
+    {
+      "kpn_id": 5398045,
+      "name": "DR. VADAI ÁGNES",
+      "party": "DK",
+      "brief_en": "Public record searches for Dr. Vadai Ágnes (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Vadai Ágnes (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "high",
+      "evidence_count": 12,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b5a61c5a8e6c"
+    },
+    {
+      "kpn_id": 6318276,
+      "name": "BENCSIK JÁNOS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Bencsik János (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Bencsik János (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "59334a916caf"
+    },
+    {
+      "kpn_id": 5439635,
+      "name": "ERŐS GÁBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Erős Gábor is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 6 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Erős Gábor a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 6 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 6,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "4544383f4edc"
+    },
+    {
+      "kpn_id": 5651415,
+      "name": "CZUNYINÉ DR. BERTALAN JUDIT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Czunyiné Dr. Bertalan Judit (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Czunyiné Dr. Bertalan Judit (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5d1cc6edaa4c"
+    },
+    {
+      "kpn_id": 5480683,
+      "name": "KRIZS NORBERT",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Public record searches for Krizs Norbert (A SZOLIDARITÁS PÁRTJA-Munkáspárt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Krizs Norbert (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a985dbd4ca1c"
+    },
+    {
+      "kpn_id": 8727703,
+      "name": "BAJNOK GYULA",
+      "party": "Mi Hazánk",
+      "brief_en": "Bajnok Gyula is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Bajnok Gyula a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "cf4fa6d67bc6"
+    },
+    {
+      "kpn_id": 8109006,
+      "name": "BECSÓ ZSOLT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Becsó Zsolt is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 5 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Becsó Zsolt a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 5 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "6cada6a5cd14"
+    },
+    {
+      "kpn_id": 4956904,
+      "name": "GULYÁS NORBERT",
+      "party": "DK",
+      "brief_en": "Public record searches for Gulyás Norbert (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Gulyás Norbert (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "3688961350fb"
+    },
+    {
+      "kpn_id": 4020737,
+      "name": "BALLA MIHÁLY",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Balla Mihály (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Balla Mihály (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8f093f56b939"
+    },
+    {
+      "kpn_id": 2574385,
+      "name": "DÓCS DÁVID",
+      "party": "Mi Hazánk",
+      "brief_en": "Limited public records were found for Dócs Dávid (Mi Hazánk). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dócs Dávid (Mi Hazánk) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "44525d326b45"
+    },
+    {
+      "kpn_id": 7446805,
+      "name": "KARDOSNÉ GYURKÓ KATALIN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Kardosné Gyurkó Katalin (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Kardosné Gyurkó Katalin (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "896569b4293f"
+    },
+    {
+      "kpn_id": 4202766,
+      "name": "GYÖRGY JÓZSEF",
+      "party": "Mi Hazánk",
+      "brief_en": "György József is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "György József a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "adb37400b541"
+    },
+    {
+      "kpn_id": 2104047,
+      "name": "MENCZER TAMÁS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Menczer Tamás (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Menczer Tamás (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "aa82a7f5849c"
+    },
+    {
+      "kpn_id": 7103653,
+      "name": "SIMON JÓZSEF FERENC",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Public record searches for Simon József Ferenc (A SZOLIDARITÁS PÁRTJA-Munkáspárt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Simon József Ferenc (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "3d39524f125c"
+    },
+    {
+      "kpn_id": 3924566,
+      "name": "KÁLMÁN OLGA",
+      "party": "DK",
+      "brief_en": "Kálmán Olga is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Kálmán Olga a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c3b157fb9dfd"
+    },
+    {
+      "kpn_id": 8217490,
+      "name": "DR. VITÁLYOS ESZTER",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Vitályos Eszter is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Vitályos Eszter a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e58b0fcc32cf"
+    },
+    {
+      "kpn_id": 3404465,
+      "name": "RÓNAI SÁNDOR",
+      "party": "DK",
+      "brief_en": "Limited public records were found for Rónai Sándor (DK). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Rónai Sándor (DK) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "865674624cc7"
+    },
+    {
+      "kpn_id": 4399179,
+      "name": "DR. BOGNÁR LÁSZLÓ",
+      "party": "Mi Hazánk",
+      "brief_en": "Public record searches for Dr. Bognár László (Mi Hazánk) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Bognár László (Mi Hazánk) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2f04ff512ced"
+    },
+    {
+      "kpn_id": 2469481,
+      "name": "TUZSON BENCE",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Tuzson Bence is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 6 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Tuzson Bence a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 6 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 6,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c13fb96d229f"
+    },
+    {
+      "kpn_id": 4817921,
+      "name": "LÁSZLÓ ENDRE MÁRTON",
+      "party": "TISZA",
+      "brief_en": "Limited public records were found for László Endre Márton (TISZA). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre László Endre Márton (TISZA) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "718b8a7a380a"
+    },
+    {
+      "kpn_id": 9032007,
+      "name": "OROSZ PATRIK",
+      "party": "Mi Hazánk",
+      "brief_en": "Orosz Patrik is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Orosz Patrik a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "45dce4a16349"
+    },
+    {
+      "kpn_id": 2653571,
+      "name": "NEMES GÁBOR",
+      "party": "DK",
+      "brief_en": "Public record searches for Nemes Gábor (DK) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Nemes Gábor (DK) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e4a81a001ce2"
+    },
+    {
+      "kpn_id": 632003,
+      "name": "DR. SZŰCS LAJOS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Dr. Szűcs Lajos (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Szűcs Lajos (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "53604ad47abb"
+    },
+    {
+      "kpn_id": 3535320,
+      "name": "SÁNDOR ISTVÁN",
+      "party": "NÉP",
+      "brief_en": "Sándor István is a candidate for NÉP. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Sándor István a(z) NÉP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "5493866db44d"
+    },
+    {
+      "kpn_id": 5902918,
+      "name": "NAGY FERENC",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Nagy Ferenc is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Ferenc a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "1daced396b83"
+    },
+    {
+      "kpn_id": 1829289,
+      "name": "BÓNA ZOLTÁN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Bóna Zoltán (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Bóna Zoltán (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "94e00cd64319"
+    },
+    {
+      "kpn_id": 5792895,
+      "name": "FODOR LAJOS",
+      "party": "Jobbik",
+      "brief_en": "Limited public records were found for Fodor Lajos (Jobbik). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Fodor Lajos (Jobbik) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "04517b65012b"
+    },
+    {
+      "kpn_id": 1140140,
+      "name": "RÉTVÁRI BENCE",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Rétvári Bence is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 10 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Rétvári Bence a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 10 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 10,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f97effb7199d"
+    },
+    {
+      "kpn_id": 4402590,
+      "name": "POGÁCSÁS TIBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Pogácsás Tibor (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Pogácsás Tibor (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "7d8914e1baad"
+    },
+    {
+      "kpn_id": 4386064,
+      "name": "POLGÁR GYÖRGY",
+      "party": "TISZA",
+      "brief_en": "Polgár György is a candidate for TISZA. Public records searches across monitored sources (atlatszo.hu) returned 7 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Polgár György a(z) TISZA jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 7 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 7,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "fb8f29630ed0"
+    },
+    {
+      "kpn_id": 9141770,
+      "name": "VINCZE MIKLÓS",
+      "party": "Jobbik",
+      "brief_en": "Public record searches for Vincze Miklós (Jobbik) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Vincze Miklós (Jobbik) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e6673cde3dc8"
+    },
+    {
+      "kpn_id": 747478,
+      "name": "LÁSZLÓ ATTILA",
+      "party": "Mi Hazánk",
+      "brief_en": "László Attila is a candidate for Mi Hazánk. Public records searches across monitored sources (atlatszo.hu) returned 5 evidence items. Investigative press coverage was found across 1 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "László Attila a(z) Mi Hazánk jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu) 5 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 1 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 5,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "72cf2047dde1"
+    },
+    {
+      "kpn_id": 987566,
+      "name": "FÖLDI LÁSZLÓ",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Földi László is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu, hvg.hu) returned 11 evidence items. Investigative press coverage was found across 3 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Földi László a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu, hvg.hu) 11 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 3 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 11,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu",
+        "hvg.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a9f5b7020a23"
+    },
+    {
+      "kpn_id": 3355458,
+      "name": "GELENCSÉR ATTILA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Gelencsér Attila is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Gelencsér Attila a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "89dad9c06069"
+    },
+    {
+      "kpn_id": 3869748,
+      "name": "MÓRING JÓZSEF ATTILA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Móring József Attila (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Móring József Attila (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "cb590945c60d"
+    },
+    {
+      "kpn_id": 2153880,
+      "name": "WITZMANN MIHÁLY",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Witzmann Mihály (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Witzmann Mihály (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "888c3b1f3800"
+    },
+    {
+      "kpn_id": 537965,
+      "name": "GYARMATI MIHÁLY",
+      "party": "DK",
+      "brief_en": "Gyarmati Mihály is a candidate for DK. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Gyarmati Mihály a(z) DK jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "40b416bda394"
+    },
+    {
+      "kpn_id": 2925273,
+      "name": "DR. VINNAI GYŐZŐ",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Vinnai Győző (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Vinnai Győző (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "cf5d848ac50b"
+    },
+    {
+      "kpn_id": 6642509,
+      "name": "DR. SESZTÁK MIKLÓS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Seszták Miklós is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 11 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Dr. Seszták Miklós a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 11 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 11,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "018d3d4e40dc"
+    },
+    {
+      "kpn_id": 4168621,
+      "name": "DICSŐ VIKTÓRIA",
+      "party": "TISZA",
+      "brief_en": "Limited public records were found for Dicső Viktória (TISZA). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dicső Viktória (TISZA) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "4e21e29b3582"
+    },
+    {
+      "kpn_id": 4195493,
+      "name": "VASS SZILVIA",
+      "party": "NÉP",
+      "brief_en": "Limited public records were found for Vass Szilvia (NÉP). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Vass Szilvia (NÉP) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "89cd0d887fe4"
+    },
+    {
+      "kpn_id": 3308539,
+      "name": "DR. TILKI ATTILA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Tilki Attila (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Tilki Attila (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2f488d5ab109"
+    },
+    {
+      "kpn_id": 2753828,
+      "name": "DEMETER KRISZTIÁN",
+      "party": "Középpárt",
+      "brief_en": "Limited public records were found for Demeter Krisztián (Középpárt). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Demeter Krisztián (Középpárt) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "33800ae85a6f"
+    },
+    {
+      "kpn_id": 2918504,
+      "name": "NAGY JÓZSEF LÁSZLÓ",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Nagy József László is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy József László a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b8b44e367c13"
+    },
+    {
+      "kpn_id": 4260207,
+      "name": "HORVÁTH ANTAL",
+      "party": "Középpárt",
+      "brief_en": "Limited public records were found for Horváth Antal (Középpárt). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Horváth Antal (Középpárt) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "3be2bc518c93"
+    },
+    {
+      "kpn_id": 3657506,
+      "name": "KOVÁCS SÁNDOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Kovács Sándor is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Kovács Sándor a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "d85ce265e2dc"
+    },
+    {
+      "kpn_id": 8050715,
+      "name": "DR. APÁTI ISTVÁN",
+      "party": "Mi Hazánk",
+      "brief_en": "Dr. Apáti István is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Apáti István a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "17d602b5c1f0"
+    },
+    {
+      "kpn_id": 2246791,
+      "name": "DR. SIMON MIKLÓS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Dr. Simon Miklós (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. A parliamentary profile was identified for this candidate. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Dr. Simon Miklós (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. A jelöltnek parlamenti profilja azonosítható. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "0eb796fcb27b"
+    },
+    {
+      "kpn_id": 2593398,
+      "name": "HORVÁTH ISTVÁN",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Horváth István is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 3 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Horváth István a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 3 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 3,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a0d90413f331"
+    },
+    {
+      "kpn_id": 3922326,
+      "name": "NAGY TAMÁS",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Nagy Tamás is a candidate for A SZOLIDARITÁS PÁRTJA-Munkáspárt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Tamás a(z) A SZOLIDARITÁS PÁRTJA-Munkáspárt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "079e162f4ab4"
+    },
+    {
+      "kpn_id": 2669560,
+      "name": "KECSKEMÉTI ISTVÁN",
+      "party": "Jobbik",
+      "brief_en": "Limited public records were found for Kecskeméti István (Jobbik). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Kecskeméti István (Jobbik) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "06ce23a64de3"
+    },
+    {
+      "kpn_id": 3562265,
+      "name": "DR. SZIJJÁRTÓ GÁBOR",
+      "party": "TISZA",
+      "brief_en": "Dr. Szijjártó Gábor is a candidate for TISZA. Public records searches across monitored sources (atlatszo.hu, telex.hu) returned 8 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Dr. Szijjártó Gábor a(z) TISZA jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, telex.hu) 8 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 8,
+      "sources_used": [
+        "atlatszo.hu",
+        "telex.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "962743dc202e"
+    },
+    {
+      "kpn_id": 2621953,
+      "name": "DÚRÓ DÓRA",
+      "party": "Mi Hazánk",
+      "brief_en": "Limited public records were found for Dúró Dóra (Mi Hazánk). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dúró Dóra (Mi Hazánk) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "f67cd1e8fae7"
+    },
+    {
+      "kpn_id": 2407326,
+      "name": "DR. CSIBI KRISZTINA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Csibi Krisztina (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Csibi Krisztina (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "602d83e39143"
+    },
+    {
+      "kpn_id": 5011246,
+      "name": "SÜLI JÁNOS",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Süli János is a candidate for FIDESZ-KDNP. Public records searches across monitored sources (parlament.hu, atlatszo.hu) returned 7 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests. A parliamentary profile was identified, suggesting prior or current legislative experience.",
+      "brief_hu": "Süli János a(z) FIDESZ-KDNP jelöltje. A nyilvános adatbázis-keresések (parlament.hu, atlatszo.hu) 7 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások. Parlamenti profil azonosítható, ami korábbi vagy jelenlegi törvényhozási tapasztalatra utal.",
+      "confidence": "high",
+      "evidence_count": 7,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "474f29207c89"
+    },
+    {
+      "kpn_id": 3379123,
+      "name": "DR. CZEGLÉDY CSABA",
+      "party": "Független jelölt",
+      "brief_en": "Dr. Czeglédy Csaba is a candidate for Független jelölt. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Czeglédy Csaba a(z) Független jelölt jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "145b9b372f41"
+    },
+    {
+      "kpn_id": 1024122,
+      "name": "ÁGH PÉTER",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Ágh Péter (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Ágh Péter (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e18f45fa02c7"
+    },
+    {
+      "kpn_id": 922353,
+      "name": "MAGYAR PÉTER",
+      "party": "Független jelölt",
+      "brief_en": "Magyar Péter is a candidate for Független jelölt. Public records searches across monitored sources (atlatszo.hu, telex.hu) returned 12 evidence items. Investigative press coverage was found across 2 source(s), including reports related to public procurement and/or related-party interests.",
+      "brief_hu": "Magyar Péter a(z) Független jelölt jelöltje. A nyilvános adatbázis-keresések (atlatszo.hu, telex.hu) 12 bizonyítékelemet azonosítottak. Tényfeltáró sajtóanyag azonosítható 2 forrásban, köztük közbeszerzési és/vagy kapcsolt érdekeltségekre vonatkozó tudósítások.",
+      "confidence": "high",
+      "evidence_count": 12,
+      "sources_used": [
+        "atlatszo.hu",
+        "telex.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "446bd1650b39"
+    },
+    {
+      "kpn_id": 4235316,
+      "name": "DALA FERENC",
+      "party": "Mi Hazánk",
+      "brief_en": "Dala Ferenc is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dala Ferenc a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "d2786a63da85"
+    },
+    {
+      "kpn_id": 5972096,
+      "name": "DEÁK LAJOS",
+      "party": "Jobbik",
+      "brief_en": "Public record searches for Deák Lajos (Jobbik) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Deák Lajos (Jobbik) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "7f6f46f3fd91"
+    },
+    {
+      "kpn_id": 609437,
+      "name": "OVÁDI PÉTER",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Ovádi Péter (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Ovádi Péter (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c4798cdc5092"
+    },
+    {
+      "kpn_id": 377169,
+      "name": "DR. LÁSZLÓ PÉTER",
+      "party": "Mi Hazánk",
+      "brief_en": "Dr. László Péter is a candidate for Mi Hazánk. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. László Péter a(z) Mi Hazánk jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "ee3c67d52de7"
+    },
+    {
+      "kpn_id": 4617973,
+      "name": "DR. HEGEDŰS BARBARA",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Dr. Hegedűs Barbara (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Hegedűs Barbara (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "09a9078e1827"
+    },
+    {
+      "kpn_id": 2546804,
+      "name": "DR. GŐDÉNY GYÖRGY",
+      "party": "NÉP",
+      "brief_en": "Limited public records were found for Dr. Gődény György (NÉP). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Dr. Gődény György (NÉP) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "62d8fabe4e4b"
+    },
+    {
+      "kpn_id": 4377256,
+      "name": "VINCZE OLGA",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Public record searches for Vincze Olga (A SZOLIDARITÁS PÁRTJA-Munkáspárt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Vincze Olga (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "c71cb44bb7da"
+    },
+    {
+      "kpn_id": 9191459,
+      "name": "SÁNDOR BALÁZS",
+      "party": "MKKP",
+      "brief_en": "Limited public records were found for Sándor Balázs (MKKP). A single press article was identified in monitored sources. The available data is insufficient to draw broad conclusions about this candidate's public record.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Sándor Balázs (MKKP) jelöltről. Egyetlen sajtócikk került azonosításra a vizsgált forrásokban. A rendelkezésre álló adatok nem elegendőek átfogó következtetések levonásához a jelölt nyilvános tevékenységéről.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "84f24a944074"
+    },
+    {
+      "kpn_id": 6970268,
+      "name": "DR. NAVRACSICS TIBOR",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Dr. Navracsics Tibor is a candidate for FIDESZ-KDNP. Investigative press coverage referencing this candidate was found in monitored sources. A parliamentary profile was identified for this candidate. The dataset contains 4 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Dr. Navracsics Tibor a(z) FIDESZ-KDNP jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 4 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 4,
+      "sources_used": [
+        "parlament.hu",
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "2b766eb73b99"
+    },
+    {
+      "kpn_id": 7436732,
+      "name": "TAKÁCS PÉTER",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Public record searches for Takács Péter (FIDESZ-KDNP) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Takács Péter (FIDESZ-KDNP) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b48b7ce7225b"
+    },
+    {
+      "kpn_id": 804624,
+      "name": "HORTOBÁGYI KATALIN",
+      "party": "Jobbik",
+      "brief_en": "Hortobágyi Katalin is a candidate for Jobbik. Investigative press coverage referencing this candidate was found in monitored sources. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Hortobágyi Katalin a(z) Jobbik jelöltje. Tényfeltáró sajtóanyag azonosítható a vizsgált forrásokban, amely a jelöltre hivatkozik. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "b2dd80f5ebd5"
+    },
+    {
+      "kpn_id": 3540154,
+      "name": "NAGY BÁLINT",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Nagy Bálint is a candidate for FIDESZ-KDNP. Press coverage referencing this candidate was found across 3 monitored source(s). A parliamentary profile was identified for this candidate. The dataset contains 2 evidence item(s); independent verification is recommended for detailed assessment.",
+      "brief_hu": "Nagy Bálint a(z) FIDESZ-KDNP jelöltje. A jelöltre vonatkozó sajtóanyag azonosítható 3 vizsgált forrásban. A jelöltnek parlamenti profilja azonosítható. Az adatbázis 2 bizonyítékelemet tartalmaz; részletes értékeléshez független ellenőrzés javasolt.",
+      "confidence": "medium",
+      "evidence_count": 2,
+      "sources_used": [
+        "parlament.hu",
+        "hvg.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "febb99bb870c"
+    },
+    {
+      "kpn_id": 3009715,
+      "name": "KISS FERENC",
+      "party": "Mi Hazánk",
+      "brief_en": "Public record searches for Kiss Ferenc (Mi Hazánk) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Kiss Ferenc (Mi Hazánk) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "8a9b47bd7a2e"
+    },
+    {
+      "kpn_id": 7677580,
+      "name": "CSERESNYÉS PÉTER",
+      "party": "FIDESZ-KDNP",
+      "brief_en": "Limited public records were found for Cseresnyés Péter (FIDESZ-KDNP). A parliamentary profile was identified, indicating prior legislative activity. Detailed voting and activity records were not available in the current dataset.",
+      "brief_hu": "Korlátozott nyilvános adatok állnak rendelkezésre Cseresnyés Péter (FIDESZ-KDNP) jelöltről. Parlamenti profil azonosítható, ami korábbi törvényhozási tevékenységre utal. Részletes szavazási és tevékenységi adatok a jelenlegi adatbázisban nem érhetők el.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "parlament.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "e4b754b3cc18"
+    },
+    {
+      "kpn_id": 1598731,
+      "name": "SZABÓ LÁSZLÓ JÓZSEF",
+      "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
+      "brief_en": "Public record searches for Szabó László József (A SZOLIDARITÁS PÁRTJA-Munkáspárt) returned results that may relate to other individuals with similar names. No press coverage was found that could be directly linked to this candidate with confidence. Independent verification is recommended before drawing conclusions.",
+      "brief_hu": "A(z) Szabó László József (A SZOLIDARITÁS PÁRTJA-Munkáspárt) jelölt névkeresései olyan találatokat hoztak, amelyek más, hasonló nevű személyekre vonatkozhatnak. Nem találtunk olyan sajtóanyagot, amely biztonsággal közvetlenül ehhez a jelölthöz köthető lenne. Következtetések levonása előtt független ellenőrzés javasolt.",
+      "confidence": "low",
+      "evidence_count": 1,
+      "sources_used": [
+        "atlatszo.hu"
+      ],
+      "generated_at": "2026-03-22T10:13:12.210546+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "evidence_hash": "a362df379a55"
+    }
+  ]
 }
