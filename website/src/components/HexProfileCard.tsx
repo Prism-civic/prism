@@ -118,7 +118,7 @@ export function HexProfileCard({
 
   // Radar geometry (drawn inside the hex)
   const maxR  = size * 0.38;
-  const labelR = size * 0.47;
+  const labelR = size * 0.43;
   const n = TRAITS.length;
   const angles = TRAITS.map((_, i) => -Math.PI / 2 + (2 * Math.PI * i) / n);
   const rPath = hasRadar ? radarPath(userScores!, partyScores!, cx, cy, maxR) : "";

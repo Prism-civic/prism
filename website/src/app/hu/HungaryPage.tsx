@@ -175,7 +175,7 @@ function HexPartyCard({
   const cx = V / 2, cy = V / 2;
   const r  = V / 2 - 4;
   const maxR = V * 0.36;
-  const labR = V * 0.47;
+  const labR = V * 0.43;
   const n = HEX_TRAITS.length;
   const angles = HEX_TRAITS.map((_, i) => -Math.PI / 2 + (2 * Math.PI * i) / n);
 
@@ -270,7 +270,7 @@ function HexPartyCard({
         return (
           <text key={t} x={lx.toFixed(1)} y={ly.toFixed(1)}
             textAnchor="middle" dominantBaseline="middle"
-            fontSize="11" fill="rgba(255,255,255,0.92)" fontWeight="600">
+            fontSize="10" fill="rgba(255,255,255,0.92)" fontWeight="600">
             {HEX_TRAIT_LABELS[t][lang]}
           </text>
         );
@@ -516,28 +516,6 @@ export function HungaryPage() {
         </div>
       </section>
 
-      {/* News + Network quick links */}
-      <div className="flex flex-wrap gap-3">
-        <a
-          href="/news"
-          className="flex-1 min-w-[140px] section-card rounded-[1.5rem] px-5 py-4 hover:-translate-y-0.5 hover:border-white/25 transition group"
-        >
-          <p className="eyebrow text-xs font-medium text-muted">{lang === "hu" ? "Hírek" : "News"}</p>
-          <p className="mt-1 text-sm text-foreground/80 group-hover:text-foreground transition">
-            {lang === "hu" ? "Független forrásokból →" : "From independent sources →"}
-          </p>
-        </a>
-        <a
-          href="/network"
-          className="flex-1 min-w-[140px] section-card rounded-[1.5rem] px-5 py-4 hover:-translate-y-0.5 hover:border-white/25 transition group"
-        >
-          <p className="eyebrow text-xs font-medium text-muted">{lang === "hu" ? "Hálózat" : "Network"}</p>
-          <p className="mt-1 text-sm text-foreground/80 group-hover:text-foreground transition">
-            {lang === "hu" ? "Prism részvétel →" : "Observer network →"}
-          </p>
-        </a>
-      </div>
-
       {/* Constituency + Candidate Lookup */}
       <section className="section-card rounded-[2rem] px-5 py-6 sm:px-8 sm:py-8">
         <p className="eyebrow text-xs font-medium text-muted mb-4">
@@ -621,6 +599,28 @@ export function HungaryPage() {
           </div>
         )}
       </section>
+
+      {/* News + Network quick links */}
+      <div className="flex flex-wrap gap-3">
+        <a
+          href="/news"
+          className="flex-1 min-w-[140px] section-card rounded-[1.5rem] px-5 py-4 hover:-translate-y-0.5 hover:border-white/25 transition group"
+        >
+          <p className="eyebrow text-xs font-medium text-muted">{lang === "hu" ? "Hírek" : "News"}</p>
+          <p className="mt-1 text-sm text-foreground/80 group-hover:text-foreground transition">
+            {lang === "hu" ? "Független forrásokból →" : "From independent sources →"}
+          </p>
+        </a>
+        <a
+          href="/network"
+          className="flex-1 min-w-[140px] section-card rounded-[1.5rem] px-5 py-4 hover:-translate-y-0.5 hover:border-white/25 transition group"
+        >
+          <p className="eyebrow text-xs font-medium text-muted">{lang === "hu" ? "Hálózat" : "Network"}</p>
+          <p className="mt-1 text-sm text-foreground/80 group-hover:text-foreground transition">
+            {lang === "hu" ? "Prism részvétel →" : "Observer network →"}
+          </p>
+        </a>
+      </div>
 
       {/* Candidate Drawer */}
       <CandidateDrawer
