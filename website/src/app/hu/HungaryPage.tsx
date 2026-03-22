@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import partiesData from "../../data/hungary/parties.json";
 import candidatesData from "../../data/hungary/candidates.json";
@@ -141,6 +141,147 @@ function partyBadgeStyle(partyId: string | null) {
   return { borderLeft: `3px solid ${colour}` };
 }
 
+// ── HexPartyCard — fully responsive (fills parent via SVG viewBox) ────────────
+const HEX_TRAITS = ["eu", "migracio", "gazdasag", "jogallamisag", "ukrajna", "kornyezet"] as const;
+type HexTrait = typeof HEX_TRAITS[number];
+const HEX_TRAIT_LABELS: Record<HexTrait, { hu: string; en: string }> = {
+  eu:           { hu: "EU",        en: "EU" },
+  migracio:     { hu: "Migráció",  en: "Migration" },
+  gazdasag:     { hu: "Gazdaság",  en: "Economy" },
+  jogallamisag: { hu: "Jogáll.",   en: "Law" },
+  ukrajna:      { hu: "Ukrajna",   en: "Ukraine" },
+  kornyezet:    { hu: "Klíma",     en: "Climate" },
+};
+
+function hexPts(cx: number, cy: number, r: number) {
+  return Array.from({ length: 6 }, (_, i) => {
+    const a = (Math.PI / 3) * i - Math.PI / 6;
+    return `${(cx + r * Math.cos(a)).toFixed(2)},${(cy + r * Math.sin(a)).toFixed(2)}`;
+  }).join(" ");
+}
+
+function calcAlign(u: number, p: number) { return (5 - Math.abs(u - p) - 1) / 4; }
+
+function HexPartyCard({
+  partyId, partyColour, partyName,
+  userScores, partyScores, lang, showRadar,
+}: {
+  partyId: string; partyColour: string; partyName: string;
+  userScores: TraitScores | null; partyScores: TraitScores | null;
+  lang: "hu" | "en"; showRadar: boolean;
+}) {
+  const [imgErr, setImgErr] = React.useState(false);
+  const V = 200; // viewBox size — SVG scales to fill container
+  const cx = V / 2, cy = V / 2;
+  const r  = V / 2 - 4;
+  const maxR = V * 0.36;
+  const labR = V * 0.47;
+  const n = HEX_TRAITS.length;
+  const angles = HEX_TRAITS.map((_, i) => -Math.PI / 2 + (2 * Math.PI * i) / n);
+
+  const clipId   = `hpc-resp-clip-${partyId}`;
+  const maskId   = `hpc-resp-mask-${partyId}`;
+  const filterId = `hpc-resp-gray-${partyId}`;
+  const imgSrc   = `/parties/${partyId}.png`;
+
+  const hasRadar = showRadar && !!userScores && !!partyScores;
+
+  const radarPts = hasRadar
+    ? HEX_TRAITS.map((t, i) => {
+        const v = calcAlign(userScores![t], partyScores![t]);
+        return { x: cx + v * maxR * Math.cos(angles[i]), y: cy + v * maxR * Math.sin(angles[i]) };
+      })
+    : [];
+  const rPath = radarPts.length
+    ? radarPts.map((p, i) => `${i === 0 ? "M" : "L"}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(" ") + " Z"
+    : "";
+
+  return (
+    <svg
+      viewBox={`0 0 ${V} ${V}`}
+      width="100%" height="100%"
+      style={{ display: "block" }}
+      aria-label={partyName}
+    >
+      <defs>
+        <clipPath id={clipId} clipPathUnits="userSpaceOnUse">
+          <polygon points={hexPts(cx, cy, r)} />
+        </clipPath>
+        <filter id={filterId} x="0" y="0" width="100%" height="100%">
+          <feColorMatrix type="saturate" values="0" result="g" />
+          <feComponentTransfer in="g">
+            <feFuncR type="linear" slope="0.3" />
+            <feFuncG type="linear" slope="0.3" />
+            <feFuncB type="linear" slope="0.3" />
+          </feComponentTransfer>
+        </filter>
+        {hasRadar && (
+          <mask id={maskId}>
+            <polygon points={hexPts(cx, cy, r)} fill="white" />
+            <path d={rPath} fill="black" />
+          </mask>
+        )}
+      </defs>
+
+      {/* Photo — vivid base */}
+      {!imgErr ? (
+        <image
+          href={imgSrc} x="0" y="0" width={V} height={V}
+          preserveAspectRatio="xMidYMid slice"
+          clipPath={`url(#${clipId})`}
+          onError={() => setImgErr(true)}
+        />
+      ) : (
+        <polygon points={hexPts(cx, cy, r)} fill={`${partyColour}22`} />
+      )}
+
+      {/* Greyscale overlay for area outside radar */}
+      {hasRadar && !imgErr && (
+        <image
+          href={imgSrc} x="0" y="0" width={V} height={V}
+          preserveAspectRatio="xMidYMid slice"
+          clipPath={`url(#${clipId})`}
+          filter={`url(#${filterId})`}
+          mask={`url(#${maskId})`}
+        />
+      )}
+
+      {/* Grid rings */}
+      {hasRadar && [0.25, 0.5, 0.75, 1].map((f) => {
+        const pts = angles.map((a) => ({x: cx+f*maxR*Math.cos(a), y: cy+f*maxR*Math.sin(a)}));
+        const d = pts.map((p,i)=>`${i===0?"M":"L"}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(" ")+"Z";
+        return <path key={f} d={d} fill="none" stroke="rgba(255,255,255,0.18)" strokeWidth="0.8" />;
+      })}
+      {hasRadar && angles.map((a, i) => (
+        <line key={i} x1={cx} y1={cy}
+          x2={(cx+maxR*Math.cos(a)).toFixed(1)} y2={(cy+maxR*Math.sin(a)).toFixed(1)}
+          stroke="rgba(255,255,255,0.18)" strokeWidth="0.8" />
+      ))}
+
+      {/* Radar fill */}
+      {hasRadar && (
+        <path d={rPath} fill="rgba(99,179,237,0.28)" stroke="rgba(147,210,255,0.95)" strokeWidth="2.5" />
+      )}
+
+      {/* Labels */}
+      {hasRadar && HEX_TRAITS.map((t, i) => {
+        const lx = cx + labR * Math.cos(angles[i]);
+        const ly = cy + labR * Math.sin(angles[i]);
+        return (
+          <text key={t} x={lx.toFixed(1)} y={ly.toFixed(1)}
+            textAnchor="middle" dominantBaseline="middle"
+            fontSize="11" fill="rgba(255,255,255,0.92)" fontWeight="600">
+            {HEX_TRAIT_LABELS[t][lang]}
+          </text>
+        );
+      })}
+
+      {/* Party colour ring */}
+      <polygon points={hexPts(cx, cy, r - 1)} fill="none" stroke={partyColour} strokeWidth="4" opacity="0.8" />
+    </svg>
+  );
+}
+
 // ── Component ─────────────────────────────────────────────────────────────────
 
 export function HungaryPage() {
@@ -149,6 +290,7 @@ export function HungaryPage() {
   const [selectedCandidate, setSelectedCandidate] = useState<Candidate | null>(null);
   const [userProfile, setUserProfile] = useState<TraitScores | null>(null);
   const [quizOpen, setQuizOpen] = useState(false);
+  const [policyOpen, setPolicyOpen] = useState(false);
   const closeDrawer = useCallback(() => setSelectedCandidate(null), []);
 
   useEffect(() => {
@@ -259,80 +401,98 @@ export function HungaryPage() {
           <p className="text-sm text-muted">{t.party_subtitle}</p>
         </div>
 
-        {/* Two-column: quiz left, party hexes right */}
-        <div className="flex flex-col lg:flex-row gap-6 lg:gap-8">
-
-          {/* ── Inline quiz panel ── */}
-          <div className="lg:w-72 xl:w-80 shrink-0">
-            <div className="rounded-2xl border border-cyan-500/20 bg-cyan-950/15 px-4 py-5 space-y-3">
-              <div className="flex items-center justify-between">
-                <p className="text-xs font-semibold text-cyan-300">
-                  {lang === "hu" ? "🎯 Az Ön álláspontjai" : "🎯 Your positions"}
-                </p>
-                <button
-                  onClick={() => setQuizOpen(!quizOpen)}
-                  className="text-[10px] text-white/30 hover:text-white/60 transition"
-                >
-                  {quizOpen
-                    ? (lang === "hu" ? "▲ csukja be" : "▲ collapse")
-                    : (lang === "hu" ? "▼ nyissa ki" : "▼ expand")}
-                </button>
+        {/* ── Party hexagons — full width, equal-size flex ── */}
+        <div className="flex gap-3 sm:gap-5 mb-6">
+          {parties.map((p) => (
+            <div
+              key={p.id}
+              className="flex flex-col items-center gap-2 flex-1 min-w-0"
+              style={{ borderTop: `3px solid ${p.colour}`, paddingTop: "10px" }}
+            >
+              {/* Responsive hex: uses a square container that fills 1/5 of the row */}
+              <div className="w-full aspect-square max-w-[180px]">
+                <HexPartyCard
+                  partyId={p.id}
+                  partyColour={p.colour}
+                  partyName={p.name}
+                  userScores={userProfile}
+                  partyScores={(partyPositions.parties as Record<string, TraitScores>)[p.id] ?? null}
+                  lang={lang as "en" | "hu"}
+                  showRadar={!!userProfile}
+                />
               </div>
-              <p className="text-[11px] text-white/45 leading-relaxed">
+              <div className="text-center w-full px-1">
+                <p className="text-[11px] font-semibold text-foreground leading-tight truncate">{p.name}</p>
+                <p className="text-[10px] text-muted mt-0.5 truncate">{p.leader}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* ── Inline quiz panel — below hexes, full width ── */}
+        <div className="rounded-2xl border border-cyan-500/20 bg-cyan-950/15 px-4 py-4">
+          <button
+            className="flex w-full items-center justify-between gap-2"
+            onClick={() => setQuizOpen(!quizOpen)}
+          >
+            <div className="flex items-center gap-2">
+              <span className="text-xs font-semibold text-cyan-300">
+                🎯 {lang === "hu" ? "Az Ön álláspontjai" : "Your positions"}
+              </span>
+              {userProfile && !quizOpen && (
+                <span className="text-[10px] text-white/35 hidden sm:inline">
+                  — {lang === "hu" ? "a radar az Ön értékeit mutatja" : "radar shows your alignment"}
+                </span>
+              )}
+            </div>
+            <span className="text-[11px] text-white/40 shrink-0">
+              {quizOpen ? "▲" : "▼"}
+            </span>
+          </button>
+
+          {!quizOpen && (
+            <p className="mt-1.5 text-[11px] text-white/40">
+              {lang === "hu"
+                ? "Állítsa be az értékeit — a hatszögek azonnal frissülnek."
+                : "Set your positions — hexagons update live."}
+            </p>
+          )}
+
+          {quizOpen && (
+            <div className="mt-4">
+              <p className="text-[11px] text-white/45 mb-4">
                 {lang === "hu"
                   ? "Állítsa be az egyes csúszkákat — a hatszögek azonnal frissülnek."
                   : "Adjust the sliders — the hexagons update live."}
               </p>
-              {quizOpen && (
-                <AlignmentQuizInline
-                  lang={lang as "hu" | "en"}
-                  initialScores={userProfile}
-                  onChange={(scores) => setUserProfile(scores)}
-                />
-              )}
-              {!quizOpen && userProfile && (
-                <button
-                  onClick={() => setQuizOpen(true)}
-                  className="text-[11px] text-cyan-400/70 hover:text-cyan-300 transition underline"
-                >
-                  {lang === "hu" ? "Profil szerkesztése →" : "Edit profile →"}
-                </button>
-              )}
+              <AlignmentQuizInline
+                lang={lang as "hu" | "en"}
+                initialScores={userProfile}
+                onChange={(scores) => setUserProfile(scores)}
+              />
             </div>
-          </div>
+          )}
+        </div>
 
-          {/* ── Party hexagons ── */}
-          <div className="flex-1 min-w-0">
-            {/* Party hex row */}
-            <div className="flex flex-wrap gap-4 justify-start mb-6">
-              {parties.map((p) => (
-                <div key={p.id} className="flex flex-col items-center gap-2" style={{ borderTop: `3px solid ${p.colour}`, paddingTop: "8px" }}>
-                  <HexProfileCard
-                    partyId={p.id}
-                    partyColour={p.colour}
-                    size={144}
-                    alt={p.name}
-                    userScores={userProfile}
-                    partyScores={(partyPositions.parties as Record<string, TraitScores>)[p.id] ?? null}
-                    lang={lang as "en" | "hu"}
-                    showRadar={!!userProfile}
-                  />
-                  <div className="text-center max-w-[144px]">
-                    <p className="text-xs font-semibold text-foreground leading-tight">{p.name}</p>
-                    <p className="text-[10px] text-muted mt-0.5">{p.leader}</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-
-            {/* Policy comparison table — scrollable on small screens */}
-            <div className="overflow-x-auto -mx-1 px-1">
+        {/* ── Policy comparison table — collapsible ── */}
+        <div className="mt-4 rounded-2xl border border-line/40 bg-white/[0.02] overflow-hidden">
+          <button
+            className="flex w-full items-center justify-between px-4 py-3 text-left"
+            onClick={() => setPolicyOpen(!policyOpen)}
+          >
+            <span className="text-xs font-semibold text-foreground/70">
+              {lang === "hu" ? "📋 Pártprogramok összehasonlítása" : "📋 Policy comparison"}
+            </span>
+            <span className="text-[11px] text-white/40 shrink-0">{policyOpen ? "▲" : "▼"}</span>
+          </button>
+          {policyOpen && (
+            <div className="overflow-x-auto px-4 pb-4">
               <table className="w-full min-w-[600px] border-collapse text-sm">
                 <thead>
                   <tr>
                     <th className="w-28 py-2 pr-4 text-left text-xs font-medium text-muted" />
                     {parties.map((p) => (
-                      <th key={p.id} className="py-2 px-2 text-center text-[10px] font-semibold text-foreground/70" style={{ color: p.colour }}>
+                      <th key={p.id} className="py-2 px-2 text-center text-[10px] font-semibold" style={{ color: p.colour }}>
                         {p.name}
                       </th>
                     ))}
@@ -352,7 +512,7 @@ export function HungaryPage() {
                 </tbody>
               </table>
             </div>
-          </div>
+          )}
         </div>
       </section>
 
