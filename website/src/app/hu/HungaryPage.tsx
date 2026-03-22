@@ -9,6 +9,7 @@ import { AlignmentQuiz, loadUserProfile } from "../../components/AlignmentQuiz";
 import { AlignmentRadar } from "../../components/AlignmentRadar";
 import { NewsFeed } from "../../components/NewsFeed";
 import { ContributionMap } from "../../components/ContributionMap";
+import { HexProfileCard } from "../../components/HexProfileCard";
 import type { TraitScores } from "../../components/AlignmentRadar";
 import partyPositions from "../../data/hu-party-positions.json";
 
@@ -237,6 +238,30 @@ export function HungaryPage() {
             {t.hero_title}
           </h1>
           <p className="text-lg leading-8 text-muted">{t.hero_subtitle}</p>
+
+          {/* Profile active indicator */}
+          {userProfile && (
+            <div className="flex items-center gap-2 mt-2">
+              <span className="inline-flex items-center gap-1.5 rounded-full border border-cyan-500/30 bg-cyan-950/30 px-3 py-1 text-xs text-cyan-300">
+                <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse" />
+                {lang === "hu" ? "Személyes profil aktív — a radar az Ön értékeit mutatja" : "Your profile is active — radar shows your alignment"}
+              </span>
+              <button
+                onClick={() => setShowQuiz(true)}
+                className="text-xs text-muted/50 hover:text-muted transition underline"
+              >
+                {lang === "hu" ? "módosítás" : "edit"}
+              </button>
+            </div>
+          )}
+          {!userProfile && (
+            <button
+              onClick={() => setShowQuiz(true)}
+              className="mt-2 inline-flex items-center gap-1.5 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-muted hover:border-white/20 hover:text-foreground transition"
+            >
+              ✦ {lang === "hu" ? "Töltse ki a kérdőívet az igazodási radar megjelenítéséhez" : "Take the quiz to see your alignment radar"}
+            </button>
+          )}
         </div>
       </section>
 
@@ -257,8 +282,20 @@ export function HungaryPage() {
                     className="py-3 px-3 text-center text-xs font-semibold text-foreground"
                     style={{ borderTop: `3px solid ${p.colour}` }}
                   >
-                    <div>{p.name}</div>
-                    <div className="mt-0.5 font-normal text-muted">{p.leader}</div>
+                    <div className="flex flex-col items-center gap-1.5">
+                      <HexProfileCard
+                        partyId={p.id}
+                        partyColour={p.colour}
+                        size={52}
+                        alt={p.name}
+                        userScores={userProfile}
+                        partyScores={(partyPositions.parties as Record<string, TraitScores>)[p.id] ?? null}
+                        lang={lang as "en" | "hu"}
+                        showRadar={!!userProfile}
+                      />
+                      <div>{p.name}</div>
+                      <div className="font-normal text-muted">{p.leader}</div>
+                    </div>
                   </th>
                 ))}
               </tr>
@@ -346,10 +383,18 @@ export function HungaryPage() {
                         onKeyDown={(e) => e.key === "Enter" && setSelectedCandidate(cand)}
                         aria-label={`${cand.name} — ${t.view_record}`}
                       >
-                        {/* Ballot number */}
-                        <span className="shrink-0 w-6 h-6 rounded-full bg-white/5 border border-line/40 flex items-center justify-center text-xs font-bold text-muted">
-                          {cand.ballot_number}
-                        </span>
+                        {/* Hex profile photo with radar overlay */}
+                        <HexProfileCard
+                          photoId={cand.photo_id}
+                          partyId={cand.party_id}
+                          partyColour={cand.party_id ? PARTY_COLOURS[cand.party_id] ?? "#666" : "#666"}
+                          size={44}
+                          alt={cand.name}
+                          userScores={userProfile}
+                          partyScores={cand.party_id ? (partyPositions.parties as Record<string, TraitScores>)[cand.party_id] ?? null : null}
+                          lang={lang as "en" | "hu"}
+                          showRadar={!!userProfile && !!cand.party_id}
+                        />
 
                         {/* Name + party */}
                         <div className="flex-1 min-w-0">
@@ -359,10 +404,13 @@ export function HungaryPage() {
                           <p className="text-xs text-muted">{cand.party}</p>
                         </div>
 
-                        {/* View record cue */}
-                        <span className="shrink-0 text-xs text-muted/40 group-hover:text-muted/70 transition">
-                          {t.view_record_icon}
-                        </span>
+                        {/* Ballot number + view cue */}
+                        <div className="shrink-0 flex flex-col items-end gap-1">
+                          <span className="text-[10px] text-muted/40">#{cand.ballot_number}</span>
+                          <span className="text-xs text-muted/40 group-hover:text-muted/70 transition">
+                            {t.view_record_icon}
+                          </span>
+                        </div>
                       </li>
                     ))}
                   </ul>
