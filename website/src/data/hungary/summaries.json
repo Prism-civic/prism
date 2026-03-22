@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T14:35:08.490816+00:00",
+    "generated_at": "2026-03-22T14:48:12.834256+00:00",
     "model": "claude-sonnet-4-6",
     "observer": "BaraBonc-P52 (HU pilot observer)",
     "total_summaries": 27
@@ -229,42 +229,42 @@
     },
     {
       "url": "https://www.rferl.org/a/ukraine-eu-hungary-slovakia-loan-druzhba/33711395.html",
-      "title": "EU Vows To Get $90 Billion Loan To Kyiv Despite Hungary's Opposition",
-      "source_name": "Radio Free Europe / RFE-RL",
-      "source_domain": "rferl.org",
-      "summary_en": "European Commission President von der Leyen pledged \"one way or another\" delivery of the $90bn EU loan to Ukraine after the March 20 Brussels summit where Orbán maintained his veto. EU Council President Costa called Hungary's resistance \"unacceptable\"; German Chancellor Merz called it an unprecedented act of serious disloyalty. Slovakia's Fico also withheld support. Orbán conditions his veto on Russian oil deliveries resuming through the Druzhba pipeline via Ukraine. 25 of 27 EU members signed a joint statement expecting disbursement by early April. Experts say individual member guarantees could theoretically bypass the requirement for unanimity.",
-      "summary_hu": "Von der Leyen elnök az EU-csúcs után megígérte: az EU megtalálja a módját a 90 milliárd eurós ukrajna hitel folyósítására. Costa elfogadhatatlannak, Merz példátlanul hűtlennek nevezte Orbán vétóját. Orbán a Druzsba-csővezeték orosz olajszállításának helyreállításáig fenntartja vétóját. 25 tagállam nyilatkozatban várja az april eleji folyósítást.",
-      "word_count": 270,
-      "fetch_failed": false,
-      "generated_at": "2026-03-22T14:35:08.490789+00:00",
-      "model_used": "atlas-handcrafted",
-      "url_hash": "rferl_33711395"
+      "title": "EU Vows&#160;To&#160;Get $90 Billion Loan&#160;To&#160;Kyiv Despite Hungary’s Opposition&#160;",
+      "source_name": "",
+      "source_domain": "",
+      "published": "",
+      "summary_en": "European Commission President Ursula von der Leyen vowed on March 20 that the EU would find a way to deliver a promised 90 billion euro loan to Ukraine despite Hungarian Prime Minister Viktor Orban's veto. EU Council President Antonio Costa condemned the resistance as \"unacceptable,\" while German Chancellor Friedrich Merz called it an \"act of serious disloyalty\" and an unprecedented violation of member state solidarity. French President Emmanuel Macron also condemned Hungary's actions, calling for the unanimous agreement to be respected and implemented without delay. A joint statement signed by 25 of the EU's 27 members reaffirmed the plan to disburse the first tranche to Ukraine by early April.\n\nOrban is conditioning his support for both the loan and the EU's 20th sanctions package against Russia on the resumption of Russian oil deliveries through the Druzhba pipeline via Ukraine. The pipeline was damaged in a Russian strike in January, halting oil flows to Hungary and Slovakia. Ukraine has stated repairs would take approximately six weeks, further straining relations with Budapest.\n\nSlovak Prime Minister Robert Fico, who also maintains friendly ties with Moscow, similarly refrained from signing the joint statement. Experts note that if Orban does not relent, individual EU member states could theoretically provide the necessary loan guarantees without requiring unanimous EU budget approval.",
+      "summary_hu": "Ursula von der Leyen, az Európai Bizottság elnöke március 20-án kijelentette, hogy az EU megtalálja a módját az Ukrajnának ígért 90 milliárd eurós kölcsön folyósítására, annak ellenére, hogy Orbán Viktor magyar miniszterelnök megvétózta azt. Antonio Costa, az EU Tanácsának elnöke \"elfogadhatatlannak\" minősítette az ellenállást, Friedrich Merz német kancellár pedig \"a hűség súlyos megsértésének\" és a tagállami szolidaritás példátlan felrúgásának nevezte. Emmanuel Macron francia elnök szintén elítélte Magyarország magatartását, és felszólított az egyhangú megállapodás haladéktalan betartására. Az EU 27 tagállamából 25 által aláírt közös nyilatkozat megerősítette a tervet, miszerint az első részletet április elejéig folyósítják Ukrajnának.\n\nOrbán mind a kölcsön, mind az Oroszország elleni 20. szankciós csomag támogatását az orosz olaj Druzsbán keresztüli, Ukrajna érintésével zajló szállításának újraindításához köti. A csővezetéket egy januári orosz csapás károsította meg, ami megakasztotta a Magyarország és Szlovákia felé irányuló olajszállítást. Ukrajna szerint a javítás mintegy hat hétig tart, ami tovább mélyítette Budapest és Kijev ellentétét.\n\nRobert Fico szlovák miniszterelnök, aki szintén jó viszonyt ápol Moszkvával, szintén tartózkodott a közös nyilatkozat aláírásától. Szakértők szerint, ha Orbán nem enged, az egyes EU-tagállamok elméletileg egyénileg is vállalhatják a szükséges garanciákat, elkerülve az egyhangú jóváhagyást igénylő közös uniós költségvetési mechanizmust.",
+      "word_count": 555,
+      "generated_at": "2026-03-22T14:47:04.631272+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "url_hash": "ce13750d1656"
     },
     {
       "url": "https://www.politico.eu/article/viktor-orban-hungary-lure-eu-into-a-trap/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "title": "Did Orbán lure the EU into a trap?",
-      "source_name": "Politico Europe",
-      "source_domain": "politico.eu",
-      "summary_en": "Politico analysis asks whether EU leaders' unprecedented public confrontation of Orbán at the March 2026 summit inadvertently boosted his electoral chances. Some critics worry leaders \"ganged up\" on Orbán, playing into his domestic narrative of Hungary vs a hostile Brussels. The question: was the public rebuke necessary clarity on EU values, or a strategic gift to a PM who thrives on anti-establishment optics ahead of the April 12 election?",
-      "summary_hu": "A Politico elemzése azt kérdezi: az EU-csúcson az Orbánnal szembeni nyilvános szembenállás véletlenül megerősítette-e az ő kampányát? Egyes kritikusok szerint a \"kutyapárti\" bánásmód épp a Brüsszel elleni narratívájához adott tápot az április 12-i választások előtt.",
-      "word_count": 190,
-      "fetch_failed": false,
-      "generated_at": "2026-03-22T14:35:08.490799+00:00",
-      "model_used": "atlas-handcrafted",
-      "url_hash": "politico_eu_trap"
+      "title": "Did Orbán lure the EU into a trap? &#8211; POLITICO",
+      "source_name": "",
+      "source_domain": "",
+      "published": "",
+      "summary_en": "At a recent European Council summit, Hungarian Prime Minister Viktor Orbán again blocked a €90 billion EU loan intended to fund Ukraine's war effort, demanding that Russian oil flows through the Druzhba pipeline be restored first. The move drew unprecedented public criticism from fellow EU leaders, with Swedish Prime Minister Ulf Kristersson calling it the harshest rebuke he had ever witnessed at an EU summit. Orbán left Brussels appearing unshaken, claiming EU leaders had no effective arguments against Hungary's position. The confrontation comes weeks before a closely contested Hungarian parliamentary election in which Orbán's Fidesz party is trailing rival Péter Magyar's Tisza party in polls. Several European critics, including French MEP Chloé Ridel, warned that EU leaders may have inadvertently handed Orbán an electoral boost by allowing him to cast himself as Hungary's lone defender against Brussels pressure. Analyst Michael Ignatieff argued that Orbán has spent 16 years campaigning against the EU while collecting EU funds, and that no EU response — firm or soft — would meaningfully alter his strategy. Fidesz MEP András László credited Orbán's stance as keeping his word to voters, while blaming Ukrainian President Zelenskyy for deliberately stalling pipeline repairs to influence the election. Péter Krekó of the Political Capital Institute cautioned that even if the clash helps Orbán win re-election, it would be a pyrrhic victory, as a returned Orbán government would face a much harder line from the EU Council in the longer term.",
+      "summary_hu": "Viktor Orbán magyar miniszterelnök egy közelmúltbeli Európai Tanács-csúcson ismét megvétózta az Ukrajna háborús erőfeszítéseit finanszírozni hivatott 90 milliárd eurós uniós hitelt, azzal az feltétellel, hogy előbb helyre kell állítani az orosz olajszállítást a Barátság-vezetéken keresztül. A lépés példátlan nyilvános kritikát váltott ki az uniós vezetők részéről; Ulf Kristersson svéd miniszterelnök a valaha látott legsúlyosabb bírálatnak nevezte azt, amit egy uniós csúcson tapasztalt. Orbán megrázkódtatás nélkül hagyta el Brüsszelt, kijelentve, hogy az uniós vezetőknek nem volt hatékony érvük Magyarország álláspontjával szemben. Az összetűzés néhány héttel a szoros magyar parlamenti választások előtt zajlott, amelyeken a Fidesz Magyar Péter Tisza pártja mögött áll a közvélemény-kutatásokban. Több európai kritikus, köztük Chloé Ridel francia EP-képviselő arra figyelmeztetett, hogy az uniós vezetők akaratlanul is választási lökést adhattak Orbánnak azzal, hogy lehetővé tették számára, hogy Magyarország egyetlen védelmezőjeként tüntesse fel magát Brüsszel nyomásával szemben. Michael Ignatieff elemző rámutatott, hogy Orbán 16 éve az EU ellen kampányol, miközben uniós forrásokat vesz igénybe, és hogy semmilyen uniós reakció — sem kemény, sem puha — nem változtatná meg érdemben a stratégiáját. András László fideszes EP-képviselő Orbán álláspontját a szavazóknak tett ígéret betartásaként értékelte, és Volodimir Zelenszkij ukrán elnököt hibáztatta a vezeték-javítások szándékos késleltetéséért. Krekó Péter, a Political Capital Institute elemzője óva intett attól, hogy még ha az összetűzés segíti is Orbán újraválasztását, az pirruszi győzelem lenne, mivel egy visszatérő Orbán-kormánynak hosszabb távon sokkal keményebb uniós hozzáállással kellene szembenéznie.",
+      "word_count": 1284,
+      "generated_at": "2026-03-22T14:47:45.006855+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "url_hash": "815f8f447eef"
     },
     {
       "url": "https://www.euractiv.com/news/tusk-claims-no-surprise-over-alleged-hungarian-leaks-to-moscow/",
       "title": "Tusk claims no surprise over alleged Hungarian leaks to Moscow",
-      "source_name": "Euractiv",
-      "source_domain": "euractiv.com",
-      "summary_en": "Polish PM Donald Tusk stated he was unsurprised by allegations that Hungary leaked sensitive NATO/EU information to Moscow. The allegations, if proven, would mark the most serious intelligence breach in EU recent history. Tusk cited Hungary's long-standing close relationship with the Kremlin as context. The claims emerged as Hungary heads into the April 12 election, adding to the fraught bilateral dynamic and raising fresh questions about Budapest's fitness as an EU/NATO member in terms of information security.",
-      "summary_hu": "Tusk lengyel miniszterelnök nem lepődött meg azon, hogy Magyarország állítólag NATO/EU titkos információkat szivárogtatott Moszkvának. A vádak, ha bebizonyosodnak, az eddigi legsúlyosabb hírszerzési incidenst jelentenék az EU-ban. Az eset az április 12-i választások előtt tette fel a kérdést: alkalmas-e Budapest az EU/NATO tagságra?",
-      "word_count": 210,
-      "fetch_failed": false,
-      "generated_at": "2026-03-22T14:35:08.490802+00:00",
-      "model_used": "atlas-handcrafted",
-      "url_hash": "euractiv_tusk_leaks"
+      "source_name": "",
+      "source_domain": "",
+      "published": "",
+      "summary_en": "Polish Prime Minister Donald Tusk has voiced support for a Washington Post report alleging that Hungary regularly briefed Russia's foreign intelligence service on discussions held during EU Council summits. The report, published Saturday, also claimed that Russian intelligence had proposed staging a fake assassination attempt against Prime Minister Viktor Orbán — an operation internally called \"the Gamechanger\" — to boost his declining poll numbers ahead of Hungary's April 12 general election. The report further alleged that Hungarian Foreign Minister Péter Szijjártó routinely called Russian Foreign Minister Sergei Lavrov to relay details from EU meetings. Tusk, who served as European Council president from 2014 to 2019, said the alleged leaks \"shouldn't come as a surprise to anyone,\" adding that he had long limited his own statements at EU meetings due to these suspicions. Hungarian Foreign Minister Szijjártó rejected the allegations as \"crazy conspiracy theories\" and \"Ukrainian propaganda,\" suggesting the story was coordinated by opposition leader Péter Magyar's Tisza Party and Ukrainian officials to influence the election outcome.",
+      "summary_hu": "Donald Tusk lengyel miniszterelnök megerősítette a Washington Post azon jelentését, amely szerint Magyarország rendszeresen tájékoztatta az orosz hírszerzést az EU csúcstalálkozókon elhangzottakról. A szombaton megjelent cikk azt is állította, hogy az orosz hírszerzés egy színlelt merényletet tervezett Orbán Viktor ellen — belső nevén \"a Játékváltoztató\" — hogy feltámassza a csökkenő támogatottságát a április 12-i parlamenti választások előtt. A jelentés szerint Szijjártó Péter külügyminiszter rendszeresen felhívta Szergej Lavrov orosz külügyminisztert, hogy tájékoztassa az EU-tanácskozásokon elhangzottakról. Tusk, aki 2014 és 2019 között töltötte be az Európai Tanács elnöki tisztét, azt mondta, a feltételezett kiszivárogtatások \"senkit sem lephetnek meg\", hozzátéve, hogy e gyanúk miatt régóta csak a szükséges minimumra korlátozza felszólalásait az uniós üléseken. Szijjártó Péter \"alaptalan összeesküvés-elméletekként\" és \"ukrán propagandaként\" utasította el a vádakat, azt sugallva, hogy a történetet Magyar Péter Tisza Pártja és ukrán tisztviselők koordinálták a választás befolyásolása céljából.",
+      "word_count": 274,
+      "generated_at": "2026-03-22T14:48:12.234014+00:00",
+      "model_used": "claude-sonnet-4-6",
+      "url_hash": "d682dc553dc3"
     }
   ]
 }

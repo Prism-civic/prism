@@ -3,7 +3,7 @@
 generate_summaries.py — Pre-generate AI article summaries on the observer machine.
 
 Observer: BaraBonc-P52 (HU pilot)
-Model: claude-sonnet-4-6 (via Anthropic API — observer-local, not Vercel)
+Model: claude-sonnet-4-6 (via local Claude CLI OAuth — no API key, observer-only)
 
 Reads:  data/hungary/intelligence/foreign/feed.json
         data/hungary/intelligence/social/feed.json
@@ -13,13 +13,16 @@ Writes: data/hungary/summaries.json
         website/src/data/hungary/summaries.json  (Vercel bundle copy)
 
 The web API (/api/article) becomes a pure static lookup — no Vercel API key,
-no runtime AI calls, no per-request cost.
+no runtime AI calls, no per-request cost. D-021 pattern.
+
+IMPORTANT: Uses the local `claude` CLI (OAuth via claude.ai) — NOT an API key.
+           ANTHROPIC_API_KEY must NOT be set when running this script.
 
 Usage:
   python3 scripts/generate_summaries.py
   python3 scripts/generate_summaries.py --force          # regenerate all
   python3 scripts/generate_summaries.py --limit 5        # test run
-  python3 scripts/generate_summaries.py --dry-run        # no API calls
+  python3 scripts/generate_summaries.py --dry-run        # no AI calls
   python3 scripts/generate_summaries.py --url <url>      # single article
 """
 
@@ -30,15 +33,17 @@ import time
 import hashlib
 import argparse
 import re
+import subprocess
+import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
 
-try:
-    import anthropic
-except ImportError:
-    print("ERROR: anthropic package not installed. Run: pip install anthropic --break-system-packages")
+# ── Claude CLI check ───────────────────────────────────────────────────────────
+CLAUDE_BIN = shutil.which('claude')
+if not CLAUDE_BIN:
+    print("ERROR: `claude` CLI not found in PATH. Install Claude Code: npm install -g @anthropic-ai/claude-code")
     sys.exit(1)
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
@@ -131,10 +136,10 @@ def fetch_article(url: str) -> dict | None:
         return None
 
 
-# ── AI summary generation ──────────────────────────────────────────────────────
+# ── AI summary generation (via local Claude CLI — OAuth, no API key) ───────────
 
-def generate_summary(client: anthropic.Anthropic, article: dict, url: str, dry_run: bool) -> dict | None:
-    """Call Anthropic API and return {summary_en, summary_hu} or None."""
+def generate_summary(article: dict, url: str, dry_run: bool) -> dict | None:
+    """Call local `claude` CLI (OAuth) and return {summary_en, summary_hu} or None."""
     body = article['body'][:MAX_BODY_CHARS]
     title = article.get('title', '')
 
@@ -148,30 +153,49 @@ def generate_summary(client: anthropic.Anthropic, article: dict, url: str, dry_r
             'summary_hu': 'A cikk szövege nem volt kinyerhető ebből a forrásból. Az oldal előfizetést igényelhet vagy blokkolhatja az automatikus hozzáférést.',
         }
 
-    prompt = f"Article URL: {url}\nTitle: {title}\n\nArticle text:\n{body}\n\nGenerate a clean summary. Respond with JSON only."
+    prompt = (
+        f"{SYSTEM_PROMPT}\n\n"
+        f"Article URL: {url}\nTitle: {title}\n\nArticle text:\n{body}\n\n"
+        "Generate a clean summary. Respond with a JSON object with two keys: summary_en and summary_hu. "
+        "Use double quotes only. Escape any quotes inside the strings. No markdown, no code fences."
+    )
+
+    # Strip ANTHROPIC_API_KEY so Claude CLI uses its OAuth session
+    env = {k: v for k, v in os.environ.items() if k != 'ANTHROPIC_API_KEY'}
 
     try:
-        response = client.messages.create(
-            model=MODEL,
-            max_tokens=MAX_TOKENS,
-            system=SYSTEM_PROMPT,
-            messages=[{'role': 'user', 'content': prompt}],
+        result = subprocess.run(
+            [CLAUDE_BIN, '--print', '--model', MODEL, prompt],
+            capture_output=True, text=True, timeout=90, env=env,
         )
-        raw = response.content[0].text.strip()
-        if raw.startswith('```'):
-            raw = raw.split('```')[1]
-            if raw.startswith('json'):
-                raw = raw[4:]
-        return json.loads(raw.strip())
-    except json.JSONDecodeError as e:
-        print(f"  JSON parse error: {e}")
+        if result.returncode != 0:
+            print(f"  claude CLI error: {result.stderr.strip()[:120]}")
+            return None
+        raw = result.stdout.strip()
+        # Strip code fences if present
+        if '```' in raw:
+            parts = raw.split('```')
+            for part in parts:
+                stripped = part.strip()
+                if stripped.startswith('json'):
+                    stripped = stripped[4:].strip()
+                if stripped.startswith('{'):
+                    raw = stripped
+                    break
+        # Find first JSON object in output
+        start = raw.find('{')
+        end = raw.rfind('}')
+        if start != -1 and end != -1:
+            raw = raw[start:end+1]
+        return json.loads(raw)
+    except subprocess.TimeoutExpired:
+        print("  Timeout after 90s")
         return None
-    except anthropic.RateLimitError:
-        print("  Rate limited — waiting 15s...")
-        time.sleep(15)
+    except json.JSONDecodeError as e:
+        print(f"  JSON parse error: {e} — raw: {raw[:150]}")
         return None
     except Exception as e:
-        print(f"  API error: {e}")
+        print(f"  CLI error: {e}")
         return None
 
 
@@ -227,12 +251,9 @@ def main():
     parser.add_argument('--url',     type=str, default=None, help='Summarise a single URL')
     args = parser.parse_args()
 
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key and not args.dry_run:
-        print("ERROR: ANTHROPIC_API_KEY not set. Export it first.")
-        sys.exit(1)
-
-    client = anthropic.Anthropic(api_key=api_key) if not args.dry_run else None
+    # Uses local Claude CLI (OAuth) — no API key needed or allowed
+    if not args.dry_run:
+        print(f"Using Claude CLI: {CLAUDE_BIN} (OAuth — no API key)")
 
     # Load existing summaries
     existing: dict[str, dict] = {}
@@ -302,7 +323,7 @@ def main():
         print(f"  Fetched {article['word_count']} words — summarising...")
 
         # Summarise
-        summary = generate_summary(client, article, url, args.dry_run)
+        summary = generate_summary(article, url, args.dry_run)
         if not summary:
             failed += 1
             continue
