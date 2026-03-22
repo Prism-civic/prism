@@ -491,11 +491,23 @@ export function NewsFeed({ lang = 'en' }: Props) {
 
               {!articleLoading && articleData?.error && (
                 <div className="space-y-3">
-                  <p className="text-sm text-red-300/80">
-                    {tl('Could not load this article.', 'Ezt a cikket nem sikerült betölteni.')}
-                    {' '}{articleData.error}
-                  </p>
-                  <p className="text-xs text-muted/60">{tl('The source may block automated access or require a subscription.', 'A forrás blokkolhatja az automatikus hozzáférést, vagy előfizetés szükséges.')}</p>
+                  {articleData.error === 'no_summary' ? (
+                    <>
+                      <p className="text-sm text-muted/80">
+                        {tl('Summary not yet generated for this article.', 'Ehhez a cikkhez még nem készült összefoglaló.')}
+                      </p>
+                      <p className="text-xs text-muted/50">
+                        {tl('The observer will include it in the next generation run. Use the link below to read the original.', 'A megfigyelő a következő generálási futtatásban fogja feldolgozni. Az eredeti cikket az alábbi hivatkozással érheti el.')}
+                      </p>
+                    </>
+                  ) : (
+                    <>
+                      <p className="text-sm text-red-300/80">
+                        {tl('Could not load this article.', 'Ezt a cikket nem sikerült betölteni.')}
+                      </p>
+                      <p className="text-xs text-muted/60">{tl('The source may block automated access or require a subscription.', 'A forrás blokkolhatja az automatikus hozzáférést, vagy előfizetés szükséges.')}</p>
+                    </>
+                  )}
                 </div>
               )}
 
