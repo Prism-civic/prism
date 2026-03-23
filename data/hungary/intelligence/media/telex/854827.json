@@ -2,9 +2,20 @@
   "kpn_id": 854827,
   "candidate_name": "NAGY ZOLTÁN",
   "source": "https://telex.hu",
-  "scraped_at": "2026-03-21T21:44:56.368407+00:00",
-  "item_count": 0,
-  "items": [],
+  "scraped_at": "2026-03-22T18:23:06.023694+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Ez a pénz csak papíron van, sajnos nem az én zsebemben – mondta Nagy Feró a Magyar Péter által...",
+      "url": "https://telex.hu/belfold/2026/03/22/dpk-sportarena-gyules-koltseg-nagy-fero-pataky-attila-human-telex-digitalis-demokraciafejlesztesi-ugynokseg",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
   "party": "Mi Hazánk",
   "constituency": "Hajdú-Bihar county, 06. no. constituency",
   "search_name_used": "Nagy Zoltán"

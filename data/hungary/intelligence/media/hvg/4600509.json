@@ -2,12 +2,32 @@
   "kpn_id": 4600509,
   "candidate_name": "KOVÁCS BALÁZS NORBERT",
   "source": "https://hvg.hu",
-  "scraped_at": "2026-03-21T19:57:47.827176+00:00",
-  "item_count": 1,
+  "scraped_at": "2026-03-22T19:49:41.194465+00:00",
+  "item_count": 3,
   "items": [
     {
-      "title": "Kovács Bálint: A hamis ukrán zászlós hadművelet nagyobb bajt mutat, mint ami elsőre látszik",
-      "url": "https://hvg.hu/360/20260318_ukran-zaszlo-marcius-15-tisza-nemzeti-menet-provokacio-fidesz-aktivistak-velemeny-kovacs-balint",
+      "title": "Kovács Bálint: Szijjártó, az oroszok, a hazaárulás és a választási csalás",
+      "url": "https://hvg.hu/360/20260322_kovacs-balint-szijjarto-az-oroszok-a-hazaarulas-es-a-valasztasi-csalas-washington-post-velemeny",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Kovács Bálint: Szijjártó, az oroszok, a hazaárulás és a választási csalás",
+      "url": "https://hvg.hu/360/20260322_kovacs-balint-szijjarto-az-oroszok-a-hazaarulas-es-a-valasztasi-csalas-washington-post-velemeny",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Kovács Bálint: Szijjártó, az oroszok, a hazaárulás és a választási csalás",
+      "url": "https://hvg.hu/360/20260322_kovacs-balint-szijjarto-az-oroszok-a-hazaarulas-es-a-valasztasi-csalas-washington-post-velemeny",
       "date": null,
       "excerpt": null,
       "source": "hvg.hu",

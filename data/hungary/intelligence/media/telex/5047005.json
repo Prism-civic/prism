@@ -2,12 +2,32 @@
   "kpn_id": 5047005,
   "candidate_name": "SZAFKÓ ZOLTÁN PÉTER",
   "source": "https://telex.hu",
-  "scraped_at": "2026-03-21T21:35:35.443488+00:00",
-  "item_count": 1,
+  "scraped_at": "2026-03-22T18:13:48.294972+00:00",
+  "item_count": 3,
   "items": [
     {
-      "title": "Magyar Péter szerint Orbán háborús őrülete és a biztonságot, békét jelentő Tisza közül lehet...",
-      "url": "https://telex.hu/belfold/2026/03/21/magyar-peter-sopron-kampany-valasztas-tisza-part",
+      "title": "Ez a pénz csak papíron van, sajnos nem az én zsebemben – mondta Nagy Feró a Magyar Péter által...",
+      "url": "https://telex.hu/belfold/2026/03/22/dpk-sportarena-gyules-koltseg-nagy-fero-pataky-attila-human-telex-digitalis-demokraciafejlesztesi-ugynokseg",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "A rendőrök bilincsben vitték el a férfit, aki Magyar Péter szerint késsel fenyegetőzött Radnai...",
+      "url": "https://telex.hu/belfold/2026/03/22/rendorok-vittek-el-a-ferfit-aki-magyar-peter-szerint-kessel-tamadt-a-szervezokre-radnai-mark-foruman",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Mindenre kiterjedő drogtesztet csináltatott Magyar Péter",
+      "url": "https://telex.hu/belfold/2026/03/22/mindenre-kiterjedo-drogtesztet-csinaltatott-magyar-peter",
       "date": null,
       "excerpt": null,
       "source": "telex.hu",

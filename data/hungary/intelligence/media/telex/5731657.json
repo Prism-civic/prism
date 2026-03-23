@@ -2,20 +2,9 @@
   "kpn_id": 5731657,
   "candidate_name": "KÓBER GYÖRGY MÁRK",
   "source": "https://telex.hu",
-  "scraped_at": "2026-03-21T22:06:45.101241+00:00",
-  "item_count": 1,
-  "items": [
-    {
-      "title": "Rendőrök szerelték le a Márki-Zay rendezvényét megzavaró férfit, akinél a politikus szerint...",
-      "url": "https://telex.hu/belfold/2026/03/21/marki-zay-peter-hodmezovasarhely-tamadas-rendorseg",
-      "date": null,
-      "excerpt": null,
-      "source": "telex.hu",
-      "weight": "medium",
-      "confidence": "medium",
-      "tags": []
-    }
-  ],
+  "scraped_at": "2026-03-22T18:44:44.949192+00:00",
+  "item_count": 0,
+  "items": [],
   "party": "MKKP",
   "constituency": "Vas county, 01. no. constituency",
   "search_name_used": "Kóber György Márk"

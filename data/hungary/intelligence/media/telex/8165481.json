@@ -2,20 +2,9 @@
   "kpn_id": 8165481,
   "candidate_name": "FÜLÖP ATTILA",
   "source": "https://telex.hu",
-  "scraped_at": "2026-03-21T19:56:09.252489+00:00",
-  "item_count": 1,
-  "items": [
-    {
-      "title": "Molnár Attila hatodik lett 400 méteren a fedettpályás atlétikai vb-n",
-      "url": "https://telex.hu/sport/2026/03/21/molnar-attila-hatodik-lett-400-meteren-atletikai-vb-n",
-      "date": null,
-      "excerpt": null,
-      "source": "telex.hu",
-      "weight": "medium",
-      "confidence": "medium",
-      "tags": []
-    }
-  ],
+  "scraped_at": "2026-03-22T17:57:29.184401+00:00",
+  "item_count": 0,
+  "items": [],
   "party": "FIDESZ-KDNP",
   "constituency": "Budapest capital, 04. no. constituency",
   "search_name_used": "Fülöp Attila"

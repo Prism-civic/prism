@@ -1,0 +1,32 @@
+{
+  "kpn_id": 6175889,
+  "candidate_name": "ANTAL SZABOLCS",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-22T19:59:48.913881+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "title": "Panyi Szabolcs: Már terjednek a kamu videók egy Orbán elleni merényletről",
+      "url": "https://hvg.hu/itthon/20260322_orban-viktor-kamuvideo-merenylet-matroska-bothalozat-orosz-titkosszolgalat-szvr-valasztasi-kampany",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    },
+    {
+      "title": "Dull Szabolcs: Valamilyen elszámoltatás akkor is lesz, ha a Fidesz nyer – Fülke",
+      "url": "https://hvg.hu/itthon/20260320_fulke-podcast-dull-szabolcs-valasztas-kampany-magyar-peter-orban-viktor",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Hajdú-Bihar county, 03. no. constituency",
+  "search_name_used": "Antal Szabolcs"
+}

@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-22T17:00:00.075921853+01:00",
+    "generated" : "2026-03-23T17:00:00.137208866+01:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -17,11 +17,11 @@
     "oevk_jeloltre_szavhat" : 73981,
     "letszam" : {
       "indulo" : 74492,
-      "honos" : 72408,
-      "atjel" : 4017,
-      "atjelInnen" : 1573,
-      "kuvi" : 1963,
-      "osszesen" : 76425
+      "honos" : 72336,
+      "atjel" : 4166,
+      "atjelInnen" : 1645,
+      "kuvi" : 2023,
+      "osszesen" : 76502
     }
   }, {
     "maz" : "01",
@@ -32,14 +32,14 @@
     "evk_nev_en" : "Budapest capital, 02. no. constituency",
     "szekhely" : "Budapest 08. kerület",
     "szekhely_en" : "Budapest 8th district",
-    "oevk_jeloltre_szavhat" : 76489,
+    "oevk_jeloltre_szavhat" : 76490,
     "letszam" : {
       "indulo" : 76932,
-      "honos" : 74632,
-      "atjel" : 6415,
-      "atjelInnen" : 1857,
-      "kuvi" : 1599,
-      "osszesen" : 81047
+      "honos" : 74532,
+      "atjel" : 6654,
+      "atjelInnen" : 1958,
+      "kuvi" : 1647,
+      "osszesen" : 81186
     }
   }, {
     "maz" : "01",
@@ -53,11 +53,11 @@
     "oevk_jeloltre_szavhat" : 78466,
     "letszam" : {
       "indulo" : 78809,
-      "honos" : 77332,
-      "atjel" : 7636,
-      "atjelInnen" : 1134,
-      "kuvi" : 1973,
-      "osszesen" : 84968
+      "honos" : 77278,
+      "atjel" : 7906,
+      "atjelInnen" : 1188,
+      "kuvi" : 2036,
+      "osszesen" : 85184
     }
   }, {
     "maz" : "01",
@@ -71,11 +71,11 @@
     "oevk_jeloltre_szavhat" : 80374,
     "letszam" : {
       "indulo" : 80575,
-      "honos" : 79310,
-      "atjel" : 2348,
-      "atjelInnen" : 1064,
-      "kuvi" : 2303,
-      "osszesen" : 81658
+      "honos" : 79256,
+      "atjel" : 2438,
+      "atjelInnen" : 1118,
+      "kuvi" : 2387,
+      "osszesen" : 81694
     }
   }, {
     "maz" : "01",
@@ -89,11 +89,11 @@
     "oevk_jeloltre_szavhat" : 76997,
     "letszam" : {
       "indulo" : 77405,
-      "honos" : 75192,
-      "atjel" : 1532,
-      "atjelInnen" : 1805,
-      "kuvi" : 1572,
-      "osszesen" : 76724
+      "honos" : 75116,
+      "atjel" : 1604,
+      "atjelInnen" : 1881,
+      "kuvi" : 1619,
+      "osszesen" : 76720
     }
   }, {
     "maz" : "01",
@@ -107,11 +107,11 @@
     "oevk_jeloltre_szavhat" : 78345,
     "letszam" : {
       "indulo" : 78613,
-      "honos" : 76732,
-      "atjel" : 4779,
-      "atjelInnen" : 1613,
-      "kuvi" : 1578,
-      "osszesen" : 81511
+      "honos" : 76667,
+      "atjel" : 4958,
+      "atjelInnen" : 1678,
+      "kuvi" : 1632,
+      "osszesen" : 81625
     }
   }, {
     "maz" : "01",
@@ -125,11 +125,11 @@
     "oevk_jeloltre_szavhat" : 75446,
     "letszam" : {
       "indulo" : 75822,
-      "honos" : 74079,
-      "atjel" : 2885,
-      "atjelInnen" : 1367,
-      "kuvi" : 1004,
-      "osszesen" : 76964
+      "honos" : 74023,
+      "atjel" : 2995,
+      "atjelInnen" : 1423,
+      "kuvi" : 1048,
+      "osszesen" : 77018
     }
   }, {
     "maz" : "01",
@@ -143,11 +143,11 @@
     "oevk_jeloltre_szavhat" : 79294,
     "letszam" : {
       "indulo" : 79613,
-      "honos" : 78175,
-      "atjel" : 3173,
-      "atjelInnen" : 1119,
-      "kuvi" : 901,
-      "osszesen" : 81348
+      "honos" : 78137,
+      "atjel" : 3280,
+      "atjelInnen" : 1157,
+      "kuvi" : 930,
+      "osszesen" : 81417
     }
   }, {
     "maz" : "01",
@@ -158,14 +158,14 @@
     "evk_nev_en" : "Budapest capital, 09. no. constituency",
     "szekhely" : "Budapest 21. kerület",
     "szekhely_en" : "Budapest 21st district",
-    "oevk_jeloltre_szavhat" : 75164,
+    "oevk_jeloltre_szavhat" : 75165,
     "letszam" : {
       "indulo" : 75438,
-      "honos" : 74121,
-      "atjel" : 2941,
-      "atjelInnen" : 1043,
-      "kuvi" : 727,
-      "osszesen" : 77062
+      "honos" : 74081,
+      "atjel" : 3050,
+      "atjelInnen" : 1084,
+      "kuvi" : 745,
+      "osszesen" : 77131
     }
   }, {
     "maz" : "01",
@@ -179,11 +179,11 @@
     "oevk_jeloltre_szavhat" : 77128,
     "letszam" : {
       "indulo" : 76990,
-      "honos" : 76014,
-      "atjel" : 1148,
-      "atjelInnen" : 1114,
-      "kuvi" : 1167,
-      "osszesen" : 77162
+      "honos" : 75967,
+      "atjel" : 1190,
+      "atjelInnen" : 1161,
+      "kuvi" : 1202,
+      "osszesen" : 77157
     }
   }, {
     "maz" : "01",
@@ -197,11 +197,11 @@
     "oevk_jeloltre_szavhat" : 79557,
     "letszam" : {
       "indulo" : 79892,
-      "honos" : 78289,
-      "atjel" : 3311,
-      "atjelInnen" : 1268,
-      "kuvi" : 1195,
-      "osszesen" : 81600
+      "honos" : 78237,
+      "atjel" : 3455,
+      "atjelInnen" : 1320,
+      "kuvi" : 1235,
+      "osszesen" : 81692
     }
   }, {
     "maz" : "01",
@@ -215,11 +215,11 @@
     "oevk_jeloltre_szavhat" : 78785,
     "letszam" : {
       "indulo" : 79032,
-      "honos" : 77465,
-      "atjel" : 8222,
-      "atjelInnen" : 1320,
-      "kuvi" : 1052,
-      "osszesen" : 85687
+      "honos" : 77407,
+      "atjel" : 8513,
+      "atjelInnen" : 1378,
+      "kuvi" : 1082,
+      "osszesen" : 85920
     }
   }, {
     "maz" : "01",
@@ -233,11 +233,11 @@
     "oevk_jeloltre_szavhat" : 76618,
     "letszam" : {
       "indulo" : 76995,
-      "honos" : 75550,
-      "atjel" : 1836,
-      "atjelInnen" : 1068,
-      "kuvi" : 821,
-      "osszesen" : 77386
+      "honos" : 75515,
+      "atjel" : 1899,
+      "atjelInnen" : 1103,
+      "kuvi" : 846,
+      "osszesen" : 77414
     }
   }, {
     "maz" : "01",
@@ -251,11 +251,11 @@
     "oevk_jeloltre_szavhat" : 77376,
     "letszam" : {
       "indulo" : 77663,
-      "honos" : 76492,
-      "atjel" : 1446,
-      "atjelInnen" : 884,
-      "kuvi" : 970,
-      "osszesen" : 77938
+      "honos" : 76461,
+      "atjel" : 1491,
+      "atjelInnen" : 914,
+      "kuvi" : 1008,
+      "osszesen" : 77952
     }
   }, {
     "maz" : "01",
@@ -269,11 +269,11 @@
     "oevk_jeloltre_szavhat" : 79365,
     "letszam" : {
       "indulo" : 79615,
-      "honos" : 78496,
-      "atjel" : 1323,
-      "atjelInnen" : 869,
-      "kuvi" : 821,
-      "osszesen" : 79819
+      "honos" : 78463,
+      "atjel" : 1366,
+      "atjelInnen" : 902,
+      "kuvi" : 845,
+      "osszesen" : 79829
     }
   }, {
     "maz" : "01",
@@ -287,11 +287,11 @@
     "oevk_jeloltre_szavhat" : 83545,
     "letszam" : {
       "indulo" : 83867,
-      "honos" : 82550,
-      "atjel" : 396,
-      "atjelInnen" : 995,
-      "kuvi" : 859,
-      "osszesen" : 82946
+      "honos" : 82510,
+      "atjel" : 412,
+      "atjelInnen" : 1035,
+      "kuvi" : 888,
+      "osszesen" : 82922
     }
   }, {
     "maz" : "02",
@@ -305,11 +305,11 @@
     "oevk_jeloltre_szavhat" : 70832,
     "letszam" : {
       "indulo" : 71170,
-      "honos" : 69344,
-      "atjel" : 2411,
-      "atjelInnen" : 1488,
-      "kuvi" : 827,
-      "osszesen" : 71755
+      "honos" : 69273,
+      "atjel" : 2510,
+      "atjelInnen" : 1559,
+      "kuvi" : 862,
+      "osszesen" : 71783
     }
   }, {
     "maz" : "02",
@@ -323,11 +323,11 @@
     "oevk_jeloltre_szavhat" : 75015,
     "letszam" : {
       "indulo" : 75388,
-      "honos" : 73648,
-      "atjel" : 301,
-      "atjelInnen" : 1367,
-      "kuvi" : 679,
-      "osszesen" : 73949
+      "honos" : 73601,
+      "atjel" : 322,
+      "atjelInnen" : 1414,
+      "kuvi" : 696,
+      "osszesen" : 73923
     }
   }, {
     "maz" : "02",
@@ -341,11 +341,11 @@
     "oevk_jeloltre_szavhat" : 68737,
     "letszam" : {
       "indulo" : 68995,
-      "honos" : 67733,
-      "atjel" : 514,
-      "atjelInnen" : 1004,
-      "kuvi" : 380,
-      "osszesen" : 68247
+      "honos" : 67675,
+      "atjel" : 548,
+      "atjelInnen" : 1062,
+      "kuvi" : 397,
+      "osszesen" : 68223
     }
   }, {
     "maz" : "02",
@@ -359,11 +359,11 @@
     "oevk_jeloltre_szavhat" : 73846,
     "letszam" : {
       "indulo" : 74056,
-      "honos" : 72744,
-      "atjel" : 533,
-      "atjelInnen" : 1102,
-      "kuvi" : 321,
-      "osszesen" : 73277
+      "honos" : 72687,
+      "atjel" : 574,
+      "atjelInnen" : 1159,
+      "kuvi" : 341,
+      "osszesen" : 73261
     }
   }, {
     "maz" : "03",
@@ -374,14 +374,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 01. no. constituency",
     "szekhely" : "Kecskemét",
     "szekhely_en" : "Kecskemét",
-    "oevk_jeloltre_szavhat" : 67952,
+    "oevk_jeloltre_szavhat" : 67953,
     "letszam" : {
       "indulo" : 68116,
-      "honos" : 66996,
-      "atjel" : 257,
-      "atjelInnen" : 956,
-      "kuvi" : 394,
-      "osszesen" : 67253
+      "honos" : 66974,
+      "atjel" : 261,
+      "atjelInnen" : 979,
+      "kuvi" : 410,
+      "osszesen" : 67235
     }
   }, {
     "maz" : "03",
@@ -395,11 +395,11 @@
     "oevk_jeloltre_szavhat" : 71549,
     "letszam" : {
       "indulo" : 71744,
-      "honos" : 70463,
-      "atjel" : 1518,
-      "atjelInnen" : 1086,
-      "kuvi" : 530,
-      "osszesen" : 71981
+      "honos" : 70427,
+      "atjel" : 1565,
+      "atjelInnen" : 1122,
+      "kuvi" : 555,
+      "osszesen" : 71992
     }
   }, {
     "maz" : "03",
@@ -413,11 +413,11 @@
     "oevk_jeloltre_szavhat" : 63299,
     "letszam" : {
       "indulo" : 63523,
-      "honos" : 62166,
-      "atjel" : 568,
-      "atjelInnen" : 1133,
-      "kuvi" : 330,
-      "osszesen" : 62734
+      "honos" : 62128,
+      "atjel" : 585,
+      "atjelInnen" : 1171,
+      "kuvi" : 351,
+      "osszesen" : 62713
     }
   }, {
     "maz" : "03",
@@ -431,11 +431,11 @@
     "oevk_jeloltre_szavhat" : 70100,
     "letszam" : {
       "indulo" : 70354,
-      "honos" : 69205,
-      "atjel" : 419,
-      "atjelInnen" : 895,
-      "kuvi" : 330,
-      "osszesen" : 69624
+      "honos" : 69161,
+      "atjel" : 441,
+      "atjelInnen" : 939,
+      "kuvi" : 348,
+      "osszesen" : 69602
     }
   }, {
     "maz" : "03",
@@ -449,11 +449,11 @@
     "oevk_jeloltre_szavhat" : 65645,
     "letszam" : {
       "indulo" : 65960,
-      "honos" : 64433,
-      "atjel" : 471,
-      "atjelInnen" : 1212,
-      "kuvi" : 399,
-      "osszesen" : 64904
+      "honos" : 64357,
+      "atjel" : 519,
+      "atjelInnen" : 1288,
+      "kuvi" : 409,
+      "osszesen" : 64876
     }
   }, {
     "maz" : "03",
@@ -467,11 +467,11 @@
     "oevk_jeloltre_szavhat" : 62191,
     "letszam" : {
       "indulo" : 62413,
-      "honos" : 60973,
-      "atjel" : 485,
-      "atjelInnen" : 1218,
-      "kuvi" : 394,
-      "osszesen" : 61458
+      "honos" : 60926,
+      "atjel" : 511,
+      "atjelInnen" : 1265,
+      "kuvi" : 405,
+      "osszesen" : 61437
     }
   }, {
     "maz" : "04",
@@ -485,11 +485,11 @@
     "oevk_jeloltre_szavhat" : 66104,
     "letszam" : {
       "indulo" : 66341,
-      "honos" : 64477,
-      "atjel" : 681,
-      "atjelInnen" : 1627,
-      "kuvi" : 472,
-      "osszesen" : 65158
+      "honos" : 64419,
+      "atjel" : 709,
+      "atjelInnen" : 1685,
+      "kuvi" : 483,
+      "osszesen" : 65128
     }
   }, {
     "maz" : "04",
@@ -503,11 +503,11 @@
     "oevk_jeloltre_szavhat" : 66488,
     "letszam" : {
       "indulo" : 66737,
-      "honos" : 65141,
-      "atjel" : 343,
-      "atjelInnen" : 1347,
-      "kuvi" : 395,
-      "osszesen" : 65484
+      "honos" : 65081,
+      "atjel" : 358,
+      "atjelInnen" : 1407,
+      "kuvi" : 415,
+      "osszesen" : 65439
     }
   }, {
     "maz" : "04",
@@ -521,11 +521,11 @@
     "oevk_jeloltre_szavhat" : 65312,
     "letszam" : {
       "indulo" : 65626,
-      "honos" : 63878,
-      "atjel" : 518,
-      "atjelInnen" : 1434,
-      "kuvi" : 357,
-      "osszesen" : 64396
+      "honos" : 63820,
+      "atjel" : 537,
+      "atjelInnen" : 1492,
+      "kuvi" : 372,
+      "osszesen" : 64357
     }
   }, {
     "maz" : "04",
@@ -539,11 +539,11 @@
     "oevk_jeloltre_szavhat" : 68217,
     "letszam" : {
       "indulo" : 68573,
-      "honos" : 66688,
-      "atjel" : 325,
-      "atjelInnen" : 1529,
-      "kuvi" : 427,
-      "osszesen" : 67013
+      "honos" : 66622,
+      "atjel" : 347,
+      "atjelInnen" : 1595,
+      "kuvi" : 436,
+      "osszesen" : 66969
     }
   }, {
     "maz" : "05",
@@ -557,11 +557,11 @@
     "oevk_jeloltre_szavhat" : 69225,
     "letszam" : {
       "indulo" : 69596,
-      "honos" : 67928,
-      "atjel" : 196,
-      "atjelInnen" : 1297,
-      "kuvi" : 526,
-      "osszesen" : 68124
+      "honos" : 67854,
+      "atjel" : 199,
+      "atjelInnen" : 1371,
+      "kuvi" : 551,
+      "osszesen" : 68053
     }
   }, {
     "maz" : "05",
@@ -575,11 +575,11 @@
     "oevk_jeloltre_szavhat" : 68334,
     "letszam" : {
       "indulo" : 68632,
-      "honos" : 66927,
-      "atjel" : 1227,
-      "atjelInnen" : 1407,
-      "kuvi" : 567,
-      "osszesen" : 68154
+      "honos" : 66852,
+      "atjel" : 1306,
+      "atjelInnen" : 1482,
+      "kuvi" : 584,
+      "osszesen" : 68158
     }
   }, {
     "maz" : "05",
@@ -593,11 +593,11 @@
     "oevk_jeloltre_szavhat" : 67697,
     "letszam" : {
       "indulo" : 68060,
-      "honos" : 66419,
-      "atjel" : 294,
-      "atjelInnen" : 1278,
-      "kuvi" : 211,
-      "osszesen" : 66713
+      "honos" : 66369,
+      "atjel" : 309,
+      "atjelInnen" : 1328,
+      "kuvi" : 217,
+      "osszesen" : 66678
     }
   }, {
     "maz" : "05",
@@ -611,11 +611,11 @@
     "oevk_jeloltre_szavhat" : 71403,
     "letszam" : {
       "indulo" : 71778,
-      "honos" : 70194,
-      "atjel" : 304,
-      "atjelInnen" : 1209,
-      "kuvi" : 318,
-      "osszesen" : 70498
+      "honos" : 70146,
+      "atjel" : 315,
+      "atjelInnen" : 1257,
+      "kuvi" : 332,
+      "osszesen" : 70461
     }
   }, {
     "maz" : "05",
@@ -629,11 +629,11 @@
     "oevk_jeloltre_szavhat" : 70116,
     "letszam" : {
       "indulo" : 70421,
-      "honos" : 68343,
-      "atjel" : 437,
-      "atjelInnen" : 1773,
-      "kuvi" : 300,
-      "osszesen" : 68780
+      "honos" : 68261,
+      "atjel" : 465,
+      "atjelInnen" : 1855,
+      "kuvi" : 308,
+      "osszesen" : 68726
     }
   }, {
     "maz" : "05",
@@ -647,11 +647,11 @@
     "oevk_jeloltre_szavhat" : 73671,
     "letszam" : {
       "indulo" : 74010,
-      "honos" : 72279,
-      "atjel" : 370,
-      "atjelInnen" : 1392,
-      "kuvi" : 352,
-      "osszesen" : 72649
+      "honos" : 72232,
+      "atjel" : 386,
+      "atjelInnen" : 1439,
+      "kuvi" : 375,
+      "osszesen" : 72618
     }
   }, {
     "maz" : "05",
@@ -665,11 +665,11 @@
     "oevk_jeloltre_szavhat" : 74279,
     "letszam" : {
       "indulo" : 74526,
-      "honos" : 73047,
-      "atjel" : 558,
-      "atjelInnen" : 1232,
-      "kuvi" : 374,
-      "osszesen" : 73605
+      "honos" : 73007,
+      "atjel" : 584,
+      "atjelInnen" : 1272,
+      "kuvi" : 391,
+      "osszesen" : 73591
     }
   }, {
     "maz" : "06",
@@ -683,11 +683,11 @@
     "oevk_jeloltre_szavhat" : 82053,
     "letszam" : {
       "indulo" : 82389,
-      "honos" : 80502,
+      "honos" : 80434,
       "atjel" : 0,
-      "atjelInnen" : 1551,
-      "kuvi" : 1058,
-      "osszesen" : 80502
+      "atjelInnen" : 1619,
+      "kuvi" : 1105,
+      "osszesen" : 80434
     }
   }, {
     "maz" : "06",
@@ -701,11 +701,11 @@
     "oevk_jeloltre_szavhat" : 80163,
     "letszam" : {
       "indulo" : 80379,
-      "honos" : 78955,
-      "atjel" : 3301,
-      "atjelInnen" : 1208,
-      "kuvi" : 763,
-      "osszesen" : 82256
+      "honos" : 78896,
+      "atjel" : 3401,
+      "atjelInnen" : 1267,
+      "kuvi" : 786,
+      "osszesen" : 82297
     }
   }, {
     "maz" : "06",
@@ -719,11 +719,11 @@
     "oevk_jeloltre_szavhat" : 77828,
     "letszam" : {
       "indulo" : 78125,
-      "honos" : 76635,
-      "atjel" : 528,
-      "atjelInnen" : 1193,
-      "kuvi" : 408,
-      "osszesen" : 77163
+      "honos" : 76574,
+      "atjel" : 561,
+      "atjelInnen" : 1254,
+      "kuvi" : 435,
+      "osszesen" : 77135
     }
   }, {
     "maz" : "06",
@@ -737,11 +737,11 @@
     "oevk_jeloltre_szavhat" : 76423,
     "letszam" : {
       "indulo" : 76771,
-      "honos" : 75348,
-      "atjel" : 560,
-      "atjelInnen" : 1075,
-      "kuvi" : 395,
-      "osszesen" : 75908
+      "honos" : 75312,
+      "atjel" : 582,
+      "atjelInnen" : 1111,
+      "kuvi" : 410,
+      "osszesen" : 75894
     }
   }, {
     "maz" : "07",
@@ -755,11 +755,11 @@
     "oevk_jeloltre_szavhat" : 69997,
     "letszam" : {
       "indulo" : 70188,
-      "honos" : 69074,
-      "atjel" : 1794,
-      "atjelInnen" : 923,
-      "kuvi" : 638,
-      "osszesen" : 70868
+      "honos" : 69038,
+      "atjel" : 1849,
+      "atjelInnen" : 959,
+      "kuvi" : 652,
+      "osszesen" : 70887
     }
   }, {
     "maz" : "07",
@@ -773,11 +773,11 @@
     "oevk_jeloltre_szavhat" : 66269,
     "letszam" : {
       "indulo" : 66457,
-      "honos" : 65221,
-      "atjel" : 437,
-      "atjelInnen" : 1048,
-      "kuvi" : 456,
-      "osszesen" : 65658
+      "honos" : 65187,
+      "atjel" : 453,
+      "atjelInnen" : 1082,
+      "kuvi" : 479,
+      "osszesen" : 65640
     }
   }, {
     "maz" : "07",
@@ -791,11 +791,11 @@
     "oevk_jeloltre_szavhat" : 69238,
     "letszam" : {
       "indulo" : 69164,
-      "honos" : 68164,
-      "atjel" : 1396,
-      "atjelInnen" : 1074,
-      "kuvi" : 530,
-      "osszesen" : 69560
+      "honos" : 68115,
+      "atjel" : 1451,
+      "atjelInnen" : 1123,
+      "kuvi" : 541,
+      "osszesen" : 69566
     }
   }, {
     "maz" : "07",
@@ -809,11 +809,11 @@
     "oevk_jeloltre_szavhat" : 66820,
     "letszam" : {
       "indulo" : 67025,
-      "honos" : 65746,
-      "atjel" : 946,
-      "atjelInnen" : 1074,
-      "kuvi" : 399,
-      "osszesen" : 66692
+      "honos" : 65696,
+      "atjel" : 972,
+      "atjelInnen" : 1124,
+      "kuvi" : 413,
+      "osszesen" : 66668
     }
   }, {
     "maz" : "07",
@@ -827,11 +827,11 @@
     "oevk_jeloltre_szavhat" : 65517,
     "letszam" : {
       "indulo" : 65739,
-      "honos" : 64564,
-      "atjel" : 333,
-      "atjelInnen" : 953,
-      "kuvi" : 235,
-      "osszesen" : 64897
+      "honos" : 64513,
+      "atjel" : 354,
+      "atjelInnen" : 1004,
+      "kuvi" : 241,
+      "osszesen" : 64867
     }
   }, {
     "maz" : "08",
@@ -845,11 +845,11 @@
     "oevk_jeloltre_szavhat" : 65740,
     "letszam" : {
       "indulo" : 65953,
-      "honos" : 64752,
-      "atjel" : 2767,
-      "atjelInnen" : 988,
-      "kuvi" : 540,
-      "osszesen" : 67519
+      "honos" : 64718,
+      "atjel" : 2873,
+      "atjelInnen" : 1022,
+      "kuvi" : 560,
+      "osszesen" : 67591
     }
   }, {
     "maz" : "08",
@@ -863,11 +863,11 @@
     "oevk_jeloltre_szavhat" : 73282,
     "letszam" : {
       "indulo" : 73402,
-      "honos" : 72358,
-      "atjel" : 444,
-      "atjelInnen" : 924,
-      "kuvi" : 418,
-      "osszesen" : 72802
+      "honos" : 72310,
+      "atjel" : 468,
+      "atjelInnen" : 972,
+      "kuvi" : 436,
+      "osszesen" : 72778
     }
   }, {
     "maz" : "08",
@@ -881,11 +881,11 @@
     "oevk_jeloltre_szavhat" : 66647,
     "letszam" : {
       "indulo" : 66792,
-      "honos" : 65865,
-      "atjel" : 566,
-      "atjelInnen" : 782,
-      "kuvi" : 220,
-      "osszesen" : 66431
+      "honos" : 65832,
+      "atjel" : 598,
+      "atjelInnen" : 815,
+      "kuvi" : 228,
+      "osszesen" : 66430
     }
   }, {
     "maz" : "08",
@@ -899,11 +899,11 @@
     "oevk_jeloltre_szavhat" : 75178,
     "letszam" : {
       "indulo" : 75318,
-      "honos" : 73967,
-      "atjel" : 2254,
-      "atjelInnen" : 1211,
-      "kuvi" : 362,
-      "osszesen" : 76221
+      "honos" : 73920,
+      "atjel" : 2350,
+      "atjelInnen" : 1258,
+      "kuvi" : 371,
+      "osszesen" : 76270
     }
   }, {
     "maz" : "08",
@@ -917,11 +917,11 @@
     "oevk_jeloltre_szavhat" : 78565,
     "letszam" : {
       "indulo" : 78656,
-      "honos" : 77641,
-      "atjel" : 1200,
-      "atjelInnen" : 924,
-      "kuvi" : 357,
-      "osszesen" : 78841
+      "honos" : 77606,
+      "atjel" : 1251,
+      "atjelInnen" : 959,
+      "kuvi" : 365,
+      "osszesen" : 78857
     }
   }, {
     "maz" : "09",
@@ -935,11 +935,11 @@
     "oevk_jeloltre_szavhat" : 65234,
     "letszam" : {
       "indulo" : 65542,
-      "honos" : 63853,
+      "honos" : 63791,
       "atjel" : 0,
-      "atjelInnen" : 1381,
-      "kuvi" : 724,
-      "osszesen" : 63853
+      "atjelInnen" : 1443,
+      "kuvi" : 739,
+      "osszesen" : 63791
     }
   }, {
     "maz" : "09",
@@ -953,11 +953,11 @@
     "oevk_jeloltre_szavhat" : 69554,
     "letszam" : {
       "indulo" : 69866,
-      "honos" : 68199,
-      "atjel" : 2455,
-      "atjelInnen" : 1355,
-      "kuvi" : 601,
-      "osszesen" : 70654
+      "honos" : 68157,
+      "atjel" : 2530,
+      "atjelInnen" : 1397,
+      "kuvi" : 613,
+      "osszesen" : 70687
     }
   }, {
     "maz" : "09",
@@ -971,11 +971,11 @@
     "oevk_jeloltre_szavhat" : 78045,
     "letszam" : {
       "indulo" : 78275,
-      "honos" : 76911,
-      "atjel" : 282,
-      "atjelInnen" : 1134,
-      "kuvi" : 371,
-      "osszesen" : 77193
+      "honos" : 76864,
+      "atjel" : 290,
+      "atjelInnen" : 1181,
+      "kuvi" : 383,
+      "osszesen" : 77154
     }
   }, {
     "maz" : "09",
@@ -989,11 +989,11 @@
     "oevk_jeloltre_szavhat" : 67160,
     "letszam" : {
       "indulo" : 67376,
-      "honos" : 66056,
-      "atjel" : 483,
-      "atjelInnen" : 1104,
-      "kuvi" : 249,
-      "osszesen" : 66539
+      "honos" : 66023,
+      "atjel" : 502,
+      "atjelInnen" : 1137,
+      "kuvi" : 260,
+      "osszesen" : 66525
     }
   }, {
     "maz" : "09",
@@ -1007,11 +1007,11 @@
     "oevk_jeloltre_szavhat" : 68365,
     "letszam" : {
       "indulo" : 68535,
-      "honos" : 67242,
-      "atjel" : 402,
-      "atjelInnen" : 1123,
-      "kuvi" : 342,
-      "osszesen" : 67644
+      "honos" : 67190,
+      "atjel" : 421,
+      "atjelInnen" : 1175,
+      "kuvi" : 357,
+      "osszesen" : 67611
     }
   }, {
     "maz" : "09",
@@ -1025,11 +1025,11 @@
     "oevk_jeloltre_szavhat" : 68157,
     "letszam" : {
       "indulo" : 68382,
-      "honos" : 67226,
-      "atjel" : 320,
-      "atjelInnen" : 931,
-      "kuvi" : 304,
-      "osszesen" : 67546
+      "honos" : 67183,
+      "atjel" : 344,
+      "atjelInnen" : 974,
+      "kuvi" : 313,
+      "osszesen" : 67527
     }
   }, {
     "maz" : "10",
@@ -1040,14 +1040,14 @@
     "evk_nev_en" : "Heves county, 01. no. constituency",
     "szekhely" : "Eger",
     "szekhely_en" : "Eger",
-    "oevk_jeloltre_szavhat" : 79120,
+    "oevk_jeloltre_szavhat" : 79121,
     "letszam" : {
       "indulo" : 79459,
-      "honos" : 77482,
-      "atjel" : 972,
-      "atjelInnen" : 1638,
-      "kuvi" : 595,
-      "osszesen" : 78454
+      "honos" : 77409,
+      "atjel" : 1006,
+      "atjelInnen" : 1712,
+      "kuvi" : 611,
+      "osszesen" : 78415
     }
   }, {
     "maz" : "10",
@@ -1061,11 +1061,11 @@
     "oevk_jeloltre_szavhat" : 74108,
     "letszam" : {
       "indulo" : 74453,
-      "honos" : 72719,
-      "atjel" : 836,
-      "atjelInnen" : 1389,
-      "kuvi" : 379,
-      "osszesen" : 73555
+      "honos" : 72667,
+      "atjel" : 870,
+      "atjelInnen" : 1441,
+      "kuvi" : 397,
+      "osszesen" : 73537
     }
   }, {
     "maz" : "10",
@@ -1079,11 +1079,11 @@
     "oevk_jeloltre_szavhat" : 78431,
     "letszam" : {
       "indulo" : 78700,
-      "honos" : 77218,
-      "atjel" : 556,
-      "atjelInnen" : 1213,
-      "kuvi" : 272,
-      "osszesen" : 77774
+      "honos" : 77185,
+      "atjel" : 569,
+      "atjelInnen" : 1246,
+      "kuvi" : 282,
+      "osszesen" : 77754
     }
   }, {
     "maz" : "11",
@@ -1097,11 +1097,11 @@
     "oevk_jeloltre_szavhat" : 74868,
     "letszam" : {
       "indulo" : 75224,
-      "honos" : 73412,
-      "atjel" : 889,
-      "atjelInnen" : 1456,
-      "kuvi" : 553,
-      "osszesen" : 74301
+      "honos" : 73377,
+      "atjel" : 928,
+      "atjelInnen" : 1491,
+      "kuvi" : 574,
+      "osszesen" : 74305
     }
   }, {
     "maz" : "11",
@@ -1115,11 +1115,11 @@
     "oevk_jeloltre_szavhat" : 69603,
     "letszam" : {
       "indulo" : 69900,
-      "honos" : 68597,
-      "atjel" : 463,
-      "atjelInnen" : 1006,
-      "kuvi" : 287,
-      "osszesen" : 69060
+      "honos" : 68563,
+      "atjel" : 479,
+      "atjelInnen" : 1040,
+      "kuvi" : 290,
+      "osszesen" : 69042
     }
   }, {
     "maz" : "11",
@@ -1133,11 +1133,11 @@
     "oevk_jeloltre_szavhat" : 72276,
     "letszam" : {
       "indulo" : 72669,
-      "honos" : 70678,
-      "atjel" : 356,
-      "atjelInnen" : 1598,
-      "kuvi" : 283,
-      "osszesen" : 71034
+      "honos" : 70605,
+      "atjel" : 382,
+      "atjelInnen" : 1671,
+      "kuvi" : 298,
+      "osszesen" : 70987
     }
   }, {
     "maz" : "11",
@@ -1148,14 +1148,14 @@
     "evk_nev_en" : "Jász-Nagykun-Szolnok county, 04. no. constituency",
     "szekhely" : "Törökszentmiklós",
     "szekhely_en" : "Törökszentmiklós",
-    "oevk_jeloltre_szavhat" : 71507,
+    "oevk_jeloltre_szavhat" : 71508,
     "letszam" : {
       "indulo" : 71845,
-      "honos" : 70169,
-      "atjel" : 355,
-      "atjelInnen" : 1338,
-      "kuvi" : 305,
-      "osszesen" : 70524
+      "honos" : 70131,
+      "atjel" : 376,
+      "atjelInnen" : 1377,
+      "kuvi" : 321,
+      "osszesen" : 70507
     }
   }, {
     "maz" : "12",
@@ -1166,14 +1166,14 @@
     "evk_nev_en" : "Komárom-Esztergom county, 01. no. constituency",
     "szekhely" : "Tatabánya",
     "szekhely_en" : "Tatabánya",
-    "oevk_jeloltre_szavhat" : 77471,
+    "oevk_jeloltre_szavhat" : 77472,
     "letszam" : {
       "indulo" : 77768,
-      "honos" : 76463,
-      "atjel" : 956,
-      "atjelInnen" : 1008,
-      "kuvi" : 510,
-      "osszesen" : 77419
+      "honos" : 76429,
+      "atjel" : 1013,
+      "atjelInnen" : 1043,
+      "kuvi" : 531,
+      "osszesen" : 77442
     }
   }, {
     "maz" : "12",
@@ -1187,11 +1187,11 @@
     "oevk_jeloltre_szavhat" : 80883,
     "letszam" : {
       "indulo" : 81081,
-      "honos" : 79814,
-      "atjel" : 1203,
-      "atjelInnen" : 1069,
-      "kuvi" : 510,
-      "osszesen" : 81017
+      "honos" : 79781,
+      "atjel" : 1258,
+      "atjelInnen" : 1102,
+      "kuvi" : 544,
+      "osszesen" : 81039
     }
   }, {
     "maz" : "12",
@@ -1205,11 +1205,11 @@
     "oevk_jeloltre_szavhat" : 81127,
     "letszam" : {
       "indulo" : 81322,
-      "honos" : 80090,
-      "atjel" : 903,
-      "atjelInnen" : 1037,
-      "kuvi" : 361,
-      "osszesen" : 80993
+      "honos" : 80045,
+      "atjel" : 934,
+      "atjelInnen" : 1082,
+      "kuvi" : 379,
+      "osszesen" : 80979
     }
   }, {
     "maz" : "13",
@@ -1223,11 +1223,11 @@
     "oevk_jeloltre_szavhat" : 71898,
     "letszam" : {
       "indulo" : 72213,
-      "honos" : 70468,
-      "atjel" : 514,
-      "atjelInnen" : 1430,
-      "kuvi" : 335,
-      "osszesen" : 70982
+      "honos" : 70398,
+      "atjel" : 557,
+      "atjelInnen" : 1500,
+      "kuvi" : 346,
+      "osszesen" : 70955
     }
   }, {
     "maz" : "13",
@@ -1241,11 +1241,11 @@
     "oevk_jeloltre_szavhat" : 77120,
     "letszam" : {
       "indulo" : 77399,
-      "honos" : 75678,
-      "atjel" : 730,
-      "atjelInnen" : 1442,
-      "kuvi" : 340,
-      "osszesen" : 76408
+      "honos" : 75630,
+      "atjel" : 753,
+      "atjelInnen" : 1490,
+      "kuvi" : 356,
+      "osszesen" : 76383
     }
   }, {
     "maz" : "14",
@@ -1259,11 +1259,11 @@
     "oevk_jeloltre_szavhat" : 79721,
     "letszam" : {
       "indulo" : 79841,
-      "honos" : 78675,
-      "atjel" : 1360,
-      "atjelInnen" : 1046,
-      "kuvi" : 698,
-      "osszesen" : 80035
+      "honos" : 78630,
+      "atjel" : 1411,
+      "atjelInnen" : 1091,
+      "kuvi" : 725,
+      "osszesen" : 80041
     }
   }, {
     "maz" : "14",
@@ -1277,11 +1277,11 @@
     "oevk_jeloltre_szavhat" : 77904,
     "letszam" : {
       "indulo" : 77977,
-      "honos" : 76964,
-      "atjel" : 2044,
-      "atjelInnen" : 940,
-      "kuvi" : 1243,
-      "osszesen" : 79008
+      "honos" : 76923,
+      "atjel" : 2115,
+      "atjelInnen" : 981,
+      "kuvi" : 1289,
+      "osszesen" : 79038
     }
   }, {
     "maz" : "14",
@@ -1295,11 +1295,11 @@
     "oevk_jeloltre_szavhat" : 81984,
     "letszam" : {
       "indulo" : 82007,
-      "honos" : 81004,
-      "atjel" : 1742,
-      "atjelInnen" : 980,
-      "kuvi" : 1141,
-      "osszesen" : 82746
+      "honos" : 80964,
+      "atjel" : 1803,
+      "atjelInnen" : 1020,
+      "kuvi" : 1176,
+      "osszesen" : 82767
     }
   }, {
     "maz" : "14",
@@ -1313,11 +1313,11 @@
     "oevk_jeloltre_szavhat" : 76349,
     "letszam" : {
       "indulo" : 76425,
-      "honos" : 75170,
-      "atjel" : 1685,
-      "atjelInnen" : 1179,
-      "kuvi" : 948,
-      "osszesen" : 76855
+      "honos" : 75124,
+      "atjel" : 1763,
+      "atjelInnen" : 1225,
+      "kuvi" : 977,
+      "osszesen" : 76887
     }
   }, {
     "maz" : "14",
@@ -1331,11 +1331,11 @@
     "oevk_jeloltre_szavhat" : 76007,
     "letszam" : {
       "indulo" : 76087,
-      "honos" : 75125,
-      "atjel" : 1531,
-      "atjelInnen" : 882,
-      "kuvi" : 878,
-      "osszesen" : 76656
+      "honos" : 75081,
+      "atjel" : 1604,
+      "atjelInnen" : 926,
+      "kuvi" : 901,
+      "osszesen" : 76685
     }
   }, {
     "maz" : "14",
@@ -1349,11 +1349,11 @@
     "oevk_jeloltre_szavhat" : 76910,
     "letszam" : {
       "indulo" : 76853,
-      "honos" : 75881,
-      "atjel" : 1685,
-      "atjelInnen" : 1029,
-      "kuvi" : 804,
-      "osszesen" : 77566
+      "honos" : 75843,
+      "atjel" : 1745,
+      "atjelInnen" : 1067,
+      "kuvi" : 841,
+      "osszesen" : 77588
     }
   }, {
     "maz" : "14",
@@ -1367,11 +1367,11 @@
     "oevk_jeloltre_szavhat" : 76380,
     "letszam" : {
       "indulo" : 76456,
-      "honos" : 75337,
-      "atjel" : 1074,
-      "atjelInnen" : 1043,
-      "kuvi" : 445,
-      "osszesen" : 76411
+      "honos" : 75307,
+      "atjel" : 1114,
+      "atjelInnen" : 1073,
+      "kuvi" : 464,
+      "osszesen" : 76421
     }
   }, {
     "maz" : "14",
@@ -1385,11 +1385,11 @@
     "oevk_jeloltre_szavhat" : 70474,
     "letszam" : {
       "indulo" : 70498,
-      "honos" : 69673,
-      "atjel" : 1229,
-      "atjelInnen" : 801,
-      "kuvi" : 515,
-      "osszesen" : 70902
+      "honos" : 69641,
+      "atjel" : 1274,
+      "atjelInnen" : 833,
+      "kuvi" : 530,
+      "osszesen" : 70915
     }
   }, {
     "maz" : "14",
@@ -1403,10 +1403,10 @@
     "oevk_jeloltre_szavhat" : 76111,
     "letszam" : {
       "indulo" : 76184,
-      "honos" : 75036,
-      "atjel" : 1147,
-      "atjelInnen" : 1075,
-      "kuvi" : 418,
+      "honos" : 74994,
+      "atjel" : 1189,
+      "atjelInnen" : 1117,
+      "kuvi" : 433,
       "osszesen" : 76183
     }
   }, {
@@ -1421,11 +1421,11 @@
     "oevk_jeloltre_szavhat" : 74509,
     "letszam" : {
       "indulo" : 74661,
-      "honos" : 73477,
-      "atjel" : 1291,
-      "atjelInnen" : 1032,
-      "kuvi" : 659,
-      "osszesen" : 74768
+      "honos" : 73443,
+      "atjel" : 1351,
+      "atjelInnen" : 1066,
+      "kuvi" : 678,
+      "osszesen" : 74794
     }
   }, {
     "maz" : "14",
@@ -1439,11 +1439,11 @@
     "oevk_jeloltre_szavhat" : 74890,
     "letszam" : {
       "indulo" : 75009,
-      "honos" : 73810,
-      "atjel" : 1276,
-      "atjelInnen" : 1080,
-      "kuvi" : 493,
-      "osszesen" : 75086
+      "honos" : 73767,
+      "atjel" : 1324,
+      "atjelInnen" : 1123,
+      "kuvi" : 516,
+      "osszesen" : 75091
     }
   }, {
     "maz" : "14",
@@ -1457,11 +1457,11 @@
     "oevk_jeloltre_szavhat" : 73970,
     "letszam" : {
       "indulo" : 74072,
-      "honos" : 72805,
-      "atjel" : 644,
-      "atjelInnen" : 1165,
-      "kuvi" : 270,
-      "osszesen" : 73449
+      "honos" : 72762,
+      "atjel" : 682,
+      "atjelInnen" : 1208,
+      "kuvi" : 277,
+      "osszesen" : 73444
     }
   }, {
     "maz" : "14",
@@ -1475,11 +1475,11 @@
     "oevk_jeloltre_szavhat" : 70131,
     "letszam" : {
       "indulo" : 70257,
-      "honos" : 69238,
-      "atjel" : 847,
-      "atjelInnen" : 893,
-      "kuvi" : 288,
-      "osszesen" : 70085
+      "honos" : 69204,
+      "atjel" : 869,
+      "atjelInnen" : 927,
+      "kuvi" : 310,
+      "osszesen" : 70073
     }
   }, {
     "maz" : "14",
@@ -1493,11 +1493,11 @@
     "oevk_jeloltre_szavhat" : 73546,
     "letszam" : {
       "indulo" : 73780,
-      "honos" : 72592,
-      "atjel" : 517,
-      "atjelInnen" : 954,
-      "kuvi" : 330,
-      "osszesen" : 73109
+      "honos" : 72562,
+      "atjel" : 530,
+      "atjelInnen" : 984,
+      "kuvi" : 340,
+      "osszesen" : 73092
     }
   }, {
     "maz" : "15",
@@ -1511,11 +1511,11 @@
     "oevk_jeloltre_szavhat" : 59178,
     "letszam" : {
       "indulo" : 59440,
-      "honos" : 57939,
-      "atjel" : 605,
-      "atjelInnen" : 1239,
-      "kuvi" : 419,
-      "osszesen" : 58544
+      "honos" : 57872,
+      "atjel" : 645,
+      "atjelInnen" : 1306,
+      "kuvi" : 439,
+      "osszesen" : 58517
     }
   }, {
     "maz" : "15",
@@ -1529,11 +1529,11 @@
     "oevk_jeloltre_szavhat" : 57089,
     "letszam" : {
       "indulo" : 57392,
-      "honos" : 55955,
-      "atjel" : 325,
-      "atjelInnen" : 1134,
-      "kuvi" : 229,
-      "osszesen" : 56280
+      "honos" : 55911,
+      "atjel" : 337,
+      "atjelInnen" : 1178,
+      "kuvi" : 239,
+      "osszesen" : 56248
     }
   }, {
     "maz" : "15",
@@ -1547,11 +1547,11 @@
     "oevk_jeloltre_szavhat" : 61016,
     "letszam" : {
       "indulo" : 61187,
-      "honos" : 59462,
-      "atjel" : 804,
-      "atjelInnen" : 1554,
-      "kuvi" : 345,
-      "osszesen" : 60266
+      "honos" : 59400,
+      "atjel" : 845,
+      "atjelInnen" : 1616,
+      "kuvi" : 357,
+      "osszesen" : 60245
     }
   }, {
     "maz" : "15",
@@ -1562,14 +1562,14 @@
     "evk_nev_en" : "Somogy county, 04. no. constituency",
     "szekhely" : "Siófok",
     "szekhely_en" : "Siófok",
-    "oevk_jeloltre_szavhat" : 63523,
+    "oevk_jeloltre_szavhat" : 63524,
     "letszam" : {
       "indulo" : 63685,
-      "honos" : 61813,
-      "atjel" : 1247,
-      "atjelInnen" : 1710,
-      "kuvi" : 442,
-      "osszesen" : 63060
+      "honos" : 61737,
+      "atjel" : 1320,
+      "atjelInnen" : 1787,
+      "kuvi" : 457,
+      "osszesen" : 63057
     }
   }, {
     "maz" : "16",
@@ -1583,11 +1583,11 @@
     "oevk_jeloltre_szavhat" : 71882,
     "letszam" : {
       "indulo" : 72137,
-      "honos" : 70163,
-      "atjel" : 1105,
-      "atjelInnen" : 1719,
-      "kuvi" : 600,
-      "osszesen" : 71268
+      "honos" : 70111,
+      "atjel" : 1145,
+      "atjelInnen" : 1771,
+      "kuvi" : 624,
+      "osszesen" : 71256
     }
   }, {
     "maz" : "16",
@@ -1601,11 +1601,11 @@
     "oevk_jeloltre_szavhat" : 70991,
     "letszam" : {
       "indulo" : 71234,
-      "honos" : 69714,
-      "atjel" : 208,
-      "atjelInnen" : 1277,
-      "kuvi" : 305,
-      "osszesen" : 69922
+      "honos" : 69656,
+      "atjel" : 218,
+      "atjelInnen" : 1335,
+      "kuvi" : 316,
+      "osszesen" : 69874
     }
   }, {
     "maz" : "16",
@@ -1619,11 +1619,11 @@
     "oevk_jeloltre_szavhat" : 75702,
     "letszam" : {
       "indulo" : 76007,
-      "honos" : 74149,
-      "atjel" : 233,
-      "atjelInnen" : 1553,
-      "kuvi" : 254,
-      "osszesen" : 74382
+      "honos" : 74091,
+      "atjel" : 247,
+      "atjelInnen" : 1611,
+      "kuvi" : 270,
+      "osszesen" : 74338
     }
   }, {
     "maz" : "16",
@@ -1637,11 +1637,11 @@
     "oevk_jeloltre_szavhat" : 70081,
     "letszam" : {
       "indulo" : 70449,
-      "honos" : 68378,
-      "atjel" : 229,
-      "atjelInnen" : 1703,
-      "kuvi" : 256,
-      "osszesen" : 68607
+      "honos" : 68305,
+      "atjel" : 263,
+      "atjelInnen" : 1776,
+      "kuvi" : 260,
+      "osszesen" : 68568
     }
   }, {
     "maz" : "16",
@@ -1655,11 +1655,11 @@
     "oevk_jeloltre_szavhat" : 70968,
     "letszam" : {
       "indulo" : 71273,
-      "honos" : 69587,
-      "atjel" : 286,
-      "atjelInnen" : 1381,
-      "kuvi" : 229,
-      "osszesen" : 69873
+      "honos" : 69536,
+      "atjel" : 300,
+      "atjelInnen" : 1432,
+      "kuvi" : 232,
+      "osszesen" : 69836
     }
   }, {
     "maz" : "16",
@@ -1673,11 +1673,11 @@
     "oevk_jeloltre_szavhat" : 70467,
     "letszam" : {
       "indulo" : 70764,
-      "honos" : 69311,
-      "atjel" : 260,
-      "atjelInnen" : 1156,
-      "kuvi" : 248,
-      "osszesen" : 69571
+      "honos" : 69256,
+      "atjel" : 284,
+      "atjelInnen" : 1211,
+      "kuvi" : 256,
+      "osszesen" : 69540
     }
   }, {
     "maz" : "17",
@@ -1691,11 +1691,11 @@
     "oevk_jeloltre_szavhat" : 57157,
     "letszam" : {
       "indulo" : 57420,
-      "honos" : 56218,
-      "atjel" : 424,
-      "atjelInnen" : 939,
-      "kuvi" : 352,
-      "osszesen" : 56642
+      "honos" : 56177,
+      "atjel" : 438,
+      "atjelInnen" : 980,
+      "kuvi" : 368,
+      "osszesen" : 56615
     }
   }, {
     "maz" : "17",
@@ -1709,11 +1709,11 @@
     "oevk_jeloltre_szavhat" : 56353,
     "letszam" : {
       "indulo" : 56625,
-      "honos" : 55428,
-      "atjel" : 328,
-      "atjelInnen" : 925,
-      "kuvi" : 302,
-      "osszesen" : 55756
+      "honos" : 55382,
+      "atjel" : 350,
+      "atjelInnen" : 971,
+      "kuvi" : 316,
+      "osszesen" : 55732
     }
   }, {
     "maz" : "17",
@@ -1727,11 +1727,11 @@
     "oevk_jeloltre_szavhat" : 56822,
     "letszam" : {
       "indulo" : 57108,
-      "honos" : 55885,
-      "atjel" : 458,
-      "atjelInnen" : 937,
-      "kuvi" : 256,
-      "osszesen" : 56343
+      "honos" : 55843,
+      "atjel" : 476,
+      "atjelInnen" : 979,
+      "kuvi" : 266,
+      "osszesen" : 56319
     }
   }, {
     "maz" : "18",
@@ -1745,11 +1745,11 @@
     "oevk_jeloltre_szavhat" : 67215,
     "letszam" : {
       "indulo" : 67477,
-      "honos" : 66127,
-      "atjel" : 1073,
-      "atjelInnen" : 1088,
-      "kuvi" : 424,
-      "osszesen" : 67200
+      "honos" : 66085,
+      "atjel" : 1111,
+      "atjelInnen" : 1130,
+      "kuvi" : 433,
+      "osszesen" : 67196
     }
   }, {
     "maz" : "18",
@@ -1763,11 +1763,11 @@
     "oevk_jeloltre_szavhat" : 66924,
     "letszam" : {
       "indulo" : 67121,
-      "honos" : 65877,
-      "atjel" : 755,
-      "atjelInnen" : 1047,
-      "kuvi" : 263,
-      "osszesen" : 66632
+      "honos" : 65839,
+      "atjel" : 798,
+      "atjelInnen" : 1085,
+      "kuvi" : 273,
+      "osszesen" : 66637
     }
   }, {
     "maz" : "18",
@@ -1781,10 +1781,10 @@
     "oevk_jeloltre_szavhat" : 65011,
     "letszam" : {
       "indulo" : 65148,
-      "honos" : 63962,
-      "atjel" : 721,
-      "atjelInnen" : 1049,
-      "kuvi" : 202,
+      "honos" : 63928,
+      "atjel" : 755,
+      "atjelInnen" : 1083,
+      "kuvi" : 209,
       "osszesen" : 64683
     }
   }, {
@@ -1799,11 +1799,11 @@
     "oevk_jeloltre_szavhat" : 68966,
     "letszam" : {
       "indulo" : 69205,
-      "honos" : 67808,
-      "atjel" : 1376,
-      "atjelInnen" : 1158,
-      "kuvi" : 515,
-      "osszesen" : 69184
+      "honos" : 67768,
+      "atjel" : 1421,
+      "atjelInnen" : 1198,
+      "kuvi" : 535,
+      "osszesen" : 69189
     }
   }, {
     "maz" : "19",
@@ -1817,11 +1817,11 @@
     "oevk_jeloltre_szavhat" : 73622,
     "letszam" : {
       "indulo" : 73705,
-      "honos" : 71828,
-      "atjel" : 1600,
-      "atjelInnen" : 1794,
-      "kuvi" : 679,
-      "osszesen" : 73428
+      "honos" : 71750,
+      "atjel" : 1701,
+      "atjelInnen" : 1872,
+      "kuvi" : 703,
+      "osszesen" : 73451
     }
   }, {
     "maz" : "19",
@@ -1835,11 +1835,11 @@
     "oevk_jeloltre_szavhat" : 65427,
     "letszam" : {
       "indulo" : 65605,
-      "honos" : 64001,
-      "atjel" : 801,
-      "atjelInnen" : 1426,
-      "kuvi" : 358,
-      "osszesen" : 64802
+      "honos" : 63918,
+      "atjel" : 851,
+      "atjelInnen" : 1509,
+      "kuvi" : 364,
+      "osszesen" : 64769
     }
   }, {
     "maz" : "19",
@@ -1853,11 +1853,11 @@
     "oevk_jeloltre_szavhat" : 66598,
     "letszam" : {
       "indulo" : 66795,
-      "honos" : 65538,
-      "atjel" : 568,
-      "atjelInnen" : 1060,
-      "kuvi" : 301,
-      "osszesen" : 66106
+      "honos" : 65477,
+      "atjel" : 632,
+      "atjelInnen" : 1121,
+      "kuvi" : 309,
+      "osszesen" : 66109
     }
   }, {
     "maz" : "20",
@@ -1871,11 +1871,11 @@
     "oevk_jeloltre_szavhat" : 72933,
     "letszam" : {
       "indulo" : 73293,
-      "honos" : 71345,
-      "atjel" : 616,
-      "atjelInnen" : 1588,
-      "kuvi" : 400,
-      "osszesen" : 71961
+      "honos" : 71284,
+      "atjel" : 652,
+      "atjelInnen" : 1649,
+      "kuvi" : 416,
+      "osszesen" : 71936
     }
   }, {
     "maz" : "20",
@@ -1889,11 +1889,11 @@
     "oevk_jeloltre_szavhat" : 72938,
     "letszam" : {
       "indulo" : 73146,
-      "honos" : 71294,
-      "atjel" : 1105,
-      "atjelInnen" : 1644,
-      "kuvi" : 455,
-      "osszesen" : 72399
+      "honos" : 71214,
+      "atjel" : 1179,
+      "atjelInnen" : 1724,
+      "kuvi" : 462,
+      "osszesen" : 72393
     }
   }, {
     "maz" : "20",
@@ -1907,11 +1907,11 @@
     "oevk_jeloltre_szavhat" : 69499,
     "letszam" : {
       "indulo" : 69798,
-      "honos" : 68102,
-      "atjel" : 698,
-      "atjelInnen" : 1397,
-      "kuvi" : 351,
-      "osszesen" : 68800
+      "honos" : 68034,
+      "atjel" : 743,
+      "atjelInnen" : 1465,
+      "kuvi" : 361,
+      "osszesen" : 68777
     }
   } ]
 }

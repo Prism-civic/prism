@@ -2,9 +2,20 @@
   "kpn_id": 4955608,
   "candidate_name": "DR. FERENCZ ORSOLYA",
   "source": "https://hvg.hu",
-  "scraped_at": "2026-03-21T19:57:06.507030+00:00",
-  "item_count": 0,
-  "items": [],
+  "scraped_at": "2026-03-22T19:49:01.540775+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Karafiáth Orsolya: Mennyit számít, hogy milyen drága volt a wc, amin lehúzták az életed",
+      "url": "https://hvg.hu/360/20260322_az-en-hetem-karafiath-orsolya",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
   "party": "FIDESZ-KDNP",
   "constituency": "Budapest capital, 02. no. constituency",
   "search_name_used": "Ferencz Orsolya"

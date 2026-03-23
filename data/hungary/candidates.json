@@ -3,10 +3,10 @@
     "election": "2026 Hungarian Parliamentary Election",
     "date": "2026-04-12",
     "source": "NVI — Nemzeti Választási Iroda (vtr.valasztas.hu)",
-    "data_version": "2026-03-22T17:00:00.075921853+01:00",
+    "data_version": "2026-03-23T17:00:00.137208866+01:00",
     "total_constituencies": 106,
-    "total_active_candidates": 666,
-    "refreshed_at": "2026-03-22T17:10:14.528524+00:00"
+    "total_active_candidates": 663,
+    "refreshed_at": "2026-03-23T17:10:15.232717+00:00"
   },
   "constituencies": [
     {
@@ -18,7 +18,7 @@
       "name_en": "Budapest capital, 01. no. constituency",
       "seat": "Budapest 05. kerület",
       "seat_en": "Budapest 5th district",
-      "registered_voters": 72408,
+      "registered_voters": 72336,
       "candidates": [
         {
           "name": "HERFORT MARIETTA",
@@ -85,7 +85,7 @@
       "name_en": "Budapest capital, 02. no. constituency",
       "seat": "Budapest 08. kerület",
       "seat_en": "Budapest 8th district",
-      "registered_voters": 74632,
+      "registered_voters": 74532,
       "candidates": [
         {
           "name": "HALMAI RICHÁRD",
@@ -161,7 +161,7 @@
       "name_en": "Budapest capital, 03. no. constituency",
       "seat": "Budapest 12. kerület",
       "seat_en": "Budapest 12th district",
-      "registered_voters": 77332,
+      "registered_voters": 77278,
       "candidates": [
         {
           "name": "DR. GRUNDTNER ANDRÁS",
@@ -228,7 +228,7 @@
       "name_en": "Budapest capital, 04. no. constituency",
       "seat": "Budapest 02. kerület",
       "seat_en": "Budapest 2nd district",
-      "registered_voters": 79310,
+      "registered_voters": 79256,
       "candidates": [
         {
           "name": "DR. KONCZ ÁRON",
@@ -295,7 +295,7 @@
       "name_en": "Budapest capital, 05. no. constituency",
       "seat": "Budapest 06. kerület",
       "seat_en": "Budapest 6th district",
-      "registered_voters": 75192,
+      "registered_voters": 75116,
       "candidates": [
         {
           "name": "KESZTHELYI DOROTTYA",
@@ -353,7 +353,7 @@
       "name_en": "Budapest capital, 06. no. constituency",
       "seat": "Budapest 14. kerület",
       "seat_en": "Budapest 14th district",
-      "registered_voters": 76732,
+      "registered_voters": 76667,
       "candidates": [
         {
           "name": "NAGY DÁVID",
@@ -420,7 +420,7 @@
       "name_en": "Budapest capital, 07. no. constituency",
       "seat": "Budapest 10. kerület",
       "seat_en": "Budapest 10th district",
-      "registered_voters": 74079,
+      "registered_voters": 74023,
       "candidates": [
         {
           "name": "TRENTIN BALÁZS",
@@ -487,7 +487,7 @@
       "name_en": "Budapest capital, 08. no. constituency",
       "seat": "Budapest 19. kerület",
       "seat_en": "Budapest 19th district",
-      "registered_voters": 78175,
+      "registered_voters": 78137,
       "candidates": [
         {
           "name": "FERANCZ NORBERT",
@@ -563,7 +563,7 @@
       "name_en": "Budapest capital, 09. no. constituency",
       "seat": "Budapest 21. kerület",
       "seat_en": "Budapest 21st district",
-      "registered_voters": 74121,
+      "registered_voters": 74081,
       "candidates": [
         {
           "name": "KISS KORNÉL",
@@ -630,7 +630,7 @@
       "name_en": "Budapest capital, 10. no. constituency",
       "seat": "Budapest 22. kerület",
       "seat_en": "Budapest 22nd district",
-      "registered_voters": 76014,
+      "registered_voters": 75967,
       "candidates": [
         {
           "name": "KULCSÁR KRISZTIÁN",
@@ -688,7 +688,7 @@
       "name_en": "Budapest capital, 11. no. constituency",
       "seat": "Budapest 03. kerület",
       "seat_en": "Budapest 3rd district",
-      "registered_voters": 78289,
+      "registered_voters": 78237,
       "candidates": [
         {
           "name": "BODA NIKOLETTA",
@@ -764,7 +764,7 @@
       "name_en": "Budapest capital, 12. no. constituency",
       "seat": "Budapest 13. kerület",
       "seat_en": "Budapest 13th district",
-      "registered_voters": 77465,
+      "registered_voters": 77407,
       "candidates": [
         {
           "name": "DR. JAKAB ZSUZSANNA",
@@ -822,7 +822,7 @@
       "name_en": "Budapest capital, 13. no. constituency",
       "seat": "Budapest 15. kerület",
       "seat_en": "Budapest 15th district",
-      "registered_voters": 75550,
+      "registered_voters": 75515,
       "candidates": [
         {
           "name": "MÜLLER ANNA",
@@ -889,7 +889,7 @@
       "name_en": "Budapest capital, 14. no. constituency",
       "seat": "Budapest 16. kerület",
       "seat_en": "Budapest 16th district",
-      "registered_voters": 76492,
+      "registered_voters": 76461,
       "candidates": [
         {
           "name": "KOCSIS-CAKE OLIVIO",
@@ -974,7 +974,7 @@
       "name_en": "Budapest capital, 15. no. constituency",
       "seat": "Budapest 17. kerület",
       "seat_en": "Budapest 17th district",
-      "registered_voters": 78496,
+      "registered_voters": 78463,
       "candidates": [
         {
           "name": "FARKAS TÍMEA",
@@ -1050,7 +1050,7 @@
       "name_en": "Budapest capital, 16. no. constituency",
       "seat": "Budapest 23. kerület",
       "seat_en": "Budapest 23rd district",
-      "registered_voters": 82550,
+      "registered_voters": 82510,
       "candidates": [
         {
           "name": "DR. HILLER ISTVÁN",
@@ -1144,7 +1144,7 @@
       "name_en": "Baranya county, 01. no. constituency",
       "seat": "Pécs",
       "seat_en": "Pécs",
-      "registered_voters": 69344,
+      "registered_voters": 69273,
       "candidates": [
         {
           "name": "VARGA TAMÁS",
@@ -1220,7 +1220,7 @@
       "name_en": "Baranya county, 02. no. constituency",
       "seat": "Pécs",
       "seat_en": "Pécs",
-      "registered_voters": 73648,
+      "registered_voters": 73601,
       "candidates": [
         {
           "name": "KISS BEATRIX",
@@ -1287,7 +1287,7 @@
       "name_en": "Baranya county, 03. no. constituency",
       "seat": "Mohács",
       "seat_en": "Mohács",
-      "registered_voters": 67733,
+      "registered_voters": 67675,
       "candidates": [
         {
           "name": "DR. HARGITAI JÁNOS",
@@ -1345,7 +1345,7 @@
       "name_en": "Baranya county, 04. no. constituency",
       "seat": "Szigetvár",
       "seat_en": "Szigetvár",
-      "registered_voters": 72744,
+      "registered_voters": 72687,
       "candidates": [
         {
           "name": "DR. BEKE ERZSÉBET",
@@ -1421,7 +1421,7 @@
       "name_en": "Bács-Kiskun county, 01. no. constituency",
       "seat": "Kecskemét",
       "seat_en": "Kecskemét",
-      "registered_voters": 66996,
+      "registered_voters": 66974,
       "candidates": [
         {
           "name": "DR. SALACZ LÁSZLÓ",
@@ -1470,7 +1470,7 @@
       "name_en": "Bács-Kiskun county, 02. no. constituency",
       "seat": "Kecskemét",
       "seat_en": "Kecskemét",
-      "registered_voters": 70463,
+      "registered_voters": 70427,
       "candidates": [
         {
           "name": "MOLNÁR JÁNOS",
@@ -1546,7 +1546,7 @@
       "name_en": "Bács-Kiskun county, 03. no. constituency",
       "seat": "Kalocsa",
       "seat_en": "Kalocsa",
-      "registered_voters": 62166,
+      "registered_voters": 62128,
       "candidates": [
         {
           "name": "FONT SÁNDOR",
@@ -1604,7 +1604,7 @@
       "name_en": "Bács-Kiskun county, 04. no. constituency",
       "seat": "Kiskunfélegyháza",
       "seat_en": "Kiskunfélegyháza",
-      "registered_voters": 69205,
+      "registered_voters": 69161,
       "candidates": [
         {
           "name": "SARKADI PÁL",
@@ -1671,7 +1671,7 @@
       "name_en": "Bács-Kiskun county, 05. no. constituency",
       "seat": "Kiskunhalas",
       "seat_en": "Kiskunhalas",
-      "registered_voters": 64433,
+      "registered_voters": 64357,
       "candidates": [
         {
           "name": "BÁNYAI GÁBOR",
@@ -1738,7 +1738,7 @@
       "name_en": "Bács-Kiskun county, 06. no. constituency",
       "seat": "Baja",
       "seat_en": "Baja",
-      "registered_voters": 60973,
+      "registered_voters": 60926,
       "candidates": [
         {
           "name": "ÉBERLING BALÁZS",
@@ -1796,7 +1796,7 @@
       "name_en": "Békés county, 01. no. constituency",
       "seat": "Békéscsaba",
       "seat_en": "Békéscsaba",
-      "registered_voters": 64477,
+      "registered_voters": 64419,
       "candidates": [
         {
           "name": "BAGI REA",
@@ -1854,7 +1854,7 @@
       "name_en": "Békés county, 02. no. constituency",
       "seat": "Békés",
       "seat_en": "Békés",
-      "registered_voters": 65141,
+      "registered_voters": 65081,
       "candidates": [
         {
           "name": "GERGELY RÓBERT",
@@ -1930,7 +1930,7 @@
       "name_en": "Békés county, 03. no. constituency",
       "seat": "Gyula",
       "seat_en": "Gyula",
-      "registered_voters": 63878,
+      "registered_voters": 63820,
       "candidates": [
         {
           "name": "MAGYAR GÁBOR",
@@ -1997,7 +1997,7 @@
       "name_en": "Békés county, 04. no. constituency",
       "seat": "Orosháza",
       "seat_en": "Orosháza",
-      "registered_voters": 66688,
+      "registered_voters": 66622,
       "candidates": [
         {
           "name": "SCHULTZ GÁBOR",
@@ -2073,7 +2073,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 01. no. constituency",
       "seat": "Miskolc",
       "seat_en": "Miskolc",
-      "registered_voters": 67928,
+      "registered_voters": 67854,
       "candidates": [
         {
           "name": "CSÖBÖR KATALIN",
@@ -2158,7 +2158,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 02. no. constituency",
       "seat": "Miskolc",
       "seat_en": "Miskolc",
-      "registered_voters": 66927,
+      "registered_voters": 66852,
       "candidates": [
         {
           "name": "KOVÁCS IMRE ISTVÁN",
@@ -2243,7 +2243,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 03. no. constituency",
       "seat": "Ózd",
       "seat_en": "Ózd",
-      "registered_voters": 66419,
+      "registered_voters": 66369,
       "candidates": [
         {
           "name": "VARGA BALÁZS",
@@ -2346,7 +2346,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 04. no. constituency",
       "seat": "Kazincbarcika",
       "seat_en": "Kazincbarcika",
-      "registered_voters": 70194,
+      "registered_voters": 70146,
       "candidates": [
         {
           "name": "PAP FERENC",
@@ -2404,7 +2404,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 05. no. constituency",
       "seat": "Sátoraljaújhely",
       "seat_en": "Sátoraljaújhely",
-      "registered_voters": 68343,
+      "registered_voters": 68261,
       "candidates": [
         {
           "name": "OLÁH ZSOLT",
@@ -2507,7 +2507,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 06. no. constituency",
       "seat": "Tiszaújváros",
       "seat_en": "Tiszaújváros",
-      "registered_voters": 72279,
+      "registered_voters": 72232,
       "candidates": [
         {
           "name": "DR. KONCZ ZSÓFIA",
@@ -2574,7 +2574,7 @@
       "name_en": "Borsod-Abaúj-Zemplén county, 07. no. constituency",
       "seat": "Mezőkövesd",
       "seat_en": "Mezőkövesd",
-      "registered_voters": 73047,
+      "registered_voters": 73007,
       "candidates": [
         {
           "name": "TÁLLAI ANDRÁS",
@@ -2650,7 +2650,7 @@
       "name_en": "Csongrád-Csanád county, 01. no. constituency",
       "seat": "Szeged",
       "seat_en": "Szeged",
-      "registered_voters": 80502,
+      "registered_voters": 80434,
       "candidates": [
         {
           "name": "DR. JUHÁSZ MÁTÉ",
@@ -2717,8 +2717,17 @@
       "name_en": "Csongrád-Csanád county, 02. no. constituency",
       "seat": "Szeged",
       "seat_en": "Szeged",
-      "registered_voters": 78955,
+      "registered_voters": 78896,
       "candidates": [
+        {
+          "name": "ÓHIDY ISTVÁN",
+          "party": "DK",
+          "party_id": "dk",
+          "ballot_number": 1,
+          "photo_id": 29755,
+          "nvi_id": 8242320,
+          "registered": "2026-03-23"
+        },
         {
           "name": "GAJDA ATTILA",
           "party": "TISZA",
@@ -2766,7 +2775,7 @@
       "name_en": "Csongrád-Csanád county, 03. no. constituency",
       "seat": "Szentes",
       "seat_en": "Szentes",
-      "registered_voters": 76635,
+      "registered_voters": 76574,
       "candidates": [
         {
           "name": "LACZKÓ ZSOLT",
@@ -2833,7 +2842,7 @@
       "name_en": "Csongrád-Csanád county, 04. no. constituency",
       "seat": "Hódmezővásárhely",
       "seat_en": "Hódmezővásárhely",
-      "registered_voters": 75348,
+      "registered_voters": 75312,
       "candidates": [
         {
           "name": "PÁL ANNA VIKTÓRIA",
@@ -2918,7 +2927,7 @@
       "name_en": "Fejér county, 01. no. constituency",
       "seat": "Székesfehérvár",
       "seat_en": "Székesfehérvár",
-      "registered_voters": 69074,
+      "registered_voters": 69038,
       "candidates": [
         {
           "name": "VARGHA TAMÁS",
@@ -2994,7 +3003,7 @@
       "name_en": "Fejér county, 02. no. constituency",
       "seat": "Székesfehérvár",
       "seat_en": "Székesfehérvár",
-      "registered_voters": 65221,
+      "registered_voters": 65187,
       "candidates": [
         {
           "name": "TÖRŐ GÁBOR",
@@ -3079,7 +3088,7 @@
       "name_en": "Fejér county, 03. no. constituency",
       "seat": "Bicske",
       "seat_en": "Bicske",
-      "registered_voters": 68164,
+      "registered_voters": 68115,
       "candidates": [
         {
           "name": "TOMHAUSER-CZEGLÉDI ESZTER",
@@ -3146,7 +3155,7 @@
       "name_en": "Fejér county, 04. no. constituency",
       "seat": "Dunaújváros",
       "seat_en": "Dunaújváros",
-      "registered_voters": 65746,
+      "registered_voters": 65696,
       "candidates": [
         {
           "name": "DR. MÉSZÁROS LAJOS",
@@ -3231,7 +3240,7 @@
       "name_en": "Fejér county, 05. no. constituency",
       "seat": "Sárbogárd",
       "seat_en": "Sárbogárd",
-      "registered_voters": 64564,
+      "registered_voters": 64513,
       "candidates": [
         {
           "name": "GIEBER LAJOS",
@@ -3298,7 +3307,7 @@
       "name_en": "Győr-Moson-Sopron county, 01. no. constituency",
       "seat": "Győr",
       "seat_en": "Győr",
-      "registered_voters": 64752,
+      "registered_voters": 64718,
       "candidates": [
         {
           "name": "GONDA ESZTER",
@@ -3365,7 +3374,7 @@
       "name_en": "Győr-Moson-Sopron county, 02. no. constituency",
       "seat": "Győr",
       "seat_en": "Győr",
-      "registered_voters": 72358,
+      "registered_voters": 72310,
       "candidates": [
         {
           "name": "NÉHER ANDRÁS",
@@ -3432,7 +3441,7 @@
       "name_en": "Győr-Moson-Sopron county, 03. no. constituency",
       "seat": "Csorna",
       "seat_en": "Csorna",
-      "registered_voters": 65865,
+      "registered_voters": 65832,
       "candidates": [
         {
           "name": "BÓNA SZABOLCS",
@@ -3508,7 +3517,7 @@
       "name_en": "Győr-Moson-Sopron county, 04. no. constituency",
       "seat": "Sopron",
       "seat_en": "Sopron",
-      "registered_voters": 73967,
+      "registered_voters": 73920,
       "candidates": [
         {
           "name": "GERENCSÉR NORBERT",
@@ -3584,7 +3593,7 @@
       "name_en": "Győr-Moson-Sopron county, 05. no. constituency",
       "seat": "Mosonmagyaróvár",
       "seat_en": "Mosonmagyaróvár",
-      "registered_voters": 77641,
+      "registered_voters": 77606,
       "candidates": [
         {
           "name": "CSOMA KRISZTIÁN",
@@ -3642,7 +3651,7 @@
       "name_en": "Hajdú-Bihar county, 01. no. constituency",
       "seat": "Debrecen",
       "seat_en": "Debrecen",
-      "registered_voters": 63853,
+      "registered_voters": 63791,
       "candidates": [
         {
           "name": "DR. BARCSA LAJOS",
@@ -3718,7 +3727,7 @@
       "name_en": "Hajdú-Bihar county, 02. no. constituency",
       "seat": "Debrecen",
       "seat_en": "Debrecen",
-      "registered_voters": 68199,
+      "registered_voters": 68157,
       "candidates": [
         {
           "name": "NAGY FERENC",
@@ -3794,7 +3803,7 @@
       "name_en": "Hajdú-Bihar county, 03. no. constituency",
       "seat": "Debrecen",
       "seat_en": "Debrecen",
-      "registered_voters": 76911,
+      "registered_voters": 76864,
       "candidates": [
         {
           "name": "ANTAL SZABOLCS",
@@ -3861,7 +3870,7 @@
       "name_en": "Hajdú-Bihar county, 04. no. constituency",
       "seat": "Berettyóújfalu",
       "seat_en": "Berettyóújfalu",
-      "registered_voters": 66056,
+      "registered_voters": 66023,
       "candidates": [
         {
           "name": "DR. VITÁNYI ISTVÁN",
@@ -3928,7 +3937,7 @@
       "name_en": "Hajdú-Bihar county, 05. no. constituency",
       "seat": "Hajdúszoboszló",
       "seat_en": "Hajdúszoboszló",
-      "registered_voters": 67242,
+      "registered_voters": 67190,
       "candidates": [
         {
           "name": "SASS BULCSÚ",
@@ -3986,7 +3995,7 @@
       "name_en": "Hajdú-Bihar county, 06. no. constituency",
       "seat": "Hajdúböszörmény",
       "seat_en": "Hajdúböszörmény",
-      "registered_voters": 67226,
+      "registered_voters": 67183,
       "candidates": [
         {
           "name": "PAPP ZSOLT",
@@ -4035,7 +4044,7 @@
       "name_en": "Heves county, 01. no. constituency",
       "seat": "Eger",
       "seat_en": "Eger",
-      "registered_voters": 77482,
+      "registered_voters": 77409,
       "candidates": [
         {
           "name": "BLAU SÁNDOR",
@@ -4111,7 +4120,7 @@
       "name_en": "Heves county, 02. no. constituency",
       "seat": "Gyöngyös",
       "seat_en": "Gyöngyös",
-      "registered_voters": 72719,
+      "registered_voters": 72667,
       "candidates": [
         {
           "name": "DUDÁS RÓBERT",
@@ -4187,7 +4196,7 @@
       "name_en": "Heves county, 03. no. constituency",
       "seat": "Hatvan",
       "seat_en": "Hatvan",
-      "registered_voters": 77218,
+      "registered_voters": 77185,
       "candidates": [
         {
           "name": "FARAGÓ TAMÁS",
@@ -4254,7 +4263,7 @@
       "name_en": "Jász-Nagykun-Szolnok county, 01. no. constituency",
       "seat": "Szolnok",
       "seat_en": "Szolnok",
-      "registered_voters": 73412,
+      "registered_voters": 73377,
       "candidates": [
         {
           "name": "ROST ANDREA",
@@ -4321,7 +4330,7 @@
       "name_en": "Jász-Nagykun-Szolnok county, 02. no. constituency",
       "seat": "Jászberény",
       "seat_en": "Jászberény",
-      "registered_voters": 68597,
+      "registered_voters": 68563,
       "candidates": [
         {
           "name": "KASSAB ADONIS",
@@ -4388,7 +4397,7 @@
       "name_en": "Jász-Nagykun-Szolnok county, 03. no. constituency",
       "seat": "Karcag",
       "seat_en": "Karcag",
-      "registered_voters": 70678,
+      "registered_voters": 70605,
       "candidates": [
         {
           "name": "PARDI-OLÁH ROBERTA",
@@ -4436,19 +4445,10 @@
           "registered": "2026-02-28"
         },
         {
-          "name": "DR. LUKÁCS LÁSZLÓ GYÖRGY",
-          "party": "Jobbik",
-          "party_id": null,
-          "ballot_number": 6,
-          "photo_id": 30009,
-          "nvi_id": 647645,
-          "registered": "2026-03-02"
-        },
-        {
           "name": "TÚRÓ RICHÁRD",
           "party": "Független jelölt",
           "party_id": null,
-          "ballot_number": 7,
+          "ballot_number": 6,
           "photo_id": null,
           "nvi_id": 9108742,
           "registered": "2026-03-08"
@@ -4457,7 +4457,7 @@
           "name": "TURÓ JENŐ",
           "party": "Független jelölt",
           "party_id": null,
-          "ballot_number": 8,
+          "ballot_number": 7,
           "photo_id": null,
           "nvi_id": 3962173,
           "registered": "2026-03-08"
@@ -4466,7 +4466,7 @@
           "name": "SOMLAY RÓBERT",
           "party": "Mi Hazánk",
           "party_id": "mi-hazank",
-          "ballot_number": 9,
+          "ballot_number": 8,
           "photo_id": 30144,
           "nvi_id": 4729961,
           "registered": "2026-02-28"
@@ -4482,7 +4482,7 @@
       "name_en": "Jász-Nagykun-Szolnok county, 04. no. constituency",
       "seat": "Törökszentmiklós",
       "seat_en": "Törökszentmiklós",
-      "registered_voters": 70169,
+      "registered_voters": 70131,
       "candidates": [
         {
           "name": "RÉVI ATTILA",
@@ -4549,7 +4549,7 @@
       "name_en": "Komárom-Esztergom county, 01. no. constituency",
       "seat": "Tatabánya",
       "seat_en": "Tatabánya",
-      "registered_voters": 76463,
+      "registered_voters": 76429,
       "candidates": [
         {
           "name": "DR. SOPOV ILDIKÓ ÉVA",
@@ -4607,7 +4607,7 @@
       "name_en": "Komárom-Esztergom county, 02. no. constituency",
       "seat": "Esztergom",
       "seat_en": "Esztergom",
-      "registered_voters": 79814,
+      "registered_voters": 79781,
       "candidates": [
         {
           "name": "RADNAI MÁRK",
@@ -4665,7 +4665,7 @@
       "name_en": "Komárom-Esztergom county, 03. no. constituency",
       "seat": "Komárom",
       "seat_en": "Komárom",
-      "registered_voters": 80090,
+      "registered_voters": 80045,
       "candidates": [
         {
           "name": "CZUNYINÉ DR. BERTALAN JUDIT",
@@ -4723,7 +4723,7 @@
       "name_en": "Nógrád county, 01. no. constituency",
       "seat": "Salgótarján",
       "seat_en": "Salgótarján",
-      "registered_voters": 70468,
+      "registered_voters": 70398,
       "candidates": [
         {
           "name": "KRIZS NORBERT",
@@ -4771,19 +4771,10 @@
           "registered": "2026-02-28"
         },
         {
-          "name": "BERKI SÁNDOR",
-          "party": "Független jelölt",
-          "party_id": null,
-          "ballot_number": 6,
-          "photo_id": 29879,
-          "nvi_id": 7813083,
-          "registered": "2026-03-01"
-        },
-        {
           "name": "GODÓ BEATRIX",
           "party": "DK",
           "party_id": "dk",
-          "ballot_number": 7,
+          "ballot_number": 6,
           "photo_id": 29746,
           "nvi_id": 6833199,
           "registered": "2026-03-09"
@@ -4799,7 +4790,7 @@
       "name_en": "Nógrád county, 02. no. constituency",
       "seat": "Balassagyarmat",
       "seat_en": "Balassagyarmat",
-      "registered_voters": 75678,
+      "registered_voters": 75630,
       "candidates": [
         {
           "name": "GULYÁS NORBERT",
@@ -4866,7 +4857,7 @@
       "name_en": "Pest county, 01. no. constituency",
       "seat": "Érd",
       "seat_en": "Érd",
-      "registered_voters": 78675,
+      "registered_voters": 78630,
       "candidates": [
         {
           "name": "SZALAI TIMEA",
@@ -4924,7 +4915,7 @@
       "name_en": "Pest county, 02. no. constituency",
       "seat": "Budaörs",
       "seat_en": "Budaörs",
-      "registered_voters": 76964,
+      "registered_voters": 76923,
       "candidates": [
         {
           "name": "GYÖRGY JÓZSEF",
@@ -4982,7 +4973,7 @@
       "name_en": "Pest county, 03. no. constituency",
       "seat": "Pilisvörösvár",
       "seat_en": "Pilisvörösvár",
-      "registered_voters": 81004,
+      "registered_voters": 80964,
       "candidates": [
         {
           "name": "FODOR BETTINA",
@@ -5058,7 +5049,7 @@
       "name_en": "Pest county, 04. no. constituency",
       "seat": "Szentendre",
       "seat_en": "Szentendre",
-      "registered_voters": 75170,
+      "registered_voters": 75124,
       "candidates": [
         {
           "name": "LACZKÓ KORNÉL",
@@ -5125,7 +5116,7 @@
       "name_en": "Pest county, 05. no. constituency",
       "seat": "Dunakeszi",
       "seat_en": "Dunakeszi",
-      "registered_voters": 75125,
+      "registered_voters": 75081,
       "candidates": [
         {
           "name": "ÁDÁM EMESE",
@@ -5201,7 +5192,7 @@
       "name_en": "Pest county, 06. no. constituency",
       "seat": "Gödöllő",
       "seat_en": "Gödöllő",
-      "registered_voters": 75881,
+      "registered_voters": 75843,
       "candidates": [
         {
           "name": "BOLBÁS ILDIKÓ",
@@ -5259,7 +5250,7 @@
       "name_en": "Pest county, 07. no. constituency",
       "seat": "Pécel",
       "seat_en": "Pécel",
-      "registered_voters": 75337,
+      "registered_voters": 75307,
       "candidates": [
         {
           "name": "HANKÓ KLÁRA",
@@ -5317,7 +5308,7 @@
       "name_en": "Pest county, 08. no. constituency",
       "seat": "Vecsés",
       "seat_en": "Vecsés",
-      "registered_voters": 69673,
+      "registered_voters": 69641,
       "candidates": [
         {
           "name": "SAS ZOLTÁN",
@@ -5393,7 +5384,7 @@
       "name_en": "Pest county, 09. no. constituency",
       "seat": "Ráckeve",
       "seat_en": "Ráckeve",
-      "registered_voters": 75036,
+      "registered_voters": 74994,
       "candidates": [
         {
           "name": "SÁNDOR ISTVÁN",
@@ -5469,7 +5460,7 @@
       "name_en": "Pest county, 10. no. constituency",
       "seat": "Szigetszentmiklós",
       "seat_en": "Szigetszentmiklós",
-      "registered_voters": 73477,
+      "registered_voters": 73443,
       "candidates": [
         {
           "name": "BOTLÓ KORNÉL",
@@ -5545,7 +5536,7 @@
       "name_en": "Pest county, 11. no. constituency",
       "seat": "Vác",
       "seat_en": "Vác",
-      "registered_voters": 73810,
+      "registered_voters": 73767,
       "candidates": [
         {
           "name": "RÉTVÁRI BENCE",
@@ -5603,7 +5594,7 @@
       "name_en": "Pest county, 12. no. constituency",
       "seat": "Monor",
       "seat_en": "Monor",
-      "registered_voters": 72805,
+      "registered_voters": 72762,
       "candidates": [
         {
           "name": "LENDVAY ENDRE",
@@ -5670,7 +5661,7 @@
       "name_en": "Pest county, 13. no. constituency",
       "seat": "Dabas",
       "seat_en": "Dabas",
-      "registered_voters": 69238,
+      "registered_voters": 69204,
       "candidates": [
         {
           "name": "URBIN GYÖRGY",
@@ -5746,7 +5737,7 @@
       "name_en": "Pest county, 14. no. constituency",
       "seat": "Cegléd",
       "seat_en": "Cegléd",
-      "registered_voters": 72592,
+      "registered_voters": 72562,
       "candidates": [
         {
           "name": "MUHARI GERGELY",
@@ -5804,7 +5795,7 @@
       "name_en": "Somogy county, 01. no. constituency",
       "seat": "Kaposvár",
       "seat_en": "Kaposvár",
-      "registered_voters": 57939,
+      "registered_voters": 57872,
       "candidates": [
         {
           "name": "DR. LŐRINCZ VIKTÓRIA",
@@ -5880,7 +5871,7 @@
       "name_en": "Somogy county, 02. no. constituency",
       "seat": "Barcs",
       "seat_en": "Barcs",
-      "registered_voters": 55955,
+      "registered_voters": 55911,
       "candidates": [
         {
           "name": "ANDER BALÁZS",
@@ -5947,7 +5938,7 @@
       "name_en": "Somogy county, 03. no. constituency",
       "seat": "Marcali",
       "seat_en": "Marcali",
-      "registered_voters": 59462,
+      "registered_voters": 59400,
       "candidates": [
         {
           "name": "KESZTYÜS ATTILA",
@@ -6005,7 +5996,7 @@
       "name_en": "Somogy county, 04. no. constituency",
       "seat": "Siófok",
       "seat_en": "Siófok",
-      "registered_voters": 61813,
+      "registered_voters": 61737,
       "candidates": [
         {
           "name": "JÁMBOR PÉTER",
@@ -6090,7 +6081,7 @@
       "name_en": "Szabolcs-Szatmár-Bereg county, 01. no. constituency",
       "seat": "Nyíregyháza",
       "seat_en": "Nyíregyháza",
-      "registered_voters": 70163,
+      "registered_voters": 70111,
       "candidates": [
         {
           "name": "TÜRK ATTILA",
@@ -6148,7 +6139,7 @@
       "name_en": "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
       "seat": "Nyíregyháza",
       "seat_en": "Nyíregyháza",
-      "registered_voters": 69714,
+      "registered_voters": 69656,
       "candidates": [
         {
           "name": "GYARMATI MIHÁLY",
@@ -6206,7 +6197,7 @@
       "name_en": "Szabolcs-Szatmár-Bereg county, 03. no. constituency",
       "seat": "Kisvárda",
       "seat_en": "Kisvárda",
-      "registered_voters": 74149,
+      "registered_voters": 74091,
       "candidates": [
         {
           "name": "DR. SESZTÁK MIKLÓS",
@@ -6254,31 +6245,13 @@
           "registered": "2026-03-05"
         },
         {
-          "name": "HORVÁTHNÉ SZIKSZAI MELINDA",
-          "party": "Középpárt",
-          "party_id": null,
-          "ballot_number": 6,
-          "photo_id": null,
-          "nvi_id": 1807142,
-          "registered": "2026-03-09"
-        },
-        {
           "name": "PERDIÁK JÁNOS",
           "party": "Magyar Igazság és Élet Pártja",
           "party_id": null,
-          "ballot_number": 7,
+          "ballot_number": 6,
           "photo_id": 30376,
           "nvi_id": 1644783,
           "registered": "2026-03-05"
-        },
-        {
-          "name": "VASS SZILVIA",
-          "party": "NÉP",
-          "party_id": null,
-          "ballot_number": 8,
-          "photo_id": null,
-          "nvi_id": 4195493,
-          "registered": "2026-03-09"
         }
       ]
     },
@@ -6291,7 +6264,7 @@
       "name_en": "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
       "seat": "Vásárosnamény",
       "seat_en": "Vásárosnamény",
-      "registered_voters": 68378,
+      "registered_voters": 68305,
       "candidates": [
         {
           "name": "KÁLMÁNDY ÁRPÁD",
@@ -6376,7 +6349,7 @@
       "name_en": "Szabolcs-Szatmár-Bereg county, 05. no. constituency",
       "seat": "Mátészalka",
       "seat_en": "Mátészalka",
-      "registered_voters": 69587,
+      "registered_voters": 69536,
       "candidates": [
         {
           "name": "HORVÁTH ANTAL",
@@ -6443,7 +6416,7 @@
       "name_en": "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
       "seat": "Nyírbátor",
       "seat_en": "Nyírbátor",
-      "registered_voters": 69311,
+      "registered_voters": 69256,
       "candidates": [
         {
           "name": "DR. SIMON MIKLÓS",
@@ -6528,7 +6501,7 @@
       "name_en": "Tolna county, 01. no. constituency",
       "seat": "Szekszárd",
       "seat_en": "Szekszárd",
-      "registered_voters": 56218,
+      "registered_voters": 56177,
       "candidates": [
         {
           "name": "DR. SÁROSI JÓZSEF",
@@ -6595,7 +6568,7 @@
       "name_en": "Tolna county, 02. no. constituency",
       "seat": "Dombóvár",
       "seat_en": "Dombóvár",
-      "registered_voters": 55428,
+      "registered_voters": 55382,
       "candidates": [
         {
           "name": "CSATÓ DÁNIEL",
@@ -6662,7 +6635,7 @@
       "name_en": "Tolna county, 03. no. constituency",
       "seat": "Paks",
       "seat_en": "Paks",
-      "registered_voters": 55885,
+      "registered_voters": 55843,
       "candidates": [
         {
           "name": "JANECSKA ZOLTÁN",
@@ -6729,7 +6702,7 @@
       "name_en": "Vas county, 01. no. constituency",
       "seat": "Szombathely",
       "seat_en": "Szombathely",
-      "registered_voters": 66127,
+      "registered_voters": 66085,
       "candidates": [
         {
           "name": "VÁMOS ZOLTÁN",
@@ -6787,7 +6760,7 @@
       "name_en": "Vas county, 02. no. constituency",
       "seat": "Sárvár",
       "seat_en": "Sárvár",
-      "registered_voters": 65877,
+      "registered_voters": 65839,
       "candidates": [
         {
           "name": "DEÁK GÁBOR",
@@ -6845,7 +6818,7 @@
       "name_en": "Vas county, 03. no. constituency",
       "seat": "Körmend",
       "seat_en": "Körmend",
-      "registered_voters": 63962,
+      "registered_voters": 63928,
       "candidates": [
         {
           "name": "V.NÉMETH ZSOLT",
@@ -6903,7 +6876,7 @@
       "name_en": "Veszprém county, 01. no. constituency",
       "seat": "Veszprém",
       "seat_en": "Veszprém",
-      "registered_voters": 67808,
+      "registered_voters": 67768,
       "candidates": [
         {
           "name": "OVÁDI PÉTER",
@@ -6970,7 +6943,7 @@
       "name_en": "Veszprém county, 02. no. constituency",
       "seat": "Balatonfüred",
       "seat_en": "Balatonfüred",
-      "registered_voters": 71828,
+      "registered_voters": 71750,
       "candidates": [
         {
           "name": "SZABÓ MIKLÓS",
@@ -7037,7 +7010,7 @@
       "name_en": "Veszprém county, 03. no. constituency",
       "seat": "Tapolca",
       "seat_en": "Tapolca",
-      "registered_voters": 64001,
+      "registered_voters": 63918,
       "candidates": [
         {
           "name": "BAKK ISTVÁN",
@@ -7122,7 +7095,7 @@
       "name_en": "Veszprém county, 04. no. constituency",
       "seat": "Pápa",
       "seat_en": "Pápa",
-      "registered_voters": 65538,
+      "registered_voters": 65477,
       "candidates": [
         {
           "name": "UJVÁRI SZILVIA",
@@ -7189,7 +7162,7 @@
       "name_en": "Zala county, 01. no. constituency",
       "seat": "Zalaegerszeg",
       "seat_en": "Zalaegerszeg",
-      "registered_voters": 71345,
+      "registered_voters": 71284,
       "candidates": [
         {
           "name": "SZILASI GÁBOR",
@@ -7265,7 +7238,7 @@
       "name_en": "Zala county, 02. no. constituency",
       "seat": "Keszthely",
       "seat_en": "Keszthely",
-      "registered_voters": 71294,
+      "registered_voters": 71214,
       "candidates": [
         {
           "name": "JUHÁSZ-BAUER ÁGOSTON BÁLINT",
@@ -7332,7 +7305,7 @@
       "name_en": "Zala county, 03. no. constituency",
       "seat": "Nagykanizsa",
       "seat_en": "Nagykanizsa",
-      "registered_voters": 68102,
+      "registered_voters": 68034,
       "candidates": [
         {
           "name": "DR. MATYIJCSIK SÁNDOR",

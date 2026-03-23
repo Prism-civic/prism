@@ -2,9 +2,20 @@
   "kpn_id": 2918504,
   "candidate_name": "NAGY JÓZSEF LÁSZLÓ",
   "source": "https://telex.hu",
-  "scraped_at": "2026-03-21T22:21:30.115992+00:00",
-  "item_count": 0,
-  "items": [],
+  "scraped_at": "2026-03-22T18:59:10.319992+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Ez a pénz csak papíron van, sajnos nem az én zsebemben – mondta Nagy Feró a Magyar Péter által...",
+      "url": "https://telex.hu/belfold/2026/03/22/dpk-sportarena-gyules-koltseg-nagy-fero-pataky-attila-human-telex-digitalis-demokraciafejlesztesi-ugynokseg",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
   "party": "A SZOLIDARITÁS PÁRTJA-Munkáspárt",
   "constituency": "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
   "search_name_used": "Nagy József László"

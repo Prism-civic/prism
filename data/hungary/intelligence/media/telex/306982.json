@@ -2,9 +2,20 @@
   "kpn_id": 306982,
   "candidate_name": "NAGY ATTILA",
   "source": "https://telex.hu",
-  "scraped_at": "2026-03-21T21:39:20.472750+00:00",
-  "item_count": 0,
-  "items": [],
+  "scraped_at": "2026-03-22T18:17:30.326726+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Ez a pénz csak papíron van, sajnos nem az én zsebemben – mondta Nagy Feró a Magyar Péter által...",
+      "url": "https://telex.hu/belfold/2026/03/22/dpk-sportarena-gyules-koltseg-nagy-fero-pataky-attila-human-telex-digitalis-demokraciafejlesztesi-ugynokseg",
+      "date": null,
+      "excerpt": null,
+      "source": "telex.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
   "party": "Mi Hazánk",
   "constituency": "Budapest capital, 01. no. constituency",
   "search_name_used": "Nagy Attila"

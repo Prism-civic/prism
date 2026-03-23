@@ -1,0 +1,22 @@
+{
+  "kpn_id": 1831140,
+  "candidate_name": "PAPP ZSOLT",
+  "source": "https://hvg.hu",
+  "scraped_at": "2026-03-22T20:00:19.919597+00:00",
+  "item_count": 1,
+  "items": [
+    {
+      "title": "Papp Réka Kinga: Ez a magyarázata annak, hogy a NER kitermelte önnön legesélyesebb ellenzékét",
+      "url": "https://hvg.hu/360/20260319_nem-engedunk-a-huszonhatbol-papp-reka-kinga-velemeny-hvg",
+      "date": null,
+      "excerpt": null,
+      "source": "hvg.hu",
+      "weight": "medium",
+      "confidence": "medium",
+      "tags": []
+    }
+  ],
+  "party": "FIDESZ-KDNP",
+  "constituency": "Hajdú-Bihar county, 06. no. constituency",
+  "search_name_used": "Papp Zsolt"
+}
