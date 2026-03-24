@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-23T17:00:00.137208866+01:00",
+    "generated" : "2026-03-24T17:00:00.217250052+01:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -13616,7 +13616,6 @@
     "maz" : "07",
     "evk" : "05",
     "sorsolt_sorsz" : 5,
-    "szavlap_sorsz" : 4,
     "neve" : "JANZSÓ TAMÁS",
     "fenykep" : 30524,
     "kep_tipus" : "JPG",
@@ -13624,8 +13623,8 @@
     "jelolo_szervezetek" : [ 1030 ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "A Magyar Vállalkozók és",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-15T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-24T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 141155,
@@ -18291,7 +18290,7 @@
     "maz" : "07",
     "evk" : "05",
     "sorsolt_sorsz" : 6,
-    "szavlap_sorsz" : 5,
+    "szavlap_sorsz" : 4,
     "neve" : "VARGA GÁBOR",
     "fenykep" : 29851,
     "kep_tipus" : "JPG",
@@ -23204,7 +23203,6 @@
     "maz" : "01",
     "evk" : "08",
     "sorsolt_sorsz" : 8,
-    "szavlap_sorsz" : 6,
     "neve" : "TERNYÁK ANDRÁS",
     "fenykep" : 29682,
     "kep_tipus" : "JPG",
@@ -23212,8 +23210,8 @@
     "jelolo_szervezetek" : [ 1001 ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "DK",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-05T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-24T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 141106,
@@ -23620,7 +23618,7 @@
     "maz" : "01",
     "evk" : "08",
     "sorsolt_sorsz" : 9,
-    "szavlap_sorsz" : 7,
+    "szavlap_sorsz" : 6,
     "neve" : "FEKETE GYÖRGY",
     "fenykep" : 30084,
     "kep_tipus" : "JPG",
@@ -24377,7 +24375,7 @@
     "maz" : "07",
     "evk" : "05",
     "sorsolt_sorsz" : 9,
-    "szavlap_sorsz" : 6,
+    "szavlap_sorsz" : 5,
     "neve" : "VINKLÁR LÁSZLÓ",
     "fenykep" : 30271,
     "kep_tipus" : "JPG",

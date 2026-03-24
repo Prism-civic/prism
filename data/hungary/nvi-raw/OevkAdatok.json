@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-23T17:00:00.137208866+01:00",
+    "generated" : "2026-03-24T17:00:00.217250052+01:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -14,14 +14,14 @@
     "evk_nev_en" : "Budapest capital, 01. no. constituency",
     "szekhely" : "Budapest 05. kerület",
     "szekhely_en" : "Budapest 5th district",
-    "oevk_jeloltre_szavhat" : 73981,
+    "oevk_jeloltre_szavhat" : 73968,
     "letszam" : {
       "indulo" : 74492,
-      "honos" : 72336,
-      "atjel" : 4166,
-      "atjelInnen" : 1645,
-      "kuvi" : 2023,
-      "osszesen" : 76502
+      "honos" : 72259,
+      "atjel" : 4317,
+      "atjelInnen" : 1709,
+      "kuvi" : 2077,
+      "osszesen" : 76576
     }
   }, {
     "maz" : "01",
@@ -32,14 +32,14 @@
     "evk_nev_en" : "Budapest capital, 02. no. constituency",
     "szekhely" : "Budapest 08. kerület",
     "szekhely_en" : "Budapest 8th district",
-    "oevk_jeloltre_szavhat" : 76490,
+    "oevk_jeloltre_szavhat" : 76494,
     "letszam" : {
       "indulo" : 76932,
-      "honos" : 74532,
-      "atjel" : 6654,
-      "atjelInnen" : 1958,
-      "kuvi" : 1647,
-      "osszesen" : 81186
+      "honos" : 74467,
+      "atjel" : 6876,
+      "atjelInnen" : 2027,
+      "kuvi" : 1688,
+      "osszesen" : 81343
     }
   }, {
     "maz" : "01",
@@ -50,14 +50,14 @@
     "evk_nev_en" : "Budapest capital, 03. no. constituency",
     "szekhely" : "Budapest 12. kerület",
     "szekhely_en" : "Budapest 12th district",
-    "oevk_jeloltre_szavhat" : 78466,
+    "oevk_jeloltre_szavhat" : 78461,
     "letszam" : {
       "indulo" : 78809,
-      "honos" : 77278,
-      "atjel" : 7906,
-      "atjelInnen" : 1188,
-      "kuvi" : 2036,
-      "osszesen" : 85184
+      "honos" : 77224,
+      "atjel" : 8152,
+      "atjelInnen" : 1237,
+      "kuvi" : 2087,
+      "osszesen" : 85376
     }
   }, {
     "maz" : "01",
@@ -68,14 +68,14 @@
     "evk_nev_en" : "Budapest capital, 04. no. constituency",
     "szekhely" : "Budapest 02. kerület",
     "szekhely_en" : "Budapest 2nd district",
-    "oevk_jeloltre_szavhat" : 80374,
+    "oevk_jeloltre_szavhat" : 80363,
     "letszam" : {
       "indulo" : 80575,
-      "honos" : 79256,
-      "atjel" : 2438,
-      "atjelInnen" : 1118,
-      "kuvi" : 2387,
-      "osszesen" : 81694
+      "honos" : 79191,
+      "atjel" : 2544,
+      "atjelInnen" : 1172,
+      "kuvi" : 2438,
+      "osszesen" : 81735
     }
   }, {
     "maz" : "01",
@@ -86,14 +86,14 @@
     "evk_nev_en" : "Budapest capital, 05. no. constituency",
     "szekhely" : "Budapest 06. kerület",
     "szekhely_en" : "Budapest 6th district",
-    "oevk_jeloltre_szavhat" : 76997,
+    "oevk_jeloltre_szavhat" : 76987,
     "letszam" : {
       "indulo" : 77405,
-      "honos" : 75116,
-      "atjel" : 1604,
-      "atjelInnen" : 1881,
-      "kuvi" : 1619,
-      "osszesen" : 76720
+      "honos" : 75049,
+      "atjel" : 1657,
+      "atjelInnen" : 1938,
+      "kuvi" : 1663,
+      "osszesen" : 76706
     }
   }, {
     "maz" : "01",
@@ -104,14 +104,14 @@
     "evk_nev_en" : "Budapest capital, 06. no. constituency",
     "szekhely" : "Budapest 14. kerület",
     "szekhely_en" : "Budapest 14th district",
-    "oevk_jeloltre_szavhat" : 78345,
+    "oevk_jeloltre_szavhat" : 78326,
     "letszam" : {
       "indulo" : 78613,
-      "honos" : 76667,
-      "atjel" : 4958,
-      "atjelInnen" : 1678,
-      "kuvi" : 1632,
-      "osszesen" : 81625
+      "honos" : 76593,
+      "atjel" : 5148,
+      "atjelInnen" : 1733,
+      "kuvi" : 1681,
+      "osszesen" : 81741
     }
   }, {
     "maz" : "01",
@@ -122,14 +122,14 @@
     "evk_nev_en" : "Budapest capital, 07. no. constituency",
     "szekhely" : "Budapest 10. kerület",
     "szekhely_en" : "Budapest 10th district",
-    "oevk_jeloltre_szavhat" : 75446,
+    "oevk_jeloltre_szavhat" : 75442,
     "letszam" : {
       "indulo" : 75822,
-      "honos" : 74023,
-      "atjel" : 2995,
-      "atjelInnen" : 1423,
-      "kuvi" : 1048,
-      "osszesen" : 77018
+      "honos" : 73976,
+      "atjel" : 3103,
+      "atjelInnen" : 1466,
+      "kuvi" : 1097,
+      "osszesen" : 77079
     }
   }, {
     "maz" : "01",
@@ -140,14 +140,14 @@
     "evk_nev_en" : "Budapest capital, 08. no. constituency",
     "szekhely" : "Budapest 19. kerület",
     "szekhely_en" : "Budapest 19th district",
-    "oevk_jeloltre_szavhat" : 79294,
+    "oevk_jeloltre_szavhat" : 79286,
     "letszam" : {
       "indulo" : 79613,
-      "honos" : 78137,
-      "atjel" : 3280,
-      "atjelInnen" : 1157,
-      "kuvi" : 930,
-      "osszesen" : 81417
+      "honos" : 78095,
+      "atjel" : 3373,
+      "atjelInnen" : 1191,
+      "kuvi" : 949,
+      "osszesen" : 81468
     }
   }, {
     "maz" : "01",
@@ -158,14 +158,14 @@
     "evk_nev_en" : "Budapest capital, 09. no. constituency",
     "szekhely" : "Budapest 21. kerület",
     "szekhely_en" : "Budapest 21st district",
-    "oevk_jeloltre_szavhat" : 75165,
+    "oevk_jeloltre_szavhat" : 75169,
     "letszam" : {
       "indulo" : 75438,
-      "honos" : 74081,
-      "atjel" : 3050,
-      "atjelInnen" : 1084,
-      "kuvi" : 745,
-      "osszesen" : 77131
+      "honos" : 74040,
+      "atjel" : 3137,
+      "atjelInnen" : 1129,
+      "kuvi" : 763,
+      "osszesen" : 77177
     }
   }, {
     "maz" : "01",
@@ -176,14 +176,14 @@
     "evk_nev_en" : "Budapest capital, 10. no. constituency",
     "szekhely" : "Budapest 22. kerület",
     "szekhely_en" : "Budapest 22nd district",
-    "oevk_jeloltre_szavhat" : 77128,
+    "oevk_jeloltre_szavhat" : 77119,
     "letszam" : {
       "indulo" : 76990,
-      "honos" : 75967,
-      "atjel" : 1190,
-      "atjelInnen" : 1161,
-      "kuvi" : 1202,
-      "osszesen" : 77157
+      "honos" : 75916,
+      "atjel" : 1232,
+      "atjelInnen" : 1203,
+      "kuvi" : 1243,
+      "osszesen" : 77148
     }
   }, {
     "maz" : "01",
@@ -194,14 +194,14 @@
     "evk_nev_en" : "Budapest capital, 11. no. constituency",
     "szekhely" : "Budapest 03. kerület",
     "szekhely_en" : "Budapest 3rd district",
-    "oevk_jeloltre_szavhat" : 79557,
+    "oevk_jeloltre_szavhat" : 79545,
     "letszam" : {
       "indulo" : 79892,
-      "honos" : 78237,
-      "atjel" : 3455,
-      "atjelInnen" : 1320,
-      "kuvi" : 1235,
-      "osszesen" : 81692
+      "honos" : 78184,
+      "atjel" : 3586,
+      "atjelInnen" : 1361,
+      "kuvi" : 1264,
+      "osszesen" : 81770
     }
   }, {
     "maz" : "01",
@@ -212,14 +212,14 @@
     "evk_nev_en" : "Budapest capital, 12. no. constituency",
     "szekhely" : "Budapest 13. kerület",
     "szekhely_en" : "Budapest 13th district",
-    "oevk_jeloltre_szavhat" : 78785,
+    "oevk_jeloltre_szavhat" : 78777,
     "letszam" : {
       "indulo" : 79032,
-      "honos" : 77407,
-      "atjel" : 8513,
-      "atjelInnen" : 1378,
-      "kuvi" : 1082,
-      "osszesen" : 85920
+      "honos" : 77353,
+      "atjel" : 8775,
+      "atjelInnen" : 1424,
+      "kuvi" : 1102,
+      "osszesen" : 86128
     }
   }, {
     "maz" : "01",
@@ -230,14 +230,14 @@
     "evk_nev_en" : "Budapest capital, 13. no. constituency",
     "szekhely" : "Budapest 15. kerület",
     "szekhely_en" : "Budapest 15th district",
-    "oevk_jeloltre_szavhat" : 76618,
+    "oevk_jeloltre_szavhat" : 76606,
     "letszam" : {
       "indulo" : 76995,
-      "honos" : 75515,
-      "atjel" : 1899,
-      "atjelInnen" : 1103,
-      "kuvi" : 846,
-      "osszesen" : 77414
+      "honos" : 75467,
+      "atjel" : 1955,
+      "atjelInnen" : 1139,
+      "kuvi" : 878,
+      "osszesen" : 77422
     }
   }, {
     "maz" : "01",
@@ -248,14 +248,14 @@
     "evk_nev_en" : "Budapest capital, 14. no. constituency",
     "szekhely" : "Budapest 16. kerület",
     "szekhely_en" : "Budapest 16th district",
-    "oevk_jeloltre_szavhat" : 77376,
+    "oevk_jeloltre_szavhat" : 77367,
     "letszam" : {
       "indulo" : 77663,
-      "honos" : 76461,
-      "atjel" : 1491,
-      "atjelInnen" : 914,
-      "kuvi" : 1008,
-      "osszesen" : 77952
+      "honos" : 76421,
+      "atjel" : 1545,
+      "atjelInnen" : 946,
+      "kuvi" : 1043,
+      "osszesen" : 77966
     }
   }, {
     "maz" : "01",
@@ -266,14 +266,14 @@
     "evk_nev_en" : "Budapest capital, 15. no. constituency",
     "szekhely" : "Budapest 17. kerület",
     "szekhely_en" : "Budapest 17th district",
-    "oevk_jeloltre_szavhat" : 79365,
+    "oevk_jeloltre_szavhat" : 79357,
     "letszam" : {
       "indulo" : 79615,
-      "honos" : 78463,
-      "atjel" : 1366,
-      "atjelInnen" : 902,
-      "kuvi" : 845,
-      "osszesen" : 79829
+      "honos" : 78422,
+      "atjel" : 1402,
+      "atjelInnen" : 935,
+      "kuvi" : 875,
+      "osszesen" : 79824
     }
   }, {
     "maz" : "01",
@@ -284,14 +284,14 @@
     "evk_nev_en" : "Budapest capital, 16. no. constituency",
     "szekhely" : "Budapest 23. kerület",
     "szekhely_en" : "Budapest 23rd district",
-    "oevk_jeloltre_szavhat" : 83545,
+    "oevk_jeloltre_szavhat" : 83536,
     "letszam" : {
       "indulo" : 83867,
-      "honos" : 82510,
-      "atjel" : 412,
-      "atjelInnen" : 1035,
-      "kuvi" : 888,
-      "osszesen" : 82922
+      "honos" : 82470,
+      "atjel" : 425,
+      "atjelInnen" : 1066,
+      "kuvi" : 919,
+      "osszesen" : 82895
     }
   }, {
     "maz" : "02",
@@ -302,14 +302,14 @@
     "evk_nev_en" : "Baranya county, 01. no. constituency",
     "szekhely" : "Pécs",
     "szekhely_en" : "Pécs",
-    "oevk_jeloltre_szavhat" : 70832,
+    "oevk_jeloltre_szavhat" : 70824,
     "letszam" : {
       "indulo" : 71170,
-      "honos" : 69273,
-      "atjel" : 2510,
-      "atjelInnen" : 1559,
-      "kuvi" : 862,
-      "osszesen" : 71783
+      "honos" : 69211,
+      "atjel" : 2608,
+      "atjelInnen" : 1613,
+      "kuvi" : 894,
+      "osszesen" : 71819
     }
   }, {
     "maz" : "02",
@@ -320,14 +320,14 @@
     "evk_nev_en" : "Baranya county, 02. no. constituency",
     "szekhely" : "Pécs",
     "szekhely_en" : "Pécs",
-    "oevk_jeloltre_szavhat" : 75015,
+    "oevk_jeloltre_szavhat" : 75011,
     "letszam" : {
       "indulo" : 75388,
-      "honos" : 73601,
-      "atjel" : 322,
-      "atjelInnen" : 1414,
-      "kuvi" : 696,
-      "osszesen" : 73923
+      "honos" : 73540,
+      "atjel" : 331,
+      "atjelInnen" : 1471,
+      "kuvi" : 721,
+      "osszesen" : 73871
     }
   }, {
     "maz" : "02",
@@ -338,14 +338,14 @@
     "evk_nev_en" : "Baranya county, 03. no. constituency",
     "szekhely" : "Mohács",
     "szekhely_en" : "Mohács",
-    "oevk_jeloltre_szavhat" : 68737,
+    "oevk_jeloltre_szavhat" : 68726,
     "letszam" : {
       "indulo" : 68995,
-      "honos" : 67675,
-      "atjel" : 548,
-      "atjelInnen" : 1062,
-      "kuvi" : 397,
-      "osszesen" : 68223
+      "honos" : 67609,
+      "atjel" : 582,
+      "atjelInnen" : 1117,
+      "kuvi" : 413,
+      "osszesen" : 68191
     }
   }, {
     "maz" : "02",
@@ -356,14 +356,14 @@
     "evk_nev_en" : "Baranya county, 04. no. constituency",
     "szekhely" : "Szigetvár",
     "szekhely_en" : "Szigetvár",
-    "oevk_jeloltre_szavhat" : 73846,
+    "oevk_jeloltre_szavhat" : 73853,
     "letszam" : {
       "indulo" : 74056,
-      "honos" : 72687,
-      "atjel" : 574,
-      "atjelInnen" : 1159,
-      "kuvi" : 341,
-      "osszesen" : 73261
+      "honos" : 72651,
+      "atjel" : 600,
+      "atjelInnen" : 1202,
+      "kuvi" : 346,
+      "osszesen" : 73251
     }
   }, {
     "maz" : "03",
@@ -374,14 +374,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 01. no. constituency",
     "szekhely" : "Kecskemét",
     "szekhely_en" : "Kecskemét",
-    "oevk_jeloltre_szavhat" : 67953,
+    "oevk_jeloltre_szavhat" : 67948,
     "letszam" : {
       "indulo" : 68116,
-      "honos" : 66974,
-      "atjel" : 261,
-      "atjelInnen" : 979,
-      "kuvi" : 410,
-      "osszesen" : 67235
+      "honos" : 66932,
+      "atjel" : 269,
+      "atjelInnen" : 1016,
+      "kuvi" : 431,
+      "osszesen" : 67201
     }
   }, {
     "maz" : "03",
@@ -392,14 +392,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 02. no. constituency",
     "szekhely" : "Kecskemét",
     "szekhely_en" : "Kecskemét",
-    "oevk_jeloltre_szavhat" : 71549,
+    "oevk_jeloltre_szavhat" : 71539,
     "letszam" : {
       "indulo" : 71744,
-      "honos" : 70427,
-      "atjel" : 1565,
-      "atjelInnen" : 1122,
-      "kuvi" : 555,
-      "osszesen" : 71992
+      "honos" : 70371,
+      "atjel" : 1622,
+      "atjelInnen" : 1168,
+      "kuvi" : 579,
+      "osszesen" : 71993
     }
   }, {
     "maz" : "03",
@@ -410,14 +410,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 03. no. constituency",
     "szekhely" : "Kalocsa",
     "szekhely_en" : "Kalocsa",
-    "oevk_jeloltre_szavhat" : 63299,
+    "oevk_jeloltre_szavhat" : 63291,
     "letszam" : {
       "indulo" : 63523,
-      "honos" : 62128,
-      "atjel" : 585,
-      "atjelInnen" : 1171,
-      "kuvi" : 351,
-      "osszesen" : 62713
+      "honos" : 62071,
+      "atjel" : 590,
+      "atjelInnen" : 1220,
+      "kuvi" : 367,
+      "osszesen" : 62661
     }
   }, {
     "maz" : "03",
@@ -428,14 +428,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 04. no. constituency",
     "szekhely" : "Kiskunfélegyháza",
     "szekhely_en" : "Kiskunfélegyháza",
-    "oevk_jeloltre_szavhat" : 70100,
+    "oevk_jeloltre_szavhat" : 70090,
     "letszam" : {
       "indulo" : 70354,
-      "honos" : 69161,
-      "atjel" : 441,
-      "atjelInnen" : 939,
-      "kuvi" : 348,
-      "osszesen" : 69602
+      "honos" : 69121,
+      "atjel" : 467,
+      "atjelInnen" : 969,
+      "kuvi" : 360,
+      "osszesen" : 69588
     }
   }, {
     "maz" : "03",
@@ -446,14 +446,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 05. no. constituency",
     "szekhely" : "Kiskunhalas",
     "szekhely_en" : "Kiskunhalas",
-    "oevk_jeloltre_szavhat" : 65645,
+    "oevk_jeloltre_szavhat" : 65646,
     "letszam" : {
       "indulo" : 65960,
-      "honos" : 64357,
-      "atjel" : 519,
-      "atjelInnen" : 1288,
-      "kuvi" : 409,
-      "osszesen" : 64876
+      "honos" : 64292,
+      "atjel" : 571,
+      "atjelInnen" : 1354,
+      "kuvi" : 424,
+      "osszesen" : 64863
     }
   }, {
     "maz" : "03",
@@ -464,14 +464,14 @@
     "evk_nev_en" : "Bács-Kiskun county, 06. no. constituency",
     "szekhely" : "Baja",
     "szekhely_en" : "Baja",
-    "oevk_jeloltre_szavhat" : 62191,
+    "oevk_jeloltre_szavhat" : 62189,
     "letszam" : {
       "indulo" : 62413,
-      "honos" : 60926,
-      "atjel" : 511,
-      "atjelInnen" : 1265,
-      "kuvi" : 405,
-      "osszesen" : 61437
+      "honos" : 60871,
+      "atjel" : 526,
+      "atjelInnen" : 1318,
+      "kuvi" : 417,
+      "osszesen" : 61397
     }
   }, {
     "maz" : "04",
@@ -482,14 +482,14 @@
     "evk_nev_en" : "Békés county, 01. no. constituency",
     "szekhely" : "Békéscsaba",
     "szekhely_en" : "Békéscsaba",
-    "oevk_jeloltre_szavhat" : 66104,
+    "oevk_jeloltre_szavhat" : 66089,
     "letszam" : {
       "indulo" : 66341,
-      "honos" : 64419,
-      "atjel" : 709,
-      "atjelInnen" : 1685,
-      "kuvi" : 483,
-      "osszesen" : 65128
+      "honos" : 64339,
+      "atjel" : 737,
+      "atjelInnen" : 1750,
+      "kuvi" : 496,
+      "osszesen" : 65076
     }
   }, {
     "maz" : "04",
@@ -500,14 +500,14 @@
     "evk_nev_en" : "Békés county, 02. no. constituency",
     "szekhely" : "Békés",
     "szekhely_en" : "Békés",
-    "oevk_jeloltre_szavhat" : 66488,
+    "oevk_jeloltre_szavhat" : 66474,
     "letszam" : {
       "indulo" : 66737,
-      "honos" : 65081,
-      "atjel" : 358,
-      "atjelInnen" : 1407,
-      "kuvi" : 415,
-      "osszesen" : 65439
+      "honos" : 65030,
+      "atjel" : 381,
+      "atjelInnen" : 1444,
+      "kuvi" : 426,
+      "osszesen" : 65411
     }
   }, {
     "maz" : "04",
@@ -518,14 +518,14 @@
     "evk_nev_en" : "Békés county, 03. no. constituency",
     "szekhely" : "Gyula",
     "szekhely_en" : "Gyula",
-    "oevk_jeloltre_szavhat" : 65312,
+    "oevk_jeloltre_szavhat" : 65309,
     "letszam" : {
       "indulo" : 65626,
-      "honos" : 63820,
-      "atjel" : 537,
-      "atjelInnen" : 1492,
-      "kuvi" : 372,
-      "osszesen" : 64357
+      "honos" : 63774,
+      "atjel" : 552,
+      "atjelInnen" : 1535,
+      "kuvi" : 381,
+      "osszesen" : 64326
     }
   }, {
     "maz" : "04",
@@ -536,14 +536,14 @@
     "evk_nev_en" : "Békés county, 04. no. constituency",
     "szekhely" : "Orosháza",
     "szekhely_en" : "Orosháza",
-    "oevk_jeloltre_szavhat" : 68217,
+    "oevk_jeloltre_szavhat" : 68202,
     "letszam" : {
       "indulo" : 68573,
-      "honos" : 66622,
-      "atjel" : 347,
-      "atjelInnen" : 1595,
-      "kuvi" : 436,
-      "osszesen" : 66969
+      "honos" : 66571,
+      "atjel" : 364,
+      "atjelInnen" : 1631,
+      "kuvi" : 458,
+      "osszesen" : 66935
     }
   }, {
     "maz" : "05",
@@ -554,14 +554,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 01. no. constituency",
     "szekhely" : "Miskolc",
     "szekhely_en" : "Miskolc",
-    "oevk_jeloltre_szavhat" : 69225,
+    "oevk_jeloltre_szavhat" : 69209,
     "letszam" : {
       "indulo" : 69596,
-      "honos" : 67854,
-      "atjel" : 199,
-      "atjelInnen" : 1371,
-      "kuvi" : 551,
-      "osszesen" : 68053
+      "honos" : 67785,
+      "atjel" : 205,
+      "atjelInnen" : 1424,
+      "kuvi" : 574,
+      "osszesen" : 67990
     }
   }, {
     "maz" : "05",
@@ -572,14 +572,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 02. no. constituency",
     "szekhely" : "Miskolc",
     "szekhely_en" : "Miskolc",
-    "oevk_jeloltre_szavhat" : 68334,
+    "oevk_jeloltre_szavhat" : 68337,
     "letszam" : {
       "indulo" : 68632,
-      "honos" : 66852,
-      "atjel" : 1306,
-      "atjelInnen" : 1482,
-      "kuvi" : 584,
-      "osszesen" : 68158
+      "honos" : 66783,
+      "atjel" : 1350,
+      "atjelInnen" : 1554,
+      "kuvi" : 613,
+      "osszesen" : 68133
     }
   }, {
     "maz" : "05",
@@ -590,14 +590,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 03. no. constituency",
     "szekhely" : "Ózd",
     "szekhely_en" : "Ózd",
-    "oevk_jeloltre_szavhat" : 67697,
+    "oevk_jeloltre_szavhat" : 67687,
     "letszam" : {
       "indulo" : 68060,
-      "honos" : 66369,
-      "atjel" : 309,
-      "atjelInnen" : 1328,
-      "kuvi" : 217,
-      "osszesen" : 66678
+      "honos" : 66313,
+      "atjel" : 328,
+      "atjelInnen" : 1374,
+      "kuvi" : 224,
+      "osszesen" : 66641
     }
   }, {
     "maz" : "05",
@@ -608,14 +608,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 04. no. constituency",
     "szekhely" : "Kazincbarcika",
     "szekhely_en" : "Kazincbarcika",
-    "oevk_jeloltre_szavhat" : 71403,
+    "oevk_jeloltre_szavhat" : 71397,
     "letszam" : {
       "indulo" : 71778,
-      "honos" : 70146,
-      "atjel" : 315,
-      "atjelInnen" : 1257,
-      "kuvi" : 332,
-      "osszesen" : 70461
+      "honos" : 70082,
+      "atjel" : 336,
+      "atjelInnen" : 1315,
+      "kuvi" : 342,
+      "osszesen" : 70418
     }
   }, {
     "maz" : "05",
@@ -626,14 +626,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 05. no. constituency",
     "szekhely" : "Sátoraljaújhely",
     "szekhely_en" : "Sátoraljaújhely",
-    "oevk_jeloltre_szavhat" : 70116,
+    "oevk_jeloltre_szavhat" : 70105,
     "letszam" : {
       "indulo" : 70421,
-      "honos" : 68261,
-      "atjel" : 465,
-      "atjelInnen" : 1855,
-      "kuvi" : 308,
-      "osszesen" : 68726
+      "honos" : 68191,
+      "atjel" : 484,
+      "atjelInnen" : 1914,
+      "kuvi" : 321,
+      "osszesen" : 68675
     }
   }, {
     "maz" : "05",
@@ -644,14 +644,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 06. no. constituency",
     "szekhely" : "Tiszaújváros",
     "szekhely_en" : "Tiszaújváros",
-    "oevk_jeloltre_szavhat" : 73671,
+    "oevk_jeloltre_szavhat" : 73670,
     "letszam" : {
       "indulo" : 74010,
-      "honos" : 72232,
-      "atjel" : 386,
-      "atjelInnen" : 1439,
-      "kuvi" : 375,
-      "osszesen" : 72618
+      "honos" : 72153,
+      "atjel" : 421,
+      "atjelInnen" : 1517,
+      "kuvi" : 394,
+      "osszesen" : 72574
     }
   }, {
     "maz" : "05",
@@ -662,14 +662,14 @@
     "evk_nev_en" : "Borsod-Abaúj-Zemplén county, 07. no. constituency",
     "szekhely" : "Mezőkövesd",
     "szekhely_en" : "Mezőkövesd",
-    "oevk_jeloltre_szavhat" : 74279,
+    "oevk_jeloltre_szavhat" : 74268,
     "letszam" : {
       "indulo" : 74526,
-      "honos" : 73007,
-      "atjel" : 584,
-      "atjelInnen" : 1272,
-      "kuvi" : 391,
-      "osszesen" : 73591
+      "honos" : 72946,
+      "atjel" : 612,
+      "atjelInnen" : 1322,
+      "kuvi" : 401,
+      "osszesen" : 73558
     }
   }, {
     "maz" : "06",
@@ -680,14 +680,14 @@
     "evk_nev_en" : "Csongrád-Csanád county, 01. no. constituency",
     "szekhely" : "Szeged",
     "szekhely_en" : "Szeged",
-    "oevk_jeloltre_szavhat" : 82053,
+    "oevk_jeloltre_szavhat" : 82041,
     "letszam" : {
       "indulo" : 82389,
-      "honos" : 80434,
+      "honos" : 80353,
       "atjel" : 0,
-      "atjelInnen" : 1619,
-      "kuvi" : 1105,
-      "osszesen" : 80434
+      "atjelInnen" : 1688,
+      "kuvi" : 1143,
+      "osszesen" : 80353
     }
   }, {
     "maz" : "06",
@@ -698,14 +698,14 @@
     "evk_nev_en" : "Csongrád-Csanád county, 02. no. constituency",
     "szekhely" : "Szeged",
     "szekhely_en" : "Szeged",
-    "oevk_jeloltre_szavhat" : 80163,
+    "oevk_jeloltre_szavhat" : 80153,
     "letszam" : {
       "indulo" : 80379,
-      "honos" : 78896,
-      "atjel" : 3401,
-      "atjelInnen" : 1267,
-      "kuvi" : 786,
-      "osszesen" : 82297
+      "honos" : 78833,
+      "atjel" : 3524,
+      "atjelInnen" : 1320,
+      "kuvi" : 811,
+      "osszesen" : 82357
     }
   }, {
     "maz" : "06",
@@ -716,14 +716,14 @@
     "evk_nev_en" : "Csongrád-Csanád county, 03. no. constituency",
     "szekhely" : "Szentes",
     "szekhely_en" : "Szentes",
-    "oevk_jeloltre_szavhat" : 77828,
+    "oevk_jeloltre_szavhat" : 77830,
     "letszam" : {
       "indulo" : 78125,
-      "honos" : 76574,
-      "atjel" : 561,
-      "atjelInnen" : 1254,
-      "kuvi" : 435,
-      "osszesen" : 77135
+      "honos" : 76525,
+      "atjel" : 574,
+      "atjelInnen" : 1305,
+      "kuvi" : 449,
+      "osszesen" : 77099
     }
   }, {
     "maz" : "06",
@@ -734,14 +734,14 @@
     "evk_nev_en" : "Csongrád-Csanád county, 04. no. constituency",
     "szekhely" : "Hódmezővásárhely",
     "szekhely_en" : "Hódmezővásárhely",
-    "oevk_jeloltre_szavhat" : 76423,
+    "oevk_jeloltre_szavhat" : 76417,
     "letszam" : {
       "indulo" : 76771,
-      "honos" : 75312,
-      "atjel" : 582,
-      "atjelInnen" : 1111,
-      "kuvi" : 410,
-      "osszesen" : 75894
+      "honos" : 75238,
+      "atjel" : 626,
+      "atjelInnen" : 1179,
+      "kuvi" : 424,
+      "osszesen" : 75864
     }
   }, {
     "maz" : "07",
@@ -752,14 +752,14 @@
     "evk_nev_en" : "Fejér county, 01. no. constituency",
     "szekhely" : "Székesfehérvár",
     "szekhely_en" : "Székesfehérvár",
-    "oevk_jeloltre_szavhat" : 69997,
+    "oevk_jeloltre_szavhat" : 69998,
     "letszam" : {
       "indulo" : 70188,
-      "honos" : 69038,
-      "atjel" : 1849,
-      "atjelInnen" : 959,
-      "kuvi" : 652,
-      "osszesen" : 70887
+      "honos" : 68993,
+      "atjel" : 1898,
+      "atjelInnen" : 1005,
+      "kuvi" : 675,
+      "osszesen" : 70891
     }
   }, {
     "maz" : "07",
@@ -770,14 +770,14 @@
     "evk_nev_en" : "Fejér county, 02. no. constituency",
     "szekhely" : "Székesfehérvár",
     "szekhely_en" : "Székesfehérvár",
-    "oevk_jeloltre_szavhat" : 66269,
+    "oevk_jeloltre_szavhat" : 66272,
     "letszam" : {
       "indulo" : 66457,
-      "honos" : 65187,
-      "atjel" : 453,
-      "atjelInnen" : 1082,
-      "kuvi" : 479,
-      "osszesen" : 65640
+      "honos" : 65164,
+      "atjel" : 474,
+      "atjelInnen" : 1108,
+      "kuvi" : 494,
+      "osszesen" : 65638
     }
   }, {
     "maz" : "07",
@@ -788,14 +788,14 @@
     "evk_nev_en" : "Fejér county, 03. no. constituency",
     "szekhely" : "Bicske",
     "szekhely_en" : "Bicske",
-    "oevk_jeloltre_szavhat" : 69238,
+    "oevk_jeloltre_szavhat" : 69226,
     "letszam" : {
       "indulo" : 69164,
-      "honos" : 68115,
-      "atjel" : 1451,
-      "atjelInnen" : 1123,
-      "kuvi" : 541,
-      "osszesen" : 69566
+      "honos" : 68054,
+      "atjel" : 1503,
+      "atjelInnen" : 1172,
+      "kuvi" : 559,
+      "osszesen" : 69557
     }
   }, {
     "maz" : "07",
@@ -806,14 +806,14 @@
     "evk_nev_en" : "Fejér county, 04. no. constituency",
     "szekhely" : "Dunaújváros",
     "szekhely_en" : "Dunaújváros",
-    "oevk_jeloltre_szavhat" : 66820,
+    "oevk_jeloltre_szavhat" : 66813,
     "letszam" : {
       "indulo" : 67025,
-      "honos" : 65696,
-      "atjel" : 972,
-      "atjelInnen" : 1124,
-      "kuvi" : 413,
-      "osszesen" : 66668
+      "honos" : 65661,
+      "atjel" : 991,
+      "atjelInnen" : 1152,
+      "kuvi" : 423,
+      "osszesen" : 66652
     }
   }, {
     "maz" : "07",
@@ -824,14 +824,14 @@
     "evk_nev_en" : "Fejér county, 05. no. constituency",
     "szekhely" : "Sárbogárd",
     "szekhely_en" : "Sárbogárd",
-    "oevk_jeloltre_szavhat" : 65517,
+    "oevk_jeloltre_szavhat" : 65508,
     "letszam" : {
       "indulo" : 65739,
-      "honos" : 64513,
-      "atjel" : 354,
-      "atjelInnen" : 1004,
-      "kuvi" : 241,
-      "osszesen" : 64867
+      "honos" : 64470,
+      "atjel" : 375,
+      "atjelInnen" : 1038,
+      "kuvi" : 247,
+      "osszesen" : 64845
     }
   }, {
     "maz" : "08",
@@ -842,14 +842,14 @@
     "evk_nev_en" : "Győr-Moson-Sopron county, 01. no. constituency",
     "szekhely" : "Győr",
     "szekhely_en" : "Győr",
-    "oevk_jeloltre_szavhat" : 65740,
+    "oevk_jeloltre_szavhat" : 65731,
     "letszam" : {
       "indulo" : 65953,
-      "honos" : 64718,
-      "atjel" : 2873,
-      "atjelInnen" : 1022,
-      "kuvi" : 560,
-      "osszesen" : 67591
+      "honos" : 64663,
+      "atjel" : 2987,
+      "atjelInnen" : 1068,
+      "kuvi" : 580,
+      "osszesen" : 67650
     }
   }, {
     "maz" : "08",
@@ -860,14 +860,14 @@
     "evk_nev_en" : "Győr-Moson-Sopron county, 02. no. constituency",
     "szekhely" : "Győr",
     "szekhely_en" : "Győr",
-    "oevk_jeloltre_szavhat" : 73282,
+    "oevk_jeloltre_szavhat" : 73273,
     "letszam" : {
       "indulo" : 73402,
-      "honos" : 72310,
-      "atjel" : 468,
-      "atjelInnen" : 972,
-      "kuvi" : 436,
-      "osszesen" : 72778
+      "honos" : 72267,
+      "atjel" : 490,
+      "atjelInnen" : 1006,
+      "kuvi" : 454,
+      "osszesen" : 72757
     }
   }, {
     "maz" : "08",
@@ -878,14 +878,14 @@
     "evk_nev_en" : "Győr-Moson-Sopron county, 03. no. constituency",
     "szekhely" : "Csorna",
     "szekhely_en" : "Csorna",
-    "oevk_jeloltre_szavhat" : 66647,
+    "oevk_jeloltre_szavhat" : 66657,
     "letszam" : {
       "indulo" : 66792,
-      "honos" : 65832,
-      "atjel" : 598,
-      "atjelInnen" : 815,
-      "kuvi" : 228,
-      "osszesen" : 66430
+      "honos" : 65799,
+      "atjel" : 612,
+      "atjelInnen" : 858,
+      "kuvi" : 230,
+      "osszesen" : 66411
     }
   }, {
     "maz" : "08",
@@ -896,14 +896,14 @@
     "evk_nev_en" : "Győr-Moson-Sopron county, 04. no. constituency",
     "szekhely" : "Sopron",
     "szekhely_en" : "Sopron",
-    "oevk_jeloltre_szavhat" : 75178,
+    "oevk_jeloltre_szavhat" : 75175,
     "letszam" : {
       "indulo" : 75318,
-      "honos" : 73920,
-      "atjel" : 2350,
-      "atjelInnen" : 1258,
-      "kuvi" : 371,
-      "osszesen" : 76270
+      "honos" : 73882,
+      "atjel" : 2440,
+      "atjelInnen" : 1293,
+      "kuvi" : 375,
+      "osszesen" : 76322
     }
   }, {
     "maz" : "08",
@@ -917,11 +917,11 @@
     "oevk_jeloltre_szavhat" : 78565,
     "letszam" : {
       "indulo" : 78656,
-      "honos" : 77606,
-      "atjel" : 1251,
-      "atjelInnen" : 959,
-      "kuvi" : 365,
-      "osszesen" : 78857
+      "honos" : 77559,
+      "atjel" : 1302,
+      "atjelInnen" : 1006,
+      "kuvi" : 376,
+      "osszesen" : 78861
     }
   }, {
     "maz" : "09",
@@ -932,14 +932,14 @@
     "evk_nev_en" : "Hajdú-Bihar county, 01. no. constituency",
     "szekhely" : "Debrecen",
     "szekhely_en" : "Debrecen",
-    "oevk_jeloltre_szavhat" : 65234,
+    "oevk_jeloltre_szavhat" : 65218,
     "letszam" : {
       "indulo" : 65542,
-      "honos" : 63791,
+      "honos" : 63713,
       "atjel" : 0,
-      "atjelInnen" : 1443,
-      "kuvi" : 739,
-      "osszesen" : 63791
+      "atjelInnen" : 1505,
+      "kuvi" : 760,
+      "osszesen" : 63713
     }
   }, {
     "maz" : "09",
@@ -950,14 +950,14 @@
     "evk_nev_en" : "Hajdú-Bihar county, 02. no. constituency",
     "szekhely" : "Debrecen",
     "szekhely_en" : "Debrecen",
-    "oevk_jeloltre_szavhat" : 69554,
+    "oevk_jeloltre_szavhat" : 69550,
     "letszam" : {
       "indulo" : 69866,
-      "honos" : 68157,
-      "atjel" : 2530,
-      "atjelInnen" : 1397,
-      "kuvi" : 613,
-      "osszesen" : 70687
+      "honos" : 68105,
+      "atjel" : 2615,
+      "atjelInnen" : 1445,
+      "kuvi" : 630,
+      "osszesen" : 70720
     }
   }, {
     "maz" : "09",
@@ -968,14 +968,14 @@
     "evk_nev_en" : "Hajdú-Bihar county, 03. no. constituency",
     "szekhely" : "Debrecen",
     "szekhely_en" : "Debrecen",
-    "oevk_jeloltre_szavhat" : 78045,
+    "oevk_jeloltre_szavhat" : 78031,
     "letszam" : {
       "indulo" : 78275,
-      "honos" : 76864,
-      "atjel" : 290,
-      "atjelInnen" : 1181,
-      "kuvi" : 383,
-      "osszesen" : 77154
+      "honos" : 76814,
+      "atjel" : 307,
+      "atjelInnen" : 1217,
+      "kuvi" : 392,
+      "osszesen" : 77121
     }
   }, {
     "maz" : "09",
@@ -986,14 +986,14 @@
     "evk_nev_en" : "Hajdú-Bihar county, 04. no. constituency",
     "szekhely" : "Berettyóújfalu",
     "szekhely_en" : "Berettyóújfalu",
-    "oevk_jeloltre_szavhat" : 67160,
+    "oevk_jeloltre_szavhat" : 67161,
     "letszam" : {
       "indulo" : 67376,
-      "honos" : 66023,
-      "atjel" : 502,
-      "atjelInnen" : 1137,
-      "kuvi" : 260,
-      "osszesen" : 66525
+      "honos" : 65985,
+      "atjel" : 520,
+      "atjelInnen" : 1176,
+      "kuvi" : 279,
+      "osszesen" : 66505
     }
   }, {
     "maz" : "09",
@@ -1004,14 +1004,14 @@
     "evk_nev_en" : "Hajdú-Bihar county, 05. no. constituency",
     "szekhely" : "Hajdúszoboszló",
     "szekhely_en" : "Hajdúszoboszló",
-    "oevk_jeloltre_szavhat" : 68365,
+    "oevk_jeloltre_szavhat" : 68361,
     "letszam" : {
       "indulo" : 68535,
-      "honos" : 67190,
-      "atjel" : 421,
-      "atjelInnen" : 1175,
-      "kuvi" : 357,
-      "osszesen" : 67611
+      "honos" : 67130,
+      "atjel" : 451,
+      "atjelInnen" : 1231,
+      "kuvi" : 362,
+      "osszesen" : 67581
     }
   }, {
     "maz" : "09",
@@ -1022,14 +1022,14 @@
     "evk_nev_en" : "Hajdú-Bihar county, 06. no. constituency",
     "szekhely" : "Hajdúböszörmény",
     "szekhely_en" : "Hajdúböszörmény",
-    "oevk_jeloltre_szavhat" : 68157,
+    "oevk_jeloltre_szavhat" : 68150,
     "letszam" : {
       "indulo" : 68382,
-      "honos" : 67183,
-      "atjel" : 344,
-      "atjelInnen" : 974,
-      "kuvi" : 313,
-      "osszesen" : 67527
+      "honos" : 67140,
+      "atjel" : 357,
+      "atjelInnen" : 1010,
+      "kuvi" : 324,
+      "osszesen" : 67497
     }
   }, {
     "maz" : "10",
@@ -1040,14 +1040,14 @@
     "evk_nev_en" : "Heves county, 01. no. constituency",
     "szekhely" : "Eger",
     "szekhely_en" : "Eger",
-    "oevk_jeloltre_szavhat" : 79121,
+    "oevk_jeloltre_szavhat" : 79104,
     "letszam" : {
       "indulo" : 79459,
-      "honos" : 77409,
-      "atjel" : 1006,
-      "atjelInnen" : 1712,
-      "kuvi" : 611,
-      "osszesen" : 78415
+      "honos" : 77335,
+      "atjel" : 1048,
+      "atjelInnen" : 1769,
+      "kuvi" : 640,
+      "osszesen" : 78383
     }
   }, {
     "maz" : "10",
@@ -1058,14 +1058,14 @@
     "evk_nev_en" : "Heves county, 02. no. constituency",
     "szekhely" : "Gyöngyös",
     "szekhely_en" : "Gyöngyös",
-    "oevk_jeloltre_szavhat" : 74108,
+    "oevk_jeloltre_szavhat" : 74103,
     "letszam" : {
       "indulo" : 74453,
-      "honos" : 72667,
-      "atjel" : 870,
-      "atjelInnen" : 1441,
-      "kuvi" : 397,
-      "osszesen" : 73537
+      "honos" : 72609,
+      "atjel" : 904,
+      "atjelInnen" : 1494,
+      "kuvi" : 409,
+      "osszesen" : 73513
     }
   }, {
     "maz" : "10",
@@ -1076,14 +1076,14 @@
     "evk_nev_en" : "Heves county, 03. no. constituency",
     "szekhely" : "Hatvan",
     "szekhely_en" : "Hatvan",
-    "oevk_jeloltre_szavhat" : 78431,
+    "oevk_jeloltre_szavhat" : 78426,
     "letszam" : {
       "indulo" : 78700,
-      "honos" : 77185,
-      "atjel" : 569,
-      "atjelInnen" : 1246,
-      "kuvi" : 282,
-      "osszesen" : 77754
+      "honos" : 77158,
+      "atjel" : 582,
+      "atjelInnen" : 1268,
+      "kuvi" : 290,
+      "osszesen" : 77740
     }
   }, {
     "maz" : "11",
@@ -1094,14 +1094,14 @@
     "evk_nev_en" : "Jász-Nagykun-Szolnok county, 01. no. constituency",
     "szekhely" : "Szolnok",
     "szekhely_en" : "Szolnok",
-    "oevk_jeloltre_szavhat" : 74868,
+    "oevk_jeloltre_szavhat" : 74860,
     "letszam" : {
       "indulo" : 75224,
-      "honos" : 73377,
-      "atjel" : 928,
-      "atjelInnen" : 1491,
-      "kuvi" : 574,
-      "osszesen" : 74305
+      "honos" : 73314,
+      "atjel" : 959,
+      "atjelInnen" : 1546,
+      "kuvi" : 595,
+      "osszesen" : 74273
     }
   }, {
     "maz" : "11",
@@ -1112,14 +1112,14 @@
     "evk_nev_en" : "Jász-Nagykun-Szolnok county, 02. no. constituency",
     "szekhely" : "Jászberény",
     "szekhely_en" : "Jászberény",
-    "oevk_jeloltre_szavhat" : 69603,
+    "oevk_jeloltre_szavhat" : 69590,
     "letszam" : {
       "indulo" : 69900,
-      "honos" : 68563,
-      "atjel" : 479,
-      "atjelInnen" : 1040,
-      "kuvi" : 290,
-      "osszesen" : 69042
+      "honos" : 68522,
+      "atjel" : 493,
+      "atjelInnen" : 1068,
+      "kuvi" : 300,
+      "osszesen" : 69015
     }
   }, {
     "maz" : "11",
@@ -1130,14 +1130,14 @@
     "evk_nev_en" : "Jász-Nagykun-Szolnok county, 03. no. constituency",
     "szekhely" : "Karcag",
     "szekhely_en" : "Karcag",
-    "oevk_jeloltre_szavhat" : 72276,
+    "oevk_jeloltre_szavhat" : 72266,
     "letszam" : {
       "indulo" : 72669,
-      "honos" : 70605,
-      "atjel" : 382,
-      "atjelInnen" : 1671,
-      "kuvi" : 298,
-      "osszesen" : 70987
+      "honos" : 70529,
+      "atjel" : 404,
+      "atjelInnen" : 1737,
+      "kuvi" : 309,
+      "osszesen" : 70933
     }
   }, {
     "maz" : "11",
@@ -1148,14 +1148,14 @@
     "evk_nev_en" : "Jász-Nagykun-Szolnok county, 04. no. constituency",
     "szekhely" : "Törökszentmiklós",
     "szekhely_en" : "Törökszentmiklós",
-    "oevk_jeloltre_szavhat" : 71508,
+    "oevk_jeloltre_szavhat" : 71506,
     "letszam" : {
       "indulo" : 71845,
-      "honos" : 70131,
-      "atjel" : 376,
-      "atjelInnen" : 1377,
-      "kuvi" : 321,
-      "osszesen" : 70507
+      "honos" : 70077,
+      "atjel" : 385,
+      "atjelInnen" : 1429,
+      "kuvi" : 327,
+      "osszesen" : 70462
     }
   }, {
     "maz" : "12",
@@ -1166,14 +1166,14 @@
     "evk_nev_en" : "Komárom-Esztergom county, 01. no. constituency",
     "szekhely" : "Tatabánya",
     "szekhely_en" : "Tatabánya",
-    "oevk_jeloltre_szavhat" : 77472,
+    "oevk_jeloltre_szavhat" : 77458,
     "letszam" : {
       "indulo" : 77768,
-      "honos" : 76429,
-      "atjel" : 1013,
-      "atjelInnen" : 1043,
-      "kuvi" : 531,
-      "osszesen" : 77442
+      "honos" : 76388,
+      "atjel" : 1052,
+      "atjelInnen" : 1070,
+      "kuvi" : 554,
+      "osszesen" : 77440
     }
   }, {
     "maz" : "12",
@@ -1184,14 +1184,14 @@
     "evk_nev_en" : "Komárom-Esztergom county, 02. no. constituency",
     "szekhely" : "Esztergom",
     "szekhely_en" : "Esztergom",
-    "oevk_jeloltre_szavhat" : 80883,
+    "oevk_jeloltre_szavhat" : 80885,
     "letszam" : {
       "indulo" : 81081,
-      "honos" : 79781,
-      "atjel" : 1258,
-      "atjelInnen" : 1102,
-      "kuvi" : 544,
-      "osszesen" : 81039
+      "honos" : 79737,
+      "atjel" : 1310,
+      "atjelInnen" : 1148,
+      "kuvi" : 573,
+      "osszesen" : 81047
     }
   }, {
     "maz" : "12",
@@ -1202,14 +1202,14 @@
     "evk_nev_en" : "Komárom-Esztergom county, 03. no. constituency",
     "szekhely" : "Komárom",
     "szekhely_en" : "Komárom",
-    "oevk_jeloltre_szavhat" : 81127,
+    "oevk_jeloltre_szavhat" : 81125,
     "letszam" : {
       "indulo" : 81322,
-      "honos" : 80045,
-      "atjel" : 934,
-      "atjelInnen" : 1082,
-      "kuvi" : 379,
-      "osszesen" : 80979
+      "honos" : 80015,
+      "atjel" : 966,
+      "atjelInnen" : 1110,
+      "kuvi" : 394,
+      "osszesen" : 80981
     }
   }, {
     "maz" : "13",
@@ -1220,14 +1220,14 @@
     "evk_nev_en" : "Nógrád county, 01. no. constituency",
     "szekhely" : "Salgótarján",
     "szekhely_en" : "Salgótarján",
-    "oevk_jeloltre_szavhat" : 71898,
+    "oevk_jeloltre_szavhat" : 71894,
     "letszam" : {
       "indulo" : 72213,
-      "honos" : 70398,
-      "atjel" : 557,
-      "atjelInnen" : 1500,
-      "kuvi" : 346,
-      "osszesen" : 70955
+      "honos" : 70310,
+      "atjel" : 598,
+      "atjelInnen" : 1584,
+      "kuvi" : 360,
+      "osszesen" : 70908
     }
   }, {
     "maz" : "13",
@@ -1238,14 +1238,14 @@
     "evk_nev_en" : "Nógrád county, 02. no. constituency",
     "szekhely" : "Balassagyarmat",
     "szekhely_en" : "Balassagyarmat",
-    "oevk_jeloltre_szavhat" : 77120,
+    "oevk_jeloltre_szavhat" : 77103,
     "letszam" : {
       "indulo" : 77399,
-      "honos" : 75630,
-      "atjel" : 753,
-      "atjelInnen" : 1490,
-      "kuvi" : 356,
-      "osszesen" : 76383
+      "honos" : 75566,
+      "atjel" : 798,
+      "atjelInnen" : 1537,
+      "kuvi" : 371,
+      "osszesen" : 76364
     }
   }, {
     "maz" : "14",
@@ -1256,14 +1256,14 @@
     "evk_nev_en" : "Pest county, 01. no. constituency",
     "szekhely" : "Érd",
     "szekhely_en" : "Érd",
-    "oevk_jeloltre_szavhat" : 79721,
+    "oevk_jeloltre_szavhat" : 79722,
     "letszam" : {
       "indulo" : 79841,
-      "honos" : 78630,
-      "atjel" : 1411,
-      "atjelInnen" : 1091,
-      "kuvi" : 725,
-      "osszesen" : 80041
+      "honos" : 78599,
+      "atjel" : 1447,
+      "atjelInnen" : 1123,
+      "kuvi" : 747,
+      "osszesen" : 80046
     }
   }, {
     "maz" : "14",
@@ -1274,14 +1274,14 @@
     "evk_nev_en" : "Pest county, 02. no. constituency",
     "szekhely" : "Budaörs",
     "szekhely_en" : "Budaörs",
-    "oevk_jeloltre_szavhat" : 77904,
+    "oevk_jeloltre_szavhat" : 77903,
     "letszam" : {
       "indulo" : 77977,
-      "honos" : 76923,
-      "atjel" : 2115,
-      "atjelInnen" : 981,
-      "kuvi" : 1289,
-      "osszesen" : 79038
+      "honos" : 76886,
+      "atjel" : 2194,
+      "atjelInnen" : 1017,
+      "kuvi" : 1328,
+      "osszesen" : 79080
     }
   }, {
     "maz" : "14",
@@ -1292,14 +1292,14 @@
     "evk_nev_en" : "Pest county, 03. no. constituency",
     "szekhely" : "Pilisvörösvár",
     "szekhely_en" : "Pilisvörösvár",
-    "oevk_jeloltre_szavhat" : 81984,
+    "oevk_jeloltre_szavhat" : 81985,
     "letszam" : {
       "indulo" : 82007,
-      "honos" : 80964,
-      "atjel" : 1803,
-      "atjelInnen" : 1020,
-      "kuvi" : 1176,
-      "osszesen" : 82767
+      "honos" : 80925,
+      "atjel" : 1862,
+      "atjelInnen" : 1060,
+      "kuvi" : 1206,
+      "osszesen" : 82787
     }
   }, {
     "maz" : "14",
@@ -1310,14 +1310,14 @@
     "evk_nev_en" : "Pest county, 04. no. constituency",
     "szekhely" : "Szentendre",
     "szekhely_en" : "Szentendre",
-    "oevk_jeloltre_szavhat" : 76349,
+    "oevk_jeloltre_szavhat" : 76353,
     "letszam" : {
       "indulo" : 76425,
-      "honos" : 75124,
-      "atjel" : 1763,
-      "atjelInnen" : 1225,
-      "kuvi" : 977,
-      "osszesen" : 76887
+      "honos" : 75097,
+      "atjel" : 1834,
+      "atjelInnen" : 1256,
+      "kuvi" : 1004,
+      "osszesen" : 76931
     }
   }, {
     "maz" : "14",
@@ -1331,11 +1331,11 @@
     "oevk_jeloltre_szavhat" : 76007,
     "letszam" : {
       "indulo" : 76087,
-      "honos" : 75081,
-      "atjel" : 1604,
-      "atjelInnen" : 926,
-      "kuvi" : 901,
-      "osszesen" : 76685
+      "honos" : 75039,
+      "atjel" : 1651,
+      "atjelInnen" : 968,
+      "kuvi" : 923,
+      "osszesen" : 76690
     }
   }, {
     "maz" : "14",
@@ -1349,11 +1349,11 @@
     "oevk_jeloltre_szavhat" : 76910,
     "letszam" : {
       "indulo" : 76853,
-      "honos" : 75843,
-      "atjel" : 1745,
-      "atjelInnen" : 1067,
-      "kuvi" : 841,
-      "osszesen" : 77588
+      "honos" : 75810,
+      "atjel" : 1812,
+      "atjelInnen" : 1100,
+      "kuvi" : 876,
+      "osszesen" : 77622
     }
   }, {
     "maz" : "14",
@@ -1364,14 +1364,14 @@
     "evk_nev_en" : "Pest county, 07. no. constituency",
     "szekhely" : "Pécel",
     "szekhely_en" : "Pécel",
-    "oevk_jeloltre_szavhat" : 76380,
+    "oevk_jeloltre_szavhat" : 76384,
     "letszam" : {
       "indulo" : 76456,
-      "honos" : 75307,
-      "atjel" : 1114,
-      "atjelInnen" : 1073,
-      "kuvi" : 464,
-      "osszesen" : 76421
+      "honos" : 75280,
+      "atjel" : 1145,
+      "atjelInnen" : 1104,
+      "kuvi" : 476,
+      "osszesen" : 76425
     }
   }, {
     "maz" : "14",
@@ -1382,14 +1382,14 @@
     "evk_nev_en" : "Pest county, 08. no. constituency",
     "szekhely" : "Vecsés",
     "szekhely_en" : "Vecsés",
-    "oevk_jeloltre_szavhat" : 70474,
+    "oevk_jeloltre_szavhat" : 70471,
     "letszam" : {
       "indulo" : 70498,
-      "honos" : 69641,
-      "atjel" : 1274,
-      "atjelInnen" : 833,
-      "kuvi" : 530,
-      "osszesen" : 70915
+      "honos" : 69610,
+      "atjel" : 1311,
+      "atjelInnen" : 861,
+      "kuvi" : 545,
+      "osszesen" : 70921
     }
   }, {
     "maz" : "14",
@@ -1400,14 +1400,14 @@
     "evk_nev_en" : "Pest county, 09. no. constituency",
     "szekhely" : "Ráckeve",
     "szekhely_en" : "Ráckeve",
-    "oevk_jeloltre_szavhat" : 76111,
+    "oevk_jeloltre_szavhat" : 76110,
     "letszam" : {
       "indulo" : 76184,
-      "honos" : 74994,
-      "atjel" : 1189,
-      "atjelInnen" : 1117,
-      "kuvi" : 433,
-      "osszesen" : 76183
+      "honos" : 74944,
+      "atjel" : 1232,
+      "atjelInnen" : 1166,
+      "kuvi" : 453,
+      "osszesen" : 76176
     }
   }, {
     "maz" : "14",
@@ -1418,14 +1418,14 @@
     "evk_nev_en" : "Pest county, 10. no. constituency",
     "szekhely" : "Szigetszentmiklós",
     "szekhely_en" : "Szigetszentmiklós",
-    "oevk_jeloltre_szavhat" : 74509,
+    "oevk_jeloltre_szavhat" : 74507,
     "letszam" : {
       "indulo" : 74661,
-      "honos" : 73443,
-      "atjel" : 1351,
-      "atjelInnen" : 1066,
-      "kuvi" : 678,
-      "osszesen" : 74794
+      "honos" : 73410,
+      "atjel" : 1393,
+      "atjelInnen" : 1097,
+      "kuvi" : 696,
+      "osszesen" : 74803
     }
   }, {
     "maz" : "14",
@@ -1436,14 +1436,14 @@
     "evk_nev_en" : "Pest county, 11. no. constituency",
     "szekhely" : "Vác",
     "szekhely_en" : "Vác",
-    "oevk_jeloltre_szavhat" : 74890,
+    "oevk_jeloltre_szavhat" : 74889,
     "letszam" : {
       "indulo" : 75009,
-      "honos" : 73767,
-      "atjel" : 1324,
-      "atjelInnen" : 1123,
-      "kuvi" : 516,
-      "osszesen" : 75091
+      "honos" : 73726,
+      "atjel" : 1364,
+      "atjelInnen" : 1163,
+      "kuvi" : 532,
+      "osszesen" : 75090
     }
   }, {
     "maz" : "14",
@@ -1454,14 +1454,14 @@
     "evk_nev_en" : "Pest county, 12. no. constituency",
     "szekhely" : "Monor",
     "szekhely_en" : "Monor",
-    "oevk_jeloltre_szavhat" : 73970,
+    "oevk_jeloltre_szavhat" : 73972,
     "letszam" : {
       "indulo" : 74072,
-      "honos" : 72762,
-      "atjel" : 682,
-      "atjelInnen" : 1208,
-      "kuvi" : 277,
-      "osszesen" : 73444
+      "honos" : 72726,
+      "atjel" : 716,
+      "atjelInnen" : 1246,
+      "kuvi" : 285,
+      "osszesen" : 73442
     }
   }, {
     "maz" : "14",
@@ -1472,14 +1472,14 @@
     "evk_nev_en" : "Pest county, 13. no. constituency",
     "szekhely" : "Dabas",
     "szekhely_en" : "Dabas",
-    "oevk_jeloltre_szavhat" : 70131,
+    "oevk_jeloltre_szavhat" : 70130,
     "letszam" : {
       "indulo" : 70257,
-      "honos" : 69204,
-      "atjel" : 869,
-      "atjelInnen" : 927,
-      "kuvi" : 310,
-      "osszesen" : 70073
+      "honos" : 69158,
+      "atjel" : 914,
+      "atjelInnen" : 972,
+      "kuvi" : 320,
+      "osszesen" : 70072
     }
   }, {
     "maz" : "14",
@@ -1490,14 +1490,14 @@
     "evk_nev_en" : "Pest county, 14. no. constituency",
     "szekhely" : "Cegléd",
     "szekhely_en" : "Cegléd",
-    "oevk_jeloltre_szavhat" : 73546,
+    "oevk_jeloltre_szavhat" : 73543,
     "letszam" : {
       "indulo" : 73780,
-      "honos" : 72562,
-      "atjel" : 530,
-      "atjelInnen" : 984,
-      "kuvi" : 340,
-      "osszesen" : 73092
+      "honos" : 72525,
+      "atjel" : 550,
+      "atjelInnen" : 1018,
+      "kuvi" : 357,
+      "osszesen" : 73075
     }
   }, {
     "maz" : "15",
@@ -1508,13 +1508,13 @@
     "evk_nev_en" : "Somogy county, 01. no. constituency",
     "szekhely" : "Kaposvár",
     "szekhely_en" : "Kaposvár",
-    "oevk_jeloltre_szavhat" : 59178,
+    "oevk_jeloltre_szavhat" : 59181,
     "letszam" : {
       "indulo" : 59440,
-      "honos" : 57872,
-      "atjel" : 645,
-      "atjelInnen" : 1306,
-      "kuvi" : 439,
+      "honos" : 57828,
+      "atjel" : 689,
+      "atjelInnen" : 1353,
+      "kuvi" : 451,
       "osszesen" : 58517
     }
   }, {
@@ -1526,14 +1526,14 @@
     "evk_nev_en" : "Somogy county, 02. no. constituency",
     "szekhely" : "Barcs",
     "szekhely_en" : "Barcs",
-    "oevk_jeloltre_szavhat" : 57089,
+    "oevk_jeloltre_szavhat" : 57085,
     "letszam" : {
       "indulo" : 57392,
-      "honos" : 55911,
-      "atjel" : 337,
-      "atjelInnen" : 1178,
-      "kuvi" : 239,
-      "osszesen" : 56248
+      "honos" : 55865,
+      "atjel" : 350,
+      "atjelInnen" : 1220,
+      "kuvi" : 250,
+      "osszesen" : 56215
     }
   }, {
     "maz" : "15",
@@ -1544,14 +1544,14 @@
     "evk_nev_en" : "Somogy county, 03. no. constituency",
     "szekhely" : "Marcali",
     "szekhely_en" : "Marcali",
-    "oevk_jeloltre_szavhat" : 61016,
+    "oevk_jeloltre_szavhat" : 61013,
     "letszam" : {
       "indulo" : 61187,
-      "honos" : 59400,
-      "atjel" : 845,
-      "atjelInnen" : 1616,
-      "kuvi" : 357,
-      "osszesen" : 60245
+      "honos" : 59336,
+      "atjel" : 873,
+      "atjelInnen" : 1677,
+      "kuvi" : 371,
+      "osszesen" : 60209
     }
   }, {
     "maz" : "15",
@@ -1562,14 +1562,14 @@
     "evk_nev_en" : "Somogy county, 04. no. constituency",
     "szekhely" : "Siófok",
     "szekhely_en" : "Siófok",
-    "oevk_jeloltre_szavhat" : 63524,
+    "oevk_jeloltre_szavhat" : 63513,
     "letszam" : {
       "indulo" : 63685,
-      "honos" : 61737,
-      "atjel" : 1320,
-      "atjelInnen" : 1787,
-      "kuvi" : 457,
-      "osszesen" : 63057
+      "honos" : 61671,
+      "atjel" : 1363,
+      "atjelInnen" : 1842,
+      "kuvi" : 476,
+      "osszesen" : 63034
     }
   }, {
     "maz" : "16",
@@ -1580,14 +1580,14 @@
     "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 01. no. constituency",
     "szekhely" : "Nyíregyháza",
     "szekhely_en" : "Nyíregyháza",
-    "oevk_jeloltre_szavhat" : 71882,
+    "oevk_jeloltre_szavhat" : 71883,
     "letszam" : {
       "indulo" : 72137,
-      "honos" : 70111,
-      "atjel" : 1145,
-      "atjelInnen" : 1771,
-      "kuvi" : 624,
-      "osszesen" : 71256
+      "honos" : 70046,
+      "atjel" : 1183,
+      "atjelInnen" : 1837,
+      "kuvi" : 647,
+      "osszesen" : 71229
     }
   }, {
     "maz" : "16",
@@ -1598,14 +1598,14 @@
     "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 02. no. constituency",
     "szekhely" : "Nyíregyháza",
     "szekhely_en" : "Nyíregyháza",
-    "oevk_jeloltre_szavhat" : 70991,
+    "oevk_jeloltre_szavhat" : 70979,
     "letszam" : {
       "indulo" : 71234,
-      "honos" : 69656,
-      "atjel" : 218,
-      "atjelInnen" : 1335,
-      "kuvi" : 316,
-      "osszesen" : 69874
+      "honos" : 69608,
+      "atjel" : 231,
+      "atjelInnen" : 1371,
+      "kuvi" : 324,
+      "osszesen" : 69839
     }
   }, {
     "maz" : "16",
@@ -1616,14 +1616,14 @@
     "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 03. no. constituency",
     "szekhely" : "Kisvárda",
     "szekhely_en" : "Kisvárda",
-    "oevk_jeloltre_szavhat" : 75702,
+    "oevk_jeloltre_szavhat" : 75692,
     "letszam" : {
       "indulo" : 76007,
-      "honos" : 74091,
-      "atjel" : 247,
-      "atjelInnen" : 1611,
-      "kuvi" : 270,
-      "osszesen" : 74338
+      "honos" : 74029,
+      "atjel" : 259,
+      "atjelInnen" : 1663,
+      "kuvi" : 280,
+      "osszesen" : 74288
     }
   }, {
     "maz" : "16",
@@ -1634,14 +1634,14 @@
     "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 04. no. constituency",
     "szekhely" : "Vásárosnamény",
     "szekhely_en" : "Vásárosnamény",
-    "oevk_jeloltre_szavhat" : 70081,
+    "oevk_jeloltre_szavhat" : 70073,
     "letszam" : {
       "indulo" : 70449,
-      "honos" : 68305,
-      "atjel" : 263,
-      "atjelInnen" : 1776,
-      "kuvi" : 260,
-      "osszesen" : 68568
+      "honos" : 68214,
+      "atjel" : 283,
+      "atjelInnen" : 1859,
+      "kuvi" : 268,
+      "osszesen" : 68497
     }
   }, {
     "maz" : "16",
@@ -1652,14 +1652,14 @@
     "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 05. no. constituency",
     "szekhely" : "Mátészalka",
     "szekhely_en" : "Mátészalka",
-    "oevk_jeloltre_szavhat" : 70968,
+    "oevk_jeloltre_szavhat" : 70962,
     "letszam" : {
       "indulo" : 71273,
-      "honos" : 69536,
-      "atjel" : 300,
-      "atjelInnen" : 1432,
-      "kuvi" : 232,
-      "osszesen" : 69836
+      "honos" : 69483,
+      "atjel" : 329,
+      "atjelInnen" : 1479,
+      "kuvi" : 236,
+      "osszesen" : 69812
     }
   }, {
     "maz" : "16",
@@ -1670,14 +1670,14 @@
     "evk_nev_en" : "Szabolcs-Szatmár-Bereg county, 06. no. constituency",
     "szekhely" : "Nyírbátor",
     "szekhely_en" : "Nyírbátor",
-    "oevk_jeloltre_szavhat" : 70467,
+    "oevk_jeloltre_szavhat" : 70463,
     "letszam" : {
       "indulo" : 70764,
-      "honos" : 69256,
-      "atjel" : 284,
-      "atjelInnen" : 1211,
-      "kuvi" : 256,
-      "osszesen" : 69540
+      "honos" : 69212,
+      "atjel" : 301,
+      "atjelInnen" : 1251,
+      "kuvi" : 272,
+      "osszesen" : 69513
     }
   }, {
     "maz" : "17",
@@ -1688,14 +1688,14 @@
     "evk_nev_en" : "Tolna county, 01. no. constituency",
     "szekhely" : "Szekszárd",
     "szekhely_en" : "Szekszárd",
-    "oevk_jeloltre_szavhat" : 57157,
+    "oevk_jeloltre_szavhat" : 57155,
     "letszam" : {
       "indulo" : 57420,
-      "honos" : 56177,
-      "atjel" : 438,
-      "atjelInnen" : 980,
-      "kuvi" : 368,
-      "osszesen" : 56615
+      "honos" : 56149,
+      "atjel" : 463,
+      "atjelInnen" : 1006,
+      "kuvi" : 378,
+      "osszesen" : 56612
     }
   }, {
     "maz" : "17",
@@ -1706,14 +1706,14 @@
     "evk_nev_en" : "Tolna county, 02. no. constituency",
     "szekhely" : "Dombóvár",
     "szekhely_en" : "Dombóvár",
-    "oevk_jeloltre_szavhat" : 56353,
+    "oevk_jeloltre_szavhat" : 56352,
     "letszam" : {
       "indulo" : 56625,
-      "honos" : 55382,
-      "atjel" : 350,
-      "atjelInnen" : 971,
-      "kuvi" : 316,
-      "osszesen" : 55732
+      "honos" : 55356,
+      "atjel" : 360,
+      "atjelInnen" : 996,
+      "kuvi" : 320,
+      "osszesen" : 55716
     }
   }, {
     "maz" : "17",
@@ -1724,14 +1724,14 @@
     "evk_nev_en" : "Tolna county, 03. no. constituency",
     "szekhely" : "Paks",
     "szekhely_en" : "Paks",
-    "oevk_jeloltre_szavhat" : 56822,
+    "oevk_jeloltre_szavhat" : 56815,
     "letszam" : {
       "indulo" : 57108,
-      "honos" : 55843,
-      "atjel" : 476,
-      "atjelInnen" : 979,
-      "kuvi" : 266,
-      "osszesen" : 56319
+      "honos" : 55800,
+      "atjel" : 497,
+      "atjelInnen" : 1015,
+      "kuvi" : 275,
+      "osszesen" : 56297
     }
   }, {
     "maz" : "18",
@@ -1742,14 +1742,14 @@
     "evk_nev_en" : "Vas county, 01. no. constituency",
     "szekhely" : "Szombathely",
     "szekhely_en" : "Szombathely",
-    "oevk_jeloltre_szavhat" : 67215,
+    "oevk_jeloltre_szavhat" : 67220,
     "letszam" : {
       "indulo" : 67477,
-      "honos" : 66085,
-      "atjel" : 1111,
-      "atjelInnen" : 1130,
-      "kuvi" : 433,
-      "osszesen" : 67196
+      "honos" : 66047,
+      "atjel" : 1152,
+      "atjelInnen" : 1173,
+      "kuvi" : 445,
+      "osszesen" : 67199
     }
   }, {
     "maz" : "18",
@@ -1760,14 +1760,14 @@
     "evk_nev_en" : "Vas county, 02. no. constituency",
     "szekhely" : "Sárvár",
     "szekhely_en" : "Sárvár",
-    "oevk_jeloltre_szavhat" : 66924,
+    "oevk_jeloltre_szavhat" : 66918,
     "letszam" : {
       "indulo" : 67121,
-      "honos" : 65839,
-      "atjel" : 798,
-      "atjelInnen" : 1085,
-      "kuvi" : 273,
-      "osszesen" : 66637
+      "honos" : 65790,
+      "atjel" : 819,
+      "atjelInnen" : 1128,
+      "kuvi" : 284,
+      "osszesen" : 66609
     }
   }, {
     "maz" : "18",
@@ -1778,14 +1778,14 @@
     "evk_nev_en" : "Vas county, 03. no. constituency",
     "szekhely" : "Körmend",
     "szekhely_en" : "Körmend",
-    "oevk_jeloltre_szavhat" : 65011,
+    "oevk_jeloltre_szavhat" : 65017,
     "letszam" : {
       "indulo" : 65148,
-      "honos" : 63928,
-      "atjel" : 755,
-      "atjelInnen" : 1083,
-      "kuvi" : 209,
-      "osszesen" : 64683
+      "honos" : 63894,
+      "atjel" : 792,
+      "atjelInnen" : 1123,
+      "kuvi" : 224,
+      "osszesen" : 64686
     }
   }, {
     "maz" : "19",
@@ -1796,14 +1796,14 @@
     "evk_nev_en" : "Veszprém county, 01. no. constituency",
     "szekhely" : "Veszprém",
     "szekhely_en" : "Veszprém",
-    "oevk_jeloltre_szavhat" : 68966,
+    "oevk_jeloltre_szavhat" : 68957,
     "letszam" : {
       "indulo" : 69205,
-      "honos" : 67768,
-      "atjel" : 1421,
-      "atjelInnen" : 1198,
-      "kuvi" : 535,
-      "osszesen" : 69189
+      "honos" : 67703,
+      "atjel" : 1468,
+      "atjelInnen" : 1254,
+      "kuvi" : 553,
+      "osszesen" : 69171
     }
   }, {
     "maz" : "19",
@@ -1814,14 +1814,14 @@
     "evk_nev_en" : "Veszprém county, 02. no. constituency",
     "szekhely" : "Balatonfüred",
     "szekhely_en" : "Balatonfüred",
-    "oevk_jeloltre_szavhat" : 73622,
+    "oevk_jeloltre_szavhat" : 73625,
     "letszam" : {
       "indulo" : 73705,
-      "honos" : 71750,
-      "atjel" : 1701,
-      "atjelInnen" : 1872,
-      "kuvi" : 703,
-      "osszesen" : 73451
+      "honos" : 71681,
+      "atjel" : 1767,
+      "atjelInnen" : 1944,
+      "kuvi" : 733,
+      "osszesen" : 73448
     }
   }, {
     "maz" : "19",
@@ -1832,14 +1832,14 @@
     "evk_nev_en" : "Veszprém county, 03. no. constituency",
     "szekhely" : "Tapolca",
     "szekhely_en" : "Tapolca",
-    "oevk_jeloltre_szavhat" : 65427,
+    "oevk_jeloltre_szavhat" : 65425,
     "letszam" : {
       "indulo" : 65605,
-      "honos" : 63918,
-      "atjel" : 851,
-      "atjelInnen" : 1509,
-      "kuvi" : 364,
-      "osszesen" : 64769
+      "honos" : 63847,
+      "atjel" : 907,
+      "atjelInnen" : 1578,
+      "kuvi" : 388,
+      "osszesen" : 64754
     }
   }, {
     "maz" : "19",
@@ -1850,14 +1850,14 @@
     "evk_nev_en" : "Veszprém county, 04. no. constituency",
     "szekhely" : "Pápa",
     "szekhely_en" : "Pápa",
-    "oevk_jeloltre_szavhat" : 66598,
+    "oevk_jeloltre_szavhat" : 66592,
     "letszam" : {
       "indulo" : 66795,
-      "honos" : 65477,
-      "atjel" : 632,
-      "atjelInnen" : 1121,
-      "kuvi" : 309,
-      "osszesen" : 66109
+      "honos" : 65437,
+      "atjel" : 649,
+      "atjelInnen" : 1155,
+      "kuvi" : 319,
+      "osszesen" : 66086
     }
   }, {
     "maz" : "20",
@@ -1868,14 +1868,14 @@
     "evk_nev_en" : "Zala county, 01. no. constituency",
     "szekhely" : "Zalaegerszeg",
     "szekhely_en" : "Zalaegerszeg",
-    "oevk_jeloltre_szavhat" : 72933,
+    "oevk_jeloltre_szavhat" : 72935,
     "letszam" : {
       "indulo" : 73293,
-      "honos" : 71284,
-      "atjel" : 652,
-      "atjelInnen" : 1649,
-      "kuvi" : 416,
-      "osszesen" : 71936
+      "honos" : 71216,
+      "atjel" : 683,
+      "atjelInnen" : 1719,
+      "kuvi" : 432,
+      "osszesen" : 71899
     }
   }, {
     "maz" : "20",
@@ -1886,14 +1886,14 @@
     "evk_nev_en" : "Zala county, 02. no. constituency",
     "szekhely" : "Keszthely",
     "szekhely_en" : "Keszthely",
-    "oevk_jeloltre_szavhat" : 72938,
+    "oevk_jeloltre_szavhat" : 72916,
     "letszam" : {
       "indulo" : 73146,
-      "honos" : 71214,
-      "atjel" : 1179,
-      "atjelInnen" : 1724,
-      "kuvi" : 462,
-      "osszesen" : 72393
+      "honos" : 71114,
+      "atjel" : 1254,
+      "atjelInnen" : 1802,
+      "kuvi" : 475,
+      "osszesen" : 72368
     }
   }, {
     "maz" : "20",
@@ -1904,14 +1904,14 @@
     "evk_nev_en" : "Zala county, 03. no. constituency",
     "szekhely" : "Nagykanizsa",
     "szekhely_en" : "Nagykanizsa",
-    "oevk_jeloltre_szavhat" : 69499,
+    "oevk_jeloltre_szavhat" : 69496,
     "letszam" : {
       "indulo" : 69798,
-      "honos" : 68034,
-      "atjel" : 743,
-      "atjelInnen" : 1465,
-      "kuvi" : 361,
-      "osszesen" : 68777
+      "honos" : 67960,
+      "atjel" : 773,
+      "atjelInnen" : 1536,
+      "kuvi" : 376,
+      "osszesen" : 68733
     }
   } ]
 }
