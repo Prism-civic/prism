@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-24T17:00:00.217250052+01:00",
+    "generated" : "2026-03-25T17:00:00.115133319+01:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -24344,7 +24344,6 @@
     "maz" : "01",
     "evk" : "14",
     "sorsolt_sorsz" : 9,
-    "szavlap_sorsz" : 7,
     "neve" : "VAJDA ZOLTÁN",
     "fenykep" : 29585,
     "kep_tipus" : "JPG",
@@ -24352,8 +24351,8 @@
     "jelolo_szervezetek" : [ ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "Független jelölt",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-05T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-25T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 140888,
@@ -24430,7 +24429,7 @@
     "maz" : "01",
     "evk" : "14",
     "sorsolt_sorsz" : 10,
-    "szavlap_sorsz" : 8,
+    "szavlap_sorsz" : 7,
     "neve" : "BOMBICZ TAMÁS",
     "fenykep" : 30151,
     "kep_tipus" : "JPG",
@@ -24582,7 +24581,6 @@
     "maz" : "13",
     "evk" : "01",
     "sorsolt_sorsz" : 10,
-    "szavlap_sorsz" : 6,
     "neve" : "GODÓ BEATRIX",
     "fenykep" : 29746,
     "kep_tipus" : "JPG",
@@ -24590,8 +24588,8 @@
     "jelolo_szervezetek" : [ 1001 ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "DK",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-09T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-25T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 140725,
