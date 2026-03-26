@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-25T17:00:00.115133319+01:00",
+    "generated" : "2026-03-26T17:00:00.049224307+01:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -4580,8 +4580,8 @@
     "jelolo_szervezetek" : [ ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "Független jelölt",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-09T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-26T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 141001,
@@ -9044,8 +9044,8 @@
     "jelolo_szervezetek" : [ ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "Független jelölt",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-06T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-26T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 140226,
@@ -9061,8 +9061,8 @@
     "jelolo_szervezetek" : [ ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "Független jelölt",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-02T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-26T00:00:00+01:00",
     "listak" : [ ]
   }, {
     "ej_id" : 140650,
@@ -23824,8 +23824,8 @@
     "jelolo_szervezetek" : [ 1001 ],
     "jelolo_szervezetek_emblemai" : [ ],
     "jlcs_nev" : "DK",
-    "allapot" : "1",
-    "allapot_valt" : "2026-03-05T00:00:00+01:00",
+    "allapot" : "33",
+    "allapot_valt" : "2026-03-26T00:00:00+01:00",
     "listak" : [ {
       "tl_id" : 1932,
       "sorsolt_sorsz" : 8,
