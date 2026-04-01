@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-29T17:00:00.118034198+02:00",
+    "generated" : "2026-04-01T17:00:00.063262168+02:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -17,11 +17,11 @@
     },
     "letszam" : {
       "indulo" : 1251753,
-      "honos" : 1195611,
-      "atjel" : 68440,
-      "atjelInnen" : 50923,
-      "kuvi" : 24839,
-      "osszesen" : 1264051
+      "honos" : 1186874,
+      "atjel" : 81551,
+      "atjelInnen" : 59533,
+      "kuvi" : 27872,
+      "osszesen" : 1268425
     }
   }, {
     "leiro" : {
@@ -35,11 +35,11 @@
     },
     "letszam" : {
       "indulo" : 289609,
-      "honos" : 278965,
-      "atjel" : 5032,
-      "atjelInnen" : 9334,
-      "kuvi" : 2778,
-      "osszesen" : 283997
+      "honos" : 277116,
+      "atjel" : 6250,
+      "atjelInnen" : 11159,
+      "kuvi" : 3204,
+      "osszesen" : 283366
     }
   }, {
     "leiro" : {
@@ -53,11 +53,11 @@
     },
     "letszam" : {
       "indulo" : 402110,
-      "honos" : 389146,
-      "atjel" : 4819,
-      "atjelInnen" : 11440,
-      "kuvi" : 3003,
-      "osszesen" : 393965
+      "honos" : 386810,
+      "atjel" : 5767,
+      "atjelInnen" : 13717,
+      "kuvi" : 3520,
+      "osszesen" : 392577
     }
   }, {
     "leiro" : {
@@ -71,11 +71,11 @@
     },
     "letszam" : {
       "indulo" : 267277,
-      "honos" : 256351,
-      "atjel" : 2521,
-      "atjelInnen" : 9644,
-      "kuvi" : 2053,
-      "osszesen" : 258872
+      "honos" : 254414,
+      "atjel" : 3100,
+      "atjelInnen" : 11535,
+      "kuvi" : 2414,
+      "osszesen" : 257514
     }
   }, {
     "leiro" : {
@@ -89,11 +89,11 @@
     },
     "letszam" : {
       "indulo" : 497023,
-      "honos" : 478613,
-      "atjel" : 4505,
-      "atjelInnen" : 15926,
-      "kuvi" : 3394,
-      "osszesen" : 483118
+      "honos" : 475510,
+      "atjel" : 5607,
+      "atjelInnen" : 18920,
+      "kuvi" : 3899,
+      "osszesen" : 481117
     }
   }, {
     "leiro" : {
@@ -107,11 +107,11 @@
     },
     "letszam" : {
       "indulo" : 317664,
-      "honos" : 306391,
-      "atjel" : 5656,
-      "atjelInnen" : 9972,
-      "kuvi" : 3331,
-      "osszesen" : 312047
+      "honos" : 304566,
+      "atjel" : 6870,
+      "atjelInnen" : 11747,
+      "kuvi" : 3801,
+      "osszesen" : 311436
     }
   }, {
     "leiro" : {
@@ -125,11 +125,11 @@
     },
     "letszam" : {
       "indulo" : 338573,
-      "honos" : 328504,
-      "atjel" : 6187,
-      "atjelInnen" : 9248,
-      "kuvi" : 2737,
-      "osszesen" : 334691
+      "honos" : 326790,
+      "atjel" : 7308,
+      "atjelInnen" : 10925,
+      "kuvi" : 3136,
+      "osszesen" : 334098
     }
   }, {
     "leiro" : {
@@ -143,11 +143,11 @@
     },
     "letszam" : {
       "indulo" : 360121,
-      "honos" : 350673,
-      "atjel" : 9364,
-      "atjelInnen" : 8646,
-      "kuvi" : 2290,
-      "osszesen" : 360037
+      "honos" : 348934,
+      "atjel" : 11273,
+      "atjelInnen" : 10360,
+      "kuvi" : 2638,
+      "osszesen" : 360207
     }
   }, {
     "leiro" : {
@@ -161,11 +161,11 @@
     },
     "letszam" : {
       "indulo" : 417976,
-      "honos" : 403967,
-      "atjel" : 5296,
-      "atjelInnen" : 12386,
-      "kuvi" : 3172,
-      "osszesen" : 409263
+      "honos" : 401502,
+      "atjel" : 6599,
+      "atjelInnen" : 14794,
+      "kuvi" : 3653,
+      "osszesen" : 408101
     }
   }, {
     "leiro" : {
@@ -179,11 +179,11 @@
     },
     "letszam" : {
       "indulo" : 232612,
-      "honos" : 224600,
-      "atjel" : 3072,
-      "atjelInnen" : 6920,
-      "kuvi" : 1559,
-      "osszesen" : 227672
+      "honos" : 223208,
+      "atjel" : 3803,
+      "atjelInnen" : 8267,
+      "kuvi" : 1781,
+      "osszesen" : 227011
     }
   }, {
     "leiro" : {
@@ -197,11 +197,11 @@
     },
     "letszam" : {
       "indulo" : 289638,
-      "honos" : 279451,
-      "atjel" : 2730,
-      "atjelInnen" : 8646,
-      "kuvi" : 1765,
-      "osszesen" : 282181
+      "honos" : 277702,
+      "atjel" : 3388,
+      "atjelInnen" : 10349,
+      "kuvi" : 2051,
+      "osszesen" : 281090
     }
   }, {
     "leiro" : {
@@ -215,11 +215,11 @@
     },
     "letszam" : {
       "indulo" : 240171,
-      "honos" : 233587,
-      "atjel" : 3956,
-      "atjelInnen" : 5794,
-      "kuvi" : 1765,
-      "osszesen" : 237543
+      "honos" : 232548,
+      "atjel" : 4762,
+      "atjelInnen" : 6814,
+      "kuvi" : 2023,
+      "osszesen" : 237310
     }
   }, {
     "leiro" : {
@@ -233,11 +233,11 @@
     },
     "letszam" : {
       "indulo" : 149612,
-      "honos" : 144321,
-      "atjel" : 1680,
-      "atjelInnen" : 4628,
-      "kuvi" : 838,
-      "osszesen" : 146001
+      "honos" : 143420,
+      "atjel" : 2019,
+      "atjelInnen" : 5509,
+      "kuvi" : 978,
+      "osszesen" : 145439
     }
   }, {
     "leiro" : {
@@ -251,11 +251,11 @@
     },
     "letszam" : {
       "indulo" : 1060107,
-      "honos" : 1029428,
-      "atjel" : 23111,
-      "atjelInnen" : 29342,
-      "kuvi" : 11181,
-      "osszesen" : 1052539
+      "honos" : 1023883,
+      "atjel" : 27659,
+      "atjelInnen" : 34795,
+      "kuvi" : 12667,
+      "osszesen" : 1051542
     }
   }, {
     "leiro" : {
@@ -269,11 +269,11 @@
     },
     "letszam" : {
       "indulo" : 241704,
-      "honos" : 231599,
-      "atjel" : 4095,
-      "atjelInnen" : 9146,
-      "kuvi" : 1814,
-      "osszesen" : 235694
+      "honos" : 229872,
+      "atjel" : 5108,
+      "atjelInnen" : 10832,
+      "kuvi" : 2074,
+      "osszesen" : 234980
     }
   }, {
     "leiro" : {
@@ -287,11 +287,11 @@
     },
     "letszam" : {
       "indulo" : 431864,
-      "honos" : 416042,
-      "atjel" : 3326,
-      "atjelInnen" : 13862,
-      "kuvi" : 2368,
-      "osszesen" : 419368
+      "honos" : 413095,
+      "atjel" : 4398,
+      "atjelInnen" : 16727,
+      "kuvi" : 2750,
+      "osszesen" : 417493
     }
   }, {
     "leiro" : {
@@ -305,11 +305,11 @@
     },
     "letszam" : {
       "indulo" : 171153,
-      "honos" : 165478,
-      "atjel" : 1621,
-      "atjelInnen" : 4773,
-      "kuvi" : 1121,
-      "osszesen" : 167099
+      "honos" : 164535,
+      "atjel" : 1980,
+      "atjelInnen" : 5690,
+      "kuvi" : 1296,
+      "osszesen" : 166515
     }
   }, {
     "leiro" : {
@@ -323,11 +323,11 @@
     },
     "letszam" : {
       "indulo" : 199746,
-      "honos" : 193877,
-      "atjel" : 3436,
-      "atjelInnen" : 5237,
-      "kuvi" : 1091,
-      "osszesen" : 197313
+      "honos" : 192814,
+      "atjel" : 4189,
+      "atjelInnen" : 6292,
+      "kuvi" : 1229,
+      "osszesen" : 197003
     }
   }, {
     "leiro" : {
@@ -341,11 +341,11 @@
     },
     "letszam" : {
       "indulo" : 275310,
-      "honos" : 265083,
-      "atjel" : 5822,
-      "atjelInnen" : 9440,
-      "kuvi" : 2310,
-      "osszesen" : 270905
+      "honos" : 263232,
+      "atjel" : 7135,
+      "atjelInnen" : 11263,
+      "kuvi" : 2636,
+      "osszesen" : 270367
     }
   }, {
     "leiro" : {
@@ -359,11 +359,11 @@
     },
     "letszam" : {
       "indulo" : 216237,
-      "honos" : 207571,
-      "atjel" : 3425,
-      "atjelInnen" : 7698,
-      "kuvi" : 1502,
-      "osszesen" : 210996
+      "honos" : 206009,
+      "atjel" : 4332,
+      "atjelInnen" : 9214,
+      "kuvi" : 1732,
+      "osszesen" : 210341
     }
   } ]
 }
