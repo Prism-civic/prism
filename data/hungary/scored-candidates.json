@@ -2,13 +2,13 @@
   "meta": {
     "election": "2026 Hungarian Parliamentary Election",
     "date": "2026-04-12",
-    "generated_at": "2026-04-01T16:10:23.118881+00:00",
-    "total_candidates": 654,
+    "generated_at": "2026-04-02T16:10:20.045235+00:00",
+    "total_candidates": 652,
     "stats": {
       "rich": 36,
-      "some": 159,
-      "none": 459,
-      "total_evidence": 639,
+      "some": 158,
+      "none": 458,
+      "total_evidence": 638,
       "flags": 430
     },
     "sources_checked": [
@@ -71,7 +71,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.650897+00:00",
+      "last_updated": "2026-04-02T16:10:19.564450+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -111,7 +111,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.652267+00:00",
+      "last_updated": "2026-04-02T16:10:19.566592+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -191,7 +191,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.653546+00:00",
+      "last_updated": "2026-04-02T16:10:19.568415+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -278,7 +278,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.655164+00:00",
+      "last_updated": "2026-04-02T16:10:19.570675+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -470,7 +470,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.658516+00:00",
+      "last_updated": "2026-04-02T16:10:19.574721+00:00",
       "total_evidence_items": 21,
       "data_quality": "rich"
     },
@@ -660,7 +660,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.660561+00:00",
+      "last_updated": "2026-04-02T16:10:19.576939+00:00",
       "total_evidence_items": 8,
       "data_quality": "rich"
     },
@@ -708,7 +708,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.662029+00:00",
+      "last_updated": "2026-04-02T16:10:19.578424+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -878,7 +878,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.664925+00:00",
+      "last_updated": "2026-04-02T16:10:19.581330+00:00",
       "total_evidence_items": 18,
       "data_quality": "rich"
     },
@@ -1120,7 +1120,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.666429+00:00",
+      "last_updated": "2026-04-02T16:10:19.582646+00:00",
       "total_evidence_items": 11,
       "data_quality": "rich"
     },
@@ -1163,7 +1163,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.668268+00:00",
+      "last_updated": "2026-04-02T16:10:19.584162+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1205,7 +1205,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.669686+00:00",
+      "last_updated": "2026-04-02T16:10:19.585354+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1247,7 +1247,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.671428+00:00",
+      "last_updated": "2026-04-02T16:10:19.586463+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1293,7 +1293,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.672772+00:00",
+      "last_updated": "2026-04-02T16:10:19.588014+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1339,7 +1339,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.674022+00:00",
+      "last_updated": "2026-04-02T16:10:19.589664+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1387,7 +1387,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.675299+00:00",
+      "last_updated": "2026-04-02T16:10:19.591402+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1554,7 +1554,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.678453+00:00",
+      "last_updated": "2026-04-02T16:10:19.594227+00:00",
       "total_evidence_items": 19,
       "data_quality": "rich"
     },
@@ -1909,7 +1909,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.680313+00:00",
+      "last_updated": "2026-04-02T16:10:19.596374+00:00",
       "total_evidence_items": 21,
       "data_quality": "rich"
     },
@@ -1951,7 +1951,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.682038+00:00",
+      "last_updated": "2026-04-02T16:10:19.597729+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -1993,7 +1993,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.683574+00:00",
+      "last_updated": "2026-04-02T16:10:19.598732+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2037,7 +2037,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.684418+00:00",
+      "last_updated": "2026-04-02T16:10:19.599703+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2255,7 +2255,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.685795+00:00",
+      "last_updated": "2026-04-02T16:10:19.601579+00:00",
       "total_evidence_items": 22,
       "data_quality": "rich"
     },
@@ -2303,7 +2303,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.686536+00:00",
+      "last_updated": "2026-04-02T16:10:19.602498+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2343,7 +2343,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.687078+00:00",
+      "last_updated": "2026-04-02T16:10:19.603045+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2391,7 +2391,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.687698+00:00",
+      "last_updated": "2026-04-02T16:10:19.603742+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2433,7 +2433,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.688486+00:00",
+      "last_updated": "2026-04-02T16:10:19.604329+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2481,7 +2481,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.689306+00:00",
+      "last_updated": "2026-04-02T16:10:19.604981+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2524,7 +2524,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.690210+00:00",
+      "last_updated": "2026-04-02T16:10:19.605818+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2566,7 +2566,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.690765+00:00",
+      "last_updated": "2026-04-02T16:10:19.606538+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2612,7 +2612,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.691446+00:00",
+      "last_updated": "2026-04-02T16:10:19.607295+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -2786,7 +2786,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.692480+00:00",
+      "last_updated": "2026-04-02T16:10:19.608378+00:00",
       "total_evidence_items": 20,
       "data_quality": "rich"
     },
@@ -2903,7 +2903,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.693530+00:00",
+      "last_updated": "2026-04-02T16:10:19.609133+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -3145,7 +3145,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.694710+00:00",
+      "last_updated": "2026-04-02T16:10:19.609925+00:00",
       "total_evidence_items": 11,
       "data_quality": "rich"
     },
@@ -3191,7 +3191,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.695755+00:00",
+      "last_updated": "2026-04-02T16:10:19.610732+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3234,7 +3234,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.696622+00:00",
+      "last_updated": "2026-04-02T16:10:19.611414+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3339,7 +3339,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.697777+00:00",
+      "last_updated": "2026-04-02T16:10:19.612297+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -3382,7 +3382,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.698609+00:00",
+      "last_updated": "2026-04-02T16:10:19.613027+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3422,7 +3422,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.699164+00:00",
+      "last_updated": "2026-04-02T16:10:19.613632+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3556,7 +3556,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.699744+00:00",
+      "last_updated": "2026-04-02T16:10:19.614140+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -3619,7 +3619,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.700498+00:00",
+      "last_updated": "2026-04-02T16:10:19.614921+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -3667,7 +3667,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.701222+00:00",
+      "last_updated": "2026-04-02T16:10:19.615626+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3717,7 +3717,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.702058+00:00",
+      "last_updated": "2026-04-02T16:10:19.616571+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3757,7 +3757,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.702659+00:00",
+      "last_updated": "2026-04-02T16:10:19.617211+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3798,7 +3798,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.703286+00:00",
+      "last_updated": "2026-04-02T16:10:19.617848+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3896,7 +3896,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.703899+00:00",
+      "last_updated": "2026-04-02T16:10:19.618480+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -3945,7 +3945,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.704734+00:00",
+      "last_updated": "2026-04-02T16:10:19.619343+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -3987,7 +3987,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.705306+00:00",
+      "last_updated": "2026-04-02T16:10:19.619925+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4109,7 +4109,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.705975+00:00",
+      "last_updated": "2026-04-02T16:10:19.620624+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -4243,7 +4243,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.706664+00:00",
+      "last_updated": "2026-04-02T16:10:19.621338+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -4307,7 +4307,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.707503+00:00",
+      "last_updated": "2026-04-02T16:10:19.622208+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -4349,7 +4349,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.708081+00:00",
+      "last_updated": "2026-04-02T16:10:19.622806+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4395,7 +4395,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.708779+00:00",
+      "last_updated": "2026-04-02T16:10:19.623445+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4517,7 +4517,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.709685+00:00",
+      "last_updated": "2026-04-02T16:10:19.624081+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -4558,7 +4558,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.710636+00:00",
+      "last_updated": "2026-04-02T16:10:19.624834+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4599,7 +4599,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.711340+00:00",
+      "last_updated": "2026-04-02T16:10:19.625554+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4639,7 +4639,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.711901+00:00",
+      "last_updated": "2026-04-02T16:10:19.626112+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4689,7 +4689,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.712643+00:00",
+      "last_updated": "2026-04-02T16:10:19.626888+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4752,7 +4752,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.713345+00:00",
+      "last_updated": "2026-04-02T16:10:19.627614+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -4874,7 +4874,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.713993+00:00",
+      "last_updated": "2026-04-02T16:10:19.628299+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -4915,7 +4915,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.714721+00:00",
+      "last_updated": "2026-04-02T16:10:19.629052+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -4963,7 +4963,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.715356+00:00",
+      "last_updated": "2026-04-02T16:10:19.629723+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -5068,7 +5068,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.716007+00:00",
+      "last_updated": "2026-04-02T16:10:19.630407+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -5110,7 +5110,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.716687+00:00",
+      "last_updated": "2026-04-02T16:10:19.631142+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -5152,7 +5152,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.717196+00:00",
+      "last_updated": "2026-04-02T16:10:19.631751+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -5199,7 +5199,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.717923+00:00",
+      "last_updated": "2026-04-02T16:10:19.632510+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -5242,7 +5242,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.718539+00:00",
+      "last_updated": "2026-04-02T16:10:19.633412+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -5328,7 +5328,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.719202+00:00",
+      "last_updated": "2026-04-02T16:10:19.634109+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -5410,7 +5410,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.719937+00:00",
+      "last_updated": "2026-04-02T16:10:19.634894+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -5474,7 +5474,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.720785+00:00",
+      "last_updated": "2026-04-02T16:10:19.635706+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -5591,7 +5591,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.721433+00:00",
+      "last_updated": "2026-04-02T16:10:19.636368+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -5745,7 +5745,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.722298+00:00",
+      "last_updated": "2026-04-02T16:10:19.637258+00:00",
       "total_evidence_items": 6,
       "data_quality": "rich"
     },
@@ -5808,7 +5808,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.723076+00:00",
+      "last_updated": "2026-04-02T16:10:19.638068+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -5850,7 +5850,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.723683+00:00",
+      "last_updated": "2026-04-02T16:10:19.638668+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -5934,7 +5934,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.724514+00:00",
+      "last_updated": "2026-04-02T16:10:19.639426+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -5982,7 +5982,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.725459+00:00",
+      "last_updated": "2026-04-02T16:10:19.640205+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6022,7 +6022,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.726239+00:00",
+      "last_updated": "2026-04-02T16:10:19.640801+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6090,7 +6090,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.726834+00:00",
+      "last_updated": "2026-04-02T16:10:19.641379+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -6132,7 +6132,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.727381+00:00",
+      "last_updated": "2026-04-02T16:10:19.641930+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6175,7 +6175,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.728057+00:00",
+      "last_updated": "2026-04-02T16:10:19.642655+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6273,7 +6273,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.728652+00:00",
+      "last_updated": "2026-04-02T16:10:19.643395+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -6319,7 +6319,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.729316+00:00",
+      "last_updated": "2026-04-02T16:10:19.644137+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6420,7 +6420,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.730057+00:00",
+      "last_updated": "2026-04-02T16:10:19.644913+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -6460,7 +6460,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.730657+00:00",
+      "last_updated": "2026-04-02T16:10:19.645542+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6502,7 +6502,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.731174+00:00",
+      "last_updated": "2026-04-02T16:10:19.646128+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6565,7 +6565,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.731955+00:00",
+      "last_updated": "2026-04-02T16:10:19.646892+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -6629,7 +6629,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.732878+00:00",
+      "last_updated": "2026-04-02T16:10:19.647704+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -6709,7 +6709,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.733454+00:00",
+      "last_updated": "2026-04-02T16:10:19.648262+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -6752,7 +6752,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.734112+00:00",
+      "last_updated": "2026-04-02T16:10:19.648945+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6798,7 +6798,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.734747+00:00",
+      "last_updated": "2026-04-02T16:10:19.649622+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6841,7 +6841,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.735372+00:00",
+      "last_updated": "2026-04-02T16:10:19.650307+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -6939,7 +6939,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.735970+00:00",
+      "last_updated": "2026-04-02T16:10:19.650942+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -6987,7 +6987,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.736660+00:00",
+      "last_updated": "2026-04-02T16:10:19.651714+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7049,7 +7049,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.737288+00:00",
+      "last_updated": "2026-04-02T16:10:19.652381+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -7090,7 +7090,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.737916+00:00",
+      "last_updated": "2026-04-02T16:10:19.653037+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7133,7 +7133,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.738538+00:00",
+      "last_updated": "2026-04-02T16:10:19.653683+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7197,7 +7197,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.739404+00:00",
+      "last_updated": "2026-04-02T16:10:19.654590+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -7241,7 +7241,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.740135+00:00",
+      "last_updated": "2026-04-02T16:10:19.655358+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7283,7 +7283,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.740662+00:00",
+      "last_updated": "2026-04-02T16:10:19.655865+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7331,7 +7331,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.741320+00:00",
+      "last_updated": "2026-04-02T16:10:19.656552+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7379,7 +7379,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.742039+00:00",
+      "last_updated": "2026-04-02T16:10:19.657295+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7426,7 +7426,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.742908+00:00",
+      "last_updated": "2026-04-02T16:10:19.658236+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7469,7 +7469,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.743613+00:00",
+      "last_updated": "2026-04-02T16:10:19.658953+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7512,7 +7512,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.744385+00:00",
+      "last_updated": "2026-04-02T16:10:19.659638+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7552,7 +7552,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.744933+00:00",
+      "last_updated": "2026-04-02T16:10:19.660229+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7595,7 +7595,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.745621+00:00",
+      "last_updated": "2026-04-02T16:10:19.660963+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7663,7 +7663,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.746287+00:00",
+      "last_updated": "2026-04-02T16:10:19.661683+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -7706,7 +7706,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.747048+00:00",
+      "last_updated": "2026-04-02T16:10:19.662499+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7754,7 +7754,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.747763+00:00",
+      "last_updated": "2026-04-02T16:10:19.663274+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7794,7 +7794,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.748426+00:00",
+      "last_updated": "2026-04-02T16:10:19.663936+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -7988,7 +7988,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.749157+00:00",
+      "last_updated": "2026-04-02T16:10:19.664624+00:00",
       "total_evidence_items": 8,
       "data_quality": "rich"
     },
@@ -8052,7 +8052,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.750069+00:00",
+      "last_updated": "2026-04-02T16:10:19.665552+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -8191,7 +8191,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.751237+00:00",
+      "last_updated": "2026-04-02T16:10:19.666760+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -8255,7 +8255,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.752247+00:00",
+      "last_updated": "2026-04-02T16:10:19.667772+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -8303,7 +8303,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.752949+00:00",
+      "last_updated": "2026-04-02T16:10:19.668621+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8344,7 +8344,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.753641+00:00",
+      "last_updated": "2026-04-02T16:10:19.669397+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8390,7 +8390,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.754298+00:00",
+      "last_updated": "2026-04-02T16:10:19.670233+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8434,7 +8434,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.754954+00:00",
+      "last_updated": "2026-04-02T16:10:19.670915+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8477,7 +8477,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.755634+00:00",
+      "last_updated": "2026-04-02T16:10:19.671726+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8517,7 +8517,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.756266+00:00",
+      "last_updated": "2026-04-02T16:10:19.672479+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8560,7 +8560,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.756921+00:00",
+      "last_updated": "2026-04-02T16:10:19.673163+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8600,7 +8600,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.757526+00:00",
+      "last_updated": "2026-04-02T16:10:19.673768+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8648,7 +8648,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.758176+00:00",
+      "last_updated": "2026-04-02T16:10:19.674436+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8694,7 +8694,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.758826+00:00",
+      "last_updated": "2026-04-02T16:10:19.675093+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8832,7 +8832,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.759638+00:00",
+      "last_updated": "2026-04-02T16:10:19.675921+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -8897,7 +8897,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.760939+00:00",
+      "last_updated": "2026-04-02T16:10:19.677077+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -8939,7 +8939,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.761966+00:00",
+      "last_updated": "2026-04-02T16:10:19.677765+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -8979,7 +8979,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.762704+00:00",
+      "last_updated": "2026-04-02T16:10:19.678359+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9027,7 +9027,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.763314+00:00",
+      "last_updated": "2026-04-02T16:10:19.678945+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9069,7 +9069,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.764005+00:00",
+      "last_updated": "2026-04-02T16:10:19.679575+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9117,7 +9117,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.764691+00:00",
+      "last_updated": "2026-04-02T16:10:19.680269+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9165,7 +9165,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.765331+00:00",
+      "last_updated": "2026-04-02T16:10:19.680924+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9205,7 +9205,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.765937+00:00",
+      "last_updated": "2026-04-02T16:10:19.681531+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9254,7 +9254,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.766736+00:00",
+      "last_updated": "2026-04-02T16:10:19.682380+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9295,7 +9295,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.767539+00:00",
+      "last_updated": "2026-04-02T16:10:19.683209+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9339,7 +9339,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.768189+00:00",
+      "last_updated": "2026-04-02T16:10:19.683853+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9503,7 +9503,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.769126+00:00",
+      "last_updated": "2026-04-02T16:10:19.684820+00:00",
       "total_evidence_items": 8,
       "data_quality": "rich"
     },
@@ -9551,7 +9551,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.769993+00:00",
+      "last_updated": "2026-04-02T16:10:19.685697+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9591,7 +9591,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.770539+00:00",
+      "last_updated": "2026-04-02T16:10:19.686259+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9634,7 +9634,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.771162+00:00",
+      "last_updated": "2026-04-02T16:10:19.686890+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9682,7 +9682,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.771824+00:00",
+      "last_updated": "2026-04-02T16:10:19.687570+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9786,7 +9786,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.772526+00:00",
+      "last_updated": "2026-04-02T16:10:19.688270+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -9884,7 +9884,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.773268+00:00",
+      "last_updated": "2026-04-02T16:10:19.688929+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -9927,7 +9927,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.774131+00:00",
+      "last_updated": "2026-04-02T16:10:19.689675+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -9975,7 +9975,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.775061+00:00",
+      "last_updated": "2026-04-02T16:10:19.690402+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -10057,7 +10057,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.776010+00:00",
+      "last_updated": "2026-04-02T16:10:19.691208+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -10212,7 +10212,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.777215+00:00",
+      "last_updated": "2026-04-02T16:10:19.692236+00:00",
       "total_evidence_items": 6,
       "data_quality": "rich"
     },
@@ -10277,7 +10277,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.778085+00:00",
+      "last_updated": "2026-04-02T16:10:19.693139+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10317,7 +10317,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.778724+00:00",
+      "last_updated": "2026-04-02T16:10:19.693805+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -10358,7 +10358,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.779544+00:00",
+      "last_updated": "2026-04-02T16:10:19.694522+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -10421,7 +10421,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.780382+00:00",
+      "last_updated": "2026-04-02T16:10:19.695183+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10490,7 +10490,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.781301+00:00",
+      "last_updated": "2026-04-02T16:10:19.695914+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10553,7 +10553,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.782236+00:00",
+      "last_updated": "2026-04-02T16:10:19.696814+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10599,7 +10599,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.782949+00:00",
+      "last_updated": "2026-04-02T16:10:19.697509+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -10663,7 +10663,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.783672+00:00",
+      "last_updated": "2026-04-02T16:10:19.698240+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10731,7 +10731,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.784454+00:00",
+      "last_updated": "2026-04-02T16:10:19.699012+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10795,7 +10795,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.785247+00:00",
+      "last_updated": "2026-04-02T16:10:19.699832+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -10835,7 +10835,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.785844+00:00",
+      "last_updated": "2026-04-02T16:10:19.700404+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -10877,7 +10877,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.786584+00:00",
+      "last_updated": "2026-04-02T16:10:19.700964+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -10923,7 +10923,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.787451+00:00",
+      "last_updated": "2026-04-02T16:10:19.701591+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11045,7 +11045,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.788205+00:00",
+      "last_updated": "2026-04-02T16:10:19.702274+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -11085,7 +11085,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.788889+00:00",
+      "last_updated": "2026-04-02T16:10:19.702929+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11135,7 +11135,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.789622+00:00",
+      "last_updated": "2026-04-02T16:10:19.703657+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11203,7 +11203,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.790324+00:00",
+      "last_updated": "2026-04-02T16:10:19.704437+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -11243,7 +11243,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.790896+00:00",
+      "last_updated": "2026-04-02T16:10:19.705081+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11291,7 +11291,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.791523+00:00",
+      "last_updated": "2026-04-02T16:10:19.705707+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11355,7 +11355,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.792304+00:00",
+      "last_updated": "2026-04-02T16:10:19.706516+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -11398,7 +11398,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.793036+00:00",
+      "last_updated": "2026-04-02T16:10:19.707247+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11441,7 +11441,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.793793+00:00",
+      "last_updated": "2026-04-02T16:10:19.707987+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11481,7 +11481,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.794391+00:00",
+      "last_updated": "2026-04-02T16:10:19.708570+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11580,7 +11580,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.794981+00:00",
+      "last_updated": "2026-04-02T16:10:19.709161+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -11628,7 +11628,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.795861+00:00",
+      "last_updated": "2026-04-02T16:10:19.709999+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11678,7 +11678,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.796709+00:00",
+      "last_updated": "2026-04-02T16:10:19.710835+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11720,7 +11720,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.797333+00:00",
+      "last_updated": "2026-04-02T16:10:19.711506+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11768,7 +11768,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.797985+00:00",
+      "last_updated": "2026-04-02T16:10:19.712180+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11811,7 +11811,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.798676+00:00",
+      "last_updated": "2026-04-02T16:10:19.712882+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -11859,7 +11859,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.799376+00:00",
+      "last_updated": "2026-04-02T16:10:19.713582+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12102,7 +12102,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.800117+00:00",
+      "last_updated": "2026-04-02T16:10:19.714317+00:00",
       "total_evidence_items": 11,
       "data_quality": "rich"
     },
@@ -12142,7 +12142,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.800828+00:00",
+      "last_updated": "2026-04-02T16:10:19.715025+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12206,7 +12206,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.801567+00:00",
+      "last_updated": "2026-04-02T16:10:19.715777+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -12287,7 +12287,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.802260+00:00",
+      "last_updated": "2026-04-02T16:10:19.716455+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -12328,7 +12328,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.802932+00:00",
+      "last_updated": "2026-04-02T16:10:19.717121+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12374,7 +12374,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.803540+00:00",
+      "last_updated": "2026-04-02T16:10:19.717736+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12439,7 +12439,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.804401+00:00",
+      "last_updated": "2026-04-02T16:10:19.718585+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -12480,7 +12480,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.805095+00:00",
+      "last_updated": "2026-04-02T16:10:19.719291+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12522,7 +12522,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.805642+00:00",
+      "last_updated": "2026-04-02T16:10:19.719828+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12565,7 +12565,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.806287+00:00",
+      "last_updated": "2026-04-02T16:10:19.720577+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12646,7 +12646,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.806931+00:00",
+      "last_updated": "2026-04-02T16:10:19.721282+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -12710,7 +12710,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.807614+00:00",
+      "last_updated": "2026-04-02T16:10:19.721956+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -12772,7 +12772,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.808313+00:00",
+      "last_updated": "2026-04-02T16:10:19.722642+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -12820,7 +12820,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.808988+00:00",
+      "last_updated": "2026-04-02T16:10:19.723320+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12863,7 +12863,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.809679+00:00",
+      "last_updated": "2026-04-02T16:10:19.724012+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12903,7 +12903,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.810296+00:00",
+      "last_updated": "2026-04-02T16:10:19.724631+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -12943,7 +12943,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.810797+00:00",
+      "last_updated": "2026-04-02T16:10:19.725127+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13006,7 +13006,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.811505+00:00",
+      "last_updated": "2026-04-02T16:10:19.725787+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -13049,7 +13049,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.812203+00:00",
+      "last_updated": "2026-04-02T16:10:19.726453+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13095,7 +13095,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.812841+00:00",
+      "last_updated": "2026-04-02T16:10:19.727079+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13141,7 +13141,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.813449+00:00",
+      "last_updated": "2026-04-02T16:10:19.727692+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13191,7 +13191,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.814237+00:00",
+      "last_updated": "2026-04-02T16:10:19.728514+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13239,7 +13239,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.814922+00:00",
+      "last_updated": "2026-04-02T16:10:19.729215+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13320,7 +13320,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.815660+00:00",
+      "last_updated": "2026-04-02T16:10:19.729946+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -13361,7 +13361,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.816421+00:00",
+      "last_updated": "2026-04-02T16:10:19.730726+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13402,7 +13402,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.817022+00:00",
+      "last_updated": "2026-04-02T16:10:19.731338+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13443,7 +13443,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.817632+00:00",
+      "last_updated": "2026-04-02T16:10:19.731977+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13507,7 +13507,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.818354+00:00",
+      "last_updated": "2026-04-02T16:10:19.732732+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -13549,7 +13549,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.818970+00:00",
+      "last_updated": "2026-04-02T16:10:19.733369+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13591,7 +13591,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.819576+00:00",
+      "last_updated": "2026-04-02T16:10:19.733972+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13639,7 +13639,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.820259+00:00",
+      "last_updated": "2026-04-02T16:10:19.734698+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13682,7 +13682,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.820980+00:00",
+      "last_updated": "2026-04-02T16:10:19.735482+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13724,7 +13724,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.821603+00:00",
+      "last_updated": "2026-04-02T16:10:19.736096+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -13844,7 +13844,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.822381+00:00",
+      "last_updated": "2026-04-02T16:10:19.736896+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -13912,7 +13912,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.823058+00:00",
+      "last_updated": "2026-04-02T16:10:19.737573+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -13960,7 +13960,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.823733+00:00",
+      "last_updated": "2026-04-02T16:10:19.738255+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14003,7 +14003,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.824412+00:00",
+      "last_updated": "2026-04-02T16:10:19.738925+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14049,7 +14049,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.825076+00:00",
+      "last_updated": "2026-04-02T16:10:19.739591+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14089,7 +14089,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.825618+00:00",
+      "last_updated": "2026-04-02T16:10:19.740125+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14138,7 +14138,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.826365+00:00",
+      "last_updated": "2026-04-02T16:10:19.740869+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14181,7 +14181,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.827033+00:00",
+      "last_updated": "2026-04-02T16:10:19.741548+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14222,7 +14222,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.827706+00:00",
+      "last_updated": "2026-04-02T16:10:19.742204+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14268,7 +14268,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.828317+00:00",
+      "last_updated": "2026-04-02T16:10:19.742819+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14309,7 +14309,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.828942+00:00",
+      "last_updated": "2026-04-02T16:10:19.743448+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14349,7 +14349,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.829477+00:00",
+      "last_updated": "2026-04-02T16:10:19.743979+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14392,7 +14392,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.830089+00:00",
+      "last_updated": "2026-04-02T16:10:19.744579+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14475,7 +14475,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.830924+00:00",
+      "last_updated": "2026-04-02T16:10:19.745420+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -14521,7 +14521,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.831580+00:00",
+      "last_updated": "2026-04-02T16:10:19.746065+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14601,7 +14601,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.832122+00:00",
+      "last_updated": "2026-04-02T16:10:19.746917+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -14644,7 +14644,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.832777+00:00",
+      "last_updated": "2026-04-02T16:10:19.747605+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14685,7 +14685,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.833447+00:00",
+      "last_updated": "2026-04-02T16:10:19.748290+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14733,7 +14733,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.834069+00:00",
+      "last_updated": "2026-04-02T16:10:19.748915+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14835,7 +14835,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.834901+00:00",
+      "last_updated": "2026-04-02T16:10:19.749743+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -14878,7 +14878,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.835656+00:00",
+      "last_updated": "2026-04-02T16:10:19.750503+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14919,7 +14919,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.836350+00:00",
+      "last_updated": "2026-04-02T16:10:19.751186+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -14959,7 +14959,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.836889+00:00",
+      "last_updated": "2026-04-02T16:10:19.751723+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15007,7 +15007,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.837523+00:00",
+      "last_updated": "2026-04-02T16:10:19.752336+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15055,7 +15055,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.838190+00:00",
+      "last_updated": "2026-04-02T16:10:19.752983+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15097,7 +15097,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.838768+00:00",
+      "last_updated": "2026-04-02T16:10:19.753613+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15139,7 +15139,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.839376+00:00",
+      "last_updated": "2026-04-02T16:10:19.754241+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15207,7 +15207,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.840059+00:00",
+      "last_updated": "2026-04-02T16:10:19.754939+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -15257,7 +15257,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.840810+00:00",
+      "last_updated": "2026-04-02T16:10:19.755740+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15306,7 +15306,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.841528+00:00",
+      "last_updated": "2026-04-02T16:10:19.756503+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15349,7 +15349,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.842229+00:00",
+      "last_updated": "2026-04-02T16:10:19.757262+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15390,7 +15390,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.842486+00:00",
+      "last_updated": "2026-04-02T16:10:19.757517+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15432,7 +15432,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.843031+00:00",
+      "last_updated": "2026-04-02T16:10:19.758077+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15514,7 +15514,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.843690+00:00",
+      "last_updated": "2026-04-02T16:10:19.758789+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -15578,7 +15578,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.844508+00:00",
+      "last_updated": "2026-04-02T16:10:19.759618+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -15620,7 +15620,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.845099+00:00",
+      "last_updated": "2026-04-02T16:10:19.760262+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15668,7 +15668,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.845791+00:00",
+      "last_updated": "2026-04-02T16:10:19.760959+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15708,7 +15708,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.846327+00:00",
+      "last_updated": "2026-04-02T16:10:19.761597+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15789,7 +15789,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.846987+00:00",
+      "last_updated": "2026-04-02T16:10:19.762305+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -15852,7 +15852,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.847710+00:00",
+      "last_updated": "2026-04-02T16:10:19.763038+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -15892,7 +15892,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.848381+00:00",
+      "last_updated": "2026-04-02T16:10:19.763680+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15942,7 +15942,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.849127+00:00",
+      "last_updated": "2026-04-02T16:10:19.764432+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -15984,7 +15984,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.849833+00:00",
+      "last_updated": "2026-04-02T16:10:19.765088+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16032,7 +16032,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.850454+00:00",
+      "last_updated": "2026-04-02T16:10:19.765729+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16074,7 +16074,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.850992+00:00",
+      "last_updated": "2026-04-02T16:10:19.766277+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16117,7 +16117,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.851683+00:00",
+      "last_updated": "2026-04-02T16:10:19.766987+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16165,7 +16165,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.852316+00:00",
+      "last_updated": "2026-04-02T16:10:19.767659+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16206,7 +16206,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.852999+00:00",
+      "last_updated": "2026-04-02T16:10:19.768364+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16256,7 +16256,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.853747+00:00",
+      "last_updated": "2026-04-02T16:10:19.769115+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16297,7 +16297,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.854489+00:00",
+      "last_updated": "2026-04-02T16:10:19.769861+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16380,7 +16380,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.855257+00:00",
+      "last_updated": "2026-04-02T16:10:19.770598+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -16421,7 +16421,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.855859+00:00",
+      "last_updated": "2026-04-02T16:10:19.771215+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16462,7 +16462,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.856530+00:00",
+      "last_updated": "2026-04-02T16:10:19.771780+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16502,7 +16502,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.857007+00:00",
+      "last_updated": "2026-04-02T16:10:19.772264+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16544,7 +16544,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.857553+00:00",
+      "last_updated": "2026-04-02T16:10:19.772816+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16590,7 +16590,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.858213+00:00",
+      "last_updated": "2026-04-02T16:10:19.773475+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16780,7 +16780,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.858827+00:00",
+      "last_updated": "2026-04-02T16:10:19.774095+00:00",
       "total_evidence_items": 8,
       "data_quality": "rich"
     },
@@ -16864,7 +16864,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.859753+00:00",
+      "last_updated": "2026-04-02T16:10:19.775068+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -16905,7 +16905,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.860514+00:00",
+      "last_updated": "2026-04-02T16:10:19.775837+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16945,7 +16945,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.861034+00:00",
+      "last_updated": "2026-04-02T16:10:19.776374+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -16988,7 +16988,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.861649+00:00",
+      "last_updated": "2026-04-02T16:10:19.777005+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17031,7 +17031,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.862316+00:00",
+      "last_updated": "2026-04-02T16:10:19.777695+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17079,7 +17079,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.862983+00:00",
+      "last_updated": "2026-04-02T16:10:19.778452+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17119,7 +17119,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.863550+00:00",
+      "last_updated": "2026-04-02T16:10:19.779026+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17167,7 +17167,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.864175+00:00",
+      "last_updated": "2026-04-02T16:10:19.779654+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17208,7 +17208,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.864793+00:00",
+      "last_updated": "2026-04-02T16:10:19.780291+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17273,7 +17273,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.865570+00:00",
+      "last_updated": "2026-04-02T16:10:19.781080+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -17313,7 +17313,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.866160+00:00",
+      "last_updated": "2026-04-02T16:10:19.781694+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17353,7 +17353,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.866655+00:00",
+      "last_updated": "2026-04-02T16:10:19.782213+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17401,7 +17401,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.867296+00:00",
+      "last_updated": "2026-04-02T16:10:19.782866+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17505,7 +17505,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.867956+00:00",
+      "last_updated": "2026-04-02T16:10:19.783555+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -17588,7 +17588,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.868772+00:00",
+      "last_updated": "2026-04-02T16:10:19.784424+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -17634,7 +17634,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.869535+00:00",
+      "last_updated": "2026-04-02T16:10:19.785266+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17675,7 +17675,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.870157+00:00",
+      "last_updated": "2026-04-02T16:10:19.785890+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17717,7 +17717,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.870673+00:00",
+      "last_updated": "2026-04-02T16:10:19.786466+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17758,72 +17758,9 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.871365+00:00",
+      "last_updated": "2026-04-02T16:10:19.787252+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
-    },
-    {
-      "kpn_id": 2732982,
-      "name": "SZABÓ ZSOLT",
-      "party": "DK",
-      "party_id": "dk",
-      "ballot_number": 6,
-      "photo_id": 29614,
-      "constituency_name_hu": "Fejér vármegye, 04. számú egyéni választókerület",
-      "constituency_name_en": "Fejér county, 04. no. constituency",
-      "county_name_hu": "Fejér vármegye",
-      "county_code": "07",
-      "constituency_no": "04",
-      "sources_checked": [
-        "parlament.hu",
-        "atlatszo.hu",
-        "telex.hu",
-        "444.hu"
-      ],
-      "sources_with_data": [
-        "parlament.hu",
-        "atlatszo.hu"
-      ],
-      "evidence": [
-        {
-          "source": "parlament.hu",
-          "weight": "high",
-          "type": "track_record",
-          "scraped_at": "2026-03-22T16:57:09.058639+00:00",
-          "data": {
-            "parliament_id": "s124",
-            "profile_url": "https://www.parlament.hu/web/guest/aktiv-kepviseloi-nevsor?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=dCc69oEo&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Ds124%26p_stilus%3D%26p_head%3D",
-            "raw_fields": {}
-          },
-          "parliament_id": "s124",
-          "confidence": "high"
-        }
-      ],
-      "scores": {
-        "transparency": {
-          "value": 94,
-          "confidence": "high",
-          "note": "Based on business registry and procurement checks",
-          "sources_checked": 4,
-          "sources_with_data": 2
-        },
-        "press_record": {
-          "value": null,
-          "confidence": "none",
-          "note": "No press coverage found in checked sources",
-          "article_count": 0,
-          "investigative_count": 0
-        },
-        "accountability": {
-          "value": null,
-          "confidence": "low",
-          "note": "Parliament data found but not yet fully parsed. API token pending."
-        }
-      },
-      "flags": [],
-      "last_updated": "2026-04-01T16:10:22.872064+00:00",
-      "total_evidence_items": 1,
-      "data_quality": "some"
     },
     {
       "kpn_id": 6835627,
@@ -17884,7 +17821,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.872744+00:00",
+      "last_updated": "2026-04-02T16:10:19.787808+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -17925,7 +17862,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.873486+00:00",
+      "last_updated": "2026-04-02T16:10:19.788681+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -17971,7 +17908,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.874064+00:00",
+      "last_updated": "2026-04-02T16:10:19.789324+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18014,7 +17951,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.874606+00:00",
+      "last_updated": "2026-04-02T16:10:19.789875+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18062,7 +17999,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.875320+00:00",
+      "last_updated": "2026-04-02T16:10:19.790714+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18146,7 +18083,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.876089+00:00",
+      "last_updated": "2026-04-02T16:10:19.791545+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -18186,7 +18123,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.876701+00:00",
+      "last_updated": "2026-04-02T16:10:19.792212+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18228,7 +18165,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.877231+00:00",
+      "last_updated": "2026-04-02T16:10:19.792760+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18268,7 +18205,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.877777+00:00",
+      "last_updated": "2026-04-02T16:10:19.793371+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18314,7 +18251,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.878425+00:00",
+      "last_updated": "2026-04-02T16:10:19.794027+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18362,7 +18299,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.879061+00:00",
+      "last_updated": "2026-04-02T16:10:19.794715+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18412,7 +18349,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.879842+00:00",
+      "last_updated": "2026-04-02T16:10:19.795527+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18452,7 +18389,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.880447+00:00",
+      "last_updated": "2026-04-02T16:10:19.796288+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18492,7 +18429,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.880924+00:00",
+      "last_updated": "2026-04-02T16:10:19.796839+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18578,7 +18515,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.881555+00:00",
+      "last_updated": "2026-04-02T16:10:19.797526+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -18627,7 +18564,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.882323+00:00",
+      "last_updated": "2026-04-02T16:10:19.798424+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18667,7 +18604,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.882897+00:00",
+      "last_updated": "2026-04-02T16:10:19.799013+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18716,7 +18653,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.883521+00:00",
+      "last_updated": "2026-04-02T16:10:19.799657+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18758,7 +18695,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.884133+00:00",
+      "last_updated": "2026-04-02T16:10:19.800354+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18800,7 +18737,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.884684+00:00",
+      "last_updated": "2026-04-02T16:10:19.800905+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18840,7 +18777,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.885233+00:00",
+      "last_updated": "2026-04-02T16:10:19.801489+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -18908,7 +18845,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.885839+00:00",
+      "last_updated": "2026-04-02T16:10:19.802099+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -18956,7 +18893,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.886520+00:00",
+      "last_updated": "2026-04-02T16:10:19.802785+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19020,7 +18957,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.887392+00:00",
+      "last_updated": "2026-04-02T16:10:19.803619+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -19119,7 +19056,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.887948+00:00",
+      "last_updated": "2026-04-02T16:10:19.804195+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -19161,7 +19098,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.888659+00:00",
+      "last_updated": "2026-04-02T16:10:19.804938+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19201,7 +19138,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.889177+00:00",
+      "last_updated": "2026-04-02T16:10:19.805458+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19247,7 +19184,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.889745+00:00",
+      "last_updated": "2026-04-02T16:10:19.806032+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19289,7 +19226,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.890285+00:00",
+      "last_updated": "2026-04-02T16:10:19.806576+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19329,7 +19266,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.890850+00:00",
+      "last_updated": "2026-04-02T16:10:19.807142+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19377,7 +19314,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.891446+00:00",
+      "last_updated": "2026-04-02T16:10:19.807756+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19417,7 +19354,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.892085+00:00",
+      "last_updated": "2026-04-02T16:10:19.808431+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19481,7 +19418,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.892844+00:00",
+      "last_updated": "2026-04-02T16:10:19.809218+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -19621,7 +19558,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.893555+00:00",
+      "last_updated": "2026-04-02T16:10:19.809923+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -19661,7 +19598,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.894171+00:00",
+      "last_updated": "2026-04-02T16:10:19.810631+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19701,7 +19638,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.894639+00:00",
+      "last_updated": "2026-04-02T16:10:19.811108+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19893,7 +19830,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.895610+00:00",
+      "last_updated": "2026-04-02T16:10:19.812006+00:00",
       "total_evidence_items": 8,
       "data_quality": "rich"
     },
@@ -19939,7 +19876,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.896619+00:00",
+      "last_updated": "2026-04-02T16:10:19.812962+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -19988,7 +19925,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.897492+00:00",
+      "last_updated": "2026-04-02T16:10:19.813701+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20030,7 +19967,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.898064+00:00",
+      "last_updated": "2026-04-02T16:10:19.814258+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20078,7 +20015,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.898998+00:00",
+      "last_updated": "2026-04-02T16:10:19.814931+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20118,7 +20055,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.899578+00:00",
+      "last_updated": "2026-04-02T16:10:19.815473+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20158,7 +20095,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.900043+00:00",
+      "last_updated": "2026-04-02T16:10:19.815940+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20221,7 +20158,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.900688+00:00",
+      "last_updated": "2026-04-02T16:10:19.816550+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -20263,7 +20200,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.901295+00:00",
+      "last_updated": "2026-04-02T16:10:19.817163+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20362,7 +20299,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.901921+00:00",
+      "last_updated": "2026-04-02T16:10:19.817825+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -20404,7 +20341,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.902590+00:00",
+      "last_updated": "2026-04-02T16:10:19.818523+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20444,7 +20381,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.903081+00:00",
+      "last_updated": "2026-04-02T16:10:19.819019+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20493,7 +20430,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.903812+00:00",
+      "last_updated": "2026-04-02T16:10:19.819779+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20651,7 +20588,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.904530+00:00",
+      "last_updated": "2026-04-02T16:10:19.820517+00:00",
       "total_evidence_items": 6,
       "data_quality": "rich"
     },
@@ -20691,7 +20628,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.905174+00:00",
+      "last_updated": "2026-04-02T16:10:19.821201+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20759,7 +20696,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.905824+00:00",
+      "last_updated": "2026-04-02T16:10:19.821851+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -20865,7 +20802,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.906627+00:00",
+      "last_updated": "2026-04-02T16:10:19.822673+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -20905,7 +20842,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.907246+00:00",
+      "last_updated": "2026-04-02T16:10:19.823303+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -20973,7 +20910,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.907815+00:00",
+      "last_updated": "2026-04-02T16:10:19.823889+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -21021,7 +20958,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.908431+00:00",
+      "last_updated": "2026-04-02T16:10:19.824513+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21063,7 +21000,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.908979+00:00",
+      "last_updated": "2026-04-02T16:10:19.825074+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21105,7 +21042,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.909573+00:00",
+      "last_updated": "2026-04-02T16:10:19.825676+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21189,7 +21126,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.910354+00:00",
+      "last_updated": "2026-04-02T16:10:19.826467+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -21238,7 +21175,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.910988+00:00",
+      "last_updated": "2026-04-02T16:10:19.827111+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21284,7 +21221,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.911642+00:00",
+      "last_updated": "2026-04-02T16:10:19.827765+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21326,7 +21263,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.912216+00:00",
+      "last_updated": "2026-04-02T16:10:19.828304+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21368,7 +21305,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.912827+00:00",
+      "last_updated": "2026-04-02T16:10:19.828877+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21410,7 +21347,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.913424+00:00",
+      "last_updated": "2026-04-02T16:10:19.829470+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21456,7 +21393,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.914032+00:00",
+      "last_updated": "2026-04-02T16:10:19.830085+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21518,7 +21455,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.914660+00:00",
+      "last_updated": "2026-04-02T16:10:19.830635+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -21601,7 +21538,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.915551+00:00",
+      "last_updated": "2026-04-02T16:10:19.831526+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -21647,7 +21584,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.916403+00:00",
+      "last_updated": "2026-04-02T16:10:19.832291+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21799,7 +21736,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.916940+00:00",
+      "last_updated": "2026-04-02T16:10:19.832825+00:00",
       "total_evidence_items": 6,
       "data_quality": "rich"
     },
@@ -21898,7 +21835,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.917724+00:00",
+      "last_updated": "2026-04-02T16:10:19.833661+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -21947,7 +21884,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.918479+00:00",
+      "last_updated": "2026-04-02T16:10:19.834478+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -21989,7 +21926,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.919203+00:00",
+      "last_updated": "2026-04-02T16:10:19.835344+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22037,7 +21974,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.919812+00:00",
+      "last_updated": "2026-04-02T16:10:19.835974+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22077,7 +22014,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.920432+00:00",
+      "last_updated": "2026-04-02T16:10:19.836634+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22126,7 +22063,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.921048+00:00",
+      "last_updated": "2026-04-02T16:10:19.837306+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22191,7 +22128,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.921821+00:00",
+      "last_updated": "2026-04-02T16:10:19.838074+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -22234,7 +22171,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.922514+00:00",
+      "last_updated": "2026-04-02T16:10:19.838884+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22276,7 +22213,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.923105+00:00",
+      "last_updated": "2026-04-02T16:10:19.839501+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22344,7 +22281,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.924216+00:00",
+      "last_updated": "2026-04-02T16:10:19.840206+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -22386,7 +22323,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.925186+00:00",
+      "last_updated": "2026-04-02T16:10:19.840808+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22428,7 +22365,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.926005+00:00",
+      "last_updated": "2026-04-02T16:10:19.841527+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22491,7 +22428,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.926664+00:00",
+      "last_updated": "2026-04-02T16:10:19.842159+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -22593,7 +22530,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.927631+00:00",
+      "last_updated": "2026-04-02T16:10:19.843054+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -22641,7 +22578,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.928499+00:00",
+      "last_updated": "2026-04-02T16:10:19.843913+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22684,7 +22621,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.929229+00:00",
+      "last_updated": "2026-04-02T16:10:19.844601+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22730,7 +22667,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.929876+00:00",
+      "last_updated": "2026-04-02T16:10:19.845267+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22772,7 +22709,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.930446+00:00",
+      "last_updated": "2026-04-02T16:10:19.845842+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22814,7 +22751,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.931108+00:00",
+      "last_updated": "2026-04-02T16:10:19.846518+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -22877,7 +22814,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.931707+00:00",
+      "last_updated": "2026-04-02T16:10:19.847124+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -22964,7 +22901,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.932785+00:00",
+      "last_updated": "2026-04-02T16:10:19.848103+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -23028,7 +22965,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.933886+00:00",
+      "last_updated": "2026-04-02T16:10:19.849207+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -23074,7 +23011,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.934655+00:00",
+      "last_updated": "2026-04-02T16:10:19.850083+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23116,7 +23053,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.935204+00:00",
+      "last_updated": "2026-04-02T16:10:19.850656+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23196,7 +23133,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.935783+00:00",
+      "last_updated": "2026-04-02T16:10:19.851249+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -23244,7 +23181,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.936463+00:00",
+      "last_updated": "2026-04-02T16:10:19.851926+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23292,7 +23229,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.937185+00:00",
+      "last_updated": "2026-04-02T16:10:19.852652+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23341,7 +23278,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.937961+00:00",
+      "last_updated": "2026-04-02T16:10:19.853446+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23381,7 +23318,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.938554+00:00",
+      "last_updated": "2026-04-02T16:10:19.854030+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23424,7 +23361,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.939062+00:00",
+      "last_updated": "2026-04-02T16:10:19.854560+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23472,7 +23409,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.939728+00:00",
+      "last_updated": "2026-04-02T16:10:19.855236+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23514,7 +23451,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.940300+00:00",
+      "last_updated": "2026-04-02T16:10:19.855829+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23600,7 +23537,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.940876+00:00",
+      "last_updated": "2026-04-02T16:10:19.856416+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -23640,7 +23577,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.941428+00:00",
+      "last_updated": "2026-04-02T16:10:19.857016+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23846,7 +23783,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.941973+00:00",
+      "last_updated": "2026-04-02T16:10:19.857644+00:00",
       "total_evidence_items": 9,
       "data_quality": "rich"
     },
@@ -23910,7 +23847,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.942907+00:00",
+      "last_updated": "2026-04-02T16:10:19.858652+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -23956,7 +23893,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.943499+00:00",
+      "last_updated": "2026-04-02T16:10:19.859310+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -23998,7 +23935,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.944003+00:00",
+      "last_updated": "2026-04-02T16:10:19.859830+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24040,7 +23977,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.944566+00:00",
+      "last_updated": "2026-04-02T16:10:19.860475+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24080,7 +24017,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.945176+00:00",
+      "last_updated": "2026-04-02T16:10:19.861051+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24145,7 +24082,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.945883+00:00",
+      "last_updated": "2026-04-02T16:10:19.861881+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -24187,7 +24124,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.946457+00:00",
+      "last_updated": "2026-04-02T16:10:19.862556+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24229,7 +24166,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.947025+00:00",
+      "last_updated": "2026-04-02T16:10:19.863134+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24275,7 +24212,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.947706+00:00",
+      "last_updated": "2026-04-02T16:10:19.863863+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24317,7 +24254,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.948248+00:00",
+      "last_updated": "2026-04-02T16:10:19.864400+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24359,7 +24296,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.948828+00:00",
+      "last_updated": "2026-04-02T16:10:19.864984+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24423,7 +24360,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.949601+00:00",
+      "last_updated": "2026-04-02T16:10:19.865757+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -24465,7 +24402,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.950202+00:00",
+      "last_updated": "2026-04-02T16:10:19.866335+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24533,7 +24470,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.950918+00:00",
+      "last_updated": "2026-04-02T16:10:19.867104+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -24581,7 +24518,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.951625+00:00",
+      "last_updated": "2026-04-02T16:10:19.867877+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24621,7 +24558,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.952159+00:00",
+      "last_updated": "2026-04-02T16:10:19.868477+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -24883,7 +24820,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.952855+00:00",
+      "last_updated": "2026-04-02T16:10:19.869278+00:00",
       "total_evidence_items": 12,
       "data_quality": "rich"
     },
@@ -24966,7 +24903,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.953734+00:00",
+      "last_updated": "2026-04-02T16:10:19.870305+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -25006,7 +24943,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.954302+00:00",
+      "last_updated": "2026-04-02T16:10:19.870909+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25054,7 +24991,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.954925+00:00",
+      "last_updated": "2026-04-02T16:10:19.871599+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25109,7 +25046,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.955509+00:00",
+      "last_updated": "2026-04-02T16:10:19.872208+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -25276,7 +25213,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.956323+00:00",
+      "last_updated": "2026-04-02T16:10:19.873058+00:00",
       "total_evidence_items": 7,
       "data_quality": "rich"
     },
@@ -25322,7 +25259,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.957160+00:00",
+      "last_updated": "2026-04-02T16:10:19.874144+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25370,7 +25307,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.957774+00:00",
+      "last_updated": "2026-04-02T16:10:19.874843+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25410,7 +25347,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.958342+00:00",
+      "last_updated": "2026-04-02T16:10:19.875429+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25494,7 +25431,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.959089+00:00",
+      "last_updated": "2026-04-02T16:10:19.876209+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -25542,7 +25479,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.959730+00:00",
+      "last_updated": "2026-04-02T16:10:19.876877+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25584,7 +25521,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.960314+00:00",
+      "last_updated": "2026-04-02T16:10:19.877484+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25630,7 +25567,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.960941+00:00",
+      "last_updated": "2026-04-02T16:10:19.878214+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25672,7 +25609,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.961524+00:00",
+      "last_updated": "2026-04-02T16:10:19.878780+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25734,7 +25671,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.962078+00:00",
+      "last_updated": "2026-04-02T16:10:19.879362+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -25856,7 +25793,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.962781+00:00",
+      "last_updated": "2026-04-02T16:10:19.880079+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -25898,7 +25835,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.963414+00:00",
+      "last_updated": "2026-04-02T16:10:19.880700+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -25938,7 +25875,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.963986+00:00",
+      "last_updated": "2026-04-02T16:10:19.881292+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26075,7 +26012,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.964748+00:00",
+      "last_updated": "2026-04-02T16:10:19.882052+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -26143,7 +26080,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.965445+00:00",
+      "last_updated": "2026-04-02T16:10:19.882776+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -26207,7 +26144,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.966195+00:00",
+      "last_updated": "2026-04-02T16:10:19.883581+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -26247,7 +26184,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.966779+00:00",
+      "last_updated": "2026-04-02T16:10:19.884206+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26287,7 +26224,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.967315+00:00",
+      "last_updated": "2026-04-02T16:10:19.884784+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26350,7 +26287,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.967888+00:00",
+      "last_updated": "2026-04-02T16:10:19.885399+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -26392,7 +26329,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.968400+00:00",
+      "last_updated": "2026-04-02T16:10:19.886257+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26440,7 +26377,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.969066+00:00",
+      "last_updated": "2026-04-02T16:10:19.886983+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26482,7 +26419,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.969642+00:00",
+      "last_updated": "2026-04-02T16:10:19.887605+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26588,7 +26525,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.970421+00:00",
+      "last_updated": "2026-04-02T16:10:19.888611+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -26628,7 +26565,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.971033+00:00",
+      "last_updated": "2026-04-02T16:10:19.889596+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26674,7 +26611,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.971640+00:00",
+      "last_updated": "2026-04-02T16:10:19.890443+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26796,7 +26733,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.972282+00:00",
+      "last_updated": "2026-04-02T16:10:19.891383+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -26845,7 +26782,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.973209+00:00",
+      "last_updated": "2026-04-02T16:10:19.892754+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26893,7 +26830,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.973879+00:00",
+      "last_updated": "2026-04-02T16:10:19.893725+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26933,7 +26870,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.974444+00:00",
+      "last_updated": "2026-04-02T16:10:19.894444+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -26973,7 +26910,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.974951+00:00",
+      "last_updated": "2026-04-02T16:10:19.894938+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27013,7 +26950,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.975417+00:00",
+      "last_updated": "2026-04-02T16:10:19.895657+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27096,7 +27033,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.976071+00:00",
+      "last_updated": "2026-04-02T16:10:19.896545+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -27136,7 +27073,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.976598+00:00",
+      "last_updated": "2026-04-02T16:10:19.897286+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27178,7 +27115,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.977120+00:00",
+      "last_updated": "2026-04-02T16:10:19.898025+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27227,7 +27164,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.977775+00:00",
+      "last_updated": "2026-04-02T16:10:19.898721+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27269,7 +27206,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.978349+00:00",
+      "last_updated": "2026-04-02T16:10:19.899325+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27317,7 +27254,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.979009+00:00",
+      "last_updated": "2026-04-02T16:10:19.900017+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27357,7 +27294,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.979607+00:00",
+      "last_updated": "2026-04-02T16:10:19.900568+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27419,7 +27356,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.980124+00:00",
+      "last_updated": "2026-04-02T16:10:19.901097+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -27459,7 +27396,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.980736+00:00",
+      "last_updated": "2026-04-02T16:10:19.901747+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27577,7 +27514,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.981334+00:00",
+      "last_updated": "2026-04-02T16:10:19.902379+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -27625,7 +27562,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.981997+00:00",
+      "last_updated": "2026-04-02T16:10:19.903073+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27744,7 +27681,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.982778+00:00",
+      "last_updated": "2026-04-02T16:10:19.903891+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -27786,7 +27723,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.983350+00:00",
+      "last_updated": "2026-04-02T16:10:19.904566+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -27849,7 +27786,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.984001+00:00",
+      "last_updated": "2026-04-02T16:10:19.905252+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -27917,7 +27854,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.984717+00:00",
+      "last_updated": "2026-04-02T16:10:19.905970+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -27959,7 +27896,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.985256+00:00",
+      "last_updated": "2026-04-02T16:10:19.906534+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28115,7 +28052,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.986055+00:00",
+      "last_updated": "2026-04-02T16:10:19.907527+00:00",
       "total_evidence_items": 6,
       "data_quality": "rich"
     },
@@ -28157,7 +28094,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.986739+00:00",
+      "last_updated": "2026-04-02T16:10:19.908572+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28199,7 +28136,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.987258+00:00",
+      "last_updated": "2026-04-02T16:10:19.909316+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28239,7 +28176,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.987804+00:00",
+      "last_updated": "2026-04-02T16:10:19.910081+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28288,7 +28225,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.988552+00:00",
+      "last_updated": "2026-04-02T16:10:19.910912+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28334,7 +28271,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.989182+00:00",
+      "last_updated": "2026-04-02T16:10:19.911559+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28396,7 +28333,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.989708+00:00",
+      "last_updated": "2026-04-02T16:10:19.912088+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -28442,7 +28379,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.990396+00:00",
+      "last_updated": "2026-04-02T16:10:19.912786+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28482,7 +28419,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.990888+00:00",
+      "last_updated": "2026-04-02T16:10:19.913302+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28522,7 +28459,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.991390+00:00",
+      "last_updated": "2026-04-02T16:10:19.913814+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28608,7 +28545,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.992037+00:00",
+      "last_updated": "2026-04-02T16:10:19.914492+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -28657,7 +28594,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.992778+00:00",
+      "last_updated": "2026-04-02T16:10:19.915275+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28743,7 +28680,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.993404+00:00",
+      "last_updated": "2026-04-02T16:10:19.915928+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -28785,7 +28722,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.994047+00:00",
+      "last_updated": "2026-04-02T16:10:19.916597+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28868,7 +28805,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.994879+00:00",
+      "last_updated": "2026-04-02T16:10:19.917451+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -28908,7 +28845,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.995388+00:00",
+      "last_updated": "2026-04-02T16:10:19.917973+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28948,7 +28885,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.995905+00:00",
+      "last_updated": "2026-04-02T16:10:19.918515+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -28996,7 +28933,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.996511+00:00",
+      "last_updated": "2026-04-02T16:10:19.919138+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29044,7 +28981,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.997176+00:00",
+      "last_updated": "2026-04-02T16:10:19.919840+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29084,7 +29021,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.997745+00:00",
+      "last_updated": "2026-04-02T16:10:19.920418+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29182,7 +29119,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.998328+00:00",
+      "last_updated": "2026-04-02T16:10:19.921193+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -29281,7 +29218,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:22.999046+00:00",
+      "last_updated": "2026-04-02T16:10:19.922245+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -29346,7 +29283,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:22.999972+00:00",
+      "last_updated": "2026-04-02T16:10:19.923459+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -29386,7 +29323,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.000579+00:00",
+      "last_updated": "2026-04-02T16:10:19.924231+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29432,7 +29369,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.001176+00:00",
+      "last_updated": "2026-04-02T16:10:19.924846+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29480,7 +29417,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.001789+00:00",
+      "last_updated": "2026-04-02T16:10:19.925490+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29522,7 +29459,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.002373+00:00",
+      "last_updated": "2026-04-02T16:10:19.926089+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29570,7 +29507,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.003031+00:00",
+      "last_updated": "2026-04-02T16:10:19.926773+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29616,7 +29553,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.003634+00:00",
+      "last_updated": "2026-04-02T16:10:19.927395+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29678,7 +29615,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.004142+00:00",
+      "last_updated": "2026-04-02T16:10:19.927923+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -29718,7 +29655,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.004714+00:00",
+      "last_updated": "2026-04-02T16:10:19.928521+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29766,7 +29703,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.005314+00:00",
+      "last_updated": "2026-04-02T16:10:19.929130+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29806,7 +29743,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.005898+00:00",
+      "last_updated": "2026-04-02T16:10:19.929737+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -29846,7 +29783,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.006427+00:00",
+      "last_updated": "2026-04-02T16:10:19.930287+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30072,7 +30009,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.007077+00:00",
+      "last_updated": "2026-04-02T16:10:19.930959+00:00",
       "total_evidence_items": 10,
       "data_quality": "rich"
     },
@@ -30118,7 +30055,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.007831+00:00",
+      "last_updated": "2026-04-02T16:10:19.931767+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30158,7 +30095,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.008399+00:00",
+      "last_updated": "2026-04-02T16:10:19.932458+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30206,7 +30143,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.008956+00:00",
+      "last_updated": "2026-04-02T16:10:19.933145+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30246,7 +30183,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.009523+00:00",
+      "last_updated": "2026-04-02T16:10:19.933761+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30294,7 +30231,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.010155+00:00",
+      "last_updated": "2026-04-02T16:10:19.934400+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30376,7 +30313,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.010759+00:00",
+      "last_updated": "2026-04-02T16:10:19.935100+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -30422,7 +30359,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.011530+00:00",
+      "last_updated": "2026-04-02T16:10:19.935771+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30462,7 +30399,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.012097+00:00",
+      "last_updated": "2026-04-02T16:10:19.936290+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30632,7 +30569,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.012679+00:00",
+      "last_updated": "2026-04-02T16:10:19.936865+00:00",
       "total_evidence_items": 7,
       "data_quality": "rich"
     },
@@ -30694,7 +30631,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.013365+00:00",
+      "last_updated": "2026-04-02T16:10:19.937610+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -30736,7 +30673,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.013983+00:00",
+      "last_updated": "2026-04-02T16:10:19.938195+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30876,7 +30813,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.014718+00:00",
+      "last_updated": "2026-04-02T16:10:19.938898+00:00",
       "total_evidence_items": 5,
       "data_quality": "rich"
     },
@@ -30926,7 +30863,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.015642+00:00",
+      "last_updated": "2026-04-02T16:10:19.939886+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -30968,7 +30905,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.016254+00:00",
+      "last_updated": "2026-04-02T16:10:19.940686+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31010,7 +30947,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.016816+00:00",
+      "last_updated": "2026-04-02T16:10:19.941526+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31056,7 +30993,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.017493+00:00",
+      "last_updated": "2026-04-02T16:10:19.942446+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31096,7 +31033,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.018037+00:00",
+      "last_updated": "2026-04-02T16:10:19.943201+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31136,7 +31073,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.018600+00:00",
+      "last_updated": "2026-04-02T16:10:19.943921+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31176,7 +31113,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.019106+00:00",
+      "last_updated": "2026-04-02T16:10:19.944512+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31401,7 +31338,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.020107+00:00",
+      "last_updated": "2026-04-02T16:10:19.945374+00:00",
       "total_evidence_items": 11,
       "data_quality": "rich"
     },
@@ -31449,7 +31386,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.020966+00:00",
+      "last_updated": "2026-04-02T16:10:19.946243+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31495,7 +31432,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.021650+00:00",
+      "last_updated": "2026-04-02T16:10:19.946917+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31535,7 +31472,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.022180+00:00",
+      "last_updated": "2026-04-02T16:10:19.947450+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31577,7 +31514,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.022726+00:00",
+      "last_updated": "2026-04-02T16:10:19.948008+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31626,7 +31563,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.023360+00:00",
+      "last_updated": "2026-04-02T16:10:19.948638+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31668,7 +31605,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.023992+00:00",
+      "last_updated": "2026-04-02T16:10:19.949309+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31769,7 +31706,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.024852+00:00",
+      "last_updated": "2026-04-02T16:10:19.950190+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -31817,7 +31754,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.025633+00:00",
+      "last_updated": "2026-04-02T16:10:19.950917+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31859,7 +31796,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.026364+00:00",
+      "last_updated": "2026-04-02T16:10:19.951658+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31901,7 +31838,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.027048+00:00",
+      "last_updated": "2026-04-02T16:10:19.952348+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31943,7 +31880,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.027629+00:00",
+      "last_updated": "2026-04-02T16:10:19.952972+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -31990,7 +31927,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.028397+00:00",
+      "last_updated": "2026-04-02T16:10:19.953735+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32038,7 +31975,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.029087+00:00",
+      "last_updated": "2026-04-02T16:10:19.954400+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32080,7 +32017,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.029738+00:00",
+      "last_updated": "2026-04-02T16:10:19.955025+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32126,7 +32063,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.030402+00:00",
+      "last_updated": "2026-04-02T16:10:19.955689+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32166,7 +32103,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.030901+00:00",
+      "last_updated": "2026-04-02T16:10:19.956215+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32206,7 +32143,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.031466+00:00",
+      "last_updated": "2026-04-02T16:10:19.956829+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32254,7 +32191,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.032069+00:00",
+      "last_updated": "2026-04-02T16:10:19.957461+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32302,7 +32239,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.032748+00:00",
+      "last_updated": "2026-04-02T16:10:19.958133+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32366,7 +32303,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.033562+00:00",
+      "last_updated": "2026-04-02T16:10:19.958931+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -32409,7 +32346,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.034175+00:00",
+      "last_updated": "2026-04-02T16:10:19.959571+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32455,7 +32392,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.034822+00:00",
+      "last_updated": "2026-04-02T16:10:19.960256+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32495,7 +32432,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.035313+00:00",
+      "last_updated": "2026-04-02T16:10:19.960768+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32535,7 +32472,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.035825+00:00",
+      "last_updated": "2026-04-02T16:10:19.961328+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32599,7 +32536,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.036568+00:00",
+      "last_updated": "2026-04-02T16:10:19.962090+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -32639,7 +32576,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.037111+00:00",
+      "last_updated": "2026-04-02T16:10:19.962655+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32687,7 +32624,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.037710+00:00",
+      "last_updated": "2026-04-02T16:10:19.963287+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32729,7 +32666,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.038264+00:00",
+      "last_updated": "2026-04-02T16:10:19.963862+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32771,7 +32708,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.038813+00:00",
+      "last_updated": "2026-04-02T16:10:19.964599+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32817,7 +32754,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.039412+00:00",
+      "last_updated": "2026-04-02T16:10:19.965476+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32859,7 +32796,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.039950+00:00",
+      "last_updated": "2026-04-02T16:10:19.966239+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32906,7 +32843,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.040698+00:00",
+      "last_updated": "2026-04-02T16:10:19.967235+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -32952,7 +32889,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.041310+00:00",
+      "last_updated": "2026-04-02T16:10:19.968051+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33038,7 +32975,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.041926+00:00",
+      "last_updated": "2026-04-02T16:10:19.968684+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -33080,7 +33017,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.042513+00:00",
+      "last_updated": "2026-04-02T16:10:19.969288+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33145,7 +33082,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.043347+00:00",
+      "last_updated": "2026-04-02T16:10:19.970095+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -33188,7 +33125,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.043996+00:00",
+      "last_updated": "2026-04-02T16:10:19.970782+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33236,7 +33173,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.044747+00:00",
+      "last_updated": "2026-04-02T16:10:19.971548+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33481,7 +33418,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.045578+00:00",
+      "last_updated": "2026-04-02T16:10:19.972412+00:00",
       "total_evidence_items": 11,
       "data_quality": "rich"
     },
@@ -33527,7 +33464,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.046338+00:00",
+      "last_updated": "2026-04-02T16:10:19.973206+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33575,7 +33512,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.046923+00:00",
+      "last_updated": "2026-04-02T16:10:19.973801+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33637,7 +33574,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.047595+00:00",
+      "last_updated": "2026-04-02T16:10:19.974447+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -33680,7 +33617,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.048269+00:00",
+      "last_updated": "2026-04-02T16:10:19.975026+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33720,7 +33657,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.048887+00:00",
+      "last_updated": "2026-04-02T16:10:19.975672+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33766,7 +33703,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.049608+00:00",
+      "last_updated": "2026-04-02T16:10:19.976326+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33808,7 +33745,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.050114+00:00",
+      "last_updated": "2026-04-02T16:10:19.976849+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33854,7 +33791,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.050825+00:00",
+      "last_updated": "2026-04-02T16:10:19.977520+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33896,7 +33833,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.051398+00:00",
+      "last_updated": "2026-04-02T16:10:19.978084+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -33960,7 +33897,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.052232+00:00",
+      "last_updated": "2026-04-02T16:10:19.978941+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -34002,7 +33939,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.052840+00:00",
+      "last_updated": "2026-04-02T16:10:19.979542+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34083,7 +34020,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.053474+00:00",
+      "last_updated": "2026-04-02T16:10:19.980193+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -34145,7 +34082,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.054263+00:00",
+      "last_updated": "2026-04-02T16:10:19.980999+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -34185,7 +34122,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.054928+00:00",
+      "last_updated": "2026-04-02T16:10:19.981703+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34233,7 +34170,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.055592+00:00",
+      "last_updated": "2026-04-02T16:10:19.982346+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34317,7 +34254,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.056351+00:00",
+      "last_updated": "2026-04-02T16:10:19.983134+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -34357,7 +34294,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.057007+00:00",
+      "last_updated": "2026-04-02T16:10:19.983804+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34439,7 +34376,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.057705+00:00",
+      "last_updated": "2026-04-02T16:10:19.984466+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -34540,7 +34477,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.058484+00:00",
+      "last_updated": "2026-04-02T16:10:19.985242+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -34582,7 +34519,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.059315+00:00",
+      "last_updated": "2026-04-02T16:10:19.985918+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34624,7 +34561,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.060112+00:00",
+      "last_updated": "2026-04-02T16:10:19.986546+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34666,7 +34603,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.060794+00:00",
+      "last_updated": "2026-04-02T16:10:19.987210+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34714,7 +34651,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.061753+00:00",
+      "last_updated": "2026-04-02T16:10:19.987846+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34754,7 +34691,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.062529+00:00",
+      "last_updated": "2026-04-02T16:10:19.988398+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34794,7 +34731,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.063253+00:00",
+      "last_updated": "2026-04-02T16:10:19.988943+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34842,7 +34779,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.063909+00:00",
+      "last_updated": "2026-04-02T16:10:19.989609+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34884,7 +34821,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.064732+00:00",
+      "last_updated": "2026-04-02T16:10:19.990246+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34930,7 +34867,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.065619+00:00",
+      "last_updated": "2026-04-02T16:10:19.990928+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -34978,7 +34915,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.066282+00:00",
+      "last_updated": "2026-04-02T16:10:19.991549+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35080,7 +35017,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.067092+00:00",
+      "last_updated": "2026-04-02T16:10:19.992389+00:00",
       "total_evidence_items": 3,
       "data_quality": "some"
     },
@@ -35122,7 +35059,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.067801+00:00",
+      "last_updated": "2026-04-02T16:10:19.993053+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35203,7 +35140,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.068527+00:00",
+      "last_updated": "2026-04-02T16:10:19.993774+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -35245,7 +35182,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.069275+00:00",
+      "last_updated": "2026-04-02T16:10:19.994486+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35307,7 +35244,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.069857+00:00",
+      "last_updated": "2026-04-02T16:10:19.995197+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -35355,7 +35292,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.070607+00:00",
+      "last_updated": "2026-04-02T16:10:19.996197+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35525,7 +35462,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.071230+00:00",
+      "last_updated": "2026-04-02T16:10:19.996988+00:00",
       "total_evidence_items": 7,
       "data_quality": "rich"
     },
@@ -35588,7 +35525,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.071983+00:00",
+      "last_updated": "2026-04-02T16:10:19.997999+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -35651,7 +35588,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.072815+00:00",
+      "last_updated": "2026-04-02T16:10:19.999000+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -35697,7 +35634,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.073471+00:00",
+      "last_updated": "2026-04-02T16:10:19.999824+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35739,7 +35676,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.074011+00:00",
+      "last_updated": "2026-04-02T16:10:20.000427+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35781,7 +35718,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.074673+00:00",
+      "last_updated": "2026-04-02T16:10:20.001060+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -35829,7 +35766,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.076021+00:00",
+      "last_updated": "2026-04-02T16:10:20.001836+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36002,51 +35939,9 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.076859+00:00",
+      "last_updated": "2026-04-02T16:10:20.002629+00:00",
       "total_evidence_items": 7,
       "data_quality": "rich"
-    },
-    {
-      "kpn_id": 6219628,
-      "name": "BENCZE JÁNOS",
-      "party": "Jobbik",
-      "party_id": null,
-      "ballot_number": 6,
-      "photo_id": 29982,
-      "constituency_name_hu": "Tolna vármegye, 03. számú egyéni választókerület",
-      "constituency_name_en": "Tolna county, 03. no. constituency",
-      "county_name_hu": "Tolna vármegye",
-      "county_code": "17",
-      "constituency_no": "03",
-      "sources_checked": [
-        "atlatszo.hu",
-        "telex.hu",
-        "444.hu"
-      ],
-      "sources_with_data": [
-        "atlatszo.hu"
-      ],
-      "evidence": [],
-      "scores": {
-        "transparency": {
-          "value": 92,
-          "confidence": "high",
-          "note": "Based on business registry and procurement checks",
-          "sources_checked": 3,
-          "sources_with_data": 1
-        },
-        "press_record": {
-          "value": null,
-          "confidence": "none",
-          "note": "No press coverage found in checked sources",
-          "article_count": 0,
-          "investigative_count": 0
-        }
-      },
-      "flags": [],
-      "last_updated": "2026-04-01T16:10:23.077502+00:00",
-      "total_evidence_items": 0,
-      "data_quality": "none"
     },
     {
       "kpn_id": 3020711,
@@ -36094,7 +35989,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.078304+00:00",
+      "last_updated": "2026-04-02T16:10:20.004016+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36142,7 +36037,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.078941+00:00",
+      "last_updated": "2026-04-02T16:10:20.004673+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36258,7 +36153,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.079520+00:00",
+      "last_updated": "2026-04-02T16:10:20.005260+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -36298,7 +36193,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.080112+00:00",
+      "last_updated": "2026-04-02T16:10:20.005885+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36338,7 +36233,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.080679+00:00",
+      "last_updated": "2026-04-02T16:10:20.006791+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36386,7 +36281,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.081372+00:00",
+      "last_updated": "2026-04-02T16:10:20.007712+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36452,7 +36347,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.082265+00:00",
+      "last_updated": "2026-04-02T16:10:20.008849+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -36728,7 +36623,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.083014+00:00",
+      "last_updated": "2026-04-02T16:10:20.009718+00:00",
       "total_evidence_items": 14,
       "data_quality": "rich"
     },
@@ -36768,7 +36663,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.083778+00:00",
+      "last_updated": "2026-04-02T16:10:20.010484+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36854,7 +36749,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.084446+00:00",
+      "last_updated": "2026-04-02T16:10:20.011110+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -36903,7 +36798,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.085297+00:00",
+      "last_updated": "2026-04-02T16:10:20.012009+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -36949,7 +36844,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.085953+00:00",
+      "last_updated": "2026-04-02T16:10:20.012694+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37011,7 +36906,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.086484+00:00",
+      "last_updated": "2026-04-02T16:10:20.013270+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -37053,7 +36948,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.087083+00:00",
+      "last_updated": "2026-04-02T16:10:20.013868+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37101,7 +36996,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.088058+00:00",
+      "last_updated": "2026-04-02T16:10:20.014605+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37167,7 +37062,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.089243+00:00",
+      "last_updated": "2026-04-02T16:10:20.015496+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -37213,7 +37108,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.090012+00:00",
+      "last_updated": "2026-04-02T16:10:20.016259+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37336,7 +37231,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.090719+00:00",
+      "last_updated": "2026-04-02T16:10:20.016947+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -37378,7 +37273,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.091502+00:00",
+      "last_updated": "2026-04-02T16:10:20.017690+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37420,7 +37315,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.092087+00:00",
+      "last_updated": "2026-04-02T16:10:20.018329+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37462,7 +37357,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.092662+00:00",
+      "last_updated": "2026-04-02T16:10:20.018910+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37510,7 +37405,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.093317+00:00",
+      "last_updated": "2026-04-02T16:10:20.019573+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37573,7 +37468,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.094183+00:00",
+      "last_updated": "2026-04-02T16:10:20.020434+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -37635,7 +37530,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.094733+00:00",
+      "last_updated": "2026-04-02T16:10:20.020983+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -37675,7 +37570,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.095294+00:00",
+      "last_updated": "2026-04-02T16:10:20.021560+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37721,7 +37616,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.095964+00:00",
+      "last_updated": "2026-04-02T16:10:20.022232+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37763,7 +37658,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.096513+00:00",
+      "last_updated": "2026-04-02T16:10:20.022757+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37811,7 +37706,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.097206+00:00",
+      "last_updated": "2026-04-02T16:10:20.023433+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37853,7 +37748,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.097864+00:00",
+      "last_updated": "2026-04-02T16:10:20.024272+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37895,7 +37790,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.098461+00:00",
+      "last_updated": "2026-04-02T16:10:20.025020+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -37957,7 +37852,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.098993+00:00",
+      "last_updated": "2026-04-02T16:10:20.025692+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -38019,7 +37914,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.099652+00:00",
+      "last_updated": "2026-04-02T16:10:20.026320+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -38138,7 +38033,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.100490+00:00",
+      "last_updated": "2026-04-02T16:10:20.027190+00:00",
       "total_evidence_items": 4,
       "data_quality": "some"
     },
@@ -38184,7 +38079,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.101302+00:00",
+      "last_updated": "2026-04-02T16:10:20.027926+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38226,7 +38121,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.102161+00:00",
+      "last_updated": "2026-04-02T16:10:20.028518+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38268,7 +38163,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.102786+00:00",
+      "last_updated": "2026-04-02T16:10:20.029093+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38316,7 +38211,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.103448+00:00",
+      "last_updated": "2026-04-02T16:10:20.029768+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38387,7 +38282,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.104356+00:00",
+      "last_updated": "2026-04-02T16:10:20.030674+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -38436,7 +38331,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.105101+00:00",
+      "last_updated": "2026-04-02T16:10:20.031482+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38476,7 +38371,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.105738+00:00",
+      "last_updated": "2026-04-02T16:10:20.032082+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38556,7 +38451,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.106328+00:00",
+      "last_updated": "2026-04-02T16:10:20.032635+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -38605,7 +38500,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.107128+00:00",
+      "last_updated": "2026-04-02T16:10:20.033495+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38647,7 +38542,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.107744+00:00",
+      "last_updated": "2026-04-02T16:10:20.034072+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38689,7 +38584,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.108321+00:00",
+      "last_updated": "2026-04-02T16:10:20.034660+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38731,7 +38626,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.108897+00:00",
+      "last_updated": "2026-04-02T16:10:20.035306+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38774,7 +38669,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.109560+00:00",
+      "last_updated": "2026-04-02T16:10:20.035866+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38822,7 +38717,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.110273+00:00",
+      "last_updated": "2026-04-02T16:10:20.036594+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38870,7 +38765,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.110986+00:00",
+      "last_updated": "2026-04-02T16:10:20.037304+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38910,7 +38805,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.111602+00:00",
+      "last_updated": "2026-04-02T16:10:20.037897+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -38987,7 +38882,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.112432+00:00",
+      "last_updated": "2026-04-02T16:10:20.038742+00:00",
       "total_evidence_items": 2,
       "data_quality": "some"
     },
@@ -39033,7 +38928,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.113368+00:00",
+      "last_updated": "2026-04-02T16:10:20.039691+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -39075,7 +38970,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.113906+00:00",
+      "last_updated": "2026-04-02T16:10:20.040290+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -39143,7 +39038,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.114605+00:00",
+      "last_updated": "2026-04-02T16:10:20.040948+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -39185,7 +39080,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.115161+00:00",
+      "last_updated": "2026-04-02T16:10:20.041514+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -39231,7 +39126,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.115849+00:00",
+      "last_updated": "2026-04-02T16:10:20.042199+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -39279,7 +39174,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.116442+00:00",
+      "last_updated": "2026-04-02T16:10:20.042790+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -39345,7 +39240,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.117359+00:00",
+      "last_updated": "2026-04-02T16:10:20.043687+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     },
@@ -39387,7 +39282,7 @@
         }
       },
       "flags": [],
-      "last_updated": "2026-04-01T16:10:23.118065+00:00",
+      "last_updated": "2026-04-02T16:10:20.044420+00:00",
       "total_evidence_items": 0,
       "data_quality": "none"
     },
@@ -39449,7 +39344,7 @@
           "severity": "medium"
         }
       ],
-      "last_updated": "2026-04-01T16:10:23.118679+00:00",
+      "last_updated": "2026-04-02T16:10:20.045024+00:00",
       "total_evidence_items": 1,
       "data_quality": "some"
     }
